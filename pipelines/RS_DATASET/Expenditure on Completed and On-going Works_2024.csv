@@ -1,0 +1,1960 @@
+sr_no,state,constituency,mp_name,work,vendor_name,expenditure_date,fund_disbursed_amount
+1,Maharashtra,Constituency_2,MP_Name_2,Work_2,Rural Works Dept,16-07-2023,490669
+2,Tamil Nadu,Constituency_3,MP_Name_3,Work_3,Rural Works Dept,04-11-2023,199132
+3,Delhi,Constituency_4,MP_Name_4,Work_4,XYZ Builders,20-07-2023,309660
+4,Tamil Nadu,Constituency_5,MP_Name_5,Work_5,XYZ Builders,27-02-2021,416385
+5,Uttar Pradesh,Constituency_6,MP_Name_6,Work_6,ABC Constructions,01-07-2022,168394
+6,Maharashtra,Constituency_7,MP_Name_7,Work_7,Rural Works Dept,12-02-2021,422899
+7,Karnataka,Constituency_8,MP_Name_8,Work_8,ABC Constructions,02-01-2022,369429
+8,Tamil Nadu,Constituency_9,MP_Name_9,Work_9,Global Infra,19-10-2022,302377
+9,Maharashtra,Constituency_10,MP_Name_10,Work_10,XYZ Builders,04-10-2021,199278
+10,Karnataka,Constituency_11,MP_Name_11,Work_11,XYZ Builders,17-11-2021,290523
+11,Karnataka,Constituency_12,MP_Name_12,Work_12,Global Infra,13-11-2021,321152
+12,Delhi,Constituency_13,MP_Name_13,Work_13,XYZ Builders,03-03-2023,305181
+13,Karnataka,Constituency_14,MP_Name_14,Work_14,Rural Works Dept,26-01-2021,74194
+14,Maharashtra,Constituency_15,MP_Name_15,Work_15,Global Infra,01-07-2022,323586
+15,Uttar Pradesh,Constituency_16,MP_Name_16,Work_16,XYZ Builders,10-11-2023,410521
+16,Tamil Nadu,Constituency_17,MP_Name_17,Work_17,Rural Works Dept,06-02-2022,374623
+17,Karnataka,Constituency_18,MP_Name_18,Work_18,XYZ Builders,22-05-2021,131059
+18,Karnataka,Constituency_19,MP_Name_19,Work_19,ABC Constructions,24-04-2021,392673
+19,Tamil Nadu,Constituency_20,MP_Name_20,Work_20,ABC Constructions,22-11-2022,399828
+20,Uttar Pradesh,Constituency_21,MP_Name_21,Work_21,ABC Constructions,24-05-2021,181788
+21,Uttar Pradesh,Constituency_22,MP_Name_22,Work_22,XYZ Builders,07-06-2023,207025
+22,Maharashtra,Constituency_23,MP_Name_23,Work_23,ABC Constructions,14-02-2022,378132
+23,Gujarat,Constituency_24,MP_Name_24,Work_24,Rural Works Dept,19-06-2021,251630
+24,Uttar Pradesh,Constituency_25,MP_Name_25,Work_25,XYZ Builders,02-12-2021,355964
+25,Karnataka,Constituency_26,MP_Name_26,Work_26,XYZ Builders,05-08-2023,199782
+26,Karnataka,Constituency_27,MP_Name_27,Work_27,XYZ Builders,25-09-2022,420700
+27,Tamil Nadu,Constituency_28,MP_Name_28,Work_28,Global Infra,02-03-2021,171280
+28,Uttar Pradesh,Constituency_29,MP_Name_29,Work_29,ABC Constructions,04-06-2022,139921
+29,Maharashtra,Constituency_30,MP_Name_30,Work_30,State PWD,22-09-2023,422108
+30,Maharashtra,Constituency_31,MP_Name_31,Work_31,Rural Works Dept,30-03-2023,362905
+31,Maharashtra,Constituency_32,MP_Name_32,Work_32,Global Infra,26-05-2021,387947
+32,Maharashtra,Constituency_33,MP_Name_33,Work_33,ABC Constructions,12-04-2021,128872
+33,Tamil Nadu,Constituency_34,MP_Name_34,Work_34,Rural Works Dept,19-09-2023,147477
+34,Karnataka,Constituency_35,MP_Name_35,Work_35,Global Infra,03-10-2022,315747
+35,Gujarat,Constituency_36,MP_Name_36,Work_36,ABC Constructions,31-08-2023,414686
+36,Karnataka,Constituency_37,MP_Name_37,Work_37,ABC Constructions,24-06-2023,416934
+37,Delhi,Constituency_38,MP_Name_38,Work_38,XYZ Builders,03-08-2022,96813
+38,Uttar Pradesh,Constituency_39,MP_Name_39,Work_39,Global Infra,16-12-2021,139492
+39,Maharashtra,Constituency_40,MP_Name_40,Work_40,XYZ Builders,22-10-2021,306082
+40,Delhi,Constituency_41,MP_Name_41,Work_41,ABC Constructions,23-03-2023,105601
+41,Karnataka,Constituency_42,MP_Name_42,Work_42,ABC Constructions,04-11-2022,498418
+42,Uttar Pradesh,Constituency_43,MP_Name_43,Work_43,ABC Constructions,20-05-2023,359512
+43,Gujarat,Constituency_44,MP_Name_44,Work_44,ABC Constructions,11-08-2022,173284
+44,Maharashtra,Constituency_45,MP_Name_45,Work_45,ABC Constructions,09-09-2022,490077
+45,Uttar Pradesh,Constituency_46,MP_Name_46,Work_46,Rural Works Dept,15-11-2021,323171
+46,Delhi,Constituency_47,MP_Name_47,Work_47,ABC Constructions,11-10-2023,88206
+47,Maharashtra,Constituency_48,MP_Name_48,Work_48,XYZ Builders,12-04-2022,72716
+48,Maharashtra,Constituency_49,MP_Name_49,Work_49,State PWD,08-04-2021,72425
+49,Uttar Pradesh,Constituency_50,MP_Name_50,Work_50,Global Infra,14-03-2021,200044
+50,Maharashtra,Constituency_51,MP_Name_51,Work_51,ABC Constructions,26-07-2021,87578
+51,Maharashtra,Constituency_52,MP_Name_52,Work_52,ABC Constructions,26-08-2023,235411
+52,Gujarat,Constituency_53,MP_Name_53,Work_53,XYZ Builders,27-09-2022,430575
+53,Maharashtra,Constituency_54,MP_Name_54,Work_54,Global Infra,02-09-2022,411157
+54,Gujarat,Constituency_55,MP_Name_55,Work_55,State PWD,20-12-2023,367873
+55,Uttar Pradesh,Constituency_56,MP_Name_56,Work_56,ABC Constructions,12-07-2022,403284
+56,Tamil Nadu,Constituency_57,MP_Name_57,Work_57,XYZ Builders,31-05-2021,456810
+57,Gujarat,Constituency_58,MP_Name_58,Work_58,Rural Works Dept,15-07-2023,276903
+58,Karnataka,Constituency_59,MP_Name_59,Work_59,State PWD,11-09-2023,398974
+59,Tamil Nadu,Constituency_60,MP_Name_60,Work_60,Rural Works Dept,04-07-2021,428218
+60,Gujarat,Constituency_61,MP_Name_61,Work_61,Rural Works Dept,17-08-2022,368416
+61,Delhi,Constituency_62,MP_Name_62,Work_62,State PWD,23-08-2023,438614
+62,Delhi,Constituency_63,MP_Name_63,Work_63,ABC Constructions,14-11-2022,395779
+63,Delhi,Constituency_64,MP_Name_64,Work_64,Global Infra,03-10-2021,426945
+64,Tamil Nadu,Constituency_65,MP_Name_65,Work_65,XYZ Builders,24-07-2023,125704
+65,Tamil Nadu,Constituency_66,MP_Name_66,Work_66,XYZ Builders,20-10-2021,62011
+66,Tamil Nadu,Constituency_67,MP_Name_67,Work_67,Global Infra,11-07-2021,251739
+67,Uttar Pradesh,Constituency_68,MP_Name_68,Work_68,ABC Constructions,20-04-2023,268306
+68,Uttar Pradesh,Constituency_69,MP_Name_69,Work_69,State PWD,26-09-2023,124254
+69,Maharashtra,Constituency_70,MP_Name_70,Work_70,ABC Constructions,25-02-2022,188816
+70,Maharashtra,Constituency_71,MP_Name_71,Work_71,Rural Works Dept,19-02-2021,482902
+71,Uttar Pradesh,Constituency_72,MP_Name_72,Work_72,ABC Constructions,01-01-2021,301348
+72,Karnataka,Constituency_73,MP_Name_73,Work_73,XYZ Builders,21-09-2023,220725
+73,Karnataka,Constituency_74,MP_Name_74,Work_74,XYZ Builders,10-10-2021,486807
+74,Karnataka,Constituency_75,MP_Name_75,Work_75,Rural Works Dept,23-10-2021,211178
+75,Gujarat,Constituency_76,MP_Name_76,Work_76,XYZ Builders,26-01-2022,118502
+76,Tamil Nadu,Constituency_77,MP_Name_77,Work_77,XYZ Builders,05-09-2021,456513
+77,Delhi,Constituency_78,MP_Name_78,Work_78,State PWD,09-02-2021,472928
+78,Delhi,Constituency_79,MP_Name_79,Work_79,XYZ Builders,11-11-2023,233999
+79,Gujarat,Constituency_80,MP_Name_80,Work_80,ABC Constructions,17-09-2022,302156
+80,Karnataka,Constituency_81,MP_Name_81,Work_81,Global Infra,04-08-2022,211570
+81,Gujarat,Constituency_82,MP_Name_82,Work_82,Global Infra,05-11-2022,78566
+82,Maharashtra,Constituency_83,MP_Name_83,Work_83,Global Infra,02-06-2023,161692
+83,Uttar Pradesh,Constituency_84,MP_Name_84,Work_84,Rural Works Dept,07-03-2021,219048
+84,Delhi,Constituency_85,MP_Name_85,Work_85,ABC Constructions,27-09-2023,314029
+85,Karnataka,Constituency_86,MP_Name_86,Work_86,State PWD,07-12-2023,252907
+86,Delhi,Constituency_87,MP_Name_87,Work_87,Global Infra,25-01-2022,496990
+87,Uttar Pradesh,Constituency_88,MP_Name_88,Work_88,Global Infra,24-11-2023,449815
+88,Uttar Pradesh,Constituency_89,MP_Name_89,Work_89,ABC Constructions,08-01-2021,275280
+89,Delhi,Constituency_90,MP_Name_90,Work_90,State PWD,07-02-2021,201186
+90,Tamil Nadu,Constituency_91,MP_Name_91,Work_91,State PWD,01-12-2023,469359
+91,Maharashtra,Constituency_92,MP_Name_92,Work_92,ABC Constructions,13-06-2022,131111
+92,Gujarat,Constituency_93,MP_Name_93,Work_93,Global Infra,25-07-2021,377218
+93,Delhi,Constituency_94,MP_Name_94,Work_94,Global Infra,22-07-2023,74143
+94,Karnataka,Constituency_95,MP_Name_95,Work_95,State PWD,21-11-2021,161769
+95,Delhi,Constituency_96,MP_Name_96,Work_96,State PWD,18-03-2023,293063
+96,Gujarat,Constituency_97,MP_Name_97,Work_97,State PWD,16-08-2021,173782
+97,Delhi,Constituency_98,MP_Name_98,Work_98,State PWD,13-12-2023,75953
+98,Gujarat,Constituency_99,MP_Name_99,Work_99,Rural Works Dept,23-06-2021,302049
+99,Uttar Pradesh,Constituency_100,MP_Name_100,Work_100,ABC Constructions,03-12-2021,195467
+100,Maharashtra,Constituency_101,MP_Name_101,Work_101,State PWD,02-09-2023,161700
+101,Karnataka,Constituency_102,MP_Name_102,Work_102,Global Infra,03-11-2022,329833
+102,Tamil Nadu,Constituency_103,MP_Name_103,Work_103,XYZ Builders,01-09-2021,448094
+103,Maharashtra,Constituency_104,MP_Name_104,Work_104,ABC Constructions,12-09-2023,125546
+104,Gujarat,Constituency_105,MP_Name_105,Work_105,State PWD,30-06-2021,95856
+105,Maharashtra,Constituency_106,MP_Name_106,Work_106,ABC Constructions,31-12-2023,77940
+106,Karnataka,Constituency_107,MP_Name_107,Work_107,ABC Constructions,26-04-2021,351889
+107,Gujarat,Constituency_108,MP_Name_108,Work_108,Rural Works Dept,15-10-2021,214580
+108,Karnataka,Constituency_109,MP_Name_109,Work_109,State PWD,01-03-2021,122857
+109,Karnataka,Constituency_110,MP_Name_110,Work_110,Rural Works Dept,29-05-2022,247478
+110,Delhi,Constituency_111,MP_Name_111,Work_111,State PWD,05-09-2021,199939
+111,Delhi,Constituency_112,MP_Name_112,Work_112,Global Infra,13-02-2021,127873
+112,Maharashtra,Constituency_113,MP_Name_113,Work_113,XYZ Builders,06-06-2023,389823
+113,Delhi,Constituency_114,MP_Name_114,Work_114,Rural Works Dept,08-01-2022,465458
+114,Delhi,Constituency_115,MP_Name_115,Work_115,Global Infra,25-01-2022,266840
+115,Gujarat,Constituency_116,MP_Name_116,Work_116,Rural Works Dept,05-11-2022,472960
+116,Uttar Pradesh,Constituency_117,MP_Name_117,Work_117,Rural Works Dept,24-09-2022,393323
+117,Maharashtra,Constituency_118,MP_Name_118,Work_118,State PWD,15-09-2022,235157
+118,Uttar Pradesh,Constituency_119,MP_Name_119,Work_119,XYZ Builders,10-08-2023,77683
+119,Maharashtra,Constituency_120,MP_Name_120,Work_120,State PWD,10-01-2021,83062
+120,Delhi,Constituency_121,MP_Name_121,Work_121,Rural Works Dept,15-01-2021,72275
+121,Maharashtra,Constituency_122,MP_Name_122,Work_122,State PWD,27-06-2023,171539
+122,Maharashtra,Constituency_123,MP_Name_123,Work_123,ABC Constructions,30-11-2023,101297
+123,Maharashtra,Constituency_124,MP_Name_124,Work_124,ABC Constructions,03-06-2021,467951
+124,Uttar Pradesh,Constituency_125,MP_Name_125,Work_125,XYZ Builders,21-04-2023,234919
+125,Delhi,Constituency_126,MP_Name_126,Work_126,Rural Works Dept,22-12-2021,195912
+126,Maharashtra,Constituency_127,MP_Name_127,Work_127,Rural Works Dept,04-10-2023,115782
+127,Karnataka,Constituency_128,MP_Name_128,Work_128,ABC Constructions,09-03-2023,237678
+128,Maharashtra,Constituency_129,MP_Name_129,Work_129,Global Infra,14-06-2022,480764
+129,Delhi,Constituency_130,MP_Name_130,Work_130,ABC Constructions,10-07-2023,370366
+130,Uttar Pradesh,Constituency_131,MP_Name_131,Work_131,Rural Works Dept,17-08-2023,217893
+131,Gujarat,Constituency_132,MP_Name_132,Work_132,ABC Constructions,13-05-2023,174414
+132,Tamil Nadu,Constituency_133,MP_Name_133,Work_133,XYZ Builders,11-05-2021,304903
+133,Tamil Nadu,Constituency_134,MP_Name_134,Work_134,XYZ Builders,27-04-2023,227902
+134,Delhi,Constituency_135,MP_Name_135,Work_135,Global Infra,14-12-2021,314637
+135,Gujarat,Constituency_136,MP_Name_136,Work_136,Rural Works Dept,11-10-2023,236244
+136,Maharashtra,Constituency_137,MP_Name_137,Work_137,State PWD,09-10-2021,145156
+137,Tamil Nadu,Constituency_138,MP_Name_138,Work_138,XYZ Builders,14-10-2021,322430
+138,Tamil Nadu,Constituency_139,MP_Name_139,Work_139,Rural Works Dept,28-03-2021,51620
+139,Gujarat,Constituency_140,MP_Name_140,Work_140,ABC Constructions,20-10-2023,350464
+140,Karnataka,Constituency_141,MP_Name_141,Work_141,Rural Works Dept,13-06-2023,148479
+141,Delhi,Constituency_142,MP_Name_142,Work_142,State PWD,14-05-2023,287172
+142,Tamil Nadu,Constituency_143,MP_Name_143,Work_143,XYZ Builders,17-12-2023,190883
+143,Gujarat,Constituency_144,MP_Name_144,Work_144,XYZ Builders,06-09-2022,65694
+144,Karnataka,Constituency_145,MP_Name_145,Work_145,Rural Works Dept,25-09-2023,412731
+145,Tamil Nadu,Constituency_146,MP_Name_146,Work_146,Global Infra,13-12-2022,114510
+146,Delhi,Constituency_147,MP_Name_147,Work_147,State PWD,07-05-2021,109121
+147,Gujarat,Constituency_148,MP_Name_148,Work_148,State PWD,26-10-2021,440813
+148,Tamil Nadu,Constituency_149,MP_Name_149,Work_149,XYZ Builders,10-08-2023,398162
+149,Maharashtra,Constituency_150,MP_Name_150,Work_150,State PWD,30-12-2021,462014
+150,Tamil Nadu,Constituency_151,MP_Name_151,Work_151,State PWD,17-03-2022,332650
+151,Delhi,Constituency_152,MP_Name_152,Work_152,Global Infra,20-11-2021,265056
+152,Tamil Nadu,Constituency_153,MP_Name_153,Work_153,ABC Constructions,16-09-2022,362684
+153,Uttar Pradesh,Constituency_154,MP_Name_154,Work_154,ABC Constructions,16-10-2022,459717
+154,Tamil Nadu,Constituency_155,MP_Name_155,Work_155,XYZ Builders,30-12-2023,102529
+155,Maharashtra,Constituency_156,MP_Name_156,Work_156,Global Infra,21-12-2023,54626
+156,Gujarat,Constituency_157,MP_Name_157,Work_157,ABC Constructions,08-06-2022,60477
+157,Gujarat,Constituency_158,MP_Name_158,Work_158,ABC Constructions,21-11-2022,463045
+158,Karnataka,Constituency_159,MP_Name_159,Work_159,XYZ Builders,03-09-2023,72285
+159,Delhi,Constituency_160,MP_Name_160,Work_160,State PWD,22-07-2022,64037
+160,Delhi,Constituency_161,MP_Name_161,Work_161,State PWD,25-12-2023,280582
+161,Gujarat,Constituency_162,MP_Name_162,Work_162,XYZ Builders,02-04-2021,185749
+162,Karnataka,Constituency_163,MP_Name_163,Work_163,Rural Works Dept,01-01-2022,203044
+163,Maharashtra,Constituency_164,MP_Name_164,Work_164,XYZ Builders,21-01-2021,445757
+164,Maharashtra,Constituency_165,MP_Name_165,Work_165,ABC Constructions,17-01-2023,346727
+165,Tamil Nadu,Constituency_166,MP_Name_166,Work_166,Global Infra,19-10-2023,192313
+166,Maharashtra,Constituency_167,MP_Name_167,Work_167,Global Infra,23-10-2022,211095
+167,Karnataka,Constituency_168,MP_Name_168,Work_168,ABC Constructions,12-07-2023,345735
+168,Gujarat,Constituency_169,MP_Name_169,Work_169,Global Infra,15-05-2022,57239
+169,Maharashtra,Constituency_170,MP_Name_170,Work_170,Global Infra,12-10-2021,358599
+170,Delhi,Constituency_171,MP_Name_171,Work_171,State PWD,06-03-2021,464933
+171,Maharashtra,Constituency_172,MP_Name_172,Work_172,ABC Constructions,06-03-2022,435918
+172,Gujarat,Constituency_173,MP_Name_173,Work_173,ABC Constructions,22-04-2023,319768
+173,Karnataka,Constituency_174,MP_Name_174,Work_174,XYZ Builders,18-02-2023,121253
+174,Maharashtra,Constituency_175,MP_Name_175,Work_175,Global Infra,03-08-2023,159373
+175,Uttar Pradesh,Constituency_176,MP_Name_176,Work_176,XYZ Builders,13-07-2023,401432
+176,Uttar Pradesh,Constituency_177,MP_Name_177,Work_177,XYZ Builders,24-12-2021,358366
+177,Karnataka,Constituency_178,MP_Name_178,Work_178,XYZ Builders,01-03-2021,86644
+178,Tamil Nadu,Constituency_179,MP_Name_179,Work_179,Rural Works Dept,31-10-2023,105306
+179,Tamil Nadu,Constituency_180,MP_Name_180,Work_180,XYZ Builders,11-04-2021,184196
+180,Maharashtra,Constituency_181,MP_Name_181,Work_181,Global Infra,30-09-2021,222861
+181,Tamil Nadu,Constituency_182,MP_Name_182,Work_182,Rural Works Dept,18-10-2023,319246
+182,Karnataka,Constituency_183,MP_Name_183,Work_183,Global Infra,06-03-2022,320540
+183,Gujarat,Constituency_184,MP_Name_184,Work_184,XYZ Builders,19-05-2022,57570
+184,Karnataka,Constituency_185,MP_Name_185,Work_185,State PWD,17-07-2021,263816
+185,Maharashtra,Constituency_186,MP_Name_186,Work_186,Global Infra,29-04-2023,375547
+186,Tamil Nadu,Constituency_187,MP_Name_187,Work_187,State PWD,07-05-2022,68435
+187,Delhi,Constituency_188,MP_Name_188,Work_188,Global Infra,05-03-2023,173772
+188,Tamil Nadu,Constituency_189,MP_Name_189,Work_189,Rural Works Dept,26-01-2021,77583
+189,Gujarat,Constituency_190,MP_Name_190,Work_190,State PWD,09-07-2023,51517
+190,Uttar Pradesh,Constituency_191,MP_Name_191,Work_191,State PWD,28-09-2023,428327
+191,Maharashtra,Constituency_192,MP_Name_192,Work_192,Global Infra,05-02-2021,440178
+192,Tamil Nadu,Constituency_193,MP_Name_193,Work_193,Rural Works Dept,29-11-2022,147146
+193,Tamil Nadu,Constituency_194,MP_Name_194,Work_194,Rural Works Dept,19-11-2023,99986
+194,Uttar Pradesh,Constituency_195,MP_Name_195,Work_195,XYZ Builders,27-05-2023,449100
+195,Tamil Nadu,Constituency_196,MP_Name_196,Work_196,Rural Works Dept,27-11-2022,413122
+196,Gujarat,Constituency_197,MP_Name_197,Work_197,Rural Works Dept,01-11-2022,308261
+197,Uttar Pradesh,Constituency_198,MP_Name_198,Work_198,XYZ Builders,25-09-2021,421924
+198,Karnataka,Constituency_199,MP_Name_199,Work_199,Rural Works Dept,17-06-2021,236007
+199,Maharashtra,Constituency_200,MP_Name_200,Work_200,Rural Works Dept,27-07-2023,465522
+200,Karnataka,Constituency_201,MP_Name_201,Work_1,XYZ Builders,08-08-2022,453227
+201,Delhi,Constituency_202,MP_Name_202,Work_2,State PWD,13-06-2023,338642
+202,Maharashtra,Constituency_203,MP_Name_203,Work_3,State PWD,19-07-2023,450775
+203,Tamil Nadu,Constituency_204,MP_Name_204,Work_4,Rural Works Dept,29-08-2023,227249
+204,Delhi,Constituency_205,MP_Name_205,Work_5,XYZ Builders,17-06-2021,266078
+205,Uttar Pradesh,Constituency_206,MP_Name_206,Work_6,State PWD,16-12-2023,194570
+206,Delhi,Constituency_207,MP_Name_207,Work_7,ABC Constructions,15-02-2021,380388
+207,Uttar Pradesh,Constituency_208,MP_Name_208,Work_8,Rural Works Dept,05-06-2022,229572
+208,Uttar Pradesh,Constituency_209,MP_Name_209,Work_9,ABC Constructions,09-03-2023,60461
+209,Delhi,Constituency_210,MP_Name_210,Work_10,State PWD,20-10-2023,229293
+210,Gujarat,Constituency_211,MP_Name_211,Work_11,Global Infra,26-11-2023,77702
+211,Delhi,Constituency_212,MP_Name_212,Work_12,ABC Constructions,08-01-2022,290230
+212,Uttar Pradesh,Constituency_213,MP_Name_213,Work_13,State PWD,20-02-2021,249244
+213,Delhi,Constituency_214,MP_Name_214,Work_14,Rural Works Dept,13-04-2023,413236
+214,Gujarat,Constituency_215,MP_Name_215,Work_15,ABC Constructions,31-03-2021,356918
+215,Tamil Nadu,Constituency_216,MP_Name_216,Work_16,State PWD,25-01-2021,345075
+216,Tamil Nadu,Constituency_217,MP_Name_217,Work_17,Global Infra,10-05-2021,152742
+217,Gujarat,Constituency_218,MP_Name_218,Work_18,State PWD,27-02-2022,292628
+218,Delhi,Constituency_219,MP_Name_219,Work_19,XYZ Builders,23-07-2022,339313
+219,Karnataka,Constituency_220,MP_Name_220,Work_20,ABC Constructions,08-10-2021,292761
+220,Uttar Pradesh,Constituency_221,MP_Name_221,Work_21,Global Infra,24-06-2023,103638
+221,Maharashtra,Constituency_222,MP_Name_222,Work_22,State PWD,05-07-2021,262785
+222,Maharashtra,Constituency_223,MP_Name_223,Work_23,XYZ Builders,09-10-2021,171950
+223,Maharashtra,Constituency_224,MP_Name_224,Work_24,Global Infra,24-12-2022,78192
+224,Delhi,Constituency_225,MP_Name_225,Work_25,State PWD,02-09-2022,89430
+225,Maharashtra,Constituency_226,MP_Name_226,Work_26,ABC Constructions,27-08-2023,75572
+226,Karnataka,Constituency_227,MP_Name_227,Work_27,Global Infra,06-12-2023,375247
+227,Gujarat,Constituency_228,MP_Name_228,Work_28,Rural Works Dept,27-08-2022,195113
+228,Delhi,Constituency_229,MP_Name_229,Work_29,State PWD,08-07-2022,208322
+229,Uttar Pradesh,Constituency_230,MP_Name_230,Work_30,Rural Works Dept,19-10-2023,412893
+230,Maharashtra,Constituency_231,MP_Name_231,Work_31,ABC Constructions,26-03-2022,141054
+231,Delhi,Constituency_232,MP_Name_232,Work_32,ABC Constructions,29-01-2022,392817
+232,Karnataka,Constituency_233,MP_Name_233,Work_33,Rural Works Dept,14-06-2022,376502
+233,Maharashtra,Constituency_234,MP_Name_234,Work_34,Rural Works Dept,22-03-2021,479502
+234,Karnataka,Constituency_235,MP_Name_235,Work_35,XYZ Builders,23-12-2023,472147
+235,Gujarat,Constituency_236,MP_Name_236,Work_36,ABC Constructions,16-08-2023,417302
+236,Gujarat,Constituency_237,MP_Name_237,Work_37,ABC Constructions,07-01-2021,457907
+237,Uttar Pradesh,Constituency_238,MP_Name_238,Work_38,Global Infra,21-08-2023,236109
+238,Gujarat,Constituency_239,MP_Name_239,Work_39,State PWD,18-07-2022,106567
+239,Delhi,Constituency_240,MP_Name_240,Work_40,XYZ Builders,20-05-2023,193705
+240,Gujarat,Constituency_241,MP_Name_241,Work_41,XYZ Builders,15-01-2021,171458
+241,Gujarat,Constituency_242,MP_Name_242,Work_42,Global Infra,22-03-2021,336113
+242,Tamil Nadu,Constituency_243,MP_Name_243,Work_43,ABC Constructions,01-05-2021,77545
+243,Karnataka,Constituency_244,MP_Name_244,Work_44,Global Infra,04-06-2022,93363
+244,Maharashtra,Constituency_245,MP_Name_245,Work_45,ABC Constructions,04-06-2023,467152
+245,Delhi,Constituency_1,MP_Name_1,Work_46,XYZ Builders,19-03-2021,178474
+246,Uttar Pradesh,Constituency_2,MP_Name_2,Work_47,State PWD,24-07-2021,283036
+247,Tamil Nadu,Constituency_3,MP_Name_3,Work_48,XYZ Builders,10-10-2022,495319
+248,Uttar Pradesh,Constituency_4,MP_Name_4,Work_49,State PWD,09-01-2023,88917
+249,Tamil Nadu,Constituency_5,MP_Name_5,Work_50,XYZ Builders,07-10-2022,298522
+250,Karnataka,Constituency_6,MP_Name_6,Work_51,XYZ Builders,06-03-2021,371601
+251,Karnataka,Constituency_7,MP_Name_7,Work_52,Global Infra,01-05-2022,125530
+252,Maharashtra,Constituency_8,MP_Name_8,Work_53,Global Infra,30-12-2021,113541
+253,Gujarat,Constituency_9,MP_Name_9,Work_54,State PWD,27-01-2023,480774
+254,Gujarat,Constituency_10,MP_Name_10,Work_55,XYZ Builders,04-10-2023,172094
+255,Tamil Nadu,Constituency_11,MP_Name_11,Work_56,State PWD,03-01-2023,403377
+256,Uttar Pradesh,Constituency_12,MP_Name_12,Work_57,Global Infra,25-04-2023,438753
+257,Maharashtra,Constituency_13,MP_Name_13,Work_58,ABC Constructions,22-12-2022,245785
+258,Uttar Pradesh,Constituency_14,MP_Name_14,Work_59,Global Infra,18-02-2022,143226
+259,Delhi,Constituency_15,MP_Name_15,Work_60,ABC Constructions,01-01-2023,83972
+260,Tamil Nadu,Constituency_16,MP_Name_16,Work_61,XYZ Builders,16-02-2023,192837
+261,Maharashtra,Constituency_17,MP_Name_17,Work_62,Global Infra,14-01-2022,58187
+262,Delhi,Constituency_18,MP_Name_18,Work_63,Global Infra,07-06-2022,57083
+263,Maharashtra,Constituency_19,MP_Name_19,Work_64,XYZ Builders,20-12-2023,270005
+264,Delhi,Constituency_20,MP_Name_20,Work_65,Rural Works Dept,23-08-2023,410564
+265,Uttar Pradesh,Constituency_21,MP_Name_21,Work_66,Global Infra,08-09-2021,304413
+266,Gujarat,Constituency_22,MP_Name_22,Work_67,Rural Works Dept,09-02-2021,305896
+267,Gujarat,Constituency_23,MP_Name_23,Work_68,ABC Constructions,06-09-2021,349444
+268,Tamil Nadu,Constituency_24,MP_Name_24,Work_69,XYZ Builders,13-06-2021,127502
+269,Gujarat,Constituency_25,MP_Name_25,Work_70,ABC Constructions,04-10-2023,305898
+270,Delhi,Constituency_26,MP_Name_26,Work_71,ABC Constructions,18-02-2023,246739
+271,Maharashtra,Constituency_27,MP_Name_27,Work_72,Global Infra,30-05-2022,171951
+272,Delhi,Constituency_28,MP_Name_28,Work_73,Rural Works Dept,27-01-2023,101728
+273,Maharashtra,Constituency_29,MP_Name_29,Work_74,Global Infra,09-04-2023,57873
+274,Gujarat,Constituency_30,MP_Name_30,Work_75,ABC Constructions,28-10-2021,339553
+275,Karnataka,Constituency_31,MP_Name_31,Work_76,State PWD,27-01-2021,326821
+276,Karnataka,Constituency_32,MP_Name_32,Work_77,Rural Works Dept,16-06-2022,201024
+277,Karnataka,Constituency_33,MP_Name_33,Work_78,State PWD,08-07-2023,95642
+278,Gujarat,Constituency_34,MP_Name_34,Work_79,State PWD,24-05-2023,464629
+279,Maharashtra,Constituency_35,MP_Name_35,Work_80,Rural Works Dept,12-03-2021,115564
+280,Delhi,Constituency_36,MP_Name_36,Work_81,Global Infra,09-10-2022,489608
+281,Karnataka,Constituency_37,MP_Name_37,Work_82,State PWD,17-11-2022,239077
+282,Uttar Pradesh,Constituency_38,MP_Name_38,Work_83,State PWD,30-07-2022,88267
+283,Tamil Nadu,Constituency_39,MP_Name_39,Work_84,XYZ Builders,20-12-2021,498001
+284,Delhi,Constituency_40,MP_Name_40,Work_85,Global Infra,28-06-2023,486093
+285,Karnataka,Constituency_41,MP_Name_41,Work_86,State PWD,16-09-2021,415860
+286,Karnataka,Constituency_42,MP_Name_42,Work_87,ABC Constructions,01-07-2022,480419
+287,Tamil Nadu,Constituency_43,MP_Name_43,Work_88,ABC Constructions,15-02-2022,443117
+288,Tamil Nadu,Constituency_44,MP_Name_44,Work_89,State PWD,01-10-2021,489757
+289,Karnataka,Constituency_45,MP_Name_45,Work_90,Rural Works Dept,24-06-2021,83772
+290,Uttar Pradesh,Constituency_46,MP_Name_46,Work_91,Global Infra,29-12-2021,263536
+291,Uttar Pradesh,Constituency_47,MP_Name_47,Work_92,State PWD,19-10-2021,471371
+292,Gujarat,Constituency_48,MP_Name_48,Work_93,State PWD,28-03-2023,420908
+293,Karnataka,Constituency_49,MP_Name_49,Work_94,State PWD,01-04-2021,136210
+294,Maharashtra,Constituency_50,MP_Name_50,Work_95,State PWD,14-03-2023,80259
+295,Gujarat,Constituency_51,MP_Name_51,Work_96,XYZ Builders,11-08-2023,213328
+296,Gujarat,Constituency_52,MP_Name_52,Work_97,Rural Works Dept,19-06-2023,343469
+297,Delhi,Constituency_53,MP_Name_53,Work_98,ABC Constructions,19-08-2022,425114
+298,Uttar Pradesh,Constituency_54,MP_Name_54,Work_99,Global Infra,24-04-2022,75639
+299,Tamil Nadu,Constituency_55,MP_Name_55,Work_100,Rural Works Dept,23-04-2023,426548
+300,Uttar Pradesh,Constituency_56,MP_Name_56,Work_101,Global Infra,30-06-2023,208559
+301,Gujarat,Constituency_57,MP_Name_57,Work_102,Rural Works Dept,18-02-2023,449115
+302,Karnataka,Constituency_58,MP_Name_58,Work_103,Global Infra,31-07-2022,123236
+303,Maharashtra,Constituency_59,MP_Name_59,Work_104,ABC Constructions,06-12-2023,430298
+304,Maharashtra,Constituency_60,MP_Name_60,Work_105,State PWD,03-01-2022,365142
+305,Karnataka,Constituency_61,MP_Name_61,Work_106,State PWD,29-05-2021,445591
+306,Tamil Nadu,Constituency_62,MP_Name_62,Work_107,Global Infra,26-07-2021,308650
+307,Gujarat,Constituency_63,MP_Name_63,Work_108,XYZ Builders,01-06-2023,375173
+308,Uttar Pradesh,Constituency_64,MP_Name_64,Work_109,Rural Works Dept,05-11-2022,465386
+309,Delhi,Constituency_65,MP_Name_65,Work_110,ABC Constructions,10-08-2023,331308
+310,Delhi,Constituency_66,MP_Name_66,Work_111,Rural Works Dept,25-02-2023,331660
+311,Uttar Pradesh,Constituency_67,MP_Name_67,Work_112,Rural Works Dept,04-02-2022,65943
+312,Tamil Nadu,Constituency_68,MP_Name_68,Work_113,State PWD,04-04-2022,311404
+313,Delhi,Constituency_69,MP_Name_69,Work_114,State PWD,02-02-2021,273916
+314,Uttar Pradesh,Constituency_70,MP_Name_70,Work_115,ABC Constructions,09-02-2021,268779
+315,Gujarat,Constituency_71,MP_Name_71,Work_116,State PWD,07-09-2021,258603
+316,Karnataka,Constituency_72,MP_Name_72,Work_117,Rural Works Dept,29-09-2022,138386
+317,Gujarat,Constituency_73,MP_Name_73,Work_118,Rural Works Dept,06-09-2021,415379
+318,Maharashtra,Constituency_74,MP_Name_74,Work_119,XYZ Builders,25-09-2023,315535
+319,Uttar Pradesh,Constituency_75,MP_Name_75,Work_120,State PWD,13-04-2021,110823
+320,Maharashtra,Constituency_76,MP_Name_76,Work_121,Rural Works Dept,16-04-2022,179529
+321,Maharashtra,Constituency_77,MP_Name_77,Work_122,XYZ Builders,28-12-2021,437432
+322,Maharashtra,Constituency_78,MP_Name_78,Work_123,State PWD,20-04-2022,467711
+323,Uttar Pradesh,Constituency_79,MP_Name_79,Work_124,Rural Works Dept,02-09-2021,382688
+324,Tamil Nadu,Constituency_80,MP_Name_80,Work_125,XYZ Builders,14-09-2022,98741
+325,Karnataka,Constituency_81,MP_Name_81,Work_126,Global Infra,16-02-2021,442380
+326,Gujarat,Constituency_82,MP_Name_82,Work_127,XYZ Builders,11-04-2023,267742
+327,Gujarat,Constituency_83,MP_Name_83,Work_128,State PWD,26-03-2023,187008
+328,Delhi,Constituency_84,MP_Name_84,Work_129,XYZ Builders,16-03-2023,141288
+329,Maharashtra,Constituency_85,MP_Name_85,Work_130,Rural Works Dept,20-06-2022,290049
+330,Delhi,Constituency_86,MP_Name_86,Work_131,Rural Works Dept,07-10-2021,316865
+331,Tamil Nadu,Constituency_87,MP_Name_87,Work_132,Rural Works Dept,25-01-2021,146259
+332,Maharashtra,Constituency_88,MP_Name_88,Work_133,XYZ Builders,21-08-2022,120994
+333,Delhi,Constituency_89,MP_Name_89,Work_134,Global Infra,06-10-2022,443594
+334,Tamil Nadu,Constituency_90,MP_Name_90,Work_135,ABC Constructions,08-02-2023,462692
+335,Uttar Pradesh,Constituency_91,MP_Name_91,Work_136,State PWD,08-12-2021,197999
+336,Karnataka,Constituency_92,MP_Name_92,Work_137,XYZ Builders,13-01-2023,310610
+337,Gujarat,Constituency_93,MP_Name_93,Work_138,Global Infra,29-03-2023,358643
+338,Tamil Nadu,Constituency_94,MP_Name_94,Work_139,Rural Works Dept,17-05-2021,395180
+339,Tamil Nadu,Constituency_95,MP_Name_95,Work_140,XYZ Builders,06-04-2022,398612
+340,Uttar Pradesh,Constituency_96,MP_Name_96,Work_141,Rural Works Dept,10-11-2021,211362
+341,Gujarat,Constituency_97,MP_Name_97,Work_142,Rural Works Dept,09-11-2021,390778
+342,Maharashtra,Constituency_98,MP_Name_98,Work_143,Rural Works Dept,04-05-2021,480912
+343,Karnataka,Constituency_99,MP_Name_99,Work_144,ABC Constructions,08-07-2023,188929
+344,Karnataka,Constituency_100,MP_Name_100,Work_145,Rural Works Dept,21-04-2021,366570
+345,Tamil Nadu,Constituency_101,MP_Name_101,Work_146,Rural Works Dept,03-07-2022,323576
+346,Maharashtra,Constituency_102,MP_Name_102,Work_147,ABC Constructions,25-02-2023,409608
+347,Delhi,Constituency_103,MP_Name_103,Work_148,ABC Constructions,30-04-2021,72185
+348,Uttar Pradesh,Constituency_104,MP_Name_104,Work_149,ABC Constructions,02-02-2021,69786
+349,Gujarat,Constituency_105,MP_Name_105,Work_150,State PWD,07-11-2022,108645
+350,Maharashtra,Constituency_106,MP_Name_106,Work_151,Global Infra,25-03-2021,331232
+351,Tamil Nadu,Constituency_107,MP_Name_107,Work_152,ABC Constructions,13-04-2021,365454
+352,Karnataka,Constituency_108,MP_Name_108,Work_153,Rural Works Dept,22-04-2023,233196
+353,Gujarat,Constituency_109,MP_Name_109,Work_154,ABC Constructions,12-01-2022,317826
+354,Maharashtra,Constituency_110,MP_Name_110,Work_155,Global Infra,20-03-2022,107228
+355,Maharashtra,Constituency_111,MP_Name_111,Work_156,Rural Works Dept,07-06-2022,110524
+356,Uttar Pradesh,Constituency_112,MP_Name_112,Work_157,ABC Constructions,29-04-2023,196675
+357,Maharashtra,Constituency_113,MP_Name_113,Work_158,ABC Constructions,24-05-2021,423725
+358,Maharashtra,Constituency_114,MP_Name_114,Work_159,XYZ Builders,04-08-2022,276742
+359,Maharashtra,Constituency_115,MP_Name_115,Work_160,State PWD,18-10-2022,468634
+360,Maharashtra,Constituency_116,MP_Name_116,Work_161,XYZ Builders,08-07-2022,432895
+361,Maharashtra,Constituency_117,MP_Name_117,Work_162,State PWD,04-03-2021,286448
+362,Uttar Pradesh,Constituency_118,MP_Name_118,Work_163,ABC Constructions,02-12-2021,179029
+363,Karnataka,Constituency_119,MP_Name_119,Work_164,Global Infra,23-03-2021,413066
+364,Uttar Pradesh,Constituency_120,MP_Name_120,Work_165,ABC Constructions,22-11-2022,337353
+365,Delhi,Constituency_121,MP_Name_121,Work_166,ABC Constructions,24-03-2021,294386
+366,Gujarat,Constituency_122,MP_Name_122,Work_167,Rural Works Dept,15-05-2023,453085
+367,Karnataka,Constituency_123,MP_Name_123,Work_168,Global Infra,25-06-2021,141637
+368,Gujarat,Constituency_124,MP_Name_124,Work_169,ABC Constructions,23-10-2021,148395
+369,Karnataka,Constituency_125,MP_Name_125,Work_170,State PWD,17-04-2022,279161
+370,Uttar Pradesh,Constituency_126,MP_Name_126,Work_171,State PWD,19-05-2021,195781
+371,Gujarat,Constituency_127,MP_Name_127,Work_172,ABC Constructions,27-02-2023,474745
+372,Gujarat,Constituency_128,MP_Name_128,Work_173,Rural Works Dept,30-01-2022,266989
+373,Tamil Nadu,Constituency_129,MP_Name_129,Work_174,ABC Constructions,04-09-2022,202992
+374,Maharashtra,Constituency_130,MP_Name_130,Work_175,Global Infra,22-12-2021,95109
+375,Tamil Nadu,Constituency_131,MP_Name_131,Work_176,Rural Works Dept,22-07-2021,230209
+376,Gujarat,Constituency_132,MP_Name_132,Work_177,State PWD,09-10-2022,90907
+377,Tamil Nadu,Constituency_133,MP_Name_133,Work_178,Rural Works Dept,27-06-2022,62168
+378,Delhi,Constituency_134,MP_Name_134,Work_179,ABC Constructions,14-02-2023,263326
+379,Gujarat,Constituency_135,MP_Name_135,Work_180,Rural Works Dept,31-03-2022,306851
+380,Delhi,Constituency_136,MP_Name_136,Work_181,ABC Constructions,13-02-2023,267946
+381,Gujarat,Constituency_137,MP_Name_137,Work_182,XYZ Builders,21-01-2022,289856
+382,Delhi,Constituency_138,MP_Name_138,Work_183,ABC Constructions,01-02-2023,182763
+383,Uttar Pradesh,Constituency_139,MP_Name_139,Work_184,Rural Works Dept,06-04-2021,411455
+384,Maharashtra,Constituency_140,MP_Name_140,Work_185,XYZ Builders,03-02-2022,483636
+385,Delhi,Constituency_141,MP_Name_141,Work_186,XYZ Builders,20-08-2022,222164
+386,Karnataka,Constituency_142,MP_Name_142,Work_187,XYZ Builders,29-06-2021,495890
+387,Karnataka,Constituency_143,MP_Name_143,Work_188,ABC Constructions,30-08-2021,58732
+388,Maharashtra,Constituency_144,MP_Name_144,Work_189,Rural Works Dept,12-03-2021,201822
+389,Uttar Pradesh,Constituency_145,MP_Name_145,Work_190,XYZ Builders,27-11-2021,161663
+390,Delhi,Constituency_146,MP_Name_146,Work_191,Rural Works Dept,16-10-2022,270749
+391,Karnataka,Constituency_147,MP_Name_147,Work_192,State PWD,27-01-2023,470859
+392,Tamil Nadu,Constituency_148,MP_Name_148,Work_193,State PWD,29-08-2022,290268
+393,Tamil Nadu,Constituency_149,MP_Name_149,Work_194,XYZ Builders,09-01-2023,381875
+394,Tamil Nadu,Constituency_150,MP_Name_150,Work_195,Global Infra,09-09-2022,227892
+395,Uttar Pradesh,Constituency_151,MP_Name_151,Work_196,State PWD,17-12-2021,266025
+396,Tamil Nadu,Constituency_152,MP_Name_152,Work_197,XYZ Builders,30-06-2021,363115
+397,Maharashtra,Constituency_153,MP_Name_153,Work_198,Global Infra,16-08-2022,174629
+398,Gujarat,Constituency_154,MP_Name_154,Work_199,XYZ Builders,24-03-2023,250406
+399,Gujarat,Constituency_155,MP_Name_155,Work_200,State PWD,05-06-2023,407954
+400,Delhi,Constituency_156,MP_Name_156,Work_1,State PWD,20-06-2021,213412
+401,Maharashtra,Constituency_157,MP_Name_157,Work_2,XYZ Builders,03-07-2022,317792
+402,Gujarat,Constituency_158,MP_Name_158,Work_3,XYZ Builders,22-06-2023,292816
+403,Uttar Pradesh,Constituency_159,MP_Name_159,Work_4,XYZ Builders,19-06-2021,341828
+404,Delhi,Constituency_160,MP_Name_160,Work_5,ABC Constructions,22-03-2022,214544
+405,Uttar Pradesh,Constituency_161,MP_Name_161,Work_6,Global Infra,14-10-2022,357128
+406,Delhi,Constituency_162,MP_Name_162,Work_7,ABC Constructions,08-07-2022,481748
+407,Delhi,Constituency_163,MP_Name_163,Work_8,ABC Constructions,09-12-2022,452124
+408,Delhi,Constituency_164,MP_Name_164,Work_9,Rural Works Dept,18-03-2021,211636
+409,Maharashtra,Constituency_165,MP_Name_165,Work_10,Global Infra,19-10-2021,410266
+410,Uttar Pradesh,Constituency_166,MP_Name_166,Work_11,ABC Constructions,26-07-2021,174374
+411,Delhi,Constituency_167,MP_Name_167,Work_12,Rural Works Dept,26-03-2021,303638
+412,Gujarat,Constituency_168,MP_Name_168,Work_13,Rural Works Dept,06-10-2023,324445
+413,Gujarat,Constituency_169,MP_Name_169,Work_14,XYZ Builders,05-01-2023,264261
+414,Gujarat,Constituency_170,MP_Name_170,Work_15,XYZ Builders,21-07-2021,160312
+415,Maharashtra,Constituency_171,MP_Name_171,Work_16,ABC Constructions,05-04-2021,307850
+416,Karnataka,Constituency_172,MP_Name_172,Work_17,ABC Constructions,29-11-2021,102217
+417,Tamil Nadu,Constituency_173,MP_Name_173,Work_18,State PWD,23-05-2022,311857
+418,Uttar Pradesh,Constituency_174,MP_Name_174,Work_19,XYZ Builders,02-03-2022,380434
+419,Gujarat,Constituency_175,MP_Name_175,Work_20,XYZ Builders,25-12-2023,470732
+420,Maharashtra,Constituency_176,MP_Name_176,Work_21,State PWD,26-07-2021,451014
+421,Maharashtra,Constituency_177,MP_Name_177,Work_22,XYZ Builders,24-07-2023,55647
+422,Maharashtra,Constituency_178,MP_Name_178,Work_23,State PWD,15-05-2022,488264
+423,Tamil Nadu,Constituency_179,MP_Name_179,Work_24,State PWD,26-04-2023,454088
+424,Delhi,Constituency_180,MP_Name_180,Work_25,ABC Constructions,13-12-2022,356360
+425,Maharashtra,Constituency_181,MP_Name_181,Work_26,XYZ Builders,18-06-2023,89132
+426,Maharashtra,Constituency_182,MP_Name_182,Work_27,ABC Constructions,11-11-2023,134962
+427,Karnataka,Constituency_183,MP_Name_183,Work_28,XYZ Builders,03-02-2023,330606
+428,Delhi,Constituency_184,MP_Name_184,Work_29,State PWD,05-03-2023,184928
+429,Maharashtra,Constituency_185,MP_Name_185,Work_30,Rural Works Dept,06-12-2021,272085
+430,Gujarat,Constituency_186,MP_Name_186,Work_31,XYZ Builders,12-03-2022,395032
+431,Uttar Pradesh,Constituency_187,MP_Name_187,Work_32,Global Infra,03-11-2023,450066
+432,Uttar Pradesh,Constituency_188,MP_Name_188,Work_33,Global Infra,06-07-2022,186096
+433,Uttar Pradesh,Constituency_189,MP_Name_189,Work_34,ABC Constructions,26-05-2023,217001
+434,Tamil Nadu,Constituency_190,MP_Name_190,Work_35,Global Infra,21-04-2023,126774
+435,Karnataka,Constituency_191,MP_Name_191,Work_36,State PWD,08-11-2023,227521
+436,Karnataka,Constituency_192,MP_Name_192,Work_37,XYZ Builders,28-07-2021,335129
+437,Gujarat,Constituency_193,MP_Name_193,Work_38,ABC Constructions,14-02-2023,382943
+438,Uttar Pradesh,Constituency_194,MP_Name_194,Work_39,ABC Constructions,07-07-2022,196816
+439,Karnataka,Constituency_195,MP_Name_195,Work_40,Global Infra,10-07-2023,342148
+440,Maharashtra,Constituency_196,MP_Name_196,Work_41,ABC Constructions,08-07-2021,73060
+441,Uttar Pradesh,Constituency_197,MP_Name_197,Work_42,XYZ Builders,21-12-2021,300970
+442,Maharashtra,Constituency_198,MP_Name_198,Work_43,ABC Constructions,18-07-2022,239461
+443,Maharashtra,Constituency_199,MP_Name_199,Work_44,Rural Works Dept,18-03-2023,112888
+444,Gujarat,Constituency_200,MP_Name_200,Work_45,Global Infra,21-07-2022,176199
+445,Uttar Pradesh,Constituency_201,MP_Name_201,Work_46,Global Infra,12-02-2021,389018
+446,Gujarat,Constituency_202,MP_Name_202,Work_47,ABC Constructions,31-10-2021,447577
+447,Tamil Nadu,Constituency_203,MP_Name_203,Work_48,State PWD,25-03-2021,233663
+448,Delhi,Constituency_204,MP_Name_204,Work_49,Global Infra,26-07-2023,302867
+449,Delhi,Constituency_205,MP_Name_205,Work_50,State PWD,03-07-2022,265410
+450,Uttar Pradesh,Constituency_206,MP_Name_206,Work_51,Global Infra,25-09-2022,173971
+451,Tamil Nadu,Constituency_207,MP_Name_207,Work_52,ABC Constructions,13-07-2021,236378
+452,Delhi,Constituency_208,MP_Name_208,Work_53,Global Infra,25-06-2022,314892
+453,Karnataka,Constituency_209,MP_Name_209,Work_54,ABC Constructions,03-01-2021,181046
+454,Uttar Pradesh,Constituency_210,MP_Name_210,Work_55,XYZ Builders,11-03-2022,309859
+455,Gujarat,Constituency_211,MP_Name_211,Work_56,State PWD,24-08-2021,246790
+456,Uttar Pradesh,Constituency_212,MP_Name_212,Work_57,State PWD,31-05-2021,290776
+457,Gujarat,Constituency_213,MP_Name_213,Work_58,Global Infra,19-07-2021,50061
+458,Karnataka,Constituency_214,MP_Name_214,Work_59,Rural Works Dept,31-03-2021,438687
+459,Gujarat,Constituency_215,MP_Name_215,Work_60,Global Infra,19-10-2023,424078
+460,Tamil Nadu,Constituency_216,MP_Name_216,Work_61,XYZ Builders,01-06-2023,439931
+461,Karnataka,Constituency_217,MP_Name_217,Work_62,Global Infra,08-01-2022,84557
+462,Delhi,Constituency_218,MP_Name_218,Work_63,State PWD,18-08-2021,103621
+463,Gujarat,Constituency_219,MP_Name_219,Work_64,Global Infra,23-10-2022,297385
+464,Karnataka,Constituency_220,MP_Name_220,Work_65,XYZ Builders,13-12-2021,270822
+465,Uttar Pradesh,Constituency_221,MP_Name_221,Work_66,XYZ Builders,02-04-2022,469592
+466,Delhi,Constituency_222,MP_Name_222,Work_67,Global Infra,15-06-2022,139968
+467,Gujarat,Constituency_223,MP_Name_223,Work_68,XYZ Builders,08-02-2023,455547
+468,Maharashtra,Constituency_224,MP_Name_224,Work_69,Global Infra,11-05-2021,356548
+469,Uttar Pradesh,Constituency_225,MP_Name_225,Work_70,XYZ Builders,20-01-2023,58089
+470,Gujarat,Constituency_226,MP_Name_226,Work_71,XYZ Builders,29-06-2023,163055
+471,Delhi,Constituency_227,MP_Name_227,Work_72,XYZ Builders,11-11-2023,499199
+472,Uttar Pradesh,Constituency_228,MP_Name_228,Work_73,Rural Works Dept,22-08-2021,219005
+473,Gujarat,Constituency_229,MP_Name_229,Work_74,State PWD,28-11-2023,161986
+474,Maharashtra,Constituency_230,MP_Name_230,Work_75,Rural Works Dept,10-11-2022,430624
+475,Delhi,Constituency_231,MP_Name_231,Work_76,ABC Constructions,13-09-2021,108118
+476,Karnataka,Constituency_232,MP_Name_232,Work_77,Global Infra,28-12-2022,266243
+477,Maharashtra,Constituency_233,MP_Name_233,Work_78,Rural Works Dept,28-01-2023,69708
+478,Tamil Nadu,Constituency_234,MP_Name_234,Work_79,Rural Works Dept,17-12-2021,200460
+479,Karnataka,Constituency_235,MP_Name_235,Work_80,Global Infra,10-07-2021,135623
+480,Delhi,Constituency_236,MP_Name_236,Work_81,ABC Constructions,21-01-2023,150261
+481,Delhi,Constituency_237,MP_Name_237,Work_82,XYZ Builders,13-02-2023,112314
+482,Tamil Nadu,Constituency_238,MP_Name_238,Work_83,Rural Works Dept,12-08-2022,183633
+483,Delhi,Constituency_239,MP_Name_239,Work_84,State PWD,16-03-2023,69594
+484,Karnataka,Constituency_240,MP_Name_240,Work_85,Rural Works Dept,17-06-2022,440749
+485,Uttar Pradesh,Constituency_241,MP_Name_241,Work_86,XYZ Builders,29-11-2023,343022
+486,Maharashtra,Constituency_242,MP_Name_242,Work_87,XYZ Builders,15-09-2022,483342
+487,Gujarat,Constituency_243,MP_Name_243,Work_88,XYZ Builders,09-10-2023,152827
+488,Delhi,Constituency_244,MP_Name_244,Work_89,ABC Constructions,22-12-2023,308336
+489,Tamil Nadu,Constituency_245,MP_Name_245,Work_90,Global Infra,05-04-2021,455192
+490,Karnataka,Constituency_1,MP_Name_1,Work_91,XYZ Builders,12-11-2021,410590
+491,Tamil Nadu,Constituency_2,MP_Name_2,Work_92,Global Infra,01-05-2021,412747
+492,Gujarat,Constituency_3,MP_Name_3,Work_93,State PWD,22-02-2021,295675
+493,Uttar Pradesh,Constituency_4,MP_Name_4,Work_94,Rural Works Dept,27-05-2021,95786
+494,Maharashtra,Constituency_5,MP_Name_5,Work_95,Rural Works Dept,09-12-2023,270952
+495,Uttar Pradesh,Constituency_6,MP_Name_6,Work_96,ABC Constructions,16-12-2021,279474
+496,Tamil Nadu,Constituency_7,MP_Name_7,Work_97,XYZ Builders,28-11-2022,162447
+497,Karnataka,Constituency_8,MP_Name_8,Work_98,XYZ Builders,18-02-2023,437254
+498,Uttar Pradesh,Constituency_9,MP_Name_9,Work_99,XYZ Builders,31-05-2021,267021
+499,Tamil Nadu,Constituency_10,MP_Name_10,Work_100,Rural Works Dept,23-08-2021,135848
+500,Uttar Pradesh,Constituency_11,MP_Name_11,Work_101,State PWD,06-03-2023,361010
+501,Maharashtra,Constituency_12,MP_Name_12,Work_102,ABC Constructions,01-02-2023,467879
+502,Delhi,Constituency_13,MP_Name_13,Work_103,State PWD,15-02-2021,286637
+503,Delhi,Constituency_14,MP_Name_14,Work_104,State PWD,16-12-2021,495777
+504,Delhi,Constituency_15,MP_Name_15,Work_105,ABC Constructions,13-01-2021,88335
+505,Uttar Pradesh,Constituency_16,MP_Name_16,Work_106,State PWD,06-07-2021,196668
+506,Delhi,Constituency_17,MP_Name_17,Work_107,XYZ Builders,23-01-2023,282967
+507,Uttar Pradesh,Constituency_18,MP_Name_18,Work_108,State PWD,28-09-2023,126824
+508,Karnataka,Constituency_19,MP_Name_19,Work_109,ABC Constructions,16-06-2023,280958
+509,Uttar Pradesh,Constituency_20,MP_Name_20,Work_110,XYZ Builders,17-02-2022,381748
+510,Gujarat,Constituency_21,MP_Name_21,Work_111,Rural Works Dept,03-09-2023,69129
+511,Maharashtra,Constituency_22,MP_Name_22,Work_112,Rural Works Dept,13-12-2023,472076
+512,Tamil Nadu,Constituency_23,MP_Name_23,Work_113,Rural Works Dept,01-03-2023,222684
+513,Tamil Nadu,Constituency_24,MP_Name_24,Work_114,Global Infra,19-10-2022,426370
+514,Maharashtra,Constituency_25,MP_Name_25,Work_115,ABC Constructions,03-07-2023,239441
+515,Uttar Pradesh,Constituency_26,MP_Name_26,Work_116,ABC Constructions,30-04-2023,179490
+516,Delhi,Constituency_27,MP_Name_27,Work_117,ABC Constructions,07-11-2022,354034
+517,Maharashtra,Constituency_28,MP_Name_28,Work_118,ABC Constructions,05-09-2022,204468
+518,Tamil Nadu,Constituency_29,MP_Name_29,Work_119,XYZ Builders,03-12-2022,175985
+519,Delhi,Constituency_30,MP_Name_30,Work_120,ABC Constructions,20-06-2022,56983
+520,Tamil Nadu,Constituency_31,MP_Name_31,Work_121,ABC Constructions,17-03-2023,131210
+521,Maharashtra,Constituency_32,MP_Name_32,Work_122,State PWD,23-02-2021,351978
+522,Uttar Pradesh,Constituency_33,MP_Name_33,Work_123,XYZ Builders,05-08-2022,299840
+523,Delhi,Constituency_34,MP_Name_34,Work_124,XYZ Builders,30-11-2021,115700
+524,Karnataka,Constituency_35,MP_Name_35,Work_125,State PWD,31-01-2023,378541
+525,Gujarat,Constituency_36,MP_Name_36,Work_126,ABC Constructions,19-12-2021,167243
+526,Karnataka,Constituency_37,MP_Name_37,Work_127,Global Infra,25-06-2021,138196
+527,Delhi,Constituency_38,MP_Name_38,Work_128,ABC Constructions,14-10-2023,330313
+528,Gujarat,Constituency_39,MP_Name_39,Work_129,ABC Constructions,18-02-2022,497189
+529,Uttar Pradesh,Constituency_40,MP_Name_40,Work_130,XYZ Builders,12-01-2023,464776
+530,Karnataka,Constituency_41,MP_Name_41,Work_131,Global Infra,12-11-2023,395184
+531,Karnataka,Constituency_42,MP_Name_42,Work_132,Global Infra,26-03-2023,228487
+532,Uttar Pradesh,Constituency_43,MP_Name_43,Work_133,State PWD,25-06-2023,154702
+533,Delhi,Constituency_44,MP_Name_44,Work_134,ABC Constructions,27-12-2022,129467
+534,Uttar Pradesh,Constituency_45,MP_Name_45,Work_135,Global Infra,22-07-2021,349651
+535,Delhi,Constituency_46,MP_Name_46,Work_136,Rural Works Dept,05-08-2021,113284
+536,Delhi,Constituency_47,MP_Name_47,Work_137,Global Infra,12-05-2023,288637
+537,Uttar Pradesh,Constituency_48,MP_Name_48,Work_138,Global Infra,31-01-2022,220853
+538,Gujarat,Constituency_49,MP_Name_49,Work_139,Rural Works Dept,14-01-2023,117996
+539,Delhi,Constituency_50,MP_Name_50,Work_140,Global Infra,20-01-2023,145161
+540,Uttar Pradesh,Constituency_51,MP_Name_51,Work_141,ABC Constructions,28-05-2023,322052
+541,Karnataka,Constituency_52,MP_Name_52,Work_142,XYZ Builders,23-09-2021,124925
+542,Tamil Nadu,Constituency_53,MP_Name_53,Work_143,Rural Works Dept,10-12-2021,467726
+543,Gujarat,Constituency_54,MP_Name_54,Work_144,State PWD,12-08-2023,76119
+544,Maharashtra,Constituency_55,MP_Name_55,Work_145,State PWD,13-07-2021,349864
+545,Maharashtra,Constituency_56,MP_Name_56,Work_146,Rural Works Dept,08-01-2022,219841
+546,Delhi,Constituency_57,MP_Name_57,Work_147,XYZ Builders,16-11-2022,68158
+547,Uttar Pradesh,Constituency_58,MP_Name_58,Work_148,Global Infra,20-06-2021,238558
+548,Uttar Pradesh,Constituency_59,MP_Name_59,Work_149,Rural Works Dept,17-10-2023,118835
+549,Maharashtra,Constituency_60,MP_Name_60,Work_150,Rural Works Dept,01-01-2023,131463
+550,Gujarat,Constituency_61,MP_Name_61,Work_151,ABC Constructions,15-03-2021,125630
+551,Tamil Nadu,Constituency_62,MP_Name_62,Work_152,State PWD,07-12-2022,201087
+552,Delhi,Constituency_63,MP_Name_63,Work_153,Rural Works Dept,05-06-2023,175090
+553,Karnataka,Constituency_64,MP_Name_64,Work_154,ABC Constructions,19-06-2021,162433
+554,Delhi,Constituency_65,MP_Name_65,Work_155,XYZ Builders,14-07-2021,145539
+555,Uttar Pradesh,Constituency_66,MP_Name_66,Work_156,ABC Constructions,21-12-2021,402609
+556,Gujarat,Constituency_67,MP_Name_67,Work_157,Global Infra,30-09-2021,465132
+557,Gujarat,Constituency_68,MP_Name_68,Work_158,Rural Works Dept,28-07-2022,182156
+558,Maharashtra,Constituency_69,MP_Name_69,Work_159,State PWD,27-11-2021,332648
+559,Delhi,Constituency_70,MP_Name_70,Work_160,ABC Constructions,19-12-2023,302549
+560,Gujarat,Constituency_71,MP_Name_71,Work_161,State PWD,28-07-2022,287977
+561,Tamil Nadu,Constituency_72,MP_Name_72,Work_162,State PWD,16-11-2023,256022
+562,Maharashtra,Constituency_73,MP_Name_73,Work_163,Global Infra,15-02-2022,418872
+563,Maharashtra,Constituency_74,MP_Name_74,Work_164,ABC Constructions,05-10-2022,283728
+564,Karnataka,Constituency_75,MP_Name_75,Work_165,Global Infra,25-06-2022,132924
+565,Tamil Nadu,Constituency_76,MP_Name_76,Work_166,Global Infra,04-05-2021,275277
+566,Maharashtra,Constituency_77,MP_Name_77,Work_167,Rural Works Dept,05-07-2021,101473
+567,Gujarat,Constituency_78,MP_Name_78,Work_168,Global Infra,15-06-2023,363964
+568,Uttar Pradesh,Constituency_79,MP_Name_79,Work_169,State PWD,10-06-2023,425127
+569,Maharashtra,Constituency_80,MP_Name_80,Work_170,ABC Constructions,08-07-2022,192865
+570,Maharashtra,Constituency_81,MP_Name_81,Work_171,XYZ Builders,19-07-2023,253193
+571,Tamil Nadu,Constituency_82,MP_Name_82,Work_172,Rural Works Dept,12-11-2021,98865
+572,Karnataka,Constituency_83,MP_Name_83,Work_173,State PWD,04-05-2022,54570
+573,Delhi,Constituency_84,MP_Name_84,Work_174,State PWD,04-05-2021,231305
+574,Delhi,Constituency_85,MP_Name_85,Work_175,Rural Works Dept,27-05-2021,156568
+575,Uttar Pradesh,Constituency_86,MP_Name_86,Work_176,Global Infra,26-03-2023,205559
+576,Karnataka,Constituency_87,MP_Name_87,Work_177,Rural Works Dept,03-07-2023,397402
+577,Karnataka,Constituency_88,MP_Name_88,Work_178,ABC Constructions,01-12-2023,263740
+578,Maharashtra,Constituency_89,MP_Name_89,Work_179,ABC Constructions,19-11-2021,178268
+579,Delhi,Constituency_90,MP_Name_90,Work_180,Rural Works Dept,06-09-2022,493354
+580,Delhi,Constituency_91,MP_Name_91,Work_181,State PWD,26-01-2023,183569
+581,Uttar Pradesh,Constituency_92,MP_Name_92,Work_182,Global Infra,01-06-2021,340543
+582,Delhi,Constituency_93,MP_Name_93,Work_183,Rural Works Dept,01-10-2021,68675
+583,Uttar Pradesh,Constituency_94,MP_Name_94,Work_184,Rural Works Dept,17-07-2023,444498
+584,Uttar Pradesh,Constituency_95,MP_Name_95,Work_185,State PWD,19-10-2022,469293
+585,Delhi,Constituency_96,MP_Name_96,Work_186,Global Infra,16-05-2022,188963
+586,Delhi,Constituency_97,MP_Name_97,Work_187,ABC Constructions,27-05-2022,345691
+587,Karnataka,Constituency_98,MP_Name_98,Work_188,State PWD,16-02-2022,283637
+588,Karnataka,Constituency_99,MP_Name_99,Work_189,ABC Constructions,01-04-2022,337388
+589,Delhi,Constituency_100,MP_Name_100,Work_190,ABC Constructions,18-04-2023,254818
+590,Tamil Nadu,Constituency_101,MP_Name_101,Work_191,ABC Constructions,19-09-2023,99937
+591,Tamil Nadu,Constituency_102,MP_Name_102,Work_192,Rural Works Dept,26-01-2022,489492
+592,Maharashtra,Constituency_103,MP_Name_103,Work_193,Rural Works Dept,25-11-2021,343401
+593,Tamil Nadu,Constituency_104,MP_Name_104,Work_194,ABC Constructions,03-07-2023,143668
+594,Karnataka,Constituency_105,MP_Name_105,Work_195,Rural Works Dept,16-05-2023,201977
+595,Maharashtra,Constituency_106,MP_Name_106,Work_196,XYZ Builders,13-11-2022,273337
+596,Uttar Pradesh,Constituency_107,MP_Name_107,Work_197,ABC Constructions,11-07-2021,440149
+597,Gujarat,Constituency_108,MP_Name_108,Work_198,ABC Constructions,29-05-2022,351870
+598,Tamil Nadu,Constituency_109,MP_Name_109,Work_199,XYZ Builders,03-02-2022,321442
+599,Delhi,Constituency_110,MP_Name_110,Work_200,Global Infra,23-04-2021,75580
+600,Karnataka,Constituency_111,MP_Name_111,Work_1,Global Infra,16-07-2022,487642
+601,Uttar Pradesh,Constituency_112,MP_Name_112,Work_2,Global Infra,28-09-2023,218897
+602,Uttar Pradesh,Constituency_113,MP_Name_113,Work_3,State PWD,15-04-2023,403565
+603,Tamil Nadu,Constituency_114,MP_Name_114,Work_4,XYZ Builders,06-03-2022,355656
+604,Maharashtra,Constituency_115,MP_Name_115,Work_5,XYZ Builders,01-05-2021,71719
+605,Karnataka,Constituency_116,MP_Name_116,Work_6,Global Infra,10-12-2023,188321
+606,Delhi,Constituency_117,MP_Name_117,Work_7,ABC Constructions,15-03-2023,184275
+607,Delhi,Constituency_118,MP_Name_118,Work_8,ABC Constructions,01-06-2021,409880
+608,Gujarat,Constituency_119,MP_Name_119,Work_9,Global Infra,22-04-2023,322403
+609,Karnataka,Constituency_120,MP_Name_120,Work_10,XYZ Builders,14-04-2021,391082
+610,Maharashtra,Constituency_121,MP_Name_121,Work_11,Global Infra,19-09-2023,145191
+611,Karnataka,Constituency_122,MP_Name_122,Work_12,ABC Constructions,19-03-2021,172713
+612,Uttar Pradesh,Constituency_123,MP_Name_123,Work_13,Rural Works Dept,27-11-2021,409027
+613,Maharashtra,Constituency_124,MP_Name_124,Work_14,XYZ Builders,06-02-2021,66920
+614,Karnataka,Constituency_125,MP_Name_125,Work_15,ABC Constructions,04-10-2023,196525
+615,Tamil Nadu,Constituency_126,MP_Name_126,Work_16,State PWD,23-08-2022,55609
+616,Delhi,Constituency_127,MP_Name_127,Work_17,State PWD,27-02-2023,242832
+617,Gujarat,Constituency_128,MP_Name_128,Work_18,XYZ Builders,07-05-2022,367806
+618,Tamil Nadu,Constituency_129,MP_Name_129,Work_19,State PWD,12-12-2022,70762
+619,Gujarat,Constituency_130,MP_Name_130,Work_20,XYZ Builders,14-05-2022,80263
+620,Karnataka,Constituency_131,MP_Name_131,Work_21,State PWD,22-02-2021,404740
+621,Uttar Pradesh,Constituency_132,MP_Name_132,Work_22,XYZ Builders,13-03-2021,418305
+622,Maharashtra,Constituency_133,MP_Name_133,Work_23,State PWD,26-07-2023,392831
+623,Uttar Pradesh,Constituency_134,MP_Name_134,Work_24,Rural Works Dept,22-07-2022,444941
+624,Delhi,Constituency_135,MP_Name_135,Work_25,ABC Constructions,02-02-2023,315940
+625,Maharashtra,Constituency_136,MP_Name_136,Work_26,Rural Works Dept,18-08-2022,441931
+626,Karnataka,Constituency_137,MP_Name_137,Work_27,Rural Works Dept,29-07-2022,210520
+627,Uttar Pradesh,Constituency_138,MP_Name_138,Work_28,State PWD,18-06-2023,137500
+628,Delhi,Constituency_139,MP_Name_139,Work_29,State PWD,19-02-2021,68720
+629,Maharashtra,Constituency_140,MP_Name_140,Work_30,State PWD,30-10-2022,148325
+630,Maharashtra,Constituency_141,MP_Name_141,Work_31,Global Infra,23-02-2021,297255
+631,Karnataka,Constituency_142,MP_Name_142,Work_32,State PWD,09-06-2022,330908
+632,Maharashtra,Constituency_143,MP_Name_143,Work_33,Global Infra,25-12-2022,353466
+633,Karnataka,Constituency_144,MP_Name_144,Work_34,Rural Works Dept,19-06-2022,410291
+634,Maharashtra,Constituency_145,MP_Name_145,Work_35,ABC Constructions,03-02-2022,215507
+635,Karnataka,Constituency_146,MP_Name_146,Work_36,State PWD,31-07-2022,257744
+636,Uttar Pradesh,Constituency_147,MP_Name_147,Work_37,Rural Works Dept,03-10-2023,149619
+637,Delhi,Constituency_148,MP_Name_148,Work_38,Global Infra,18-11-2022,60750
+638,Gujarat,Constituency_149,MP_Name_149,Work_39,State PWD,04-02-2023,88630
+639,Maharashtra,Constituency_150,MP_Name_150,Work_40,XYZ Builders,07-12-2021,294277
+640,Maharashtra,Constituency_151,MP_Name_151,Work_41,ABC Constructions,03-12-2023,300774
+641,Maharashtra,Constituency_152,MP_Name_152,Work_42,State PWD,30-12-2021,198140
+642,Uttar Pradesh,Constituency_153,MP_Name_153,Work_43,Global Infra,21-04-2023,418385
+643,Gujarat,Constituency_154,MP_Name_154,Work_44,Rural Works Dept,21-04-2021,60826
+644,Karnataka,Constituency_155,MP_Name_155,Work_45,XYZ Builders,16-06-2022,312641
+645,Maharashtra,Constituency_156,MP_Name_156,Work_46,State PWD,13-01-2022,499864
+646,Tamil Nadu,Constituency_157,MP_Name_157,Work_47,XYZ Builders,01-05-2022,152880
+647,Tamil Nadu,Constituency_158,MP_Name_158,Work_48,Global Infra,04-04-2023,64337
+648,Uttar Pradesh,Constituency_159,MP_Name_159,Work_49,Rural Works Dept,29-04-2023,365468
+649,Gujarat,Constituency_160,MP_Name_160,Work_50,Rural Works Dept,05-04-2022,478683
+650,Tamil Nadu,Constituency_161,MP_Name_161,Work_51,State PWD,25-07-2022,147936
+651,Maharashtra,Constituency_162,MP_Name_162,Work_52,XYZ Builders,09-01-2021,312242
+652,Delhi,Constituency_163,MP_Name_163,Work_53,ABC Constructions,28-03-2021,223003
+653,Maharashtra,Constituency_164,MP_Name_164,Work_54,Global Infra,10-08-2021,100928
+654,Uttar Pradesh,Constituency_165,MP_Name_165,Work_55,Global Infra,25-01-2022,213140
+655,Tamil Nadu,Constituency_166,MP_Name_166,Work_56,Global Infra,10-05-2023,125913
+656,Delhi,Constituency_167,MP_Name_167,Work_57,Rural Works Dept,02-08-2023,485968
+657,Uttar Pradesh,Constituency_168,MP_Name_168,Work_58,Global Infra,03-09-2023,334598
+658,Karnataka,Constituency_169,MP_Name_169,Work_59,Rural Works Dept,04-06-2023,104403
+659,Tamil Nadu,Constituency_170,MP_Name_170,Work_60,XYZ Builders,13-04-2021,331838
+660,Maharashtra,Constituency_171,MP_Name_171,Work_61,ABC Constructions,02-09-2023,179276
+661,Delhi,Constituency_172,MP_Name_172,Work_62,Global Infra,13-06-2022,322776
+662,Tamil Nadu,Constituency_173,MP_Name_173,Work_63,Global Infra,08-08-2023,379440
+663,Tamil Nadu,Constituency_174,MP_Name_174,Work_64,Global Infra,10-03-2021,166573
+664,Uttar Pradesh,Constituency_175,MP_Name_175,Work_65,XYZ Builders,26-07-2021,287998
+665,Gujarat,Constituency_176,MP_Name_176,Work_66,XYZ Builders,20-11-2021,59832
+666,Tamil Nadu,Constituency_177,MP_Name_177,Work_67,Rural Works Dept,14-07-2022,346048
+667,Karnataka,Constituency_178,MP_Name_178,Work_68,XYZ Builders,19-02-2022,427257
+668,Karnataka,Constituency_179,MP_Name_179,Work_69,State PWD,01-12-2021,394715
+669,Gujarat,Constituency_180,MP_Name_180,Work_70,Global Infra,27-08-2022,245141
+670,Tamil Nadu,Constituency_181,MP_Name_181,Work_71,Global Infra,07-02-2022,120696
+671,Delhi,Constituency_182,MP_Name_182,Work_72,Rural Works Dept,20-02-2021,391391
+672,Karnataka,Constituency_183,MP_Name_183,Work_73,State PWD,10-10-2022,238163
+673,Uttar Pradesh,Constituency_184,MP_Name_184,Work_74,Global Infra,14-06-2023,490000
+674,Delhi,Constituency_185,MP_Name_185,Work_75,Global Infra,22-09-2021,199359
+675,Gujarat,Constituency_186,MP_Name_186,Work_76,Rural Works Dept,23-03-2022,216778
+676,Delhi,Constituency_187,MP_Name_187,Work_77,State PWD,24-09-2023,449990
+677,Maharashtra,Constituency_188,MP_Name_188,Work_78,Rural Works Dept,30-05-2021,274477
+678,Tamil Nadu,Constituency_189,MP_Name_189,Work_79,XYZ Builders,20-09-2022,171311
+679,Delhi,Constituency_190,MP_Name_190,Work_80,State PWD,31-01-2023,103214
+680,Gujarat,Constituency_191,MP_Name_191,Work_81,Global Infra,12-01-2021,136785
+681,Uttar Pradesh,Constituency_192,MP_Name_192,Work_82,Global Infra,16-10-2022,458325
+682,Gujarat,Constituency_193,MP_Name_193,Work_83,Rural Works Dept,29-03-2023,376643
+683,Karnataka,Constituency_194,MP_Name_194,Work_84,Global Infra,08-08-2021,424079
+684,Maharashtra,Constituency_195,MP_Name_195,Work_85,ABC Constructions,05-02-2023,136450
+685,Karnataka,Constituency_196,MP_Name_196,Work_86,State PWD,20-10-2022,389601
+686,Delhi,Constituency_197,MP_Name_197,Work_87,Rural Works Dept,22-06-2021,322947
+687,Tamil Nadu,Constituency_198,MP_Name_198,Work_88,State PWD,22-06-2021,112850
+688,Maharashtra,Constituency_199,MP_Name_199,Work_89,Global Infra,04-03-2021,414538
+689,Gujarat,Constituency_200,MP_Name_200,Work_90,XYZ Builders,30-10-2021,116065
+690,Delhi,Constituency_201,MP_Name_201,Work_91,XYZ Builders,11-01-2021,229481
+691,Gujarat,Constituency_202,MP_Name_202,Work_92,XYZ Builders,03-01-2021,366543
+692,Gujarat,Constituency_203,MP_Name_203,Work_93,Rural Works Dept,16-01-2021,144488
+693,Uttar Pradesh,Constituency_204,MP_Name_204,Work_94,XYZ Builders,10-03-2022,406419
+694,Gujarat,Constituency_205,MP_Name_205,Work_95,Rural Works Dept,08-12-2023,494060
+695,Maharashtra,Constituency_206,MP_Name_206,Work_96,XYZ Builders,31-01-2021,300318
+696,Tamil Nadu,Constituency_207,MP_Name_207,Work_97,State PWD,21-03-2021,463026
+697,Uttar Pradesh,Constituency_208,MP_Name_208,Work_98,Rural Works Dept,16-04-2023,448454
+698,Maharashtra,Constituency_209,MP_Name_209,Work_99,XYZ Builders,22-07-2022,299664
+699,Tamil Nadu,Constituency_210,MP_Name_210,Work_100,State PWD,10-02-2023,165465
+700,Maharashtra,Constituency_211,MP_Name_211,Work_101,State PWD,24-08-2021,424528
+701,Tamil Nadu,Constituency_212,MP_Name_212,Work_102,Global Infra,29-01-2021,444282
+702,Delhi,Constituency_213,MP_Name_213,Work_103,Rural Works Dept,21-11-2021,350960
+703,Karnataka,Constituency_214,MP_Name_214,Work_104,XYZ Builders,15-09-2022,107827
+704,Uttar Pradesh,Constituency_215,MP_Name_215,Work_105,Rural Works Dept,21-08-2022,109654
+705,Gujarat,Constituency_216,MP_Name_216,Work_106,XYZ Builders,18-02-2022,298773
+706,Maharashtra,Constituency_217,MP_Name_217,Work_107,Rural Works Dept,26-10-2021,277141
+707,Uttar Pradesh,Constituency_218,MP_Name_218,Work_108,ABC Constructions,13-07-2021,205324
+708,Uttar Pradesh,Constituency_219,MP_Name_219,Work_109,Rural Works Dept,10-10-2022,190793
+709,Delhi,Constituency_220,MP_Name_220,Work_110,Rural Works Dept,09-02-2022,73492
+710,Uttar Pradesh,Constituency_221,MP_Name_221,Work_111,Rural Works Dept,31-05-2021,332393
+711,Karnataka,Constituency_222,MP_Name_222,Work_112,XYZ Builders,23-01-2022,374306
+712,Maharashtra,Constituency_223,MP_Name_223,Work_113,Rural Works Dept,23-11-2021,479893
+713,Delhi,Constituency_224,MP_Name_224,Work_114,Rural Works Dept,17-01-2023,437571
+714,Uttar Pradesh,Constituency_225,MP_Name_225,Work_115,XYZ Builders,19-09-2023,134607
+715,Uttar Pradesh,Constituency_226,MP_Name_226,Work_116,Global Infra,27-10-2022,273189
+716,Karnataka,Constituency_227,MP_Name_227,Work_117,ABC Constructions,12-10-2023,283932
+717,Karnataka,Constituency_228,MP_Name_228,Work_118,State PWD,28-12-2021,136958
+718,Uttar Pradesh,Constituency_229,MP_Name_229,Work_119,ABC Constructions,12-07-2023,190192
+719,Gujarat,Constituency_230,MP_Name_230,Work_120,Rural Works Dept,15-04-2022,345602
+720,Delhi,Constituency_231,MP_Name_231,Work_121,XYZ Builders,26-03-2021,481770
+721,Uttar Pradesh,Constituency_232,MP_Name_232,Work_122,State PWD,18-11-2021,284061
+722,Karnataka,Constituency_233,MP_Name_233,Work_123,State PWD,25-04-2022,295614
+723,Uttar Pradesh,Constituency_234,MP_Name_234,Work_124,Rural Works Dept,24-07-2022,457211
+724,Tamil Nadu,Constituency_235,MP_Name_235,Work_125,Rural Works Dept,10-02-2022,174146
+725,Delhi,Constituency_236,MP_Name_236,Work_126,ABC Constructions,02-12-2023,430766
+726,Gujarat,Constituency_237,MP_Name_237,Work_127,Rural Works Dept,29-08-2021,137924
+727,Uttar Pradesh,Constituency_238,MP_Name_238,Work_128,XYZ Builders,22-02-2023,210710
+728,Uttar Pradesh,Constituency_239,MP_Name_239,Work_129,Global Infra,08-04-2022,343701
+729,Karnataka,Constituency_240,MP_Name_240,Work_130,XYZ Builders,24-12-2023,123309
+730,Gujarat,Constituency_241,MP_Name_241,Work_131,Rural Works Dept,19-10-2021,407323
+731,Gujarat,Constituency_242,MP_Name_242,Work_132,ABC Constructions,08-07-2022,303946
+732,Uttar Pradesh,Constituency_243,MP_Name_243,Work_133,Rural Works Dept,02-07-2022,182845
+733,Delhi,Constituency_244,MP_Name_244,Work_134,XYZ Builders,03-02-2021,330043
+734,Tamil Nadu,Constituency_245,MP_Name_245,Work_135,Global Infra,21-07-2023,290214
+735,Uttar Pradesh,Constituency_1,MP_Name_1,Work_136,Rural Works Dept,21-06-2022,285737
+736,Uttar Pradesh,Constituency_2,MP_Name_2,Work_137,Global Infra,29-01-2023,221458
+737,Delhi,Constituency_3,MP_Name_3,Work_138,XYZ Builders,16-05-2023,491339
+738,Gujarat,Constituency_4,MP_Name_4,Work_139,Rural Works Dept,30-08-2023,255082
+739,Delhi,Constituency_5,MP_Name_5,Work_140,ABC Constructions,17-11-2023,170812
+740,Delhi,Constituency_6,MP_Name_6,Work_141,Global Infra,27-01-2021,64125
+741,Gujarat,Constituency_7,MP_Name_7,Work_142,Global Infra,22-05-2021,106143
+742,Karnataka,Constituency_8,MP_Name_8,Work_143,State PWD,30-09-2023,472278
+743,Karnataka,Constituency_9,MP_Name_9,Work_144,State PWD,29-04-2023,463452
+744,Maharashtra,Constituency_10,MP_Name_10,Work_145,State PWD,11-02-2021,193680
+745,Tamil Nadu,Constituency_11,MP_Name_11,Work_146,Rural Works Dept,05-08-2021,232029
+746,Uttar Pradesh,Constituency_12,MP_Name_12,Work_147,Rural Works Dept,11-11-2021,167306
+747,Tamil Nadu,Constituency_13,MP_Name_13,Work_148,XYZ Builders,07-03-2022,131216
+748,Gujarat,Constituency_14,MP_Name_14,Work_149,XYZ Builders,07-08-2021,432763
+749,Uttar Pradesh,Constituency_15,MP_Name_15,Work_150,ABC Constructions,30-04-2023,260126
+750,Tamil Nadu,Constituency_16,MP_Name_16,Work_151,XYZ Builders,09-09-2023,80066
+751,Tamil Nadu,Constituency_17,MP_Name_17,Work_152,XYZ Builders,11-12-2022,434453
+752,Uttar Pradesh,Constituency_18,MP_Name_18,Work_153,State PWD,27-04-2021,139911
+753,Gujarat,Constituency_19,MP_Name_19,Work_154,Rural Works Dept,08-05-2023,368116
+754,Gujarat,Constituency_20,MP_Name_20,Work_155,Rural Works Dept,02-05-2023,401348
+755,Maharashtra,Constituency_21,MP_Name_21,Work_156,State PWD,25-02-2023,496739
+756,Uttar Pradesh,Constituency_22,MP_Name_22,Work_157,ABC Constructions,28-10-2021,299546
+757,Uttar Pradesh,Constituency_23,MP_Name_23,Work_158,ABC Constructions,16-10-2022,75888
+758,Delhi,Constituency_24,MP_Name_24,Work_159,Global Infra,06-05-2021,313949
+759,Gujarat,Constituency_25,MP_Name_25,Work_160,Global Infra,20-04-2022,348363
+760,Tamil Nadu,Constituency_26,MP_Name_26,Work_161,Rural Works Dept,15-05-2021,171997
+761,Gujarat,Constituency_27,MP_Name_27,Work_162,ABC Constructions,19-02-2023,118636
+762,Maharashtra,Constituency_28,MP_Name_28,Work_163,State PWD,04-10-2021,254424
+763,Maharashtra,Constituency_29,MP_Name_29,Work_164,ABC Constructions,21-10-2021,242083
+764,Tamil Nadu,Constituency_30,MP_Name_30,Work_165,Rural Works Dept,01-03-2023,480975
+765,Uttar Pradesh,Constituency_31,MP_Name_31,Work_166,XYZ Builders,24-11-2021,381132
+766,Delhi,Constituency_32,MP_Name_32,Work_167,Global Infra,02-04-2021,288988
+767,Gujarat,Constituency_33,MP_Name_33,Work_168,ABC Constructions,10-08-2021,160511
+768,Karnataka,Constituency_34,MP_Name_34,Work_169,ABC Constructions,22-07-2021,389685
+769,Gujarat,Constituency_35,MP_Name_35,Work_170,Rural Works Dept,25-11-2023,305986
+770,Tamil Nadu,Constituency_36,MP_Name_36,Work_171,State PWD,10-02-2022,106289
+771,Karnataka,Constituency_37,MP_Name_37,Work_172,Global Infra,28-09-2021,484884
+772,Maharashtra,Constituency_38,MP_Name_38,Work_173,State PWD,08-12-2022,497337
+773,Karnataka,Constituency_39,MP_Name_39,Work_174,XYZ Builders,03-11-2023,464658
+774,Karnataka,Constituency_40,MP_Name_40,Work_175,Rural Works Dept,26-07-2022,83898
+775,Delhi,Constituency_41,MP_Name_41,Work_176,Global Infra,22-07-2022,76801
+776,Gujarat,Constituency_42,MP_Name_42,Work_177,State PWD,12-12-2022,159024
+777,Tamil Nadu,Constituency_43,MP_Name_43,Work_178,ABC Constructions,12-05-2022,202776
+778,Gujarat,Constituency_44,MP_Name_44,Work_179,XYZ Builders,28-01-2021,487152
+779,Maharashtra,Constituency_45,MP_Name_45,Work_180,Global Infra,23-02-2023,471423
+780,Gujarat,Constituency_46,MP_Name_46,Work_181,ABC Constructions,25-10-2023,216665
+781,Maharashtra,Constituency_47,MP_Name_47,Work_182,Rural Works Dept,06-11-2021,258350
+782,Maharashtra,Constituency_48,MP_Name_48,Work_183,Rural Works Dept,16-07-2023,248604
+783,Karnataka,Constituency_49,MP_Name_49,Work_184,State PWD,26-08-2023,60637
+784,Karnataka,Constituency_50,MP_Name_50,Work_185,State PWD,09-10-2021,97143
+785,Uttar Pradesh,Constituency_51,MP_Name_51,Work_186,Global Infra,31-12-2023,219815
+786,Maharashtra,Constituency_52,MP_Name_52,Work_187,Rural Works Dept,29-12-2023,407353
+787,Maharashtra,Constituency_53,MP_Name_53,Work_188,Global Infra,18-06-2023,415635
+788,Delhi,Constituency_54,MP_Name_54,Work_189,State PWD,18-10-2021,172967
+789,Tamil Nadu,Constituency_55,MP_Name_55,Work_190,State PWD,31-01-2022,174900
+790,Tamil Nadu,Constituency_56,MP_Name_56,Work_191,Rural Works Dept,25-12-2021,280778
+791,Karnataka,Constituency_57,MP_Name_57,Work_192,Rural Works Dept,22-02-2021,449911
+792,Delhi,Constituency_58,MP_Name_58,Work_193,State PWD,31-03-2022,323244
+793,Maharashtra,Constituency_59,MP_Name_59,Work_194,State PWD,06-02-2023,460055
+794,Tamil Nadu,Constituency_60,MP_Name_60,Work_195,State PWD,18-05-2021,280296
+795,Maharashtra,Constituency_61,MP_Name_61,Work_196,ABC Constructions,10-10-2022,319869
+796,Gujarat,Constituency_62,MP_Name_62,Work_197,XYZ Builders,25-11-2023,463672
+797,Gujarat,Constituency_63,MP_Name_63,Work_198,XYZ Builders,14-03-2023,212744
+798,Delhi,Constituency_64,MP_Name_64,Work_199,XYZ Builders,01-08-2022,117898
+799,Karnataka,Constituency_65,MP_Name_65,Work_200,Global Infra,27-05-2022,361171
+800,Tamil Nadu,Constituency_66,MP_Name_66,Work_1,Global Infra,01-02-2021,251067
+801,Maharashtra,Constituency_67,MP_Name_67,Work_2,ABC Constructions,21-11-2021,488521
+802,Delhi,Constituency_68,MP_Name_68,Work_3,Global Infra,27-05-2023,54432
+803,Tamil Nadu,Constituency_69,MP_Name_69,Work_4,Global Infra,28-09-2021,447173
+804,Uttar Pradesh,Constituency_70,MP_Name_70,Work_5,Global Infra,06-03-2021,361001
+805,Gujarat,Constituency_71,MP_Name_71,Work_6,ABC Constructions,09-10-2022,199973
+806,Delhi,Constituency_72,MP_Name_72,Work_7,State PWD,24-08-2022,215127
+807,Uttar Pradesh,Constituency_73,MP_Name_73,Work_8,ABC Constructions,25-03-2022,242205
+808,Uttar Pradesh,Constituency_74,MP_Name_74,Work_9,Rural Works Dept,27-08-2022,202811
+809,Delhi,Constituency_75,MP_Name_75,Work_10,XYZ Builders,20-09-2022,140114
+810,Uttar Pradesh,Constituency_76,MP_Name_76,Work_11,Rural Works Dept,20-10-2023,380289
+811,Karnataka,Constituency_77,MP_Name_77,Work_12,Rural Works Dept,16-07-2021,90678
+812,Tamil Nadu,Constituency_78,MP_Name_78,Work_13,Rural Works Dept,28-06-2021,345056
+813,Maharashtra,Constituency_79,MP_Name_79,Work_14,State PWD,14-03-2022,83139
+814,Maharashtra,Constituency_80,MP_Name_80,Work_15,State PWD,12-01-2021,461203
+815,Maharashtra,Constituency_81,MP_Name_81,Work_16,State PWD,08-09-2022,117777
+816,Delhi,Constituency_82,MP_Name_82,Work_17,Global Infra,25-04-2023,113991
+817,Uttar Pradesh,Constituency_83,MP_Name_83,Work_18,ABC Constructions,04-03-2023,172496
+818,Tamil Nadu,Constituency_84,MP_Name_84,Work_19,ABC Constructions,02-11-2023,452615
+819,Uttar Pradesh,Constituency_85,MP_Name_85,Work_20,XYZ Builders,27-07-2023,423179
+820,Uttar Pradesh,Constituency_86,MP_Name_86,Work_21,State PWD,28-04-2023,86048
+821,Delhi,Constituency_87,MP_Name_87,Work_22,State PWD,28-11-2023,337988
+822,Delhi,Constituency_88,MP_Name_88,Work_23,Global Infra,12-01-2021,129379
+823,Tamil Nadu,Constituency_89,MP_Name_89,Work_24,ABC Constructions,15-05-2022,462917
+824,Karnataka,Constituency_90,MP_Name_90,Work_25,Global Infra,18-04-2021,249121
+825,Maharashtra,Constituency_91,MP_Name_91,Work_26,Rural Works Dept,02-12-2023,448861
+826,Karnataka,Constituency_92,MP_Name_92,Work_27,ABC Constructions,23-09-2021,147601
+827,Gujarat,Constituency_93,MP_Name_93,Work_28,ABC Constructions,27-03-2021,324629
+828,Gujarat,Constituency_94,MP_Name_94,Work_29,State PWD,22-02-2021,121797
+829,Karnataka,Constituency_95,MP_Name_95,Work_30,Global Infra,14-03-2022,334503
+830,Maharashtra,Constituency_96,MP_Name_96,Work_31,Rural Works Dept,08-10-2022,79903
+831,Delhi,Constituency_97,MP_Name_97,Work_32,State PWD,26-07-2023,314841
+832,Tamil Nadu,Constituency_98,MP_Name_98,Work_33,Rural Works Dept,05-06-2023,358665
+833,Tamil Nadu,Constituency_99,MP_Name_99,Work_34,ABC Constructions,14-11-2022,147703
+834,Maharashtra,Constituency_100,MP_Name_100,Work_35,Rural Works Dept,29-08-2022,464603
+835,Gujarat,Constituency_101,MP_Name_101,Work_36,Rural Works Dept,25-06-2023,361709
+836,Tamil Nadu,Constituency_102,MP_Name_102,Work_37,Rural Works Dept,05-04-2022,396966
+837,Tamil Nadu,Constituency_103,MP_Name_103,Work_38,Rural Works Dept,11-04-2022,197360
+838,Maharashtra,Constituency_104,MP_Name_104,Work_39,Rural Works Dept,26-10-2022,274206
+839,Delhi,Constituency_105,MP_Name_105,Work_40,State PWD,25-08-2021,197635
+840,Tamil Nadu,Constituency_106,MP_Name_106,Work_41,XYZ Builders,09-08-2023,488286
+841,Uttar Pradesh,Constituency_107,MP_Name_107,Work_42,Global Infra,11-03-2023,107105
+842,Karnataka,Constituency_108,MP_Name_108,Work_43,Rural Works Dept,21-10-2022,164946
+843,Tamil Nadu,Constituency_109,MP_Name_109,Work_44,XYZ Builders,09-11-2021,353116
+844,Gujarat,Constituency_110,MP_Name_110,Work_45,State PWD,09-05-2023,271496
+845,Uttar Pradesh,Constituency_111,MP_Name_111,Work_46,XYZ Builders,15-05-2023,93329
+846,Maharashtra,Constituency_112,MP_Name_112,Work_47,XYZ Builders,28-07-2021,433595
+847,Delhi,Constituency_113,MP_Name_113,Work_48,ABC Constructions,27-04-2022,348400
+848,Uttar Pradesh,Constituency_114,MP_Name_114,Work_49,XYZ Builders,19-07-2022,60560
+849,Karnataka,Constituency_115,MP_Name_115,Work_50,State PWD,18-03-2023,198163
+850,Delhi,Constituency_116,MP_Name_116,Work_51,Rural Works Dept,20-05-2021,225814
+851,Gujarat,Constituency_117,MP_Name_117,Work_52,State PWD,15-06-2022,285205
+852,Gujarat,Constituency_118,MP_Name_118,Work_53,Global Infra,18-09-2023,73667
+853,Karnataka,Constituency_119,MP_Name_119,Work_54,Rural Works Dept,25-04-2022,405442
+854,Karnataka,Constituency_120,MP_Name_120,Work_55,XYZ Builders,26-01-2021,339436
+855,Gujarat,Constituency_121,MP_Name_121,Work_56,Rural Works Dept,04-01-2021,166827
+856,Maharashtra,Constituency_122,MP_Name_122,Work_57,Rural Works Dept,02-01-2023,172256
+857,Uttar Pradesh,Constituency_123,MP_Name_123,Work_58,Global Infra,23-07-2021,453323
+858,Delhi,Constituency_124,MP_Name_124,Work_59,ABC Constructions,30-12-2022,335272
+859,Karnataka,Constituency_125,MP_Name_125,Work_60,Global Infra,24-04-2023,124310
+860,Tamil Nadu,Constituency_126,MP_Name_126,Work_61,XYZ Builders,12-07-2021,396346
+861,Delhi,Constituency_127,MP_Name_127,Work_62,State PWD,20-12-2023,314394
+862,Gujarat,Constituency_128,MP_Name_128,Work_63,Global Infra,03-04-2022,189113
+863,Tamil Nadu,Constituency_129,MP_Name_129,Work_64,Rural Works Dept,10-03-2021,431696
+864,Delhi,Constituency_130,MP_Name_130,Work_65,ABC Constructions,21-08-2021,385549
+865,Maharashtra,Constituency_131,MP_Name_131,Work_66,State PWD,22-12-2022,434947
+866,Gujarat,Constituency_132,MP_Name_132,Work_67,ABC Constructions,02-10-2023,358657
+867,Maharashtra,Constituency_133,MP_Name_133,Work_68,XYZ Builders,17-05-2022,394794
+868,Karnataka,Constituency_134,MP_Name_134,Work_69,Global Infra,20-06-2021,231970
+869,Maharashtra,Constituency_135,MP_Name_135,Work_70,State PWD,06-05-2021,144723
+870,Karnataka,Constituency_136,MP_Name_136,Work_71,XYZ Builders,23-01-2021,51063
+871,Karnataka,Constituency_137,MP_Name_137,Work_72,XYZ Builders,21-10-2021,464120
+872,Maharashtra,Constituency_138,MP_Name_138,Work_73,ABC Constructions,09-04-2022,180392
+873,Delhi,Constituency_139,MP_Name_139,Work_74,ABC Constructions,27-06-2021,79656
+874,Maharashtra,Constituency_140,MP_Name_140,Work_75,Rural Works Dept,13-08-2022,162149
+875,Maharashtra,Constituency_141,MP_Name_141,Work_76,XYZ Builders,02-12-2022,224293
+876,Uttar Pradesh,Constituency_142,MP_Name_142,Work_77,Rural Works Dept,24-10-2023,175358
+877,Tamil Nadu,Constituency_143,MP_Name_143,Work_78,State PWD,24-05-2021,357747
+878,Karnataka,Constituency_144,MP_Name_144,Work_79,XYZ Builders,09-09-2023,311379
+879,Delhi,Constituency_145,MP_Name_145,Work_80,State PWD,20-10-2022,101414
+880,Uttar Pradesh,Constituency_146,MP_Name_146,Work_81,ABC Constructions,11-02-2021,429768
+881,Karnataka,Constituency_147,MP_Name_147,Work_82,Global Infra,03-09-2023,396774
+882,Tamil Nadu,Constituency_148,MP_Name_148,Work_83,XYZ Builders,23-08-2023,179953
+883,Uttar Pradesh,Constituency_149,MP_Name_149,Work_84,State PWD,30-07-2021,128555
+884,Tamil Nadu,Constituency_150,MP_Name_150,Work_85,XYZ Builders,01-06-2023,372311
+885,Gujarat,Constituency_151,MP_Name_151,Work_86,State PWD,11-11-2022,179506
+886,Karnataka,Constituency_152,MP_Name_152,Work_87,Rural Works Dept,15-04-2021,147202
+887,Tamil Nadu,Constituency_153,MP_Name_153,Work_88,Rural Works Dept,12-01-2021,487262
+888,Uttar Pradesh,Constituency_154,MP_Name_154,Work_89,State PWD,03-10-2021,422756
+889,Delhi,Constituency_155,MP_Name_155,Work_90,ABC Constructions,29-11-2022,416342
+890,Gujarat,Constituency_156,MP_Name_156,Work_91,XYZ Builders,24-11-2022,194497
+891,Uttar Pradesh,Constituency_157,MP_Name_157,Work_92,Global Infra,05-05-2022,237999
+892,Tamil Nadu,Constituency_158,MP_Name_158,Work_93,Rural Works Dept,26-08-2022,161381
+893,Tamil Nadu,Constituency_159,MP_Name_159,Work_94,Rural Works Dept,10-02-2022,398395
+894,Maharashtra,Constituency_160,MP_Name_160,Work_95,Rural Works Dept,14-04-2021,196547
+895,Delhi,Constituency_161,MP_Name_161,Work_96,Rural Works Dept,30-09-2021,163763
+896,Maharashtra,Constituency_162,MP_Name_162,Work_97,State PWD,29-07-2022,131558
+897,Karnataka,Constituency_163,MP_Name_163,Work_98,Rural Works Dept,18-01-2022,166833
+898,Uttar Pradesh,Constituency_164,MP_Name_164,Work_99,Rural Works Dept,29-09-2023,125351
+899,Gujarat,Constituency_165,MP_Name_165,Work_100,Rural Works Dept,14-01-2022,51547
+900,Gujarat,Constituency_166,MP_Name_166,Work_101,State PWD,16-08-2021,59945
+901,Uttar Pradesh,Constituency_167,MP_Name_167,Work_102,ABC Constructions,16-04-2022,494845
+902,Uttar Pradesh,Constituency_168,MP_Name_168,Work_103,ABC Constructions,11-05-2021,179304
+903,Delhi,Constituency_169,MP_Name_169,Work_104,ABC Constructions,03-06-2021,325005
+904,Karnataka,Constituency_170,MP_Name_170,Work_105,XYZ Builders,12-08-2021,77500
+905,Tamil Nadu,Constituency_171,MP_Name_171,Work_106,XYZ Builders,02-05-2023,67657
+906,Karnataka,Constituency_172,MP_Name_172,Work_107,ABC Constructions,06-09-2021,116022
+907,Maharashtra,Constituency_173,MP_Name_173,Work_108,State PWD,13-05-2023,372553
+908,Uttar Pradesh,Constituency_174,MP_Name_174,Work_109,Rural Works Dept,19-01-2021,467071
+909,Gujarat,Constituency_175,MP_Name_175,Work_110,XYZ Builders,09-11-2022,489394
+910,Karnataka,Constituency_176,MP_Name_176,Work_111,Rural Works Dept,12-02-2023,298099
+911,Uttar Pradesh,Constituency_177,MP_Name_177,Work_112,ABC Constructions,09-08-2021,123760
+912,Gujarat,Constituency_178,MP_Name_178,Work_113,ABC Constructions,12-07-2022,269940
+913,Karnataka,Constituency_179,MP_Name_179,Work_114,XYZ Builders,06-03-2021,75423
+914,Uttar Pradesh,Constituency_180,MP_Name_180,Work_115,State PWD,11-08-2021,95237
+915,Gujarat,Constituency_181,MP_Name_181,Work_116,State PWD,05-02-2021,485156
+916,Maharashtra,Constituency_182,MP_Name_182,Work_117,Rural Works Dept,29-09-2023,271575
+917,Karnataka,Constituency_183,MP_Name_183,Work_118,XYZ Builders,27-09-2022,128264
+918,Uttar Pradesh,Constituency_184,MP_Name_184,Work_119,State PWD,14-01-2021,205489
+919,Maharashtra,Constituency_185,MP_Name_185,Work_120,Global Infra,22-03-2023,290035
+920,Delhi,Constituency_186,MP_Name_186,Work_121,Rural Works Dept,06-09-2023,134495
+921,Gujarat,Constituency_187,MP_Name_187,Work_122,XYZ Builders,18-08-2022,355418
+922,Delhi,Constituency_188,MP_Name_188,Work_123,Rural Works Dept,23-02-2023,306237
+923,Uttar Pradesh,Constituency_189,MP_Name_189,Work_124,State PWD,07-10-2021,142644
+924,Gujarat,Constituency_190,MP_Name_190,Work_125,XYZ Builders,22-06-2023,275185
+925,Uttar Pradesh,Constituency_191,MP_Name_191,Work_126,Global Infra,12-10-2021,105320
+926,Gujarat,Constituency_192,MP_Name_192,Work_127,Rural Works Dept,16-01-2021,429702
+927,Gujarat,Constituency_193,MP_Name_193,Work_128,XYZ Builders,06-06-2021,315847
+928,Delhi,Constituency_194,MP_Name_194,Work_129,State PWD,18-06-2021,87244
+929,Delhi,Constituency_195,MP_Name_195,Work_130,Global Infra,13-02-2023,303121
+930,Delhi,Constituency_196,MP_Name_196,Work_131,Global Infra,19-04-2022,297924
+931,Tamil Nadu,Constituency_197,MP_Name_197,Work_132,ABC Constructions,01-09-2023,367061
+932,Delhi,Constituency_198,MP_Name_198,Work_133,State PWD,20-07-2023,217467
+933,Karnataka,Constituency_199,MP_Name_199,Work_134,State PWD,03-03-2021,461795
+934,Karnataka,Constituency_200,MP_Name_200,Work_135,XYZ Builders,22-01-2021,152606
+935,Tamil Nadu,Constituency_201,MP_Name_201,Work_136,XYZ Builders,10-12-2021,373683
+936,Tamil Nadu,Constituency_202,MP_Name_202,Work_137,Global Infra,01-09-2023,173965
+937,Gujarat,Constituency_203,MP_Name_203,Work_138,XYZ Builders,07-03-2022,323227
+938,Karnataka,Constituency_204,MP_Name_204,Work_139,State PWD,14-01-2022,435488
+939,Uttar Pradesh,Constituency_205,MP_Name_205,Work_140,Global Infra,11-11-2021,264197
+940,Gujarat,Constituency_206,MP_Name_206,Work_141,State PWD,01-02-2021,476628
+941,Tamil Nadu,Constituency_207,MP_Name_207,Work_142,State PWD,14-10-2023,366700
+942,Delhi,Constituency_208,MP_Name_208,Work_143,Global Infra,12-08-2023,305491
+943,Uttar Pradesh,Constituency_209,MP_Name_209,Work_144,ABC Constructions,05-10-2023,441800
+944,Gujarat,Constituency_210,MP_Name_210,Work_145,ABC Constructions,10-05-2021,447956
+945,Karnataka,Constituency_211,MP_Name_211,Work_146,ABC Constructions,03-12-2022,454461
+946,Karnataka,Constituency_212,MP_Name_212,Work_147,XYZ Builders,08-03-2023,217697
+947,Karnataka,Constituency_213,MP_Name_213,Work_148,Rural Works Dept,31-03-2023,162174
+948,Tamil Nadu,Constituency_214,MP_Name_214,Work_149,State PWD,20-09-2021,227841
+949,Gujarat,Constituency_215,MP_Name_215,Work_150,ABC Constructions,25-09-2023,286665
+950,Gujarat,Constituency_216,MP_Name_216,Work_151,Rural Works Dept,20-04-2023,433830
+951,Uttar Pradesh,Constituency_217,MP_Name_217,Work_152,ABC Constructions,07-01-2021,369041
+952,Uttar Pradesh,Constituency_218,MP_Name_218,Work_153,XYZ Builders,11-12-2023,368873
+953,Tamil Nadu,Constituency_219,MP_Name_219,Work_154,State PWD,22-08-2023,457032
+954,Karnataka,Constituency_220,MP_Name_220,Work_155,Global Infra,14-04-2023,237483
+955,Tamil Nadu,Constituency_221,MP_Name_221,Work_156,Rural Works Dept,04-07-2022,293128
+956,Gujarat,Constituency_222,MP_Name_222,Work_157,ABC Constructions,12-10-2022,93007
+957,Gujarat,Constituency_223,MP_Name_223,Work_158,Global Infra,26-10-2021,138537
+958,Uttar Pradesh,Constituency_224,MP_Name_224,Work_159,ABC Constructions,24-08-2022,493328
+959,Tamil Nadu,Constituency_225,MP_Name_225,Work_160,Rural Works Dept,31-10-2022,430290
+960,Karnataka,Constituency_226,MP_Name_226,Work_161,ABC Constructions,18-03-2023,111693
+961,Delhi,Constituency_227,MP_Name_227,Work_162,Global Infra,04-02-2021,323746
+962,Tamil Nadu,Constituency_228,MP_Name_228,Work_163,ABC Constructions,03-11-2022,149552
+963,Karnataka,Constituency_229,MP_Name_229,Work_164,Rural Works Dept,21-06-2023,389250
+964,Gujarat,Constituency_230,MP_Name_230,Work_165,Rural Works Dept,23-05-2023,210603
+965,Maharashtra,Constituency_231,MP_Name_231,Work_166,Global Infra,20-08-2022,381144
+966,Uttar Pradesh,Constituency_232,MP_Name_232,Work_167,Rural Works Dept,17-08-2023,224824
+967,Delhi,Constituency_233,MP_Name_233,Work_168,State PWD,21-07-2022,454966
+968,Karnataka,Constituency_234,MP_Name_234,Work_169,XYZ Builders,07-01-2022,408109
+969,Karnataka,Constituency_235,MP_Name_235,Work_170,State PWD,25-08-2022,123841
+970,Uttar Pradesh,Constituency_236,MP_Name_236,Work_171,Global Infra,11-08-2023,443887
+971,Maharashtra,Constituency_237,MP_Name_237,Work_172,XYZ Builders,15-01-2023,413186
+972,Gujarat,Constituency_238,MP_Name_238,Work_173,Rural Works Dept,10-05-2022,394723
+973,Karnataka,Constituency_239,MP_Name_239,Work_174,ABC Constructions,26-12-2023,387650
+974,Karnataka,Constituency_240,MP_Name_240,Work_175,Rural Works Dept,26-04-2022,310910
+975,Uttar Pradesh,Constituency_241,MP_Name_241,Work_176,State PWD,25-08-2022,230461
+976,Tamil Nadu,Constituency_242,MP_Name_242,Work_177,Global Infra,28-01-2022,93420
+977,Delhi,Constituency_243,MP_Name_243,Work_178,Rural Works Dept,19-08-2023,481106
+978,Tamil Nadu,Constituency_244,MP_Name_244,Work_179,Rural Works Dept,11-06-2021,302897
+979,Uttar Pradesh,Constituency_245,MP_Name_245,Work_180,Rural Works Dept,22-08-2023,474110
+980,Gujarat,Constituency_1,MP_Name_1,Work_181,XYZ Builders,18-10-2023,327255
+981,Tamil Nadu,Constituency_2,MP_Name_2,Work_182,Rural Works Dept,06-11-2023,388198
+982,Tamil Nadu,Constituency_3,MP_Name_3,Work_183,State PWD,14-11-2023,274132
+983,Gujarat,Constituency_4,MP_Name_4,Work_184,State PWD,10-09-2021,97579
+984,Karnataka,Constituency_5,MP_Name_5,Work_185,Rural Works Dept,18-08-2023,326167
+985,Uttar Pradesh,Constituency_6,MP_Name_6,Work_186,Rural Works Dept,15-10-2023,206627
+986,Maharashtra,Constituency_7,MP_Name_7,Work_187,ABC Constructions,30-01-2021,209787
+987,Gujarat,Constituency_8,MP_Name_8,Work_188,Rural Works Dept,27-06-2022,460000
+988,Gujarat,Constituency_9,MP_Name_9,Work_189,State PWD,23-03-2022,341157
+989,Gujarat,Constituency_10,MP_Name_10,Work_190,Rural Works Dept,06-03-2023,194016
+990,Uttar Pradesh,Constituency_11,MP_Name_11,Work_191,Global Infra,02-09-2021,349334
+991,Maharashtra,Constituency_12,MP_Name_12,Work_192,State PWD,17-05-2023,415866
+992,Karnataka,Constituency_13,MP_Name_13,Work_193,ABC Constructions,31-10-2021,334672
+993,Karnataka,Constituency_14,MP_Name_14,Work_194,XYZ Builders,23-12-2022,325630
+994,Karnataka,Constituency_15,MP_Name_15,Work_195,Rural Works Dept,10-12-2022,219897
+995,Gujarat,Constituency_16,MP_Name_16,Work_196,Global Infra,13-01-2021,378443
+996,Gujarat,Constituency_17,MP_Name_17,Work_197,Rural Works Dept,01-11-2023,408092
+997,Uttar Pradesh,Constituency_18,MP_Name_18,Work_198,Global Infra,09-10-2021,54294
+998,Tamil Nadu,Constituency_19,MP_Name_19,Work_199,ABC Constructions,19-11-2021,368180
+999,Uttar Pradesh,Constituency_20,MP_Name_20,Work_200,Global Infra,20-04-2023,51583
+1000,Karnataka,Constituency_21,MP_Name_21,Work_1,State PWD,24-02-2021,437705
+1001,Maharashtra,Constituency_22,MP_Name_22,Work_2,Rural Works Dept,01-04-2022,419165
+1002,Maharashtra,Constituency_23,MP_Name_23,Work_3,Rural Works Dept,13-04-2023,427519
+1003,Karnataka,Constituency_24,MP_Name_24,Work_4,Global Infra,08-01-2022,161767
+1004,Karnataka,Constituency_25,MP_Name_25,Work_5,ABC Constructions,14-12-2021,345584
+1005,Tamil Nadu,Constituency_26,MP_Name_26,Work_6,ABC Constructions,18-08-2023,290884
+1006,Tamil Nadu,Constituency_27,MP_Name_27,Work_7,Rural Works Dept,29-06-2022,253349
+1007,Uttar Pradesh,Constituency_28,MP_Name_28,Work_8,Global Infra,17-03-2021,261453
+1008,Karnataka,Constituency_29,MP_Name_29,Work_9,Rural Works Dept,06-01-2023,297425
+1009,Delhi,Constituency_30,MP_Name_30,Work_10,ABC Constructions,15-03-2023,81659
+1010,Uttar Pradesh,Constituency_31,MP_Name_31,Work_11,Rural Works Dept,26-02-2022,380935
+1011,Uttar Pradesh,Constituency_32,MP_Name_32,Work_12,XYZ Builders,20-03-2022,496814
+1012,Uttar Pradesh,Constituency_33,MP_Name_33,Work_13,Rural Works Dept,21-03-2021,118870
+1013,Tamil Nadu,Constituency_34,MP_Name_34,Work_14,Rural Works Dept,08-12-2023,119845
+1014,Karnataka,Constituency_35,MP_Name_35,Work_15,XYZ Builders,03-07-2022,70090
+1015,Uttar Pradesh,Constituency_36,MP_Name_36,Work_16,ABC Constructions,25-09-2023,268960
+1016,Delhi,Constituency_37,MP_Name_37,Work_17,Global Infra,12-04-2022,148611
+1017,Karnataka,Constituency_38,MP_Name_38,Work_18,State PWD,16-01-2022,50828
+1018,Delhi,Constituency_39,MP_Name_39,Work_19,ABC Constructions,10-11-2022,201489
+1019,Uttar Pradesh,Constituency_40,MP_Name_40,Work_20,Global Infra,06-09-2023,394374
+1020,Tamil Nadu,Constituency_41,MP_Name_41,Work_21,Global Infra,28-07-2021,433844
+1021,Gujarat,Constituency_42,MP_Name_42,Work_22,State PWD,10-04-2023,379967
+1022,Tamil Nadu,Constituency_43,MP_Name_43,Work_23,Rural Works Dept,10-06-2021,368438
+1023,Delhi,Constituency_44,MP_Name_44,Work_24,Rural Works Dept,18-08-2023,197165
+1024,Maharashtra,Constituency_45,MP_Name_45,Work_25,ABC Constructions,07-05-2022,88850
+1025,Delhi,Constituency_46,MP_Name_46,Work_26,ABC Constructions,09-01-2022,65249
+1026,Uttar Pradesh,Constituency_47,MP_Name_47,Work_27,XYZ Builders,20-06-2023,73153
+1027,Uttar Pradesh,Constituency_48,MP_Name_48,Work_28,ABC Constructions,18-04-2022,485918
+1028,Karnataka,Constituency_49,MP_Name_49,Work_29,ABC Constructions,26-05-2021,491162
+1029,Tamil Nadu,Constituency_50,MP_Name_50,Work_30,Global Infra,03-12-2023,488795
+1030,Gujarat,Constituency_51,MP_Name_51,Work_31,State PWD,10-11-2021,61340
+1031,Tamil Nadu,Constituency_52,MP_Name_52,Work_32,State PWD,11-08-2023,314442
+1032,Gujarat,Constituency_53,MP_Name_53,Work_33,Rural Works Dept,15-05-2021,217087
+1033,Delhi,Constituency_54,MP_Name_54,Work_34,State PWD,15-04-2023,477225
+1034,Karnataka,Constituency_55,MP_Name_55,Work_35,XYZ Builders,04-10-2021,299230
+1035,Karnataka,Constituency_56,MP_Name_56,Work_36,Rural Works Dept,17-01-2023,372370
+1036,Maharashtra,Constituency_57,MP_Name_57,Work_37,State PWD,05-04-2022,104370
+1037,Maharashtra,Constituency_58,MP_Name_58,Work_38,Rural Works Dept,30-12-2023,53518
+1038,Gujarat,Constituency_59,MP_Name_59,Work_39,Rural Works Dept,05-03-2023,97354
+1039,Tamil Nadu,Constituency_60,MP_Name_60,Work_40,ABC Constructions,29-03-2021,333927
+1040,Gujarat,Constituency_61,MP_Name_61,Work_41,Global Infra,23-05-2023,398806
+1041,Delhi,Constituency_62,MP_Name_62,Work_42,State PWD,17-06-2022,375146
+1042,Delhi,Constituency_63,MP_Name_63,Work_43,Rural Works Dept,30-03-2023,121691
+1043,Uttar Pradesh,Constituency_64,MP_Name_64,Work_44,XYZ Builders,07-12-2021,277155
+1044,Maharashtra,Constituency_65,MP_Name_65,Work_45,State PWD,12-10-2021,278051
+1045,Maharashtra,Constituency_66,MP_Name_66,Work_46,Rural Works Dept,10-03-2023,66788
+1046,Karnataka,Constituency_67,MP_Name_67,Work_47,XYZ Builders,10-03-2023,452874
+1047,Tamil Nadu,Constituency_68,MP_Name_68,Work_48,XYZ Builders,20-10-2023,194496
+1048,Gujarat,Constituency_69,MP_Name_69,Work_49,Rural Works Dept,19-05-2023,208907
+1049,Maharashtra,Constituency_70,MP_Name_70,Work_50,XYZ Builders,30-03-2021,458933
+1050,Delhi,Constituency_71,MP_Name_71,Work_51,ABC Constructions,14-08-2021,201535
+1051,Delhi,Constituency_72,MP_Name_72,Work_52,State PWD,25-01-2021,111111
+1052,Karnataka,Constituency_73,MP_Name_73,Work_53,Rural Works Dept,26-01-2023,159640
+1053,Delhi,Constituency_74,MP_Name_74,Work_54,State PWD,09-06-2023,195763
+1054,Uttar Pradesh,Constituency_75,MP_Name_75,Work_55,ABC Constructions,15-06-2022,440174
+1055,Tamil Nadu,Constituency_76,MP_Name_76,Work_56,Rural Works Dept,16-04-2023,85470
+1056,Gujarat,Constituency_77,MP_Name_77,Work_57,ABC Constructions,24-06-2021,353112
+1057,Uttar Pradesh,Constituency_78,MP_Name_78,Work_58,State PWD,02-03-2021,356921
+1058,Maharashtra,Constituency_79,MP_Name_79,Work_59,ABC Constructions,21-10-2022,499211
+1059,Maharashtra,Constituency_80,MP_Name_80,Work_60,Rural Works Dept,06-06-2023,434988
+1060,Karnataka,Constituency_81,MP_Name_81,Work_61,XYZ Builders,06-01-2022,82080
+1061,Delhi,Constituency_82,MP_Name_82,Work_62,ABC Constructions,29-07-2021,225751
+1062,Gujarat,Constituency_83,MP_Name_83,Work_63,State PWD,06-10-2023,457795
+1063,Uttar Pradesh,Constituency_84,MP_Name_84,Work_64,ABC Constructions,01-07-2021,423073
+1064,Maharashtra,Constituency_85,MP_Name_85,Work_65,Rural Works Dept,19-03-2021,311527
+1065,Uttar Pradesh,Constituency_86,MP_Name_86,Work_66,XYZ Builders,24-12-2023,268974
+1066,Tamil Nadu,Constituency_87,MP_Name_87,Work_67,Global Infra,09-12-2023,249105
+1067,Gujarat,Constituency_88,MP_Name_88,Work_68,XYZ Builders,29-10-2023,499127
+1068,Gujarat,Constituency_89,MP_Name_89,Work_69,Rural Works Dept,25-11-2022,257013
+1069,Gujarat,Constituency_90,MP_Name_90,Work_70,Rural Works Dept,27-02-2022,168103
+1070,Delhi,Constituency_91,MP_Name_91,Work_71,Rural Works Dept,11-04-2021,180249
+1071,Gujarat,Constituency_92,MP_Name_92,Work_72,ABC Constructions,20-01-2023,321747
+1072,Tamil Nadu,Constituency_93,MP_Name_93,Work_73,XYZ Builders,19-07-2023,400337
+1073,Karnataka,Constituency_94,MP_Name_94,Work_74,XYZ Builders,07-02-2021,199782
+1074,Karnataka,Constituency_95,MP_Name_95,Work_75,XYZ Builders,14-10-2023,421398
+1075,Karnataka,Constituency_96,MP_Name_96,Work_76,State PWD,27-07-2022,353418
+1076,Gujarat,Constituency_97,MP_Name_97,Work_77,Global Infra,05-11-2021,474314
+1077,Tamil Nadu,Constituency_98,MP_Name_98,Work_78,State PWD,15-09-2023,487614
+1078,Tamil Nadu,Constituency_99,MP_Name_99,Work_79,XYZ Builders,06-02-2021,134117
+1079,Karnataka,Constituency_100,MP_Name_100,Work_80,ABC Constructions,27-05-2022,424928
+1080,Uttar Pradesh,Constituency_101,MP_Name_101,Work_81,XYZ Builders,09-08-2021,399946
+1081,Maharashtra,Constituency_102,MP_Name_102,Work_82,ABC Constructions,17-03-2022,117028
+1082,Gujarat,Constituency_103,MP_Name_103,Work_83,Global Infra,02-07-2022,52752
+1083,Uttar Pradesh,Constituency_104,MP_Name_104,Work_84,XYZ Builders,09-02-2021,412942
+1084,Delhi,Constituency_105,MP_Name_105,Work_85,Rural Works Dept,12-06-2021,53292
+1085,Karnataka,Constituency_106,MP_Name_106,Work_86,XYZ Builders,17-03-2021,179149
+1086,Karnataka,Constituency_107,MP_Name_107,Work_87,Rural Works Dept,11-02-2021,133670
+1087,Gujarat,Constituency_108,MP_Name_108,Work_88,State PWD,17-01-2023,231444
+1088,Uttar Pradesh,Constituency_109,MP_Name_109,Work_89,Global Infra,23-11-2021,324444
+1089,Delhi,Constituency_110,MP_Name_110,Work_90,State PWD,16-11-2022,252381
+1090,Maharashtra,Constituency_111,MP_Name_111,Work_91,Rural Works Dept,26-10-2022,189403
+1091,Karnataka,Constituency_112,MP_Name_112,Work_92,State PWD,29-07-2022,473100
+1092,Karnataka,Constituency_113,MP_Name_113,Work_93,State PWD,05-04-2022,346472
+1093,Gujarat,Constituency_114,MP_Name_114,Work_94,XYZ Builders,15-01-2021,358533
+1094,Maharashtra,Constituency_115,MP_Name_115,Work_95,ABC Constructions,18-03-2021,151571
+1095,Tamil Nadu,Constituency_116,MP_Name_116,Work_96,State PWD,25-06-2023,225810
+1096,Delhi,Constituency_117,MP_Name_117,Work_97,Global Infra,20-09-2021,494573
+1097,Gujarat,Constituency_118,MP_Name_118,Work_98,Rural Works Dept,20-05-2023,154298
+1098,Maharashtra,Constituency_119,MP_Name_119,Work_99,Rural Works Dept,11-06-2022,472764
+1099,Maharashtra,Constituency_120,MP_Name_120,Work_100,Rural Works Dept,22-03-2022,211418
+1100,Gujarat,Constituency_121,MP_Name_121,Work_101,State PWD,16-07-2021,447938
+1101,Delhi,Constituency_122,MP_Name_122,Work_102,XYZ Builders,28-09-2023,319143
+1102,Uttar Pradesh,Constituency_123,MP_Name_123,Work_103,Global Infra,27-05-2022,484960
+1103,Karnataka,Constituency_124,MP_Name_124,Work_104,ABC Constructions,11-05-2021,455145
+1104,Karnataka,Constituency_125,MP_Name_125,Work_105,Rural Works Dept,05-08-2021,206750
+1105,Gujarat,Constituency_126,MP_Name_126,Work_106,State PWD,30-08-2021,317943
+1106,Karnataka,Constituency_127,MP_Name_127,Work_107,XYZ Builders,10-04-2022,160291
+1107,Delhi,Constituency_128,MP_Name_128,Work_108,State PWD,24-08-2021,80366
+1108,Uttar Pradesh,Constituency_129,MP_Name_129,Work_109,XYZ Builders,20-11-2023,301333
+1109,Uttar Pradesh,Constituency_130,MP_Name_130,Work_110,Rural Works Dept,20-03-2022,255790
+1110,Karnataka,Constituency_131,MP_Name_131,Work_111,XYZ Builders,07-06-2022,275575
+1111,Tamil Nadu,Constituency_132,MP_Name_132,Work_112,ABC Constructions,05-08-2021,246411
+1112,Karnataka,Constituency_133,MP_Name_133,Work_113,XYZ Builders,15-11-2022,499402
+1113,Delhi,Constituency_134,MP_Name_134,Work_114,State PWD,03-05-2022,454930
+1114,Uttar Pradesh,Constituency_135,MP_Name_135,Work_115,Rural Works Dept,25-02-2021,62372
+1115,Tamil Nadu,Constituency_136,MP_Name_136,Work_116,ABC Constructions,29-04-2022,318449
+1116,Delhi,Constituency_137,MP_Name_137,Work_117,Rural Works Dept,15-07-2023,481947
+1117,Tamil Nadu,Constituency_138,MP_Name_138,Work_118,ABC Constructions,06-01-2022,95235
+1118,Karnataka,Constituency_139,MP_Name_139,Work_119,State PWD,07-09-2023,394000
+1119,Tamil Nadu,Constituency_140,MP_Name_140,Work_120,Global Infra,27-01-2023,387902
+1120,Maharashtra,Constituency_141,MP_Name_141,Work_121,XYZ Builders,20-12-2021,194965
+1121,Tamil Nadu,Constituency_142,MP_Name_142,Work_122,Rural Works Dept,25-04-2022,337512
+1122,Karnataka,Constituency_143,MP_Name_143,Work_123,Global Infra,21-08-2021,314351
+1123,Delhi,Constituency_144,MP_Name_144,Work_124,ABC Constructions,08-12-2022,159748
+1124,Tamil Nadu,Constituency_145,MP_Name_145,Work_125,XYZ Builders,26-06-2022,167341
+1125,Karnataka,Constituency_146,MP_Name_146,Work_126,Global Infra,24-10-2023,389059
+1126,Maharashtra,Constituency_147,MP_Name_147,Work_127,Rural Works Dept,07-07-2022,169462
+1127,Gujarat,Constituency_148,MP_Name_148,Work_128,ABC Constructions,01-12-2023,332407
+1128,Tamil Nadu,Constituency_149,MP_Name_149,Work_129,Global Infra,29-03-2023,252995
+1129,Delhi,Constituency_150,MP_Name_150,Work_130,XYZ Builders,04-10-2023,328355
+1130,Uttar Pradesh,Constituency_151,MP_Name_151,Work_131,XYZ Builders,10-11-2021,423026
+1131,Gujarat,Constituency_152,MP_Name_152,Work_132,Rural Works Dept,27-01-2023,141038
+1132,Maharashtra,Constituency_153,MP_Name_153,Work_133,Rural Works Dept,14-09-2022,296002
+1133,Maharashtra,Constituency_154,MP_Name_154,Work_134,Global Infra,06-12-2022,296787
+1134,Delhi,Constituency_155,MP_Name_155,Work_135,Rural Works Dept,02-12-2022,191427
+1135,Gujarat,Constituency_156,MP_Name_156,Work_136,Global Infra,23-04-2023,395388
+1136,Gujarat,Constituency_157,MP_Name_157,Work_137,ABC Constructions,26-12-2021,363962
+1137,Tamil Nadu,Constituency_158,MP_Name_158,Work_138,Rural Works Dept,13-03-2021,159700
+1138,Karnataka,Constituency_159,MP_Name_159,Work_139,XYZ Builders,19-09-2022,236979
+1139,Maharashtra,Constituency_160,MP_Name_160,Work_140,State PWD,02-08-2021,83199
+1140,Karnataka,Constituency_161,MP_Name_161,Work_141,XYZ Builders,26-09-2021,267393
+1141,Tamil Nadu,Constituency_162,MP_Name_162,Work_142,XYZ Builders,13-06-2021,133567
+1142,Karnataka,Constituency_163,MP_Name_163,Work_143,XYZ Builders,20-03-2022,402937
+1143,Karnataka,Constituency_164,MP_Name_164,Work_144,Global Infra,17-04-2023,116793
+1144,Maharashtra,Constituency_165,MP_Name_165,Work_145,ABC Constructions,23-03-2022,205967
+1145,Karnataka,Constituency_166,MP_Name_166,Work_146,Rural Works Dept,27-06-2022,428257
+1146,Tamil Nadu,Constituency_167,MP_Name_167,Work_147,State PWD,11-11-2021,494149
+1147,Karnataka,Constituency_168,MP_Name_168,Work_148,Rural Works Dept,29-12-2022,498699
+1148,Tamil Nadu,Constituency_169,MP_Name_169,Work_149,State PWD,15-03-2021,168583
+1149,Uttar Pradesh,Constituency_170,MP_Name_170,Work_150,XYZ Builders,08-11-2023,72265
+1150,Tamil Nadu,Constituency_171,MP_Name_171,Work_151,State PWD,21-05-2022,334047
+1151,Delhi,Constituency_172,MP_Name_172,Work_152,State PWD,04-06-2022,195814
+1152,Karnataka,Constituency_173,MP_Name_173,Work_153,Rural Works Dept,31-07-2022,396247
+1153,Tamil Nadu,Constituency_174,MP_Name_174,Work_154,XYZ Builders,06-04-2023,298071
+1154,Tamil Nadu,Constituency_175,MP_Name_175,Work_155,State PWD,24-07-2022,358664
+1155,Maharashtra,Constituency_176,MP_Name_176,Work_156,ABC Constructions,11-11-2022,345508
+1156,Uttar Pradesh,Constituency_177,MP_Name_177,Work_157,ABC Constructions,20-07-2022,137900
+1157,Delhi,Constituency_178,MP_Name_178,Work_158,XYZ Builders,16-02-2023,253105
+1158,Maharashtra,Constituency_179,MP_Name_179,Work_159,XYZ Builders,30-01-2021,407915
+1159,Gujarat,Constituency_180,MP_Name_180,Work_160,Global Infra,01-04-2023,293304
+1160,Karnataka,Constituency_181,MP_Name_181,Work_161,Rural Works Dept,20-06-2023,316462
+1161,Gujarat,Constituency_182,MP_Name_182,Work_162,Global Infra,07-07-2023,371363
+1162,Tamil Nadu,Constituency_183,MP_Name_183,Work_163,XYZ Builders,26-10-2021,352290
+1163,Gujarat,Constituency_184,MP_Name_184,Work_164,State PWD,02-04-2023,50905
+1164,Karnataka,Constituency_185,MP_Name_185,Work_165,Rural Works Dept,09-10-2022,94176
+1165,Uttar Pradesh,Constituency_186,MP_Name_186,Work_166,Global Infra,12-10-2022,379713
+1166,Karnataka,Constituency_187,MP_Name_187,Work_167,XYZ Builders,17-12-2023,371308
+1167,Gujarat,Constituency_188,MP_Name_188,Work_168,State PWD,13-09-2022,369257
+1168,Gujarat,Constituency_189,MP_Name_189,Work_169,XYZ Builders,02-06-2023,73522
+1169,Tamil Nadu,Constituency_190,MP_Name_190,Work_170,Global Infra,20-07-2021,198938
+1170,Uttar Pradesh,Constituency_191,MP_Name_191,Work_171,State PWD,17-10-2022,406949
+1171,Maharashtra,Constituency_192,MP_Name_192,Work_172,ABC Constructions,24-01-2021,486544
+1172,Tamil Nadu,Constituency_193,MP_Name_193,Work_173,XYZ Builders,26-06-2021,317633
+1173,Maharashtra,Constituency_194,MP_Name_194,Work_174,Rural Works Dept,05-07-2021,52079
+1174,Karnataka,Constituency_195,MP_Name_195,Work_175,Global Infra,18-02-2021,219341
+1175,Delhi,Constituency_196,MP_Name_196,Work_176,XYZ Builders,11-11-2021,108022
+1176,Tamil Nadu,Constituency_197,MP_Name_197,Work_177,Global Infra,26-06-2021,190317
+1177,Karnataka,Constituency_198,MP_Name_198,Work_178,ABC Constructions,13-08-2022,260102
+1178,Uttar Pradesh,Constituency_199,MP_Name_199,Work_179,Rural Works Dept,27-12-2023,443463
+1179,Maharashtra,Constituency_200,MP_Name_200,Work_180,Global Infra,11-08-2021,329004
+1180,Karnataka,Constituency_201,MP_Name_201,Work_181,ABC Constructions,08-03-2023,225956
+1181,Gujarat,Constituency_202,MP_Name_202,Work_182,Global Infra,15-07-2023,85144
+1182,Delhi,Constituency_203,MP_Name_203,Work_183,Global Infra,19-07-2022,392105
+1183,Karnataka,Constituency_204,MP_Name_204,Work_184,Global Infra,22-03-2023,138600
+1184,Maharashtra,Constituency_205,MP_Name_205,Work_185,Global Infra,15-12-2022,110475
+1185,Tamil Nadu,Constituency_206,MP_Name_206,Work_186,XYZ Builders,01-01-2023,99115
+1186,Tamil Nadu,Constituency_207,MP_Name_207,Work_187,Global Infra,02-02-2021,486559
+1187,Tamil Nadu,Constituency_208,MP_Name_208,Work_188,State PWD,19-04-2021,226514
+1188,Uttar Pradesh,Constituency_209,MP_Name_209,Work_189,State PWD,20-02-2022,204557
+1189,Karnataka,Constituency_210,MP_Name_210,Work_190,XYZ Builders,23-08-2021,243658
+1190,Delhi,Constituency_211,MP_Name_211,Work_191,Rural Works Dept,28-06-2022,281346
+1191,Uttar Pradesh,Constituency_212,MP_Name_212,Work_192,XYZ Builders,22-02-2023,236929
+1192,Uttar Pradesh,Constituency_213,MP_Name_213,Work_193,ABC Constructions,22-07-2023,89181
+1193,Gujarat,Constituency_214,MP_Name_214,Work_194,XYZ Builders,18-03-2022,183693
+1194,Maharashtra,Constituency_215,MP_Name_215,Work_195,State PWD,05-04-2022,318325
+1195,Maharashtra,Constituency_216,MP_Name_216,Work_196,Global Infra,30-09-2021,417266
+1196,Delhi,Constituency_217,MP_Name_217,Work_197,Rural Works Dept,04-07-2023,406884
+1197,Delhi,Constituency_218,MP_Name_218,Work_198,Rural Works Dept,27-06-2022,69088
+1198,Karnataka,Constituency_219,MP_Name_219,Work_199,Global Infra,24-05-2021,205502
+1199,Tamil Nadu,Constituency_220,MP_Name_220,Work_200,XYZ Builders,02-07-2022,88768
+1200,Uttar Pradesh,Constituency_221,MP_Name_221,Work_1,Rural Works Dept,02-05-2022,193488
+1201,Delhi,Constituency_222,MP_Name_222,Work_2,ABC Constructions,11-01-2022,63162
+1202,Gujarat,Constituency_223,MP_Name_223,Work_3,XYZ Builders,21-05-2023,356242
+1203,Tamil Nadu,Constituency_224,MP_Name_224,Work_4,XYZ Builders,19-08-2021,61011
+1204,Maharashtra,Constituency_225,MP_Name_225,Work_5,ABC Constructions,19-05-2021,411513
+1205,Gujarat,Constituency_226,MP_Name_226,Work_6,State PWD,01-06-2022,369721
+1206,Tamil Nadu,Constituency_227,MP_Name_227,Work_7,XYZ Builders,28-10-2021,479398
+1207,Tamil Nadu,Constituency_228,MP_Name_228,Work_8,Global Infra,28-04-2023,380993
+1208,Karnataka,Constituency_229,MP_Name_229,Work_9,Rural Works Dept,17-07-2021,223716
+1209,Gujarat,Constituency_230,MP_Name_230,Work_10,XYZ Builders,08-03-2022,357224
+1210,Tamil Nadu,Constituency_231,MP_Name_231,Work_11,XYZ Builders,12-09-2022,273167
+1211,Uttar Pradesh,Constituency_232,MP_Name_232,Work_12,ABC Constructions,05-09-2023,263242
+1212,Uttar Pradesh,Constituency_233,MP_Name_233,Work_13,XYZ Builders,02-08-2021,328670
+1213,Maharashtra,Constituency_234,MP_Name_234,Work_14,ABC Constructions,04-07-2022,495706
+1214,Tamil Nadu,Constituency_235,MP_Name_235,Work_15,State PWD,21-12-2023,138496
+1215,Maharashtra,Constituency_236,MP_Name_236,Work_16,ABC Constructions,14-01-2021,130397
+1216,Maharashtra,Constituency_237,MP_Name_237,Work_17,State PWD,07-09-2021,375974
+1217,Gujarat,Constituency_238,MP_Name_238,Work_18,State PWD,31-05-2022,131942
+1218,Karnataka,Constituency_239,MP_Name_239,Work_19,Rural Works Dept,13-12-2022,496283
+1219,Karnataka,Constituency_240,MP_Name_240,Work_20,State PWD,21-10-2023,134220
+1220,Maharashtra,Constituency_241,MP_Name_241,Work_21,ABC Constructions,09-06-2022,322233
+1221,Tamil Nadu,Constituency_242,MP_Name_242,Work_22,Global Infra,22-04-2023,148996
+1222,Delhi,Constituency_243,MP_Name_243,Work_23,Rural Works Dept,15-06-2021,84733
+1223,Gujarat,Constituency_244,MP_Name_244,Work_24,State PWD,07-11-2022,241312
+1224,Delhi,Constituency_245,MP_Name_245,Work_25,ABC Constructions,19-09-2021,238299
+1225,Karnataka,Constituency_1,MP_Name_1,Work_26,XYZ Builders,10-02-2023,356785
+1226,Tamil Nadu,Constituency_2,MP_Name_2,Work_27,ABC Constructions,27-12-2023,126557
+1227,Karnataka,Constituency_3,MP_Name_3,Work_28,Rural Works Dept,08-11-2023,397506
+1228,Gujarat,Constituency_4,MP_Name_4,Work_29,State PWD,11-01-2021,393598
+1229,Maharashtra,Constituency_5,MP_Name_5,Work_30,Rural Works Dept,20-02-2022,435014
+1230,Tamil Nadu,Constituency_6,MP_Name_6,Work_31,Rural Works Dept,01-01-2021,357604
+1231,Maharashtra,Constituency_7,MP_Name_7,Work_32,State PWD,08-07-2023,282425
+1232,Gujarat,Constituency_8,MP_Name_8,Work_33,Global Infra,30-11-2022,311309
+1233,Tamil Nadu,Constituency_9,MP_Name_9,Work_34,XYZ Builders,23-06-2023,248556
+1234,Delhi,Constituency_10,MP_Name_10,Work_35,XYZ Builders,07-04-2021,385246
+1235,Uttar Pradesh,Constituency_11,MP_Name_11,Work_36,XYZ Builders,03-08-2021,330749
+1236,Uttar Pradesh,Constituency_12,MP_Name_12,Work_37,Global Infra,09-09-2023,225663
+1237,Uttar Pradesh,Constituency_13,MP_Name_13,Work_38,Rural Works Dept,13-03-2022,439023
+1238,Delhi,Constituency_14,MP_Name_14,Work_39,XYZ Builders,30-03-2021,136737
+1239,Maharashtra,Constituency_15,MP_Name_15,Work_40,State PWD,13-07-2021,483230
+1240,Tamil Nadu,Constituency_16,MP_Name_16,Work_41,XYZ Builders,03-02-2022,229344
+1241,Maharashtra,Constituency_17,MP_Name_17,Work_42,ABC Constructions,11-09-2022,395486
+1242,Tamil Nadu,Constituency_18,MP_Name_18,Work_43,XYZ Builders,31-08-2021,131800
+1243,Maharashtra,Constituency_19,MP_Name_19,Work_44,XYZ Builders,11-10-2021,470302
+1244,Tamil Nadu,Constituency_20,MP_Name_20,Work_45,ABC Constructions,01-01-2021,268721
+1245,Uttar Pradesh,Constituency_21,MP_Name_21,Work_46,XYZ Builders,22-05-2021,281892
+1246,Gujarat,Constituency_22,MP_Name_22,Work_47,ABC Constructions,05-03-2023,363953
+1247,Tamil Nadu,Constituency_23,MP_Name_23,Work_48,Global Infra,24-10-2023,354492
+1248,Tamil Nadu,Constituency_24,MP_Name_24,Work_49,ABC Constructions,10-03-2023,483046
+1249,Karnataka,Constituency_25,MP_Name_25,Work_50,Rural Works Dept,26-09-2022,106009
+1250,Maharashtra,Constituency_26,MP_Name_26,Work_51,Global Infra,01-02-2023,284175
+1251,Karnataka,Constituency_27,MP_Name_27,Work_52,ABC Constructions,25-07-2023,302677
+1252,Uttar Pradesh,Constituency_28,MP_Name_28,Work_53,ABC Constructions,15-11-2023,205715
+1253,Uttar Pradesh,Constituency_29,MP_Name_29,Work_54,State PWD,13-11-2021,320513
+1254,Maharashtra,Constituency_30,MP_Name_30,Work_55,Global Infra,02-05-2021,480405
+1255,Maharashtra,Constituency_31,MP_Name_31,Work_56,State PWD,13-05-2021,161654
+1256,Delhi,Constituency_32,MP_Name_32,Work_57,Rural Works Dept,04-05-2022,205790
+1257,Gujarat,Constituency_33,MP_Name_33,Work_58,State PWD,24-06-2022,318270
+1258,Gujarat,Constituency_34,MP_Name_34,Work_59,XYZ Builders,06-08-2021,383079
+1259,Uttar Pradesh,Constituency_35,MP_Name_35,Work_60,Rural Works Dept,01-01-2021,101325
+1260,Tamil Nadu,Constituency_36,MP_Name_36,Work_61,Rural Works Dept,29-03-2023,327558
+1261,Delhi,Constituency_37,MP_Name_37,Work_62,Global Infra,18-11-2022,70315
+1262,Gujarat,Constituency_38,MP_Name_38,Work_63,State PWD,13-10-2021,93753
+1263,Maharashtra,Constituency_39,MP_Name_39,Work_64,ABC Constructions,05-10-2023,336977
+1264,Maharashtra,Constituency_40,MP_Name_40,Work_65,State PWD,26-01-2023,299264
+1265,Gujarat,Constituency_41,MP_Name_41,Work_66,Rural Works Dept,10-07-2022,434578
+1266,Gujarat,Constituency_42,MP_Name_42,Work_67,Global Infra,28-11-2023,168519
+1267,Karnataka,Constituency_43,MP_Name_43,Work_68,Global Infra,08-10-2023,397797
+1268,Tamil Nadu,Constituency_44,MP_Name_44,Work_69,Global Infra,20-01-2022,298419
+1269,Uttar Pradesh,Constituency_45,MP_Name_45,Work_70,ABC Constructions,05-02-2021,149085
+1270,Maharashtra,Constituency_46,MP_Name_46,Work_71,Global Infra,22-06-2021,453360
+1271,Karnataka,Constituency_47,MP_Name_47,Work_72,XYZ Builders,24-09-2021,240557
+1272,Delhi,Constituency_48,MP_Name_48,Work_73,Rural Works Dept,07-06-2022,455827
+1273,Delhi,Constituency_49,MP_Name_49,Work_74,ABC Constructions,06-05-2022,191734
+1274,Gujarat,Constituency_50,MP_Name_50,Work_75,Global Infra,30-01-2023,323825
+1275,Uttar Pradesh,Constituency_51,MP_Name_51,Work_76,XYZ Builders,15-03-2023,310001
+1276,Gujarat,Constituency_52,MP_Name_52,Work_77,Global Infra,29-11-2021,498939
+1277,Maharashtra,Constituency_53,MP_Name_53,Work_78,ABC Constructions,03-08-2022,120861
+1278,Karnataka,Constituency_54,MP_Name_54,Work_79,ABC Constructions,23-06-2023,60696
+1279,Tamil Nadu,Constituency_55,MP_Name_55,Work_80,Rural Works Dept,03-06-2023,98849
+1280,Gujarat,Constituency_56,MP_Name_56,Work_81,Rural Works Dept,28-07-2021,303957
+1281,Uttar Pradesh,Constituency_57,MP_Name_57,Work_82,Global Infra,30-05-2022,396120
+1282,Uttar Pradesh,Constituency_58,MP_Name_58,Work_83,XYZ Builders,02-10-2022,472528
+1283,Uttar Pradesh,Constituency_59,MP_Name_59,Work_84,ABC Constructions,09-01-2021,352024
+1284,Uttar Pradesh,Constituency_60,MP_Name_60,Work_85,State PWD,01-11-2021,209316
+1285,Uttar Pradesh,Constituency_61,MP_Name_61,Work_86,Rural Works Dept,17-08-2022,155438
+1286,Uttar Pradesh,Constituency_62,MP_Name_62,Work_87,State PWD,04-09-2023,267171
+1287,Karnataka,Constituency_63,MP_Name_63,Work_88,Rural Works Dept,17-11-2022,74628
+1288,Uttar Pradesh,Constituency_64,MP_Name_64,Work_89,Global Infra,03-09-2023,326871
+1289,Delhi,Constituency_65,MP_Name_65,Work_90,XYZ Builders,08-03-2021,89101
+1290,Uttar Pradesh,Constituency_66,MP_Name_66,Work_91,Global Infra,02-02-2022,227193
+1291,Tamil Nadu,Constituency_67,MP_Name_67,Work_92,Global Infra,14-02-2023,104025
+1292,Delhi,Constituency_68,MP_Name_68,Work_93,Rural Works Dept,24-07-2022,257081
+1293,Karnataka,Constituency_69,MP_Name_69,Work_94,State PWD,17-06-2021,314621
+1294,Gujarat,Constituency_70,MP_Name_70,Work_95,Rural Works Dept,12-04-2021,98969
+1295,Maharashtra,Constituency_71,MP_Name_71,Work_96,ABC Constructions,16-10-2023,75812
+1296,Tamil Nadu,Constituency_72,MP_Name_72,Work_97,XYZ Builders,30-07-2021,218825
+1297,Uttar Pradesh,Constituency_73,MP_Name_73,Work_98,Global Infra,15-11-2022,460674
+1298,Karnataka,Constituency_74,MP_Name_74,Work_99,XYZ Builders,27-04-2022,328326
+1299,Maharashtra,Constituency_75,MP_Name_75,Work_100,State PWD,28-09-2021,340701
+1300,Maharashtra,Constituency_76,MP_Name_76,Work_101,XYZ Builders,23-02-2022,385602
+1301,Maharashtra,Constituency_77,MP_Name_77,Work_102,ABC Constructions,24-05-2022,239624
+1302,Karnataka,Constituency_78,MP_Name_78,Work_103,State PWD,11-08-2022,311186
+1303,Delhi,Constituency_79,MP_Name_79,Work_104,Global Infra,19-04-2023,385643
+1304,Delhi,Constituency_80,MP_Name_80,Work_105,ABC Constructions,02-08-2022,285295
+1305,Tamil Nadu,Constituency_81,MP_Name_81,Work_106,Rural Works Dept,29-01-2023,421360
+1306,Uttar Pradesh,Constituency_82,MP_Name_82,Work_107,Rural Works Dept,28-10-2021,246225
+1307,Delhi,Constituency_83,MP_Name_83,Work_108,XYZ Builders,17-08-2021,299449
+1308,Gujarat,Constituency_84,MP_Name_84,Work_109,ABC Constructions,08-10-2023,494056
+1309,Gujarat,Constituency_85,MP_Name_85,Work_110,Rural Works Dept,19-12-2021,395180
+1310,Karnataka,Constituency_86,MP_Name_86,Work_111,Global Infra,14-05-2021,226099
+1311,Tamil Nadu,Constituency_87,MP_Name_87,Work_112,State PWD,22-02-2023,72005
+1312,Maharashtra,Constituency_88,MP_Name_88,Work_113,State PWD,14-01-2021,362472
+1313,Delhi,Constituency_89,MP_Name_89,Work_114,ABC Constructions,28-06-2022,225342
+1314,Karnataka,Constituency_90,MP_Name_90,Work_115,XYZ Builders,15-05-2023,265983
+1315,Karnataka,Constituency_91,MP_Name_91,Work_116,Global Infra,15-07-2022,120913
+1316,Maharashtra,Constituency_92,MP_Name_92,Work_117,ABC Constructions,15-02-2022,129630
+1317,Karnataka,Constituency_93,MP_Name_93,Work_118,ABC Constructions,30-09-2022,132711
+1318,Karnataka,Constituency_94,MP_Name_94,Work_119,Rural Works Dept,23-11-2021,315396
+1319,Gujarat,Constituency_95,MP_Name_95,Work_120,State PWD,21-08-2021,284635
+1320,Uttar Pradesh,Constituency_96,MP_Name_96,Work_121,ABC Constructions,09-03-2022,308206
+1321,Gujarat,Constituency_97,MP_Name_97,Work_122,State PWD,20-04-2022,372363
+1322,Maharashtra,Constituency_98,MP_Name_98,Work_123,Global Infra,07-12-2021,278249
+1323,Maharashtra,Constituency_99,MP_Name_99,Work_124,XYZ Builders,27-02-2022,217326
+1324,Karnataka,Constituency_100,MP_Name_100,Work_125,Rural Works Dept,10-01-2021,336425
+1325,Uttar Pradesh,Constituency_101,MP_Name_101,Work_126,Global Infra,23-09-2022,350698
+1326,Delhi,Constituency_102,MP_Name_102,Work_127,Rural Works Dept,27-01-2021,127852
+1327,Maharashtra,Constituency_103,MP_Name_103,Work_128,Rural Works Dept,13-06-2022,64591
+1328,Karnataka,Constituency_104,MP_Name_104,Work_129,XYZ Builders,04-05-2022,236611
+1329,Uttar Pradesh,Constituency_105,MP_Name_105,Work_130,XYZ Builders,08-06-2021,306184
+1330,Uttar Pradesh,Constituency_106,MP_Name_106,Work_131,Global Infra,26-04-2023,287945
+1331,Karnataka,Constituency_107,MP_Name_107,Work_132,ABC Constructions,01-02-2021,396100
+1332,Tamil Nadu,Constituency_108,MP_Name_108,Work_133,Global Infra,01-04-2022,446968
+1333,Uttar Pradesh,Constituency_109,MP_Name_109,Work_134,ABC Constructions,27-02-2022,64300
+1334,Gujarat,Constituency_110,MP_Name_110,Work_135,Rural Works Dept,19-06-2023,370656
+1335,Uttar Pradesh,Constituency_111,MP_Name_111,Work_136,Global Infra,09-07-2021,242756
+1336,Tamil Nadu,Constituency_112,MP_Name_112,Work_137,XYZ Builders,25-03-2021,165423
+1337,Tamil Nadu,Constituency_113,MP_Name_113,Work_138,ABC Constructions,06-10-2021,138551
+1338,Tamil Nadu,Constituency_114,MP_Name_114,Work_139,Global Infra,12-02-2023,247188
+1339,Uttar Pradesh,Constituency_115,MP_Name_115,Work_140,ABC Constructions,06-10-2022,280141
+1340,Delhi,Constituency_116,MP_Name_116,Work_141,ABC Constructions,09-09-2021,104507
+1341,Karnataka,Constituency_117,MP_Name_117,Work_142,Rural Works Dept,17-05-2021,340208
+1342,Uttar Pradesh,Constituency_118,MP_Name_118,Work_143,State PWD,28-08-2023,70521
+1343,Uttar Pradesh,Constituency_119,MP_Name_119,Work_144,State PWD,06-08-2022,71277
+1344,Karnataka,Constituency_120,MP_Name_120,Work_145,State PWD,14-12-2021,202304
+1345,Uttar Pradesh,Constituency_121,MP_Name_121,Work_146,State PWD,31-10-2022,450370
+1346,Gujarat,Constituency_122,MP_Name_122,Work_147,XYZ Builders,16-11-2022,75566
+1347,Delhi,Constituency_123,MP_Name_123,Work_148,Global Infra,10-01-2022,379513
+1348,Uttar Pradesh,Constituency_124,MP_Name_124,Work_149,State PWD,20-09-2022,425422
+1349,Maharashtra,Constituency_125,MP_Name_125,Work_150,XYZ Builders,05-06-2023,387166
+1350,Tamil Nadu,Constituency_126,MP_Name_126,Work_151,State PWD,26-11-2021,56565
+1351,Delhi,Constituency_127,MP_Name_127,Work_152,State PWD,28-11-2021,81242
+1352,Maharashtra,Constituency_128,MP_Name_128,Work_153,XYZ Builders,02-06-2023,391215
+1353,Maharashtra,Constituency_129,MP_Name_129,Work_154,XYZ Builders,16-06-2021,236289
+1354,Gujarat,Constituency_130,MP_Name_130,Work_155,Global Infra,07-03-2023,245159
+1355,Tamil Nadu,Constituency_131,MP_Name_131,Work_156,Rural Works Dept,22-02-2021,262391
+1356,Uttar Pradesh,Constituency_132,MP_Name_132,Work_157,State PWD,28-03-2022,404698
+1357,Karnataka,Constituency_133,MP_Name_133,Work_158,XYZ Builders,26-09-2023,497569
+1358,Uttar Pradesh,Constituency_134,MP_Name_134,Work_159,XYZ Builders,09-06-2021,333780
+1359,Delhi,Constituency_135,MP_Name_135,Work_160,State PWD,30-09-2021,184775
+1360,Delhi,Constituency_136,MP_Name_136,Work_161,Rural Works Dept,22-03-2022,430636
+1361,Delhi,Constituency_137,MP_Name_137,Work_162,State PWD,06-09-2022,70723
+1362,Gujarat,Constituency_138,MP_Name_138,Work_163,State PWD,17-02-2021,243199
+1363,Uttar Pradesh,Constituency_139,MP_Name_139,Work_164,XYZ Builders,25-06-2023,273453
+1364,Maharashtra,Constituency_140,MP_Name_140,Work_165,ABC Constructions,23-09-2021,394973
+1365,Delhi,Constituency_141,MP_Name_141,Work_166,ABC Constructions,20-09-2021,277539
+1366,Tamil Nadu,Constituency_142,MP_Name_142,Work_167,XYZ Builders,14-02-2022,402855
+1367,Gujarat,Constituency_143,MP_Name_143,Work_168,ABC Constructions,18-01-2023,205607
+1368,Maharashtra,Constituency_144,MP_Name_144,Work_169,Global Infra,24-09-2022,333450
+1369,Maharashtra,Constituency_145,MP_Name_145,Work_170,State PWD,10-03-2022,61642
+1370,Delhi,Constituency_146,MP_Name_146,Work_171,Global Infra,03-10-2023,450718
+1371,Uttar Pradesh,Constituency_147,MP_Name_147,Work_172,ABC Constructions,19-07-2023,251701
+1372,Gujarat,Constituency_148,MP_Name_148,Work_173,State PWD,30-12-2022,123892
+1373,Karnataka,Constituency_149,MP_Name_149,Work_174,XYZ Builders,05-10-2022,91217
+1374,Karnataka,Constituency_150,MP_Name_150,Work_175,State PWD,30-11-2022,86589
+1375,Gujarat,Constituency_151,MP_Name_151,Work_176,Rural Works Dept,22-04-2021,107918
+1376,Uttar Pradesh,Constituency_152,MP_Name_152,Work_177,Global Infra,10-01-2021,241807
+1377,Maharashtra,Constituency_153,MP_Name_153,Work_178,State PWD,04-04-2022,126672
+1378,Gujarat,Constituency_154,MP_Name_154,Work_179,ABC Constructions,02-01-2022,108031
+1379,Karnataka,Constituency_155,MP_Name_155,Work_180,State PWD,01-01-2024,55326
+1380,Uttar Pradesh,Constituency_156,MP_Name_156,Work_181,Global Infra,16-05-2022,100579
+1381,Tamil Nadu,Constituency_157,MP_Name_157,Work_182,State PWD,14-10-2021,121765
+1382,Tamil Nadu,Constituency_158,MP_Name_158,Work_183,ABC Constructions,15-03-2021,350406
+1383,Delhi,Constituency_159,MP_Name_159,Work_184,XYZ Builders,21-11-2023,173393
+1384,Maharashtra,Constituency_160,MP_Name_160,Work_185,ABC Constructions,10-01-2023,224655
+1385,Tamil Nadu,Constituency_161,MP_Name_161,Work_186,Global Infra,17-07-2023,122393
+1386,Uttar Pradesh,Constituency_162,MP_Name_162,Work_187,State PWD,21-11-2022,344977
+1387,Delhi,Constituency_163,MP_Name_163,Work_188,Global Infra,16-02-2021,159977
+1388,Delhi,Constituency_164,MP_Name_164,Work_189,Rural Works Dept,30-09-2021,406341
+1389,Gujarat,Constituency_165,MP_Name_165,Work_190,ABC Constructions,12-06-2023,371687
+1390,Maharashtra,Constituency_166,MP_Name_166,Work_191,Global Infra,16-06-2023,98787
+1391,Gujarat,Constituency_167,MP_Name_167,Work_192,ABC Constructions,05-08-2023,291147
+1392,Gujarat,Constituency_168,MP_Name_168,Work_193,State PWD,22-11-2022,94492
+1393,Gujarat,Constituency_169,MP_Name_169,Work_194,State PWD,29-09-2022,161572
+1394,Karnataka,Constituency_170,MP_Name_170,Work_195,XYZ Builders,05-04-2021,52178
+1395,Tamil Nadu,Constituency_171,MP_Name_171,Work_196,Rural Works Dept,14-05-2021,68471
+1396,Tamil Nadu,Constituency_172,MP_Name_172,Work_197,Global Infra,25-08-2023,385390
+1397,Gujarat,Constituency_173,MP_Name_173,Work_198,ABC Constructions,13-10-2023,184889
+1398,Uttar Pradesh,Constituency_174,MP_Name_174,Work_199,Rural Works Dept,08-04-2021,69455
+1399,Gujarat,Constituency_175,MP_Name_175,Work_200,ABC Constructions,06-09-2021,132090
+1400,Karnataka,Constituency_176,MP_Name_176,Work_1,ABC Constructions,13-11-2021,438411
+1401,Tamil Nadu,Constituency_177,MP_Name_177,Work_2,Global Infra,18-02-2021,83211
+1402,Maharashtra,Constituency_178,MP_Name_178,Work_3,Global Infra,24-11-2022,436279
+1403,Uttar Pradesh,Constituency_179,MP_Name_179,Work_4,State PWD,30-06-2022,262370
+1404,Karnataka,Constituency_180,MP_Name_180,Work_5,Rural Works Dept,18-02-2023,50685
+1405,Delhi,Constituency_181,MP_Name_181,Work_6,ABC Constructions,24-06-2021,179997
+1406,Gujarat,Constituency_182,MP_Name_182,Work_7,State PWD,15-01-2023,108339
+1407,Uttar Pradesh,Constituency_183,MP_Name_183,Work_8,Global Infra,29-08-2023,360760
+1408,Uttar Pradesh,Constituency_184,MP_Name_184,Work_9,Global Infra,05-02-2023,402186
+1409,Uttar Pradesh,Constituency_185,MP_Name_185,Work_10,Global Infra,01-11-2023,94500
+1410,Uttar Pradesh,Constituency_186,MP_Name_186,Work_11,State PWD,07-03-2021,442358
+1411,Uttar Pradesh,Constituency_187,MP_Name_187,Work_12,Global Infra,09-05-2021,211116
+1412,Karnataka,Constituency_188,MP_Name_188,Work_13,Rural Works Dept,01-01-2022,76001
+1413,Gujarat,Constituency_189,MP_Name_189,Work_14,Rural Works Dept,11-04-2022,182383
+1414,Maharashtra,Constituency_190,MP_Name_190,Work_15,ABC Constructions,06-10-2023,446434
+1415,Delhi,Constituency_191,MP_Name_191,Work_16,XYZ Builders,14-03-2021,322295
+1416,Tamil Nadu,Constituency_192,MP_Name_192,Work_17,Global Infra,25-07-2023,308271
+1417,Gujarat,Constituency_193,MP_Name_193,Work_18,State PWD,01-12-2021,430245
+1418,Delhi,Constituency_194,MP_Name_194,Work_19,State PWD,13-02-2022,293114
+1419,Tamil Nadu,Constituency_195,MP_Name_195,Work_20,XYZ Builders,06-05-2022,177216
+1420,Tamil Nadu,Constituency_196,MP_Name_196,Work_21,Rural Works Dept,17-07-2022,420104
+1421,Tamil Nadu,Constituency_197,MP_Name_197,Work_22,State PWD,25-07-2023,285589
+1422,Maharashtra,Constituency_198,MP_Name_198,Work_23,Global Infra,12-01-2021,102610
+1423,Uttar Pradesh,Constituency_199,MP_Name_199,Work_24,State PWD,29-09-2021,194772
+1424,Uttar Pradesh,Constituency_200,MP_Name_200,Work_25,ABC Constructions,14-02-2021,442573
+1425,Delhi,Constituency_201,MP_Name_201,Work_26,State PWD,28-09-2021,119721
+1426,Tamil Nadu,Constituency_202,MP_Name_202,Work_27,Rural Works Dept,08-04-2023,164407
+1427,Delhi,Constituency_203,MP_Name_203,Work_28,State PWD,02-10-2023,158796
+1428,Uttar Pradesh,Constituency_204,MP_Name_204,Work_29,XYZ Builders,22-08-2021,125047
+1429,Karnataka,Constituency_205,MP_Name_205,Work_30,Global Infra,08-07-2022,92440
+1430,Uttar Pradesh,Constituency_206,MP_Name_206,Work_31,XYZ Builders,20-04-2022,456405
+1431,Uttar Pradesh,Constituency_207,MP_Name_207,Work_32,XYZ Builders,05-04-2022,308812
+1432,Uttar Pradesh,Constituency_208,MP_Name_208,Work_33,Global Infra,17-08-2021,53152
+1433,Gujarat,Constituency_209,MP_Name_209,Work_34,Rural Works Dept,13-10-2022,194663
+1434,Karnataka,Constituency_210,MP_Name_210,Work_35,ABC Constructions,15-10-2022,220771
+1435,Gujarat,Constituency_211,MP_Name_211,Work_36,ABC Constructions,20-04-2023,356312
+1436,Uttar Pradesh,Constituency_212,MP_Name_212,Work_37,Global Infra,30-10-2022,247086
+1437,Tamil Nadu,Constituency_213,MP_Name_213,Work_38,Rural Works Dept,06-10-2022,196950
+1438,Tamil Nadu,Constituency_214,MP_Name_214,Work_39,Rural Works Dept,27-08-2022,233052
+1439,Gujarat,Constituency_215,MP_Name_215,Work_40,ABC Constructions,14-05-2023,345341
+1440,Tamil Nadu,Constituency_216,MP_Name_216,Work_41,Rural Works Dept,21-01-2023,105336
+1441,Delhi,Constituency_217,MP_Name_217,Work_42,ABC Constructions,20-08-2022,386710
+1442,Delhi,Constituency_218,MP_Name_218,Work_43,State PWD,07-10-2023,63026
+1443,Gujarat,Constituency_219,MP_Name_219,Work_44,ABC Constructions,19-05-2021,307395
+1444,Gujarat,Constituency_220,MP_Name_220,Work_45,ABC Constructions,10-07-2021,113710
+1445,Delhi,Constituency_221,MP_Name_221,Work_46,Rural Works Dept,02-03-2021,159157
+1446,Uttar Pradesh,Constituency_222,MP_Name_222,Work_47,Rural Works Dept,14-10-2021,200711
+1447,Karnataka,Constituency_223,MP_Name_223,Work_48,State PWD,26-05-2021,462339
+1448,Maharashtra,Constituency_224,MP_Name_224,Work_49,State PWD,12-04-2022,67954
+1449,Karnataka,Constituency_225,MP_Name_225,Work_50,Rural Works Dept,22-03-2022,497682
+1450,Karnataka,Constituency_226,MP_Name_226,Work_51,Rural Works Dept,11-03-2022,69714
+1451,Uttar Pradesh,Constituency_227,MP_Name_227,Work_52,Rural Works Dept,07-08-2021,252940
+1452,Maharashtra,Constituency_228,MP_Name_228,Work_53,XYZ Builders,18-03-2021,271787
+1453,Delhi,Constituency_229,MP_Name_229,Work_54,ABC Constructions,09-03-2022,60365
+1454,Gujarat,Constituency_230,MP_Name_230,Work_55,Rural Works Dept,30-12-2022,267940
+1455,Karnataka,Constituency_231,MP_Name_231,Work_56,State PWD,20-05-2022,233858
+1456,Uttar Pradesh,Constituency_232,MP_Name_232,Work_57,Global Infra,05-01-2021,217771
+1457,Gujarat,Constituency_233,MP_Name_233,Work_58,Global Infra,10-10-2021,228884
+1458,Maharashtra,Constituency_234,MP_Name_234,Work_59,ABC Constructions,08-04-2023,397016
+1459,Tamil Nadu,Constituency_235,MP_Name_235,Work_60,Rural Works Dept,26-05-2021,199430
+1460,Uttar Pradesh,Constituency_236,MP_Name_236,Work_61,XYZ Builders,01-02-2023,223729
+1461,Uttar Pradesh,Constituency_237,MP_Name_237,Work_62,ABC Constructions,02-04-2021,188001
+1462,Tamil Nadu,Constituency_238,MP_Name_238,Work_63,Rural Works Dept,28-01-2022,199957
+1463,Gujarat,Constituency_239,MP_Name_239,Work_64,State PWD,16-01-2023,167202
+1464,Uttar Pradesh,Constituency_240,MP_Name_240,Work_65,Rural Works Dept,17-02-2023,107064
+1465,Karnataka,Constituency_241,MP_Name_241,Work_66,Global Infra,12-07-2021,74596
+1466,Karnataka,Constituency_242,MP_Name_242,Work_67,ABC Constructions,14-04-2023,248445
+1467,Tamil Nadu,Constituency_243,MP_Name_243,Work_68,State PWD,26-07-2022,489656
+1468,Karnataka,Constituency_244,MP_Name_244,Work_69,ABC Constructions,19-07-2022,104940
+1469,Maharashtra,Constituency_245,MP_Name_245,Work_70,Global Infra,28-06-2022,407177
+1470,Uttar Pradesh,Constituency_1,MP_Name_1,Work_71,XYZ Builders,09-11-2022,267260
+1471,Tamil Nadu,Constituency_2,MP_Name_2,Work_72,Global Infra,13-02-2023,425054
+1472,Tamil Nadu,Constituency_3,MP_Name_3,Work_73,State PWD,25-05-2022,383983
+1473,Gujarat,Constituency_4,MP_Name_4,Work_74,Global Infra,12-08-2022,57574
+1474,Maharashtra,Constituency_5,MP_Name_5,Work_75,Rural Works Dept,05-07-2023,315122
+1475,Karnataka,Constituency_6,MP_Name_6,Work_76,Global Infra,11-03-2021,435493
+1476,Delhi,Constituency_7,MP_Name_7,Work_77,ABC Constructions,01-01-2021,121929
+1477,Tamil Nadu,Constituency_8,MP_Name_8,Work_78,Rural Works Dept,29-12-2021,276869
+1478,Uttar Pradesh,Constituency_9,MP_Name_9,Work_79,ABC Constructions,21-04-2023,82743
+1479,Uttar Pradesh,Constituency_10,MP_Name_10,Work_80,Rural Works Dept,06-08-2021,453978
+1480,Uttar Pradesh,Constituency_11,MP_Name_11,Work_81,ABC Constructions,25-12-2023,119510
+1481,Karnataka,Constituency_12,MP_Name_12,Work_82,XYZ Builders,28-08-2023,329423
+1482,Delhi,Constituency_13,MP_Name_13,Work_83,Global Infra,14-05-2022,207857
+1483,Gujarat,Constituency_14,MP_Name_14,Work_84,State PWD,12-10-2022,185071
+1484,Uttar Pradesh,Constituency_15,MP_Name_15,Work_85,XYZ Builders,07-08-2021,404522
+1485,Uttar Pradesh,Constituency_16,MP_Name_16,Work_86,State PWD,17-01-2021,245523
+1486,Gujarat,Constituency_17,MP_Name_17,Work_87,Rural Works Dept,25-01-2022,397185
+1487,Delhi,Constituency_18,MP_Name_18,Work_88,Global Infra,24-09-2021,94182
+1488,Delhi,Constituency_19,MP_Name_19,Work_89,Global Infra,08-03-2023,470513
+1489,Uttar Pradesh,Constituency_20,MP_Name_20,Work_90,Rural Works Dept,29-05-2023,222537
+1490,Tamil Nadu,Constituency_21,MP_Name_21,Work_91,ABC Constructions,14-05-2021,220087
+1491,Maharashtra,Constituency_22,MP_Name_22,Work_92,XYZ Builders,15-12-2022,218858
+1492,Maharashtra,Constituency_23,MP_Name_23,Work_93,ABC Constructions,23-01-2021,433120
+1493,Maharashtra,Constituency_24,MP_Name_24,Work_94,XYZ Builders,05-02-2023,283373
+1494,Karnataka,Constituency_25,MP_Name_25,Work_95,Rural Works Dept,28-02-2023,127396
+1495,Gujarat,Constituency_26,MP_Name_26,Work_96,XYZ Builders,27-09-2021,150471
+1496,Gujarat,Constituency_27,MP_Name_27,Work_97,Global Infra,02-10-2023,409114
+1497,Gujarat,Constituency_28,MP_Name_28,Work_98,State PWD,12-10-2023,389459
+1498,Gujarat,Constituency_29,MP_Name_29,Work_99,Global Infra,18-01-2021,290762
+1499,Gujarat,Constituency_30,MP_Name_30,Work_100,XYZ Builders,30-10-2021,158238
+1500,Maharashtra,Constituency_31,MP_Name_31,Work_101,Global Infra,13-01-2023,207257
+1501,Gujarat,Constituency_32,MP_Name_32,Work_102,Global Infra,25-03-2023,476175
+1502,Uttar Pradesh,Constituency_33,MP_Name_33,Work_103,ABC Constructions,30-06-2022,360899
+1503,Uttar Pradesh,Constituency_34,MP_Name_34,Work_104,XYZ Builders,12-07-2022,267973
+1504,Gujarat,Constituency_35,MP_Name_35,Work_105,ABC Constructions,09-07-2023,240527
+1505,Uttar Pradesh,Constituency_36,MP_Name_36,Work_106,Global Infra,22-08-2023,282935
+1506,Gujarat,Constituency_37,MP_Name_37,Work_107,Rural Works Dept,19-08-2022,385598
+1507,Tamil Nadu,Constituency_38,MP_Name_38,Work_108,ABC Constructions,02-06-2023,460066
+1508,Uttar Pradesh,Constituency_39,MP_Name_39,Work_109,XYZ Builders,01-12-2023,136116
+1509,Karnataka,Constituency_40,MP_Name_40,Work_110,Rural Works Dept,13-04-2021,50324
+1510,Delhi,Constituency_41,MP_Name_41,Work_111,Rural Works Dept,08-11-2022,224735
+1511,Maharashtra,Constituency_42,MP_Name_42,Work_112,Rural Works Dept,06-12-2023,126858
+1512,Uttar Pradesh,Constituency_43,MP_Name_43,Work_113,Rural Works Dept,04-10-2022,394559
+1513,Karnataka,Constituency_44,MP_Name_44,Work_114,Global Infra,26-08-2022,180702
+1514,Karnataka,Constituency_45,MP_Name_45,Work_115,Rural Works Dept,10-05-2021,296038
+1515,Tamil Nadu,Constituency_46,MP_Name_46,Work_116,Rural Works Dept,19-05-2023,475139
+1516,Maharashtra,Constituency_47,MP_Name_47,Work_117,Global Infra,16-09-2022,165397
+1517,Maharashtra,Constituency_48,MP_Name_48,Work_118,ABC Constructions,11-04-2022,341883
+1518,Delhi,Constituency_49,MP_Name_49,Work_119,XYZ Builders,21-08-2023,443592
+1519,Maharashtra,Constituency_50,MP_Name_50,Work_120,XYZ Builders,13-11-2023,413474
+1520,Delhi,Constituency_51,MP_Name_51,Work_121,ABC Constructions,08-02-2023,443146
+1521,Maharashtra,Constituency_52,MP_Name_52,Work_122,Global Infra,15-05-2023,362616
+1522,Karnataka,Constituency_53,MP_Name_53,Work_123,State PWD,08-12-2021,268254
+1523,Tamil Nadu,Constituency_54,MP_Name_54,Work_124,State PWD,14-06-2023,305418
+1524,Maharashtra,Constituency_55,MP_Name_55,Work_125,State PWD,09-12-2022,73769
+1525,Karnataka,Constituency_56,MP_Name_56,Work_126,State PWD,09-02-2022,120078
+1526,Uttar Pradesh,Constituency_57,MP_Name_57,Work_127,ABC Constructions,24-06-2022,170181
+1527,Tamil Nadu,Constituency_58,MP_Name_58,Work_128,ABC Constructions,24-10-2021,356143
+1528,Tamil Nadu,Constituency_59,MP_Name_59,Work_129,State PWD,03-05-2023,430073
+1529,Tamil Nadu,Constituency_60,MP_Name_60,Work_130,Rural Works Dept,07-07-2021,486181
+1530,Gujarat,Constituency_61,MP_Name_61,Work_131,XYZ Builders,02-09-2022,207000
+1531,Delhi,Constituency_62,MP_Name_62,Work_132,ABC Constructions,11-02-2023,178036
+1532,Tamil Nadu,Constituency_63,MP_Name_63,Work_133,ABC Constructions,22-09-2021,121076
+1533,Uttar Pradesh,Constituency_64,MP_Name_64,Work_134,ABC Constructions,04-07-2023,291626
+1534,Karnataka,Constituency_65,MP_Name_65,Work_135,Global Infra,09-02-2023,254982
+1535,Karnataka,Constituency_66,MP_Name_66,Work_136,State PWD,14-06-2023,141003
+1536,Maharashtra,Constituency_67,MP_Name_67,Work_137,ABC Constructions,21-03-2021,85730
+1537,Tamil Nadu,Constituency_68,MP_Name_68,Work_138,State PWD,25-12-2022,136914
+1538,Maharashtra,Constituency_69,MP_Name_69,Work_139,Rural Works Dept,01-08-2022,196783
+1539,Karnataka,Constituency_70,MP_Name_70,Work_140,Rural Works Dept,03-06-2021,194292
+1540,Maharashtra,Constituency_71,MP_Name_71,Work_141,XYZ Builders,17-09-2022,465944
+1541,Karnataka,Constituency_72,MP_Name_72,Work_142,ABC Constructions,29-10-2021,496511
+1542,Gujarat,Constituency_73,MP_Name_73,Work_143,XYZ Builders,18-03-2023,343171
+1543,Maharashtra,Constituency_74,MP_Name_74,Work_144,Rural Works Dept,14-09-2022,280481
+1544,Gujarat,Constituency_75,MP_Name_75,Work_145,XYZ Builders,09-04-2023,180946
+1545,Gujarat,Constituency_76,MP_Name_76,Work_146,Global Infra,09-03-2021,399270
+1546,Delhi,Constituency_77,MP_Name_77,Work_147,State PWD,03-06-2023,153568
+1547,Maharashtra,Constituency_78,MP_Name_78,Work_148,State PWD,28-03-2021,344297
+1548,Delhi,Constituency_79,MP_Name_79,Work_149,Global Infra,29-03-2021,435277
+1549,Tamil Nadu,Constituency_80,MP_Name_80,Work_150,ABC Constructions,18-01-2023,323624
+1550,Maharashtra,Constituency_81,MP_Name_81,Work_151,State PWD,26-05-2023,73207
+1551,Tamil Nadu,Constituency_82,MP_Name_82,Work_152,State PWD,19-12-2022,329625
+1552,Gujarat,Constituency_83,MP_Name_83,Work_153,Global Infra,15-08-2023,306320
+1553,Uttar Pradesh,Constituency_84,MP_Name_84,Work_154,State PWD,09-05-2023,426450
+1554,Delhi,Constituency_85,MP_Name_85,Work_155,ABC Constructions,01-04-2022,481034
+1555,Delhi,Constituency_86,MP_Name_86,Work_156,Rural Works Dept,28-07-2021,454827
+1556,Maharashtra,Constituency_87,MP_Name_87,Work_157,Rural Works Dept,13-06-2023,306158
+1557,Karnataka,Constituency_88,MP_Name_88,Work_158,XYZ Builders,21-11-2022,425743
+1558,Tamil Nadu,Constituency_89,MP_Name_89,Work_159,Global Infra,30-03-2021,296366
+1559,Maharashtra,Constituency_90,MP_Name_90,Work_160,ABC Constructions,23-04-2023,319046
+1560,Uttar Pradesh,Constituency_91,MP_Name_91,Work_161,XYZ Builders,16-05-2023,176512
+1561,Delhi,Constituency_92,MP_Name_92,Work_162,XYZ Builders,11-04-2021,108085
+1562,Karnataka,Constituency_93,MP_Name_93,Work_163,State PWD,22-05-2022,213504
+1563,Maharashtra,Constituency_94,MP_Name_94,Work_164,Rural Works Dept,14-03-2023,139810
+1564,Uttar Pradesh,Constituency_95,MP_Name_95,Work_165,State PWD,28-09-2021,362685
+1565,Gujarat,Constituency_96,MP_Name_96,Work_166,XYZ Builders,22-05-2021,207529
+1566,Delhi,Constituency_97,MP_Name_97,Work_167,State PWD,23-04-2021,457069
+1567,Uttar Pradesh,Constituency_98,MP_Name_98,Work_168,ABC Constructions,20-07-2023,425433
+1568,Delhi,Constituency_99,MP_Name_99,Work_169,State PWD,11-09-2021,422605
+1569,Maharashtra,Constituency_100,MP_Name_100,Work_170,State PWD,18-10-2021,327167
+1570,Delhi,Constituency_101,MP_Name_101,Work_171,XYZ Builders,26-12-2022,299308
+1571,Gujarat,Constituency_102,MP_Name_102,Work_172,XYZ Builders,05-06-2021,318753
+1572,Karnataka,Constituency_103,MP_Name_103,Work_173,Rural Works Dept,27-08-2021,368239
+1573,Delhi,Constituency_104,MP_Name_104,Work_174,XYZ Builders,19-12-2022,120757
+1574,Maharashtra,Constituency_105,MP_Name_105,Work_175,XYZ Builders,30-12-2023,345318
+1575,Tamil Nadu,Constituency_106,MP_Name_106,Work_176,Global Infra,08-06-2021,446810
+1576,Delhi,Constituency_107,MP_Name_107,Work_177,Rural Works Dept,21-12-2021,164887
+1577,Tamil Nadu,Constituency_108,MP_Name_108,Work_178,State PWD,09-02-2023,275695
+1578,Tamil Nadu,Constituency_109,MP_Name_109,Work_179,State PWD,24-06-2023,292676
+1579,Gujarat,Constituency_110,MP_Name_110,Work_180,XYZ Builders,30-11-2022,269120
+1580,Uttar Pradesh,Constituency_111,MP_Name_111,Work_181,Rural Works Dept,20-07-2021,348337
+1581,Uttar Pradesh,Constituency_112,MP_Name_112,Work_182,Global Infra,04-01-2022,97168
+1582,Uttar Pradesh,Constituency_113,MP_Name_113,Work_183,Global Infra,19-12-2021,298834
+1583,Tamil Nadu,Constituency_114,MP_Name_114,Work_184,Rural Works Dept,03-08-2023,62731
+1584,Delhi,Constituency_115,MP_Name_115,Work_185,XYZ Builders,21-04-2023,128329
+1585,Tamil Nadu,Constituency_116,MP_Name_116,Work_186,ABC Constructions,07-03-2021,69376
+1586,Gujarat,Constituency_117,MP_Name_117,Work_187,State PWD,06-04-2023,391814
+1587,Tamil Nadu,Constituency_118,MP_Name_118,Work_188,State PWD,19-08-2022,425739
+1588,Gujarat,Constituency_119,MP_Name_119,Work_189,ABC Constructions,09-08-2021,217332
+1589,Karnataka,Constituency_120,MP_Name_120,Work_190,State PWD,20-12-2021,72913
+1590,Uttar Pradesh,Constituency_121,MP_Name_121,Work_191,Global Infra,28-01-2023,98040
+1591,Tamil Nadu,Constituency_122,MP_Name_122,Work_192,XYZ Builders,26-02-2023,286908
+1592,Tamil Nadu,Constituency_123,MP_Name_123,Work_193,State PWD,09-09-2023,225965
+1593,Maharashtra,Constituency_124,MP_Name_124,Work_194,State PWD,09-12-2022,334491
+1594,Gujarat,Constituency_125,MP_Name_125,Work_195,State PWD,27-10-2021,78180
+1595,Tamil Nadu,Constituency_126,MP_Name_126,Work_196,XYZ Builders,16-12-2021,393237
+1596,Delhi,Constituency_127,MP_Name_127,Work_197,XYZ Builders,05-12-2023,165001
+1597,Delhi,Constituency_128,MP_Name_128,Work_198,State PWD,28-05-2022,177153
+1598,Uttar Pradesh,Constituency_129,MP_Name_129,Work_199,Rural Works Dept,08-04-2023,196486
+1599,Uttar Pradesh,Constituency_130,MP_Name_130,Work_200,Global Infra,05-09-2023,306487
+1600,Maharashtra,Constituency_131,MP_Name_131,Work_1,Rural Works Dept,17-10-2022,322226
+1601,Delhi,Constituency_132,MP_Name_132,Work_2,Global Infra,28-04-2023,353945
+1602,Gujarat,Constituency_133,MP_Name_133,Work_3,Rural Works Dept,30-08-2021,169659
+1603,Maharashtra,Constituency_134,MP_Name_134,Work_4,Global Infra,06-02-2023,326889
+1604,Gujarat,Constituency_135,MP_Name_135,Work_5,Rural Works Dept,03-11-2021,211181
+1605,Karnataka,Constituency_136,MP_Name_136,Work_6,XYZ Builders,08-08-2023,94739
+1606,Uttar Pradesh,Constituency_137,MP_Name_137,Work_7,State PWD,09-10-2021,489865
+1607,Maharashtra,Constituency_138,MP_Name_138,Work_8,State PWD,15-05-2023,357003
+1608,Delhi,Constituency_139,MP_Name_139,Work_9,XYZ Builders,08-03-2021,126205
+1609,Uttar Pradesh,Constituency_140,MP_Name_140,Work_10,ABC Constructions,20-06-2022,289149
+1610,Gujarat,Constituency_141,MP_Name_141,Work_11,Global Infra,28-08-2021,139097
+1611,Delhi,Constituency_142,MP_Name_142,Work_12,State PWD,24-09-2023,52916
+1612,Maharashtra,Constituency_143,MP_Name_143,Work_13,XYZ Builders,01-06-2022,249377
+1613,Karnataka,Constituency_144,MP_Name_144,Work_14,ABC Constructions,28-10-2021,190495
+1614,Uttar Pradesh,Constituency_145,MP_Name_145,Work_15,Global Infra,19-05-2023,90895
+1615,Delhi,Constituency_146,MP_Name_146,Work_16,XYZ Builders,03-11-2022,497964
+1616,Delhi,Constituency_147,MP_Name_147,Work_17,State PWD,26-09-2023,439728
+1617,Karnataka,Constituency_148,MP_Name_148,Work_18,XYZ Builders,01-02-2022,108850
+1618,Tamil Nadu,Constituency_149,MP_Name_149,Work_19,ABC Constructions,12-02-2023,245688
+1619,Maharashtra,Constituency_150,MP_Name_150,Work_20,Rural Works Dept,21-09-2022,446518
+1620,Uttar Pradesh,Constituency_151,MP_Name_151,Work_21,Rural Works Dept,19-01-2023,339125
+1621,Gujarat,Constituency_152,MP_Name_152,Work_22,State PWD,28-05-2021,122588
+1622,Gujarat,Constituency_153,MP_Name_153,Work_23,XYZ Builders,05-04-2023,370174
+1623,Karnataka,Constituency_154,MP_Name_154,Work_24,Global Infra,17-06-2021,186146
+1624,Tamil Nadu,Constituency_155,MP_Name_155,Work_25,XYZ Builders,20-03-2021,100054
+1625,Gujarat,Constituency_156,MP_Name_156,Work_26,Global Infra,21-01-2023,308329
+1626,Uttar Pradesh,Constituency_157,MP_Name_157,Work_27,State PWD,16-03-2023,192969
+1627,Uttar Pradesh,Constituency_158,MP_Name_158,Work_28,ABC Constructions,05-05-2022,284768
+1628,Delhi,Constituency_159,MP_Name_159,Work_29,ABC Constructions,26-11-2023,445887
+1629,Delhi,Constituency_160,MP_Name_160,Work_30,XYZ Builders,08-10-2021,98771
+1630,Delhi,Constituency_161,MP_Name_161,Work_31,XYZ Builders,24-01-2021,298307
+1631,Uttar Pradesh,Constituency_162,MP_Name_162,Work_32,State PWD,28-09-2021,199059
+1632,Karnataka,Constituency_163,MP_Name_163,Work_33,ABC Constructions,11-06-2022,56395
+1633,Gujarat,Constituency_164,MP_Name_164,Work_34,State PWD,20-09-2022,66198
+1634,Maharashtra,Constituency_165,MP_Name_165,Work_35,Global Infra,08-03-2021,248068
+1635,Delhi,Constituency_166,MP_Name_166,Work_36,State PWD,30-01-2021,154949
+1636,Tamil Nadu,Constituency_167,MP_Name_167,Work_37,XYZ Builders,11-01-2022,461075
+1637,Delhi,Constituency_168,MP_Name_168,Work_38,ABC Constructions,01-11-2022,243738
+1638,Tamil Nadu,Constituency_169,MP_Name_169,Work_39,ABC Constructions,16-03-2023,87930
+1639,Uttar Pradesh,Constituency_170,MP_Name_170,Work_40,Global Infra,18-06-2022,114554
+1640,Tamil Nadu,Constituency_171,MP_Name_171,Work_41,ABC Constructions,30-05-2022,344193
+1641,Maharashtra,Constituency_172,MP_Name_172,Work_42,Global Infra,13-12-2021,296424
+1642,Karnataka,Constituency_173,MP_Name_173,Work_43,XYZ Builders,14-11-2022,308710
+1643,Tamil Nadu,Constituency_174,MP_Name_174,Work_44,Global Infra,15-05-2021,114062
+1644,Tamil Nadu,Constituency_175,MP_Name_175,Work_45,Rural Works Dept,31-10-2023,411169
+1645,Karnataka,Constituency_176,MP_Name_176,Work_46,ABC Constructions,07-04-2021,67701
+1646,Karnataka,Constituency_177,MP_Name_177,Work_47,XYZ Builders,23-05-2023,337758
+1647,Gujarat,Constituency_178,MP_Name_178,Work_48,XYZ Builders,04-02-2021,175305
+1648,Gujarat,Constituency_179,MP_Name_179,Work_49,Global Infra,05-06-2022,352108
+1649,Tamil Nadu,Constituency_180,MP_Name_180,Work_50,State PWD,23-07-2021,176685
+1650,Maharashtra,Constituency_181,MP_Name_181,Work_51,Global Infra,28-09-2021,357143
+1651,Uttar Pradesh,Constituency_182,MP_Name_182,Work_52,State PWD,19-08-2022,306509
+1652,Tamil Nadu,Constituency_183,MP_Name_183,Work_53,XYZ Builders,05-09-2022,95277
+1653,Delhi,Constituency_184,MP_Name_184,Work_54,XYZ Builders,04-06-2021,196874
+1654,Maharashtra,Constituency_185,MP_Name_185,Work_55,XYZ Builders,10-08-2021,399452
+1655,Uttar Pradesh,Constituency_186,MP_Name_186,Work_56,Rural Works Dept,18-03-2023,112139
+1656,Tamil Nadu,Constituency_187,MP_Name_187,Work_57,ABC Constructions,11-09-2022,302039
+1657,Gujarat,Constituency_188,MP_Name_188,Work_58,XYZ Builders,23-09-2022,313983
+1658,Karnataka,Constituency_189,MP_Name_189,Work_59,ABC Constructions,09-05-2021,306264
+1659,Delhi,Constituency_190,MP_Name_190,Work_60,XYZ Builders,18-02-2023,360082
+1660,Karnataka,Constituency_191,MP_Name_191,Work_61,XYZ Builders,19-03-2022,236780
+1661,Maharashtra,Constituency_192,MP_Name_192,Work_62,ABC Constructions,26-02-2021,164048
+1662,Tamil Nadu,Constituency_193,MP_Name_193,Work_63,State PWD,20-10-2023,388661
+1663,Gujarat,Constituency_194,MP_Name_194,Work_64,ABC Constructions,22-05-2021,449711
+1664,Karnataka,Constituency_195,MP_Name_195,Work_65,ABC Constructions,22-02-2022,182577
+1665,Karnataka,Constituency_196,MP_Name_196,Work_66,State PWD,22-03-2021,402532
+1666,Maharashtra,Constituency_197,MP_Name_197,Work_67,Rural Works Dept,20-08-2021,455945
+1667,Delhi,Constituency_198,MP_Name_198,Work_68,Global Infra,18-12-2023,210333
+1668,Gujarat,Constituency_199,MP_Name_199,Work_69,Rural Works Dept,25-04-2021,361283
+1669,Uttar Pradesh,Constituency_200,MP_Name_200,Work_70,Rural Works Dept,24-06-2023,214528
+1670,Gujarat,Constituency_201,MP_Name_201,Work_71,Rural Works Dept,29-01-2023,124095
+1671,Gujarat,Constituency_202,MP_Name_202,Work_72,State PWD,20-11-2021,324468
+1672,Maharashtra,Constituency_203,MP_Name_203,Work_73,State PWD,21-01-2021,200817
+1673,Uttar Pradesh,Constituency_204,MP_Name_204,Work_74,Global Infra,03-02-2021,465527
+1674,Uttar Pradesh,Constituency_205,MP_Name_205,Work_75,Global Infra,14-07-2022,419721
+1675,Tamil Nadu,Constituency_206,MP_Name_206,Work_76,XYZ Builders,24-04-2021,455227
+1676,Gujarat,Constituency_207,MP_Name_207,Work_77,Rural Works Dept,02-03-2021,479763
+1677,Tamil Nadu,Constituency_208,MP_Name_208,Work_78,State PWD,07-04-2022,363113
+1678,Tamil Nadu,Constituency_209,MP_Name_209,Work_79,XYZ Builders,26-08-2022,208836
+1679,Gujarat,Constituency_210,MP_Name_210,Work_80,ABC Constructions,09-10-2021,206364
+1680,Karnataka,Constituency_211,MP_Name_211,Work_81,XYZ Builders,13-04-2021,235878
+1681,Gujarat,Constituency_212,MP_Name_212,Work_82,ABC Constructions,06-10-2021,54573
+1682,Maharashtra,Constituency_213,MP_Name_213,Work_83,ABC Constructions,08-02-2023,322442
+1683,Karnataka,Constituency_214,MP_Name_214,Work_84,ABC Constructions,05-03-2022,59064
+1684,Tamil Nadu,Constituency_215,MP_Name_215,Work_85,State PWD,01-11-2022,213726
+1685,Karnataka,Constituency_216,MP_Name_216,Work_86,ABC Constructions,25-01-2022,322062
+1686,Maharashtra,Constituency_217,MP_Name_217,Work_87,XYZ Builders,17-05-2023,409548
+1687,Uttar Pradesh,Constituency_218,MP_Name_218,Work_88,Global Infra,05-06-2022,375999
+1688,Gujarat,Constituency_219,MP_Name_219,Work_89,Rural Works Dept,01-04-2021,219859
+1689,Tamil Nadu,Constituency_220,MP_Name_220,Work_90,XYZ Builders,30-05-2023,372790
+1690,Tamil Nadu,Constituency_221,MP_Name_221,Work_91,XYZ Builders,03-05-2022,388992
+1691,Karnataka,Constituency_222,MP_Name_222,Work_92,Rural Works Dept,25-03-2022,210491
+1692,Uttar Pradesh,Constituency_223,MP_Name_223,Work_93,State PWD,24-06-2023,256163
+1693,Karnataka,Constituency_224,MP_Name_224,Work_94,Global Infra,27-03-2021,96162
+1694,Tamil Nadu,Constituency_225,MP_Name_225,Work_95,XYZ Builders,04-05-2022,211205
+1695,Karnataka,Constituency_226,MP_Name_226,Work_96,XYZ Builders,12-01-2022,272563
+1696,Tamil Nadu,Constituency_227,MP_Name_227,Work_97,State PWD,20-08-2021,467839
+1697,Uttar Pradesh,Constituency_228,MP_Name_228,Work_98,Rural Works Dept,27-07-2021,492715
+1698,Delhi,Constituency_229,MP_Name_229,Work_99,Global Infra,23-02-2022,321395
+1699,Karnataka,Constituency_230,MP_Name_230,Work_100,Global Infra,08-10-2021,71887
+1700,Gujarat,Constituency_231,MP_Name_231,Work_101,Global Infra,10-10-2021,457402
+1701,Karnataka,Constituency_232,MP_Name_232,Work_102,Global Infra,07-07-2022,205231
+1702,Gujarat,Constituency_233,MP_Name_233,Work_103,Global Infra,24-12-2022,341399
+1703,Maharashtra,Constituency_234,MP_Name_234,Work_104,ABC Constructions,21-07-2022,311240
+1704,Uttar Pradesh,Constituency_235,MP_Name_235,Work_105,XYZ Builders,07-04-2021,167827
+1705,Uttar Pradesh,Constituency_236,MP_Name_236,Work_106,Rural Works Dept,09-11-2021,298071
+1706,Maharashtra,Constituency_237,MP_Name_237,Work_107,XYZ Builders,27-08-2021,456788
+1707,Tamil Nadu,Constituency_238,MP_Name_238,Work_108,ABC Constructions,13-03-2023,243805
+1708,Karnataka,Constituency_239,MP_Name_239,Work_109,Global Infra,05-07-2022,355193
+1709,Maharashtra,Constituency_240,MP_Name_240,Work_110,Global Infra,31-12-2023,101855
+1710,Maharashtra,Constituency_241,MP_Name_241,Work_111,Global Infra,12-08-2022,312363
+1711,Delhi,Constituency_242,MP_Name_242,Work_112,State PWD,04-11-2022,352954
+1712,Gujarat,Constituency_243,MP_Name_243,Work_113,XYZ Builders,15-10-2021,277822
+1713,Delhi,Constituency_244,MP_Name_244,Work_114,Global Infra,14-10-2021,420337
+1714,Uttar Pradesh,Constituency_245,MP_Name_245,Work_115,State PWD,05-03-2023,374744
+1715,Uttar Pradesh,Constituency_1,MP_Name_1,Work_116,XYZ Builders,30-11-2022,348522
+1716,Maharashtra,Constituency_2,MP_Name_2,Work_117,State PWD,09-09-2023,494744
+1717,Karnataka,Constituency_3,MP_Name_3,Work_118,XYZ Builders,08-12-2023,301185
+1718,Delhi,Constituency_4,MP_Name_4,Work_119,State PWD,18-09-2021,476804
+1719,Tamil Nadu,Constituency_5,MP_Name_5,Work_120,Rural Works Dept,10-08-2022,210082
+1720,Gujarat,Constituency_6,MP_Name_6,Work_121,ABC Constructions,20-03-2022,396731
+1721,Uttar Pradesh,Constituency_7,MP_Name_7,Work_122,Rural Works Dept,08-10-2021,366501
+1722,Tamil Nadu,Constituency_8,MP_Name_8,Work_123,ABC Constructions,27-04-2021,371112
+1723,Maharashtra,Constituency_9,MP_Name_9,Work_124,State PWD,13-11-2021,468435
+1724,Maharashtra,Constituency_10,MP_Name_10,Work_125,State PWD,28-02-2022,438801
+1725,Karnataka,Constituency_11,MP_Name_11,Work_126,State PWD,21-06-2021,218190
+1726,Uttar Pradesh,Constituency_12,MP_Name_12,Work_127,Global Infra,12-01-2023,79952
+1727,Delhi,Constituency_13,MP_Name_13,Work_128,ABC Constructions,21-09-2022,87613
+1728,Delhi,Constituency_14,MP_Name_14,Work_129,XYZ Builders,14-11-2022,454968
+1729,Karnataka,Constituency_15,MP_Name_15,Work_130,State PWD,25-06-2021,341928
+1730,Gujarat,Constituency_16,MP_Name_16,Work_131,ABC Constructions,01-12-2021,160054
+1731,Uttar Pradesh,Constituency_17,MP_Name_17,Work_132,XYZ Builders,02-12-2023,186508
+1732,Karnataka,Constituency_18,MP_Name_18,Work_133,State PWD,30-11-2023,321456
+1733,Tamil Nadu,Constituency_19,MP_Name_19,Work_134,XYZ Builders,30-09-2023,469973
+1734,Tamil Nadu,Constituency_20,MP_Name_20,Work_135,Rural Works Dept,21-12-2022,339976
+1735,Tamil Nadu,Constituency_21,MP_Name_21,Work_136,ABC Constructions,08-11-2023,62893
+1736,Gujarat,Constituency_22,MP_Name_22,Work_137,State PWD,15-02-2021,355691
+1737,Maharashtra,Constituency_23,MP_Name_23,Work_138,Global Infra,09-10-2023,113804
+1738,Tamil Nadu,Constituency_24,MP_Name_24,Work_139,ABC Constructions,01-11-2023,204628
+1739,Delhi,Constituency_25,MP_Name_25,Work_140,Rural Works Dept,16-05-2023,260097
+1740,Delhi,Constituency_26,MP_Name_26,Work_141,Global Infra,09-01-2021,90133
+1741,Delhi,Constituency_27,MP_Name_27,Work_142,ABC Constructions,22-04-2021,398294
+1742,Gujarat,Constituency_28,MP_Name_28,Work_143,Rural Works Dept,13-01-2021,337948
+1743,Gujarat,Constituency_29,MP_Name_29,Work_144,XYZ Builders,20-02-2023,280552
+1744,Gujarat,Constituency_30,MP_Name_30,Work_145,XYZ Builders,30-12-2023,417498
+1745,Karnataka,Constituency_31,MP_Name_31,Work_146,State PWD,01-09-2023,492689
+1746,Delhi,Constituency_32,MP_Name_32,Work_147,Global Infra,11-09-2023,208721
+1747,Gujarat,Constituency_33,MP_Name_33,Work_148,State PWD,24-04-2023,66848
+1748,Delhi,Constituency_34,MP_Name_34,Work_149,Rural Works Dept,01-10-2023,452942
+1749,Gujarat,Constituency_35,MP_Name_35,Work_150,Global Infra,20-08-2023,432593
+1750,Tamil Nadu,Constituency_36,MP_Name_36,Work_151,ABC Constructions,19-08-2021,299898
+1751,Tamil Nadu,Constituency_37,MP_Name_37,Work_152,ABC Constructions,12-07-2023,390231
+1752,Delhi,Constituency_38,MP_Name_38,Work_153,Global Infra,07-05-2021,104274
+1753,Delhi,Constituency_39,MP_Name_39,Work_154,ABC Constructions,20-05-2023,400519
+1754,Maharashtra,Constituency_40,MP_Name_40,Work_155,Rural Works Dept,20-12-2021,301019
+1755,Karnataka,Constituency_41,MP_Name_41,Work_156,Global Infra,26-03-2021,177861
+1756,Tamil Nadu,Constituency_42,MP_Name_42,Work_157,State PWD,02-03-2021,260149
+1757,Karnataka,Constituency_43,MP_Name_43,Work_158,State PWD,16-10-2023,265884
+1758,Tamil Nadu,Constituency_44,MP_Name_44,Work_159,State PWD,28-04-2021,261172
+1759,Gujarat,Constituency_45,MP_Name_45,Work_160,XYZ Builders,25-08-2021,68510
+1760,Delhi,Constituency_46,MP_Name_46,Work_161,Rural Works Dept,14-11-2021,319728
+1761,Karnataka,Constituency_47,MP_Name_47,Work_162,Rural Works Dept,17-01-2022,192514
+1762,Uttar Pradesh,Constituency_48,MP_Name_48,Work_163,Global Infra,10-09-2022,346716
+1763,Gujarat,Constituency_49,MP_Name_49,Work_164,ABC Constructions,15-07-2021,333796
+1764,Maharashtra,Constituency_50,MP_Name_50,Work_165,XYZ Builders,10-11-2022,222955
+1765,Maharashtra,Constituency_51,MP_Name_51,Work_166,State PWD,07-05-2023,409784
+1766,Uttar Pradesh,Constituency_52,MP_Name_52,Work_167,ABC Constructions,10-10-2022,189871
+1767,Maharashtra,Constituency_53,MP_Name_53,Work_168,Global Infra,06-10-2022,233628
+1768,Tamil Nadu,Constituency_54,MP_Name_54,Work_169,Rural Works Dept,07-11-2022,264658
+1769,Delhi,Constituency_55,MP_Name_55,Work_170,Global Infra,08-10-2023,115104
+1770,Uttar Pradesh,Constituency_56,MP_Name_56,Work_171,Rural Works Dept,11-08-2023,427534
+1771,Delhi,Constituency_57,MP_Name_57,Work_172,ABC Constructions,14-06-2022,288710
+1772,Uttar Pradesh,Constituency_58,MP_Name_58,Work_173,Global Infra,22-05-2023,456032
+1773,Uttar Pradesh,Constituency_59,MP_Name_59,Work_174,Rural Works Dept,10-06-2022,219035
+1774,Tamil Nadu,Constituency_60,MP_Name_60,Work_175,XYZ Builders,18-01-2021,58251
+1775,Uttar Pradesh,Constituency_61,MP_Name_61,Work_176,Global Infra,15-07-2023,214768
+1776,Uttar Pradesh,Constituency_62,MP_Name_62,Work_177,Global Infra,08-04-2023,116992
+1777,Uttar Pradesh,Constituency_63,MP_Name_63,Work_178,State PWD,26-06-2021,489518
+1778,Gujarat,Constituency_64,MP_Name_64,Work_179,ABC Constructions,25-07-2023,354108
+1779,Karnataka,Constituency_65,MP_Name_65,Work_180,Rural Works Dept,22-08-2022,153359
+1780,Delhi,Constituency_66,MP_Name_66,Work_181,State PWD,15-09-2023,277456
+1781,Karnataka,Constituency_67,MP_Name_67,Work_182,Global Infra,13-10-2023,281274
+1782,Maharashtra,Constituency_68,MP_Name_68,Work_183,State PWD,13-09-2022,454551
+1783,Gujarat,Constituency_69,MP_Name_69,Work_184,Global Infra,18-11-2022,350889
+1784,Karnataka,Constituency_70,MP_Name_70,Work_185,State PWD,21-02-2021,377521
+1785,Karnataka,Constituency_71,MP_Name_71,Work_186,ABC Constructions,11-05-2021,368960
+1786,Maharashtra,Constituency_72,MP_Name_72,Work_187,ABC Constructions,04-09-2022,204526
+1787,Karnataka,Constituency_73,MP_Name_73,Work_188,XYZ Builders,23-07-2023,139401
+1788,Karnataka,Constituency_74,MP_Name_74,Work_189,XYZ Builders,19-05-2023,136109
+1789,Gujarat,Constituency_75,MP_Name_75,Work_190,Rural Works Dept,28-03-2021,439688
+1790,Uttar Pradesh,Constituency_76,MP_Name_76,Work_191,Global Infra,20-12-2021,466780
+1791,Tamil Nadu,Constituency_77,MP_Name_77,Work_192,XYZ Builders,10-08-2021,153832
+1792,Delhi,Constituency_78,MP_Name_78,Work_193,ABC Constructions,09-12-2022,327212
+1793,Gujarat,Constituency_79,MP_Name_79,Work_194,State PWD,20-09-2021,254952
+1794,Tamil Nadu,Constituency_80,MP_Name_80,Work_195,Rural Works Dept,30-04-2022,305348
+1795,Karnataka,Constituency_81,MP_Name_81,Work_196,State PWD,14-09-2023,307326
+1796,Delhi,Constituency_82,MP_Name_82,Work_197,Rural Works Dept,23-10-2023,142241
+1797,Maharashtra,Constituency_83,MP_Name_83,Work_198,ABC Constructions,21-08-2023,102647
+1798,Gujarat,Constituency_84,MP_Name_84,Work_199,XYZ Builders,19-09-2022,318038
+1799,Gujarat,Constituency_85,MP_Name_85,Work_200,XYZ Builders,17-05-2023,404805
+1800,Tamil Nadu,Constituency_86,MP_Name_86,Work_1,ABC Constructions,19-08-2023,497985
+1801,Tamil Nadu,Constituency_87,MP_Name_87,Work_2,XYZ Builders,18-02-2022,378882
+1802,Delhi,Constituency_88,MP_Name_88,Work_3,Global Infra,11-01-2021,262941
+1803,Delhi,Constituency_89,MP_Name_89,Work_4,Global Infra,01-01-2023,80411
+1804,Uttar Pradesh,Constituency_90,MP_Name_90,Work_5,ABC Constructions,13-09-2023,195060
+1805,Uttar Pradesh,Constituency_91,MP_Name_91,Work_6,Rural Works Dept,09-08-2022,321876
+1806,Uttar Pradesh,Constituency_92,MP_Name_92,Work_7,XYZ Builders,16-05-2021,90261
+1807,Delhi,Constituency_93,MP_Name_93,Work_8,Global Infra,21-11-2021,50264
+1808,Delhi,Constituency_94,MP_Name_94,Work_9,Rural Works Dept,17-09-2021,426336
+1809,Maharashtra,Constituency_95,MP_Name_95,Work_10,Rural Works Dept,16-06-2021,303195
+1810,Uttar Pradesh,Constituency_96,MP_Name_96,Work_11,ABC Constructions,06-03-2021,301133
+1811,Delhi,Constituency_97,MP_Name_97,Work_12,State PWD,17-04-2022,233566
+1812,Uttar Pradesh,Constituency_98,MP_Name_98,Work_13,Global Infra,06-11-2022,176269
+1813,Gujarat,Constituency_99,MP_Name_99,Work_14,ABC Constructions,16-03-2023,461903
+1814,Karnataka,Constituency_100,MP_Name_100,Work_15,XYZ Builders,03-03-2022,350152
+1815,Gujarat,Constituency_101,MP_Name_101,Work_16,Global Infra,02-12-2021,250218
+1816,Maharashtra,Constituency_102,MP_Name_102,Work_17,XYZ Builders,18-07-2022,357388
+1817,Tamil Nadu,Constituency_103,MP_Name_103,Work_18,XYZ Builders,16-01-2022,139494
+1818,Tamil Nadu,Constituency_104,MP_Name_104,Work_19,XYZ Builders,04-06-2023,251965
+1819,Uttar Pradesh,Constituency_105,MP_Name_105,Work_20,XYZ Builders,25-03-2023,215157
+1820,Maharashtra,Constituency_106,MP_Name_106,Work_21,XYZ Builders,25-12-2022,495421
+1821,Delhi,Constituency_107,MP_Name_107,Work_22,Global Infra,01-04-2021,235592
+1822,Karnataka,Constituency_108,MP_Name_108,Work_23,ABC Constructions,16-08-2023,476295
+1823,Karnataka,Constituency_109,MP_Name_109,Work_24,State PWD,22-07-2021,443694
+1824,Delhi,Constituency_110,MP_Name_110,Work_25,ABC Constructions,14-11-2023,489675
+1825,Delhi,Constituency_111,MP_Name_111,Work_26,ABC Constructions,23-03-2021,497913
+1826,Delhi,Constituency_112,MP_Name_112,Work_27,ABC Constructions,12-09-2022,459456
+1827,Maharashtra,Constituency_113,MP_Name_113,Work_28,Global Infra,07-06-2022,480686
+1828,Tamil Nadu,Constituency_114,MP_Name_114,Work_29,Rural Works Dept,26-03-2021,334822
+1829,Karnataka,Constituency_115,MP_Name_115,Work_30,Global Infra,23-05-2021,140268
+1830,Karnataka,Constituency_116,MP_Name_116,Work_31,Global Infra,17-03-2021,465547
+1831,Karnataka,Constituency_117,MP_Name_117,Work_32,Rural Works Dept,02-11-2022,219164
+1832,Tamil Nadu,Constituency_118,MP_Name_118,Work_33,ABC Constructions,31-08-2022,363459
+1833,Tamil Nadu,Constituency_119,MP_Name_119,Work_34,XYZ Builders,25-05-2021,78282
+1834,Tamil Nadu,Constituency_120,MP_Name_120,Work_35,ABC Constructions,22-10-2023,224412
+1835,Tamil Nadu,Constituency_121,MP_Name_121,Work_36,Rural Works Dept,31-12-2022,244781
+1836,Gujarat,Constituency_122,MP_Name_122,Work_37,Rural Works Dept,25-01-2022,141848
+1837,Uttar Pradesh,Constituency_123,MP_Name_123,Work_38,Rural Works Dept,29-09-2022,467137
+1838,Uttar Pradesh,Constituency_124,MP_Name_124,Work_39,State PWD,20-11-2021,491574
+1839,Gujarat,Constituency_125,MP_Name_125,Work_40,Global Infra,26-08-2023,464594
+1840,Gujarat,Constituency_126,MP_Name_126,Work_41,State PWD,14-11-2023,392613
+1841,Maharashtra,Constituency_127,MP_Name_127,Work_42,State PWD,25-11-2022,80193
+1842,Uttar Pradesh,Constituency_128,MP_Name_128,Work_43,Global Infra,27-08-2022,310728
+1843,Tamil Nadu,Constituency_129,MP_Name_129,Work_44,Rural Works Dept,08-10-2023,138220
+1844,Karnataka,Constituency_130,MP_Name_130,Work_45,Global Infra,25-05-2021,384681
+1845,Delhi,Constituency_131,MP_Name_131,Work_46,ABC Constructions,29-06-2021,187196
+1846,Gujarat,Constituency_132,MP_Name_132,Work_47,State PWD,28-12-2023,330389
+1847,Gujarat,Constituency_133,MP_Name_133,Work_48,State PWD,17-11-2023,235430
+1848,Maharashtra,Constituency_134,MP_Name_134,Work_49,Global Infra,19-08-2022,83993
+1849,Maharashtra,Constituency_135,MP_Name_135,Work_50,ABC Constructions,24-02-2023,417126
+1850,Delhi,Constituency_136,MP_Name_136,Work_51,XYZ Builders,13-09-2023,52456
+1851,Karnataka,Constituency_137,MP_Name_137,Work_52,XYZ Builders,30-11-2022,200469
+1852,Karnataka,Constituency_138,MP_Name_138,Work_53,XYZ Builders,22-01-2022,370373
+1853,Tamil Nadu,Constituency_139,MP_Name_139,Work_54,Global Infra,01-05-2021,359453
+1854,Delhi,Constituency_140,MP_Name_140,Work_55,Global Infra,14-07-2021,188873
+1855,Delhi,Constituency_141,MP_Name_141,Work_56,Global Infra,12-02-2021,460550
+1856,Karnataka,Constituency_142,MP_Name_142,Work_57,XYZ Builders,25-05-2021,333085
+1857,Gujarat,Constituency_143,MP_Name_143,Work_58,Global Infra,23-10-2022,464372
+1858,Tamil Nadu,Constituency_144,MP_Name_144,Work_59,Rural Works Dept,16-07-2023,144475
+1859,Gujarat,Constituency_145,MP_Name_145,Work_60,XYZ Builders,19-02-2023,364468
+1860,Delhi,Constituency_146,MP_Name_146,Work_61,Global Infra,23-12-2022,133070
+1861,Tamil Nadu,Constituency_147,MP_Name_147,Work_62,XYZ Builders,24-12-2021,460537
+1862,Karnataka,Constituency_148,MP_Name_148,Work_63,ABC Constructions,13-11-2021,152563
+1863,Karnataka,Constituency_149,MP_Name_149,Work_64,XYZ Builders,02-12-2023,365211
+1864,Tamil Nadu,Constituency_150,MP_Name_150,Work_65,Global Infra,31-08-2023,124082
+1865,Maharashtra,Constituency_151,MP_Name_151,Work_66,ABC Constructions,02-07-2021,235777
+1866,Delhi,Constituency_152,MP_Name_152,Work_67,Rural Works Dept,15-07-2021,408911
+1867,Tamil Nadu,Constituency_153,MP_Name_153,Work_68,XYZ Builders,08-07-2021,151799
+1868,Tamil Nadu,Constituency_154,MP_Name_154,Work_69,ABC Constructions,28-04-2022,401808
+1869,Delhi,Constituency_155,MP_Name_155,Work_70,XYZ Builders,25-04-2021,62865
+1870,Uttar Pradesh,Constituency_156,MP_Name_156,Work_71,State PWD,15-09-2022,243537
+1871,Delhi,Constituency_157,MP_Name_157,Work_72,ABC Constructions,21-03-2022,138871
+1872,Maharashtra,Constituency_158,MP_Name_158,Work_73,XYZ Builders,19-02-2021,443420
+1873,Maharashtra,Constituency_159,MP_Name_159,Work_74,State PWD,09-03-2022,432005
+1874,Karnataka,Constituency_160,MP_Name_160,Work_75,Rural Works Dept,19-10-2022,192747
+1875,Uttar Pradesh,Constituency_161,MP_Name_161,Work_76,Rural Works Dept,11-02-2022,346591
+1876,Delhi,Constituency_162,MP_Name_162,Work_77,Global Infra,21-02-2021,204690
+1877,Karnataka,Constituency_163,MP_Name_163,Work_78,XYZ Builders,29-06-2023,275590
+1878,Uttar Pradesh,Constituency_164,MP_Name_164,Work_79,State PWD,26-10-2022,332129
+1879,Delhi,Constituency_165,MP_Name_165,Work_80,XYZ Builders,28-01-2021,328559
+1880,Uttar Pradesh,Constituency_166,MP_Name_166,Work_81,State PWD,27-09-2022,381877
+1881,Uttar Pradesh,Constituency_167,MP_Name_167,Work_82,XYZ Builders,29-05-2021,319835
+1882,Delhi,Constituency_168,MP_Name_168,Work_83,ABC Constructions,19-03-2023,276611
+1883,Maharashtra,Constituency_169,MP_Name_169,Work_84,State PWD,29-03-2022,423777
+1884,Tamil Nadu,Constituency_170,MP_Name_170,Work_85,Global Infra,08-01-2021,63862
+1885,Gujarat,Constituency_171,MP_Name_171,Work_86,Global Infra,27-06-2022,111294
+1886,Tamil Nadu,Constituency_172,MP_Name_172,Work_87,XYZ Builders,03-09-2021,422110
+1887,Uttar Pradesh,Constituency_173,MP_Name_173,Work_88,State PWD,27-10-2021,450963
+1888,Karnataka,Constituency_174,MP_Name_174,Work_89,Global Infra,02-01-2021,312821
+1889,Tamil Nadu,Constituency_175,MP_Name_175,Work_90,State PWD,04-09-2023,170405
+1890,Maharashtra,Constituency_176,MP_Name_176,Work_91,ABC Constructions,27-10-2023,330906
+1891,Karnataka,Constituency_177,MP_Name_177,Work_92,ABC Constructions,24-02-2021,205829
+1892,Maharashtra,Constituency_178,MP_Name_178,Work_93,State PWD,22-12-2021,91790
+1893,Tamil Nadu,Constituency_179,MP_Name_179,Work_94,ABC Constructions,19-12-2022,284384
+1894,Gujarat,Constituency_180,MP_Name_180,Work_95,Rural Works Dept,10-06-2022,270227
+1895,Uttar Pradesh,Constituency_181,MP_Name_181,Work_96,XYZ Builders,07-03-2023,384569
+1896,Gujarat,Constituency_182,MP_Name_182,Work_97,State PWD,02-06-2021,167289
+1897,Karnataka,Constituency_183,MP_Name_183,Work_98,ABC Constructions,04-01-2023,262345
+1898,Gujarat,Constituency_184,MP_Name_184,Work_99,Global Infra,16-04-2021,483926
+1899,Karnataka,Constituency_185,MP_Name_185,Work_100,ABC Constructions,15-04-2023,396984
+1900,Tamil Nadu,Constituency_186,MP_Name_186,Work_101,State PWD,11-09-2022,380530
+1901,Maharashtra,Constituency_187,MP_Name_187,Work_102,ABC Constructions,21-12-2022,362632
+1902,Tamil Nadu,Constituency_188,MP_Name_188,Work_103,Global Infra,10-06-2022,474475
+1903,Delhi,Constituency_189,MP_Name_189,Work_104,Rural Works Dept,03-01-2023,424336
+1904,Gujarat,Constituency_190,MP_Name_190,Work_105,State PWD,30-04-2021,231826
+1905,Karnataka,Constituency_191,MP_Name_191,Work_106,Rural Works Dept,07-12-2021,174232
+1906,Uttar Pradesh,Constituency_192,MP_Name_192,Work_107,Rural Works Dept,13-08-2023,420969
+1907,Uttar Pradesh,Constituency_193,MP_Name_193,Work_108,Rural Works Dept,13-09-2022,140790
+1908,Gujarat,Constituency_194,MP_Name_194,Work_109,Rural Works Dept,16-01-2021,238006
+1909,Maharashtra,Constituency_195,MP_Name_195,Work_110,Rural Works Dept,20-02-2021,465689
+1910,Tamil Nadu,Constituency_196,MP_Name_196,Work_111,XYZ Builders,09-04-2022,334675
+1911,Tamil Nadu,Constituency_197,MP_Name_197,Work_112,Global Infra,26-10-2022,256509
+1912,Tamil Nadu,Constituency_198,MP_Name_198,Work_113,XYZ Builders,30-05-2022,299404
+1913,Uttar Pradesh,Constituency_199,MP_Name_199,Work_114,XYZ Builders,13-07-2021,92057
+1914,Maharashtra,Constituency_200,MP_Name_200,Work_115,State PWD,14-05-2021,61682
+1915,Gujarat,Constituency_201,MP_Name_201,Work_116,State PWD,16-06-2022,454211
+1916,Maharashtra,Constituency_202,MP_Name_202,Work_117,State PWD,27-09-2022,340702
+1917,Maharashtra,Constituency_203,MP_Name_203,Work_118,XYZ Builders,26-08-2022,250577
+1918,Delhi,Constituency_204,MP_Name_204,Work_119,XYZ Builders,10-08-2023,143696
+1919,Maharashtra,Constituency_205,MP_Name_205,Work_120,XYZ Builders,05-01-2022,214526
+1920,Gujarat,Constituency_206,MP_Name_206,Work_121,Global Infra,29-06-2023,163241
+1921,Delhi,Constituency_207,MP_Name_207,Work_122,ABC Constructions,22-08-2021,404056
+1922,Karnataka,Constituency_208,MP_Name_208,Work_123,State PWD,30-10-2021,419475
+1923,Karnataka,Constituency_209,MP_Name_209,Work_124,ABC Constructions,06-06-2021,114343
+1924,Gujarat,Constituency_210,MP_Name_210,Work_125,Rural Works Dept,22-02-2021,220102
+1925,Uttar Pradesh,Constituency_211,MP_Name_211,Work_126,Global Infra,03-05-2022,298802
+1926,Karnataka,Constituency_212,MP_Name_212,Work_127,XYZ Builders,09-02-2021,243051
+1927,Tamil Nadu,Constituency_213,MP_Name_213,Work_128,Global Infra,26-01-2021,133950
+1928,Karnataka,Constituency_214,MP_Name_214,Work_129,Global Infra,27-04-2022,382249
+1929,Gujarat,Constituency_215,MP_Name_215,Work_130,Global Infra,08-04-2021,355532
+1930,Karnataka,Constituency_216,MP_Name_216,Work_131,XYZ Builders,22-10-2021,267668
+1931,Delhi,Constituency_217,MP_Name_217,Work_132,ABC Constructions,19-07-2021,214302
+1932,Karnataka,Constituency_218,MP_Name_218,Work_133,State PWD,03-04-2021,234935
+1933,Karnataka,Constituency_219,MP_Name_219,Work_134,Global Infra,10-01-2021,230916
+1934,Gujarat,Constituency_220,MP_Name_220,Work_135,ABC Constructions,18-12-2022,210552
+1935,Maharashtra,Constituency_221,MP_Name_221,Work_136,State PWD,25-09-2023,296903
+1936,Maharashtra,Constituency_222,MP_Name_222,Work_137,XYZ Builders,31-08-2022,397453
+1937,Maharashtra,Constituency_223,MP_Name_223,Work_138,Global Infra,11-02-2022,397531
+1938,Delhi,Constituency_224,MP_Name_224,Work_139,Global Infra,06-10-2021,224389
+1939,Gujarat,Constituency_225,MP_Name_225,Work_140,Global Infra,28-01-2021,268625
+1940,Uttar Pradesh,Constituency_226,MP_Name_226,Work_141,Global Infra,19-03-2023,274842
+1941,Gujarat,Constituency_227,MP_Name_227,Work_142,State PWD,20-09-2023,327457
+1942,Karnataka,Constituency_228,MP_Name_228,Work_143,XYZ Builders,18-06-2021,375349
+1943,Delhi,Constituency_229,MP_Name_229,Work_144,Global Infra,07-07-2023,65014
+1944,Maharashtra,Constituency_230,MP_Name_230,Work_145,State PWD,25-05-2022,58564
+1945,Gujarat,Constituency_231,MP_Name_231,Work_146,State PWD,28-11-2022,63505
+1946,Gujarat,Constituency_232,MP_Name_232,Work_147,ABC Constructions,26-03-2022,97927
+1947,Maharashtra,Constituency_233,MP_Name_233,Work_148,XYZ Builders,29-10-2023,396880
+1948,Uttar Pradesh,Constituency_234,MP_Name_234,Work_149,State PWD,08-11-2021,397401
+1949,Gujarat,Constituency_235,MP_Name_235,Work_150,ABC Constructions,27-02-2021,125117
+1950,Delhi,Constituency_236,MP_Name_236,Work_151,Global Infra,02-02-2022,97366
+1951,Gujarat,Constituency_237,MP_Name_237,Work_152,XYZ Builders,04-11-2023,306445
+1952,Tamil Nadu,Constituency_238,MP_Name_238,Work_153,XYZ Builders,11-10-2023,229945
+1953,Delhi,Constituency_239,MP_Name_239,Work_154,XYZ Builders,03-02-2021,337633
+1954,Maharashtra,Constituency_240,MP_Name_240,Work_155,State PWD,14-03-2021,166695
+1955,Karnataka,Constituency_241,MP_Name_241,Work_156,XYZ Builders,09-07-2022,332398
+1956,Gujarat,Constituency_242,MP_Name_242,Work_157,ABC Constructions,05-08-2022,362550
+1957,Uttar Pradesh,Constituency_243,MP_Name_243,Work_158,Global Infra,07-02-2023,378290
+1958,Uttar Pradesh,Constituency_244,MP_Name_244,Work_159,State PWD,05-08-2023,155015
+1959,Tamil Nadu,Constituency_245,MP_Name_245,Work_160,Global Infra,01-01-2022,409226

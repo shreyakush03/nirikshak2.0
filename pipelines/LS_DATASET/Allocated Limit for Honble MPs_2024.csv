@@ -1,0 +1,544 @@
+Sr_No,state,constituency,Hon'ble Members of Parliament,allocated_amount
+1,Tamil Nadu,Constituency_1,MP_Name_1,31794052
+2,Delhi,Constituency_2,MP_Name_2,39008585
+3,Delhi,Constituency_3,MP_Name_3,32926332
+4,Karnataka,Constituency_4,MP_Name_4,46884883
+5,Delhi,Constituency_5,MP_Name_5,49702198
+6,Gujarat,Constituency_6,MP_Name_6,47354259
+7,Gujarat,Constituency_7,MP_Name_7,46217364
+8,Uttar Pradesh,Constituency_8,MP_Name_8,43866662
+9,Tamil Nadu,Constituency_9,MP_Name_9,35705881
+10,Delhi,Constituency_10,MP_Name_10,34559825
+11,Maharashtra,Constituency_11,MP_Name_11,27489665
+12,Maharashtra,Constituency_12,MP_Name_12,46967142
+13,Tamil Nadu,Constituency_13,MP_Name_13,42321658
+14,Karnataka,Constituency_14,MP_Name_14,39014189
+15,Maharashtra,Constituency_15,MP_Name_15,27906534
+16,Maharashtra,Constituency_16,MP_Name_16,34587802
+17,Gujarat,Constituency_17,MP_Name_17,21027309
+18,Tamil Nadu,Constituency_18,MP_Name_18,43441110
+19,Uttar Pradesh,Constituency_19,MP_Name_19,42120256
+20,Maharashtra,Constituency_20,MP_Name_20,30731447
+21,Delhi,Constituency_21,MP_Name_21,32628660
+22,Uttar Pradesh,Constituency_22,MP_Name_22,43447881
+23,Maharashtra,Constituency_23,MP_Name_23,33385689
+24,Uttar Pradesh,Constituency_24,MP_Name_24,26491338
+25,Tamil Nadu,Constituency_25,MP_Name_25,30993136
+26,Maharashtra,Constituency_26,MP_Name_26,25188890
+27,Maharashtra,Constituency_27,MP_Name_27,39864160
+28,Tamil Nadu,Constituency_28,MP_Name_28,39015356
+29,Karnataka,Constituency_29,MP_Name_29,22642440
+30,Delhi,Constituency_30,MP_Name_30,44635263
+31,Tamil Nadu,Constituency_31,MP_Name_31,24710300
+32,Delhi,Constituency_32,MP_Name_32,24858380
+33,Uttar Pradesh,Constituency_33,MP_Name_33,33732746
+34,Tamil Nadu,Constituency_34,MP_Name_34,44833824
+35,Maharashtra,Constituency_35,MP_Name_35,25524188
+36,Gujarat,Constituency_36,MP_Name_36,34548931
+37,Maharashtra,Constituency_37,MP_Name_37,24455973
+38,Gujarat,Constituency_38,MP_Name_38,33809022
+39,Gujarat,Constituency_39,MP_Name_39,36286677
+40,Karnataka,Constituency_40,MP_Name_40,42039556
+41,Delhi,Constituency_41,MP_Name_41,38811080
+42,Tamil Nadu,Constituency_42,MP_Name_42,32750363
+43,Karnataka,Constituency_43,MP_Name_43,20486531
+44,Tamil Nadu,Constituency_44,MP_Name_44,47909647
+45,Tamil Nadu,Constituency_45,MP_Name_45,41002336
+46,Uttar Pradesh,Constituency_46,MP_Name_46,37925278
+47,Uttar Pradesh,Constituency_47,MP_Name_47,42522562
+48,Gujarat,Constituency_48,MP_Name_48,29611982
+49,Tamil Nadu,Constituency_49,MP_Name_49,23865035
+50,Gujarat,Constituency_50,MP_Name_50,20856955
+51,Tamil Nadu,Constituency_51,MP_Name_51,46647095
+52,Maharashtra,Constituency_52,MP_Name_52,32599046
+53,Delhi,Constituency_53,MP_Name_53,25868993
+54,Gujarat,Constituency_54,MP_Name_54,34125922
+55,Gujarat,Constituency_55,MP_Name_55,29205899
+56,Gujarat,Constituency_56,MP_Name_56,47347834
+57,Delhi,Constituency_57,MP_Name_57,29184358
+58,Karnataka,Constituency_58,MP_Name_58,36052138
+59,Gujarat,Constituency_59,MP_Name_59,25196090
+60,Uttar Pradesh,Constituency_60,MP_Name_60,41330722
+61,Maharashtra,Constituency_61,MP_Name_61,27235714
+62,Gujarat,Constituency_62,MP_Name_62,37431071
+63,Uttar Pradesh,Constituency_63,MP_Name_63,42591685
+64,Uttar Pradesh,Constituency_64,MP_Name_64,29600611
+65,Uttar Pradesh,Constituency_65,MP_Name_65,23030242
+66,Karnataka,Constituency_66,MP_Name_66,39441543
+67,Uttar Pradesh,Constituency_67,MP_Name_67,47269294
+68,Delhi,Constituency_68,MP_Name_68,47088335
+69,Delhi,Constituency_69,MP_Name_69,26918709
+70,Uttar Pradesh,Constituency_70,MP_Name_70,33769730
+71,Tamil Nadu,Constituency_71,MP_Name_71,23432463
+72,Gujarat,Constituency_72,MP_Name_72,26125548
+73,Tamil Nadu,Constituency_73,MP_Name_73,26723218
+74,Karnataka,Constituency_74,MP_Name_74,23922604
+75,Karnataka,Constituency_75,MP_Name_75,20996643
+76,Karnataka,Constituency_76,MP_Name_76,36606922
+77,Gujarat,Constituency_77,MP_Name_77,22917297
+78,Karnataka,Constituency_78,MP_Name_78,45307773
+79,Maharashtra,Constituency_79,MP_Name_79,43359948
+80,Maharashtra,Constituency_80,MP_Name_80,43066797
+81,Delhi,Constituency_81,MP_Name_81,39078846
+82,Gujarat,Constituency_82,MP_Name_82,37058788
+83,Gujarat,Constituency_83,MP_Name_83,25014971
+84,Gujarat,Constituency_84,MP_Name_84,28852225
+85,Delhi,Constituency_85,MP_Name_85,22076062
+86,Gujarat,Constituency_86,MP_Name_86,29324028
+87,Tamil Nadu,Constituency_87,MP_Name_87,48271248
+88,Tamil Nadu,Constituency_88,MP_Name_88,35521461
+89,Karnataka,Constituency_89,MP_Name_89,48960215
+90,Maharashtra,Constituency_90,MP_Name_90,22710488
+91,Delhi,Constituency_91,MP_Name_91,22019646
+92,Delhi,Constituency_92,MP_Name_92,29802104
+93,Delhi,Constituency_93,MP_Name_93,42385435
+94,Gujarat,Constituency_94,MP_Name_94,26668391
+95,Gujarat,Constituency_95,MP_Name_95,24184060
+96,Karnataka,Constituency_96,MP_Name_96,32946718
+97,Gujarat,Constituency_97,MP_Name_97,34160340
+98,Maharashtra,Constituency_98,MP_Name_98,33591893
+99,Maharashtra,Constituency_99,MP_Name_99,27163268
+100,Uttar Pradesh,Constituency_100,MP_Name_100,48294139
+101,Maharashtra,Constituency_101,MP_Name_101,29494584
+102,Uttar Pradesh,Constituency_102,MP_Name_102,32168623
+103,Gujarat,Constituency_103,MP_Name_103,40270820
+104,Gujarat,Constituency_104,MP_Name_104,20734809
+105,Maharashtra,Constituency_105,MP_Name_105,43299019
+106,Karnataka,Constituency_106,MP_Name_106,27972115
+107,Maharashtra,Constituency_107,MP_Name_107,48438183
+108,Uttar Pradesh,Constituency_108,MP_Name_108,20826316
+109,Tamil Nadu,Constituency_109,MP_Name_109,23032250
+110,Gujarat,Constituency_110,MP_Name_110,48594003
+111,Karnataka,Constituency_111,MP_Name_111,25518006
+112,Maharashtra,Constituency_112,MP_Name_112,29994390
+113,Uttar Pradesh,Constituency_113,MP_Name_113,49050219
+114,Karnataka,Constituency_114,MP_Name_114,23082505
+115,Gujarat,Constituency_115,MP_Name_115,47297617
+116,Karnataka,Constituency_116,MP_Name_116,33018324
+117,Gujarat,Constituency_117,MP_Name_117,25345506
+118,Tamil Nadu,Constituency_118,MP_Name_118,39526281
+119,Gujarat,Constituency_119,MP_Name_119,36707770
+120,Maharashtra,Constituency_120,MP_Name_120,40224316
+121,Tamil Nadu,Constituency_121,MP_Name_121,37237751
+122,Delhi,Constituency_122,MP_Name_122,29099506
+123,Delhi,Constituency_123,MP_Name_123,28772123
+124,Tamil Nadu,Constituency_124,MP_Name_124,40684351
+125,Karnataka,Constituency_125,MP_Name_125,42774330
+126,Tamil Nadu,Constituency_126,MP_Name_126,25570899
+127,Delhi,Constituency_127,MP_Name_127,22909531
+128,Delhi,Constituency_128,MP_Name_128,34706823
+129,Uttar Pradesh,Constituency_129,MP_Name_129,38798264
+130,Tamil Nadu,Constituency_130,MP_Name_130,37315313
+131,Gujarat,Constituency_131,MP_Name_131,48641478
+132,Delhi,Constituency_132,MP_Name_132,40888625
+133,Delhi,Constituency_133,MP_Name_133,28939888
+134,Karnataka,Constituency_134,MP_Name_134,44760732
+135,Gujarat,Constituency_135,MP_Name_135,42085118
+136,Karnataka,Constituency_136,MP_Name_136,36917717
+137,Delhi,Constituency_137,MP_Name_137,31449957
+138,Tamil Nadu,Constituency_138,MP_Name_138,49860524
+139,Gujarat,Constituency_139,MP_Name_139,42083658
+140,Maharashtra,Constituency_140,MP_Name_140,33908216
+141,Uttar Pradesh,Constituency_141,MP_Name_141,23279650
+142,Delhi,Constituency_142,MP_Name_142,28864562
+143,Maharashtra,Constituency_143,MP_Name_143,47308002
+144,Gujarat,Constituency_144,MP_Name_144,47561491
+145,Delhi,Constituency_145,MP_Name_145,39609300
+146,Uttar Pradesh,Constituency_146,MP_Name_146,49803884
+147,Delhi,Constituency_147,MP_Name_147,25141200
+148,Tamil Nadu,Constituency_148,MP_Name_148,42652575
+149,Delhi,Constituency_149,MP_Name_149,28817077
+150,Gujarat,Constituency_150,MP_Name_150,40013156
+151,Delhi,Constituency_151,MP_Name_151,24363033
+152,Delhi,Constituency_152,MP_Name_152,32529241
+153,Uttar Pradesh,Constituency_153,MP_Name_153,27080993
+154,Maharashtra,Constituency_154,MP_Name_154,34800024
+155,Tamil Nadu,Constituency_155,MP_Name_155,25623961
+156,Tamil Nadu,Constituency_156,MP_Name_156,40906032
+157,Gujarat,Constituency_157,MP_Name_157,44364368
+158,Gujarat,Constituency_158,MP_Name_158,43259861
+159,Maharashtra,Constituency_159,MP_Name_159,45719059
+160,Maharashtra,Constituency_160,MP_Name_160,47318142
+161,Tamil Nadu,Constituency_161,MP_Name_161,45439608
+162,Gujarat,Constituency_162,MP_Name_162,38994594
+163,Uttar Pradesh,Constituency_163,MP_Name_163,41195332
+164,Gujarat,Constituency_164,MP_Name_164,41599457
+165,Delhi,Constituency_165,MP_Name_165,20196999
+166,Karnataka,Constituency_166,MP_Name_166,49350173
+167,Maharashtra,Constituency_167,MP_Name_167,47525958
+168,Delhi,Constituency_168,MP_Name_168,44445753
+169,Maharashtra,Constituency_169,MP_Name_169,44805803
+170,Uttar Pradesh,Constituency_170,MP_Name_170,25559283
+171,Gujarat,Constituency_171,MP_Name_171,26129351
+172,Delhi,Constituency_172,MP_Name_172,48358443
+173,Maharashtra,Constituency_173,MP_Name_173,29275032
+174,Gujarat,Constituency_174,MP_Name_174,24533617
+175,Gujarat,Constituency_175,MP_Name_175,35946698
+176,Maharashtra,Constituency_176,MP_Name_176,33607260
+177,Uttar Pradesh,Constituency_177,MP_Name_177,44328348
+178,Uttar Pradesh,Constituency_178,MP_Name_178,46576919
+179,Karnataka,Constituency_179,MP_Name_179,30835217
+180,Karnataka,Constituency_180,MP_Name_180,44887610
+181,Tamil Nadu,Constituency_181,MP_Name_181,28646964
+182,Maharashtra,Constituency_182,MP_Name_182,32203180
+183,Gujarat,Constituency_183,MP_Name_183,36463102
+184,Maharashtra,Constituency_184,MP_Name_184,24918538
+185,Karnataka,Constituency_185,MP_Name_185,20754011
+186,Maharashtra,Constituency_186,MP_Name_186,28509073
+187,Maharashtra,Constituency_187,MP_Name_187,31649994
+188,Delhi,Constituency_188,MP_Name_188,27960361
+189,Delhi,Constituency_189,MP_Name_189,47070792
+190,Tamil Nadu,Constituency_190,MP_Name_190,36726483
+191,Gujarat,Constituency_191,MP_Name_191,44210751
+192,Tamil Nadu,Constituency_192,MP_Name_192,37753489
+193,Uttar Pradesh,Constituency_193,MP_Name_193,48899403
+194,Karnataka,Constituency_194,MP_Name_194,33982153
+195,Tamil Nadu,Constituency_195,MP_Name_195,48347550
+196,Gujarat,Constituency_196,MP_Name_196,23082838
+197,Tamil Nadu,Constituency_197,MP_Name_197,29892668
+198,Karnataka,Constituency_198,MP_Name_198,47290786
+199,Tamil Nadu,Constituency_199,MP_Name_199,35940578
+200,Delhi,Constituency_200,MP_Name_200,25997708
+201,Tamil Nadu,Constituency_201,MP_Name_201,20351968
+202,Karnataka,Constituency_202,MP_Name_202,34555405
+203,Maharashtra,Constituency_203,MP_Name_203,26228676
+204,Karnataka,Constituency_204,MP_Name_204,23829809
+205,Uttar Pradesh,Constituency_205,MP_Name_205,34491358
+206,Gujarat,Constituency_206,MP_Name_206,26276566
+207,Tamil Nadu,Constituency_207,MP_Name_207,39093846
+208,Uttar Pradesh,Constituency_208,MP_Name_208,48771921
+209,Karnataka,Constituency_209,MP_Name_209,37898799
+210,Karnataka,Constituency_210,MP_Name_210,44523218
+211,Uttar Pradesh,Constituency_211,MP_Name_211,40391797
+212,Maharashtra,Constituency_212,MP_Name_212,20605775
+213,Tamil Nadu,Constituency_213,MP_Name_213,32212711
+214,Maharashtra,Constituency_214,MP_Name_214,41205377
+215,Tamil Nadu,Constituency_215,MP_Name_215,22917553
+216,Karnataka,Constituency_216,MP_Name_216,31082824
+217,Karnataka,Constituency_217,MP_Name_217,27315018
+218,Delhi,Constituency_218,MP_Name_218,48634004
+219,Maharashtra,Constituency_219,MP_Name_219,41684381
+220,Karnataka,Constituency_220,MP_Name_220,34513859
+221,Karnataka,Constituency_221,MP_Name_221,41328074
+222,Uttar Pradesh,Constituency_222,MP_Name_222,45234948
+223,Tamil Nadu,Constituency_223,MP_Name_223,43363472
+224,Maharashtra,Constituency_224,MP_Name_224,38887123
+225,Tamil Nadu,Constituency_225,MP_Name_225,34987473
+226,Gujarat,Constituency_226,MP_Name_226,29621906
+227,Maharashtra,Constituency_227,MP_Name_227,44396516
+228,Tamil Nadu,Constituency_228,MP_Name_228,47643057
+229,Gujarat,Constituency_229,MP_Name_229,26687209
+230,Karnataka,Constituency_230,MP_Name_230,46318412
+231,Delhi,Constituency_231,MP_Name_231,30042654
+232,Karnataka,Constituency_232,MP_Name_232,28910826
+233,Maharashtra,Constituency_233,MP_Name_233,22854410
+234,Delhi,Constituency_234,MP_Name_234,37033109
+235,Delhi,Constituency_235,MP_Name_235,47696261
+236,Maharashtra,Constituency_236,MP_Name_236,22612118
+237,Tamil Nadu,Constituency_237,MP_Name_237,44413788
+238,Uttar Pradesh,Constituency_238,MP_Name_238,36731823
+239,Tamil Nadu,Constituency_239,MP_Name_239,45865253
+240,Karnataka,Constituency_240,MP_Name_240,40022669
+241,Uttar Pradesh,Constituency_241,MP_Name_241,31295182
+242,Maharashtra,Constituency_242,MP_Name_242,44021766
+243,Karnataka,Constituency_243,MP_Name_243,33143072
+244,Karnataka,Constituency_244,MP_Name_244,42454262
+245,Delhi,Constituency_245,MP_Name_245,44062221
+246,Delhi,Constituency_246,MP_Name_246,47884252
+247,Tamil Nadu,Constituency_247,MP_Name_247,46964294
+248,Maharashtra,Constituency_248,MP_Name_248,31419131
+249,Maharashtra,Constituency_249,MP_Name_249,28885474
+250,Tamil Nadu,Constituency_250,MP_Name_250,22173070
+251,Maharashtra,Constituency_251,MP_Name_251,46518306
+252,Uttar Pradesh,Constituency_252,MP_Name_252,48578092
+253,Maharashtra,Constituency_253,MP_Name_253,42245480
+254,Karnataka,Constituency_254,MP_Name_254,39513079
+255,Karnataka,Constituency_255,MP_Name_255,24719674
+256,Uttar Pradesh,Constituency_256,MP_Name_256,43459493
+257,Gujarat,Constituency_257,MP_Name_257,48004309
+258,Karnataka,Constituency_258,MP_Name_258,23316044
+259,Delhi,Constituency_259,MP_Name_259,33845215
+260,Gujarat,Constituency_260,MP_Name_260,24731118
+261,Gujarat,Constituency_261,MP_Name_261,22890182
+262,Uttar Pradesh,Constituency_262,MP_Name_262,32891709
+263,Tamil Nadu,Constituency_263,MP_Name_263,25997539
+264,Uttar Pradesh,Constituency_264,MP_Name_264,30044572
+265,Uttar Pradesh,Constituency_265,MP_Name_265,37206554
+266,Gujarat,Constituency_266,MP_Name_266,20628510
+267,Tamil Nadu,Constituency_267,MP_Name_267,30985465
+268,Uttar Pradesh,Constituency_268,MP_Name_268,45290751
+269,Gujarat,Constituency_269,MP_Name_269,40996690
+270,Tamil Nadu,Constituency_270,MP_Name_270,40080187
+271,Tamil Nadu,Constituency_271,MP_Name_271,33157907
+272,Karnataka,Constituency_272,MP_Name_272,30915221
+273,Delhi,Constituency_273,MP_Name_273,43178533
+274,Maharashtra,Constituency_274,MP_Name_274,33580606
+275,Karnataka,Constituency_275,MP_Name_275,28382651
+276,Tamil Nadu,Constituency_276,MP_Name_276,32499840
+277,Delhi,Constituency_277,MP_Name_277,49239204
+278,Karnataka,Constituency_278,MP_Name_278,49834367
+279,Gujarat,Constituency_279,MP_Name_279,37416623
+280,Maharashtra,Constituency_280,MP_Name_280,45714207
+281,Tamil Nadu,Constituency_281,MP_Name_281,22186992
+282,Karnataka,Constituency_282,MP_Name_282,27385299
+283,Maharashtra,Constituency_283,MP_Name_283,43313919
+284,Karnataka,Constituency_284,MP_Name_284,20950483
+285,Gujarat,Constituency_285,MP_Name_285,40311387
+286,Delhi,Constituency_286,MP_Name_286,26413900
+287,Gujarat,Constituency_287,MP_Name_287,33641148
+288,Gujarat,Constituency_288,MP_Name_288,47789624
+289,Gujarat,Constituency_289,MP_Name_289,22530826
+290,Uttar Pradesh,Constituency_290,MP_Name_290,25928835
+291,Tamil Nadu,Constituency_291,MP_Name_291,36132058
+292,Karnataka,Constituency_292,MP_Name_292,23929544
+293,Maharashtra,Constituency_293,MP_Name_293,38069782
+294,Gujarat,Constituency_294,MP_Name_294,35644673
+295,Maharashtra,Constituency_295,MP_Name_295,31751533
+296,Uttar Pradesh,Constituency_296,MP_Name_296,26417878
+297,Delhi,Constituency_297,MP_Name_297,24465665
+298,Tamil Nadu,Constituency_298,MP_Name_298,44294409
+299,Uttar Pradesh,Constituency_299,MP_Name_299,34331691
+300,Gujarat,Constituency_300,MP_Name_300,20188404
+301,Delhi,Constituency_301,MP_Name_301,25945418
+302,Karnataka,Constituency_302,MP_Name_302,33520739
+303,Karnataka,Constituency_303,MP_Name_303,32214066
+304,Tamil Nadu,Constituency_304,MP_Name_304,45341458
+305,Maharashtra,Constituency_305,MP_Name_305,31136605
+306,Gujarat,Constituency_306,MP_Name_306,29583383
+307,Gujarat,Constituency_307,MP_Name_307,22307016
+308,Karnataka,Constituency_308,MP_Name_308,30828148
+309,Maharashtra,Constituency_309,MP_Name_309,39381400
+310,Delhi,Constituency_310,MP_Name_310,43694003
+311,Delhi,Constituency_311,MP_Name_311,38604407
+312,Gujarat,Constituency_312,MP_Name_312,47596519
+313,Uttar Pradesh,Constituency_313,MP_Name_313,33721021
+314,Delhi,Constituency_314,MP_Name_314,29185147
+315,Gujarat,Constituency_315,MP_Name_315,25727530
+316,Uttar Pradesh,Constituency_316,MP_Name_316,25390431
+317,Tamil Nadu,Constituency_317,MP_Name_317,48376070
+318,Gujarat,Constituency_318,MP_Name_318,43322974
+319,Maharashtra,Constituency_319,MP_Name_319,30488881
+320,Karnataka,Constituency_320,MP_Name_320,28730811
+321,Karnataka,Constituency_321,MP_Name_321,38415633
+322,Maharashtra,Constituency_322,MP_Name_322,48411942
+323,Tamil Nadu,Constituency_323,MP_Name_323,32200830
+324,Maharashtra,Constituency_324,MP_Name_324,37407887
+325,Karnataka,Constituency_325,MP_Name_325,32479410
+326,Delhi,Constituency_326,MP_Name_326,38354017
+327,Karnataka,Constituency_327,MP_Name_327,34064954
+328,Tamil Nadu,Constituency_328,MP_Name_328,38943696
+329,Maharashtra,Constituency_329,MP_Name_329,44200806
+330,Delhi,Constituency_330,MP_Name_330,25975191
+331,Maharashtra,Constituency_331,MP_Name_331,47509742
+332,Karnataka,Constituency_332,MP_Name_332,44519565
+333,Karnataka,Constituency_333,MP_Name_333,24037330
+334,Delhi,Constituency_334,MP_Name_334,25349381
+335,Uttar Pradesh,Constituency_335,MP_Name_335,34396342
+336,Gujarat,Constituency_336,MP_Name_336,20263755
+337,Maharashtra,Constituency_337,MP_Name_337,26867170
+338,Karnataka,Constituency_338,MP_Name_338,30559205
+339,Uttar Pradesh,Constituency_339,MP_Name_339,30312239
+340,Gujarat,Constituency_340,MP_Name_340,25268464
+341,Delhi,Constituency_341,MP_Name_341,45022702
+342,Gujarat,Constituency_342,MP_Name_342,43082816
+343,Karnataka,Constituency_343,MP_Name_343,28400460
+344,Karnataka,Constituency_344,MP_Name_344,24777440
+345,Karnataka,Constituency_345,MP_Name_345,48398179
+346,Maharashtra,Constituency_346,MP_Name_346,34311229
+347,Gujarat,Constituency_347,MP_Name_347,29634708
+348,Uttar Pradesh,Constituency_348,MP_Name_348,46890874
+349,Uttar Pradesh,Constituency_349,MP_Name_349,40794376
+350,Tamil Nadu,Constituency_350,MP_Name_350,48363817
+351,Delhi,Constituency_351,MP_Name_351,43156927
+352,Delhi,Constituency_352,MP_Name_352,44764511
+353,Maharashtra,Constituency_353,MP_Name_353,46401409
+354,Karnataka,Constituency_354,MP_Name_354,41478122
+355,Delhi,Constituency_355,MP_Name_355,35631844
+356,Tamil Nadu,Constituency_356,MP_Name_356,48399122
+357,Gujarat,Constituency_357,MP_Name_357,25405353
+358,Maharashtra,Constituency_358,MP_Name_358,45491292
+359,Delhi,Constituency_359,MP_Name_359,37572086
+360,Tamil Nadu,Constituency_360,MP_Name_360,32806032
+361,Gujarat,Constituency_361,MP_Name_361,42790032
+362,Karnataka,Constituency_362,MP_Name_362,42382579
+363,Gujarat,Constituency_363,MP_Name_363,46983685
+364,Gujarat,Constituency_364,MP_Name_364,31117395
+365,Tamil Nadu,Constituency_365,MP_Name_365,38774584
+366,Tamil Nadu,Constituency_366,MP_Name_366,23314241
+367,Gujarat,Constituency_367,MP_Name_367,46865744
+368,Gujarat,Constituency_368,MP_Name_368,34941052
+369,Tamil Nadu,Constituency_369,MP_Name_369,39013805
+370,Karnataka,Constituency_370,MP_Name_370,33644161
+371,Karnataka,Constituency_371,MP_Name_371,33740959
+372,Karnataka,Constituency_372,MP_Name_372,45911214
+373,Gujarat,Constituency_373,MP_Name_373,25919419
+374,Karnataka,Constituency_374,MP_Name_374,43149188
+375,Maharashtra,Constituency_375,MP_Name_375,25290125
+376,Tamil Nadu,Constituency_376,MP_Name_376,38702076
+377,Gujarat,Constituency_377,MP_Name_377,32362956
+378,Gujarat,Constituency_378,MP_Name_378,36848645
+379,Uttar Pradesh,Constituency_379,MP_Name_379,37379589
+380,Uttar Pradesh,Constituency_380,MP_Name_380,36419747
+381,Delhi,Constituency_381,MP_Name_381,31843668
+382,Tamil Nadu,Constituency_382,MP_Name_382,22128496
+383,Tamil Nadu,Constituency_383,MP_Name_383,39516811
+384,Karnataka,Constituency_384,MP_Name_384,39469131
+385,Gujarat,Constituency_385,MP_Name_385,44601011
+386,Delhi,Constituency_386,MP_Name_386,21437062
+387,Uttar Pradesh,Constituency_387,MP_Name_387,49450795
+388,Tamil Nadu,Constituency_388,MP_Name_388,33522114
+389,Gujarat,Constituency_389,MP_Name_389,46467155
+390,Gujarat,Constituency_390,MP_Name_390,41067827
+391,Karnataka,Constituency_391,MP_Name_391,27911862
+392,Maharashtra,Constituency_392,MP_Name_392,20635233
+393,Delhi,Constituency_393,MP_Name_393,46553388
+394,Gujarat,Constituency_394,MP_Name_394,29533252
+395,Delhi,Constituency_395,MP_Name_395,45768356
+396,Tamil Nadu,Constituency_396,MP_Name_396,40764609
+397,Gujarat,Constituency_397,MP_Name_397,27867245
+398,Delhi,Constituency_398,MP_Name_398,30496470
+399,Karnataka,Constituency_399,MP_Name_399,45028770
+400,Uttar Pradesh,Constituency_400,MP_Name_400,23109275
+401,Delhi,Constituency_401,MP_Name_401,30997494
+402,Uttar Pradesh,Constituency_402,MP_Name_402,47628908
+403,Delhi,Constituency_403,MP_Name_403,35665100
+404,Uttar Pradesh,Constituency_404,MP_Name_404,30329434
+405,Uttar Pradesh,Constituency_405,MP_Name_405,39681581
+406,Delhi,Constituency_406,MP_Name_406,46599811
+407,Karnataka,Constituency_407,MP_Name_407,40426874
+408,Delhi,Constituency_408,MP_Name_408,43658171
+409,Delhi,Constituency_409,MP_Name_409,28480924
+410,Karnataka,Constituency_410,MP_Name_410,45100301
+411,Karnataka,Constituency_411,MP_Name_411,20505460
+412,Gujarat,Constituency_412,MP_Name_412,40211472
+413,Tamil Nadu,Constituency_413,MP_Name_413,49710072
+414,Tamil Nadu,Constituency_414,MP_Name_414,24196569
+415,Maharashtra,Constituency_415,MP_Name_415,31745687
+416,Tamil Nadu,Constituency_416,MP_Name_416,37507308
+417,Karnataka,Constituency_417,MP_Name_417,40524502
+418,Maharashtra,Constituency_418,MP_Name_418,32689470
+419,Uttar Pradesh,Constituency_419,MP_Name_419,33725228
+420,Gujarat,Constituency_420,MP_Name_420,24745958
+421,Tamil Nadu,Constituency_421,MP_Name_421,22767729
+422,Uttar Pradesh,Constituency_422,MP_Name_422,40427670
+423,Karnataka,Constituency_423,MP_Name_423,46820478
+424,Tamil Nadu,Constituency_424,MP_Name_424,22299832
+425,Delhi,Constituency_425,MP_Name_425,39180463
+426,Tamil Nadu,Constituency_426,MP_Name_426,24857295
+427,Delhi,Constituency_427,MP_Name_427,42260032
+428,Gujarat,Constituency_428,MP_Name_428,49303630
+429,Tamil Nadu,Constituency_429,MP_Name_429,24538428
+430,Tamil Nadu,Constituency_430,MP_Name_430,40571634
+431,Delhi,Constituency_431,MP_Name_431,26061584
+432,Delhi,Constituency_432,MP_Name_432,25072929
+433,Tamil Nadu,Constituency_433,MP_Name_433,24785982
+434,Karnataka,Constituency_434,MP_Name_434,30974526
+435,Uttar Pradesh,Constituency_435,MP_Name_435,45751258
+436,Delhi,Constituency_436,MP_Name_436,45866582
+437,Karnataka,Constituency_437,MP_Name_437,49033069
+438,Gujarat,Constituency_438,MP_Name_438,48770049
+439,Uttar Pradesh,Constituency_439,MP_Name_439,29650533
+440,Tamil Nadu,Constituency_440,MP_Name_440,48273990
+441,Gujarat,Constituency_441,MP_Name_441,43931622
+442,Gujarat,Constituency_442,MP_Name_442,27598606
+443,Tamil Nadu,Constituency_443,MP_Name_443,35996266
+444,Maharashtra,Constituency_444,MP_Name_444,36763422
+445,Karnataka,Constituency_445,MP_Name_445,23894349
+446,Maharashtra,Constituency_446,MP_Name_446,43091377
+447,Tamil Nadu,Constituency_447,MP_Name_447,31784027
+448,Karnataka,Constituency_448,MP_Name_448,21866020
+449,Delhi,Constituency_449,MP_Name_449,48427168
+450,Gujarat,Constituency_450,MP_Name_450,35866124
+451,Maharashtra,Constituency_451,MP_Name_451,30545452
+452,Delhi,Constituency_452,MP_Name_452,43105762
+453,Maharashtra,Constituency_453,MP_Name_453,48669032
+454,Karnataka,Constituency_454,MP_Name_454,36871578
+455,Uttar Pradesh,Constituency_455,MP_Name_455,45350249
+456,Uttar Pradesh,Constituency_456,MP_Name_456,23881149
+457,Maharashtra,Constituency_457,MP_Name_457,32943114
+458,Delhi,Constituency_458,MP_Name_458,39849857
+459,Delhi,Constituency_459,MP_Name_459,27614335
+460,Gujarat,Constituency_460,MP_Name_460,45736581
+461,Tamil Nadu,Constituency_461,MP_Name_461,47682805
+462,Delhi,Constituency_462,MP_Name_462,49134003
+463,Karnataka,Constituency_463,MP_Name_463,38997476
+464,Karnataka,Constituency_464,MP_Name_464,47117455
+465,Uttar Pradesh,Constituency_465,MP_Name_465,34101477
+466,Uttar Pradesh,Constituency_466,MP_Name_466,45403316
+467,Karnataka,Constituency_467,MP_Name_467,37783174
+468,Karnataka,Constituency_468,MP_Name_468,47200152
+469,Maharashtra,Constituency_469,MP_Name_469,41291686
+470,Karnataka,Constituency_470,MP_Name_470,25837637
+471,Karnataka,Constituency_471,MP_Name_471,36459389
+472,Maharashtra,Constituency_472,MP_Name_472,43224569
+473,Uttar Pradesh,Constituency_473,MP_Name_473,42961833
+474,Delhi,Constituency_474,MP_Name_474,45351390
+475,Gujarat,Constituency_475,MP_Name_475,28833557
+476,Delhi,Constituency_476,MP_Name_476,25005992
+477,Uttar Pradesh,Constituency_477,MP_Name_477,48907432
+478,Tamil Nadu,Constituency_478,MP_Name_478,47061526
+479,Gujarat,Constituency_479,MP_Name_479,41816780
+480,Karnataka,Constituency_480,MP_Name_480,45454747
+481,Gujarat,Constituency_481,MP_Name_481,38802770
+482,Uttar Pradesh,Constituency_482,MP_Name_482,23463111
+483,Gujarat,Constituency_483,MP_Name_483,35665226
+484,Uttar Pradesh,Constituency_484,MP_Name_484,22167070
+485,Delhi,Constituency_485,MP_Name_485,40769930
+486,Karnataka,Constituency_486,MP_Name_486,44240671
+487,Gujarat,Constituency_487,MP_Name_487,32042247
+488,Gujarat,Constituency_488,MP_Name_488,23468303
+489,Gujarat,Constituency_489,MP_Name_489,23220313
+490,Karnataka,Constituency_490,MP_Name_490,31568130
+491,Delhi,Constituency_491,MP_Name_491,41757078
+492,Karnataka,Constituency_492,MP_Name_492,49005230
+493,Tamil Nadu,Constituency_493,MP_Name_493,23802314
+494,Uttar Pradesh,Constituency_494,MP_Name_494,47487564
+495,Uttar Pradesh,Constituency_495,MP_Name_495,34306630
+496,Uttar Pradesh,Constituency_496,MP_Name_496,36813725
+497,Maharashtra,Constituency_497,MP_Name_497,49453960
+498,Delhi,Constituency_498,MP_Name_498,29852798
+499,Delhi,Constituency_499,MP_Name_499,43063714
+500,Gujarat,Constituency_500,MP_Name_500,43448641
+501,Tamil Nadu,Constituency_501,MP_Name_501,31080631
+502,Tamil Nadu,Constituency_502,MP_Name_502,46782284
+503,Tamil Nadu,Constituency_503,MP_Name_503,40793039
+504,Tamil Nadu,Constituency_504,MP_Name_504,47496584
+505,Tamil Nadu,Constituency_505,MP_Name_505,25837106
+506,Maharashtra,Constituency_506,MP_Name_506,43643678
+507,Karnataka,Constituency_507,MP_Name_507,41391286
+508,Gujarat,Constituency_508,MP_Name_508,26811525
+509,Maharashtra,Constituency_509,MP_Name_509,48852947
+510,Delhi,Constituency_510,MP_Name_510,49223781
+511,Uttar Pradesh,Constituency_511,MP_Name_511,48023769
+512,Gujarat,Constituency_512,MP_Name_512,31588189
+513,Delhi,Constituency_513,MP_Name_513,37674944
+514,Karnataka,Constituency_514,MP_Name_514,47526142
+515,Gujarat,Constituency_515,MP_Name_515,32090503
+516,Delhi,Constituency_516,MP_Name_516,43990137
+517,Gujarat,Constituency_517,MP_Name_517,22986729
+518,Gujarat,Constituency_518,MP_Name_518,35948430
+519,Delhi,Constituency_519,MP_Name_519,38985570
+520,Maharashtra,Constituency_520,MP_Name_520,32177844
+521,Maharashtra,Constituency_521,MP_Name_521,23583114
+522,Gujarat,Constituency_522,MP_Name_522,30534290
+523,Tamil Nadu,Constituency_523,MP_Name_523,41378752
+524,Tamil Nadu,Constituency_524,MP_Name_524,48563550
+525,Uttar Pradesh,Constituency_525,MP_Name_525,36004897
+526,Karnataka,Constituency_526,MP_Name_526,24767229
+527,Tamil Nadu,Constituency_527,MP_Name_527,31054781
+528,Gujarat,Constituency_528,MP_Name_528,37211466
+529,Karnataka,Constituency_529,MP_Name_529,37337945
+530,Maharashtra,Constituency_530,MP_Name_530,33305996
+531,Uttar Pradesh,Constituency_531,MP_Name_531,44140183
+532,Tamil Nadu,Constituency_532,MP_Name_532,24000693
+533,Karnataka,Constituency_533,MP_Name_533,21561646
+534,Maharashtra,Constituency_534,MP_Name_534,24761997
+535,Karnataka,Constituency_535,MP_Name_535,26870083
+536,Karnataka,Constituency_536,MP_Name_536,40513563
+537,Tamil Nadu,Constituency_537,MP_Name_537,29328028
+538,Gujarat,Constituency_538,MP_Name_538,38859064
+539,Gujarat,Constituency_539,MP_Name_539,34621176
+540,Maharashtra,Constituency_540,MP_Name_540,35164947
+541,Maharashtra,Constituency_541,MP_Name_541,36692140
+542,Delhi,Constituency_542,MP_Name_542,38361441
+543,Uttar Pradesh,Constituency_543,MP_Name_543,42258262

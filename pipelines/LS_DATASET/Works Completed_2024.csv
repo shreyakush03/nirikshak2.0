@@ -1,0 +1,1086 @@
+sr_no,state,constituency,mp_name,work,completion_date,work_status
+1,Gujarat,Constituency_2,MP_Name_2,Work_1,07-06-2022,Completed
+2,Gujarat,Constituency_3,MP_Name_3,Work_2,04-10-2021,Completed
+3,Gujarat,Constituency_4,MP_Name_4,Work_3,04-02-2021,Completed
+4,Gujarat,Constituency_5,MP_Name_5,Work_4,15-04-2021,Completed
+5,Tamil Nadu,Constituency_6,MP_Name_6,Work_5,22-02-2023,Completed
+6,Karnataka,Constituency_7,MP_Name_7,Work_6,11-06-2022,Completed
+7,Delhi,Constituency_8,MP_Name_8,Work_7,31-12-2023,Completed
+8,Uttar Pradesh,Constituency_9,MP_Name_9,Work_8,11-11-2021,Completed
+9,Uttar Pradesh,Constituency_10,MP_Name_10,Work_9,23-10-2021,Completed
+10,Uttar Pradesh,Constituency_11,MP_Name_11,Work_10,24-08-2023,Completed
+11,Uttar Pradesh,Constituency_12,MP_Name_12,Work_11,07-07-2022,Completed
+12,Gujarat,Constituency_13,MP_Name_13,Work_12,12-09-2022,Completed
+13,Uttar Pradesh,Constituency_14,MP_Name_14,Work_13,07-03-2021,Completed
+14,Maharashtra,Constituency_15,MP_Name_15,Work_14,07-01-2021,Completed
+15,Maharashtra,Constituency_16,MP_Name_16,Work_15,30-01-2022,Completed
+16,Uttar Pradesh,Constituency_17,MP_Name_17,Work_16,25-08-2023,Completed
+17,Karnataka,Constituency_18,MP_Name_18,Work_17,07-02-2022,Completed
+18,Maharashtra,Constituency_19,MP_Name_19,Work_18,29-11-2022,Completed
+19,Maharashtra,Constituency_20,MP_Name_20,Work_19,22-11-2021,Completed
+20,Delhi,Constituency_21,MP_Name_21,Work_20,01-06-2023,Completed
+21,Uttar Pradesh,Constituency_22,MP_Name_22,Work_21,02-12-2021,Completed
+22,Maharashtra,Constituency_23,MP_Name_23,Work_22,25-05-2023,Completed
+23,Maharashtra,Constituency_24,MP_Name_24,Work_23,16-09-2023,Completed
+24,Tamil Nadu,Constituency_25,MP_Name_25,Work_24,20-11-2022,Completed
+25,Uttar Pradesh,Constituency_26,MP_Name_26,Work_25,12-08-2022,Completed
+26,Uttar Pradesh,Constituency_27,MP_Name_27,Work_26,05-03-2023,Completed
+27,Karnataka,Constituency_28,MP_Name_28,Work_27,28-04-2022,Completed
+28,Karnataka,Constituency_29,MP_Name_29,Work_28,10-06-2023,Completed
+29,Uttar Pradesh,Constituency_30,MP_Name_30,Work_29,24-03-2022,Completed
+30,Karnataka,Constituency_31,MP_Name_31,Work_30,26-10-2023,Completed
+31,Maharashtra,Constituency_32,MP_Name_32,Work_31,30-01-2023,Completed
+32,Gujarat,Constituency_33,MP_Name_33,Work_32,24-05-2021,Completed
+33,Tamil Nadu,Constituency_34,MP_Name_34,Work_33,03-05-2022,Completed
+34,Delhi,Constituency_35,MP_Name_35,Work_34,19-11-2023,Completed
+35,Tamil Nadu,Constituency_36,MP_Name_36,Work_35,14-06-2023,Completed
+36,Karnataka,Constituency_37,MP_Name_37,Work_36,16-05-2022,Completed
+37,Karnataka,Constituency_38,MP_Name_38,Work_37,14-03-2021,Completed
+38,Gujarat,Constituency_39,MP_Name_39,Work_38,29-03-2022,Completed
+39,Delhi,Constituency_40,MP_Name_40,Work_39,03-11-2022,Completed
+40,Karnataka,Constituency_41,MP_Name_41,Work_40,08-10-2023,Completed
+41,Delhi,Constituency_42,MP_Name_42,Work_41,23-04-2023,Completed
+42,Maharashtra,Constituency_43,MP_Name_43,Work_42,27-03-2021,Completed
+43,Uttar Pradesh,Constituency_44,MP_Name_44,Work_43,02-05-2021,Completed
+44,Tamil Nadu,Constituency_45,MP_Name_45,Work_44,24-02-2021,Completed
+45,Karnataka,Constituency_46,MP_Name_46,Work_45,09-06-2021,Completed
+46,Maharashtra,Constituency_47,MP_Name_47,Work_46,21-08-2022,Completed
+47,Maharashtra,Constituency_48,MP_Name_48,Work_47,17-07-2023,Completed
+48,Uttar Pradesh,Constituency_49,MP_Name_49,Work_48,13-10-2021,Completed
+49,Delhi,Constituency_50,MP_Name_50,Work_49,07-01-2023,Completed
+50,Delhi,Constituency_51,MP_Name_51,Work_50,10-08-2023,Completed
+51,Maharashtra,Constituency_52,MP_Name_52,Work_51,29-01-2023,Completed
+52,Delhi,Constituency_53,MP_Name_53,Work_52,23-04-2022,Completed
+53,Maharashtra,Constituency_54,MP_Name_54,Work_53,25-09-2021,Completed
+54,Tamil Nadu,Constituency_55,MP_Name_55,Work_54,20-06-2021,Completed
+55,Delhi,Constituency_56,MP_Name_56,Work_55,17-07-2022,Completed
+56,Delhi,Constituency_57,MP_Name_57,Work_56,21-08-2021,Completed
+57,Karnataka,Constituency_58,MP_Name_58,Work_57,26-12-2023,Completed
+58,Uttar Pradesh,Constituency_59,MP_Name_59,Work_58,26-12-2023,Completed
+59,Karnataka,Constituency_60,MP_Name_60,Work_59,29-12-2022,Completed
+60,Maharashtra,Constituency_61,MP_Name_61,Work_60,07-11-2022,Completed
+61,Karnataka,Constituency_62,MP_Name_62,Work_61,03-11-2022,Completed
+62,Uttar Pradesh,Constituency_63,MP_Name_63,Work_62,11-09-2022,Completed
+63,Delhi,Constituency_64,MP_Name_64,Work_63,02-11-2021,Completed
+64,Delhi,Constituency_65,MP_Name_65,Work_64,22-03-2022,Completed
+65,Maharashtra,Constituency_66,MP_Name_66,Work_65,24-02-2023,Completed
+66,Gujarat,Constituency_67,MP_Name_67,Work_66,12-01-2022,Completed
+67,Maharashtra,Constituency_68,MP_Name_68,Work_67,25-04-2022,Completed
+68,Gujarat,Constituency_69,MP_Name_69,Work_68,26-09-2021,Completed
+69,Tamil Nadu,Constituency_70,MP_Name_70,Work_69,09-10-2022,Completed
+70,Karnataka,Constituency_71,MP_Name_71,Work_70,01-08-2022,Completed
+71,Karnataka,Constituency_72,MP_Name_72,Work_71,24-03-2022,Completed
+72,Uttar Pradesh,Constituency_73,MP_Name_73,Work_72,01-05-2022,Completed
+73,Uttar Pradesh,Constituency_74,MP_Name_74,Work_73,29-04-2023,Completed
+74,Tamil Nadu,Constituency_75,MP_Name_75,Work_74,09-05-2023,Completed
+75,Karnataka,Constituency_76,MP_Name_76,Work_75,04-04-2021,Completed
+76,Maharashtra,Constituency_77,MP_Name_77,Work_76,11-12-2021,Completed
+77,Tamil Nadu,Constituency_78,MP_Name_78,Work_77,10-02-2023,Completed
+78,Tamil Nadu,Constituency_79,MP_Name_79,Work_78,06-07-2022,Completed
+79,Maharashtra,Constituency_80,MP_Name_80,Work_79,11-07-2023,Completed
+80,Karnataka,Constituency_81,MP_Name_81,Work_80,11-07-2021,Completed
+81,Tamil Nadu,Constituency_82,MP_Name_82,Work_81,07-12-2023,Completed
+82,Tamil Nadu,Constituency_83,MP_Name_83,Work_82,07-12-2021,Completed
+83,Gujarat,Constituency_84,MP_Name_84,Work_83,20-06-2022,Completed
+84,Karnataka,Constituency_85,MP_Name_85,Work_84,07-02-2022,Completed
+85,Uttar Pradesh,Constituency_86,MP_Name_86,Work_85,12-03-2023,Completed
+86,Gujarat,Constituency_87,MP_Name_87,Work_86,05-06-2022,Completed
+87,Tamil Nadu,Constituency_88,MP_Name_88,Work_87,24-01-2021,Completed
+88,Gujarat,Constituency_89,MP_Name_89,Work_88,04-08-2023,Completed
+89,Maharashtra,Constituency_90,MP_Name_90,Work_89,22-05-2022,Completed
+90,Karnataka,Constituency_91,MP_Name_91,Work_90,11-09-2023,Completed
+91,Delhi,Constituency_92,MP_Name_92,Work_91,30-07-2023,Completed
+92,Gujarat,Constituency_93,MP_Name_93,Work_92,29-09-2022,Completed
+93,Tamil Nadu,Constituency_94,MP_Name_94,Work_93,03-05-2021,Completed
+94,Karnataka,Constituency_95,MP_Name_95,Work_94,12-08-2023,Completed
+95,Tamil Nadu,Constituency_96,MP_Name_96,Work_95,25-06-2021,Completed
+96,Gujarat,Constituency_97,MP_Name_97,Work_96,05-11-2021,Completed
+97,Uttar Pradesh,Constituency_98,MP_Name_98,Work_97,26-07-2021,Completed
+98,Maharashtra,Constituency_99,MP_Name_99,Work_98,25-05-2021,Completed
+99,Maharashtra,Constituency_100,MP_Name_100,Work_99,05-10-2023,Completed
+100,Gujarat,Constituency_101,MP_Name_101,Work_100,19-01-2022,Completed
+101,Karnataka,Constituency_102,MP_Name_102,Work_101,29-06-2023,Completed
+102,Karnataka,Constituency_103,MP_Name_103,Work_102,15-06-2021,Completed
+103,Delhi,Constituency_104,MP_Name_104,Work_103,13-05-2022,Completed
+104,Gujarat,Constituency_105,MP_Name_105,Work_104,23-03-2022,Completed
+105,Gujarat,Constituency_106,MP_Name_106,Work_105,08-12-2022,Completed
+106,Gujarat,Constituency_107,MP_Name_107,Work_106,03-12-2023,Completed
+107,Gujarat,Constituency_108,MP_Name_108,Work_107,04-09-2021,Completed
+108,Uttar Pradesh,Constituency_109,MP_Name_109,Work_108,10-03-2023,Completed
+109,Tamil Nadu,Constituency_110,MP_Name_110,Work_109,16-01-2022,Completed
+110,Gujarat,Constituency_111,MP_Name_111,Work_110,22-12-2023,Completed
+111,Maharashtra,Constituency_112,MP_Name_112,Work_111,09-11-2023,Completed
+112,Tamil Nadu,Constituency_113,MP_Name_113,Work_112,05-11-2023,Completed
+113,Uttar Pradesh,Constituency_114,MP_Name_114,Work_113,22-07-2023,Completed
+114,Karnataka,Constituency_115,MP_Name_115,Work_114,25-01-2023,Completed
+115,Maharashtra,Constituency_116,MP_Name_116,Work_115,13-07-2023,Completed
+116,Karnataka,Constituency_117,MP_Name_117,Work_116,09-05-2023,Completed
+117,Karnataka,Constituency_118,MP_Name_118,Work_117,17-06-2021,Completed
+118,Gujarat,Constituency_119,MP_Name_119,Work_118,03-02-2022,Completed
+119,Uttar Pradesh,Constituency_120,MP_Name_120,Work_119,29-07-2023,Completed
+120,Maharashtra,Constituency_121,MP_Name_121,Work_120,12-07-2021,Completed
+121,Uttar Pradesh,Constituency_122,MP_Name_122,Work_121,21-09-2022,Completed
+122,Gujarat,Constituency_123,MP_Name_123,Work_122,21-02-2022,Completed
+123,Karnataka,Constituency_124,MP_Name_124,Work_123,21-06-2023,Completed
+124,Karnataka,Constituency_125,MP_Name_125,Work_124,17-12-2021,Completed
+125,Maharashtra,Constituency_126,MP_Name_126,Work_125,06-09-2022,Completed
+126,Maharashtra,Constituency_127,MP_Name_127,Work_126,22-04-2023,Completed
+127,Tamil Nadu,Constituency_128,MP_Name_128,Work_127,16-04-2023,Completed
+128,Maharashtra,Constituency_129,MP_Name_129,Work_128,02-02-2023,Completed
+129,Karnataka,Constituency_130,MP_Name_130,Work_129,02-07-2023,Completed
+130,Tamil Nadu,Constituency_131,MP_Name_131,Work_130,29-08-2022,Completed
+131,Karnataka,Constituency_132,MP_Name_132,Work_131,09-09-2021,Completed
+132,Gujarat,Constituency_133,MP_Name_133,Work_132,07-07-2022,Completed
+133,Tamil Nadu,Constituency_134,MP_Name_134,Work_133,25-02-2021,Completed
+134,Delhi,Constituency_135,MP_Name_135,Work_134,20-05-2022,Completed
+135,Delhi,Constituency_136,MP_Name_136,Work_135,13-06-2022,Completed
+136,Maharashtra,Constituency_137,MP_Name_137,Work_136,16-08-2022,Completed
+137,Uttar Pradesh,Constituency_138,MP_Name_138,Work_137,23-02-2022,Completed
+138,Karnataka,Constituency_139,MP_Name_139,Work_138,23-02-2021,Completed
+139,Maharashtra,Constituency_140,MP_Name_140,Work_139,02-10-2023,Completed
+140,Delhi,Constituency_141,MP_Name_141,Work_140,17-06-2023,Completed
+141,Karnataka,Constituency_142,MP_Name_142,Work_141,07-09-2023,Completed
+142,Uttar Pradesh,Constituency_143,MP_Name_143,Work_142,09-10-2023,Completed
+143,Karnataka,Constituency_144,MP_Name_144,Work_143,21-07-2022,Completed
+144,Gujarat,Constituency_145,MP_Name_145,Work_144,15-02-2022,Completed
+145,Tamil Nadu,Constituency_146,MP_Name_146,Work_145,16-02-2021,Completed
+146,Karnataka,Constituency_147,MP_Name_147,Work_146,18-02-2021,Completed
+147,Gujarat,Constituency_148,MP_Name_148,Work_147,20-06-2022,Completed
+148,Maharashtra,Constituency_149,MP_Name_149,Work_148,25-05-2022,Completed
+149,Tamil Nadu,Constituency_150,MP_Name_150,Work_149,16-12-2023,Completed
+150,Tamil Nadu,Constituency_151,MP_Name_151,Work_150,18-09-2022,Completed
+151,Tamil Nadu,Constituency_152,MP_Name_152,Work_151,29-07-2023,Completed
+152,Uttar Pradesh,Constituency_153,MP_Name_153,Work_152,24-06-2022,Completed
+153,Uttar Pradesh,Constituency_154,MP_Name_154,Work_153,28-01-2022,Completed
+154,Gujarat,Constituency_155,MP_Name_155,Work_154,20-03-2022,Completed
+155,Karnataka,Constituency_156,MP_Name_156,Work_155,10-01-2021,Completed
+156,Uttar Pradesh,Constituency_157,MP_Name_157,Work_156,10-12-2021,Completed
+157,Gujarat,Constituency_158,MP_Name_158,Work_157,03-08-2023,Completed
+158,Gujarat,Constituency_159,MP_Name_159,Work_158,08-10-2021,Completed
+159,Gujarat,Constituency_160,MP_Name_160,Work_159,25-08-2021,Completed
+160,Gujarat,Constituency_161,MP_Name_161,Work_160,23-02-2021,Completed
+161,Uttar Pradesh,Constituency_162,MP_Name_162,Work_161,26-07-2022,Completed
+162,Karnataka,Constituency_163,MP_Name_163,Work_162,07-12-2022,Completed
+163,Karnataka,Constituency_164,MP_Name_164,Work_163,05-09-2021,Completed
+164,Gujarat,Constituency_165,MP_Name_165,Work_164,14-09-2022,Completed
+165,Uttar Pradesh,Constituency_166,MP_Name_166,Work_165,05-01-2023,Completed
+166,Karnataka,Constituency_167,MP_Name_167,Work_166,30-06-2023,Completed
+167,Delhi,Constituency_168,MP_Name_168,Work_167,20-07-2022,Completed
+168,Karnataka,Constituency_169,MP_Name_169,Work_168,06-04-2023,Completed
+169,Karnataka,Constituency_170,MP_Name_170,Work_169,29-11-2021,Completed
+170,Tamil Nadu,Constituency_171,MP_Name_171,Work_170,03-01-2023,Completed
+171,Tamil Nadu,Constituency_172,MP_Name_172,Work_171,30-04-2021,Completed
+172,Tamil Nadu,Constituency_173,MP_Name_173,Work_172,26-10-2023,Completed
+173,Gujarat,Constituency_174,MP_Name_174,Work_173,11-07-2021,Completed
+174,Delhi,Constituency_175,MP_Name_175,Work_174,07-12-2023,Completed
+175,Uttar Pradesh,Constituency_176,MP_Name_176,Work_175,28-09-2022,Completed
+176,Delhi,Constituency_177,MP_Name_177,Work_176,01-01-2021,Completed
+177,Gujarat,Constituency_178,MP_Name_178,Work_177,15-04-2023,Completed
+178,Maharashtra,Constituency_179,MP_Name_179,Work_178,13-09-2021,Completed
+179,Tamil Nadu,Constituency_180,MP_Name_180,Work_179,22-08-2021,Completed
+180,Gujarat,Constituency_181,MP_Name_181,Work_180,31-03-2023,Completed
+181,Delhi,Constituency_182,MP_Name_182,Work_181,06-03-2021,Completed
+182,Maharashtra,Constituency_183,MP_Name_183,Work_182,02-02-2023,Completed
+183,Uttar Pradesh,Constituency_184,MP_Name_184,Work_183,20-03-2021,Completed
+184,Gujarat,Constituency_185,MP_Name_185,Work_184,25-12-2023,Completed
+185,Delhi,Constituency_186,MP_Name_186,Work_185,10-08-2023,Completed
+186,Gujarat,Constituency_187,MP_Name_187,Work_186,28-12-2021,Completed
+187,Tamil Nadu,Constituency_188,MP_Name_188,Work_187,10-11-2023,Completed
+188,Delhi,Constituency_189,MP_Name_189,Work_188,27-06-2021,Completed
+189,Delhi,Constituency_190,MP_Name_190,Work_189,03-08-2021,Completed
+190,Tamil Nadu,Constituency_191,MP_Name_191,Work_190,31-08-2023,Completed
+191,Delhi,Constituency_192,MP_Name_192,Work_191,25-05-2021,Completed
+192,Delhi,Constituency_193,MP_Name_193,Work_192,01-12-2023,Completed
+193,Tamil Nadu,Constituency_194,MP_Name_194,Work_193,26-07-2021,Completed
+194,Maharashtra,Constituency_195,MP_Name_195,Work_194,28-02-2022,Completed
+195,Maharashtra,Constituency_196,MP_Name_196,Work_195,20-08-2022,Completed
+196,Tamil Nadu,Constituency_197,MP_Name_197,Work_196,17-03-2023,Completed
+197,Uttar Pradesh,Constituency_198,MP_Name_198,Work_197,22-12-2023,Completed
+198,Maharashtra,Constituency_199,MP_Name_199,Work_198,26-09-2021,Completed
+199,Maharashtra,Constituency_200,MP_Name_200,Work_199,10-04-2021,Completed
+200,Delhi,Constituency_201,MP_Name_201,Work_200,20-09-2021,Completed
+201,Gujarat,Constituency_202,MP_Name_202,Work_201,31-10-2021,Completed
+202,Gujarat,Constituency_203,MP_Name_203,Work_202,04-11-2022,Completed
+203,Gujarat,Constituency_204,MP_Name_204,Work_203,16-12-2023,Completed
+204,Tamil Nadu,Constituency_205,MP_Name_205,Work_204,29-06-2021,Completed
+205,Uttar Pradesh,Constituency_206,MP_Name_206,Work_205,05-05-2021,Completed
+206,Maharashtra,Constituency_207,MP_Name_207,Work_206,09-03-2023,Completed
+207,Maharashtra,Constituency_208,MP_Name_208,Work_207,10-04-2022,Completed
+208,Tamil Nadu,Constituency_209,MP_Name_209,Work_208,05-07-2023,Completed
+209,Gujarat,Constituency_210,MP_Name_210,Work_209,14-10-2023,Completed
+210,Gujarat,Constituency_211,MP_Name_211,Work_210,14-06-2021,Completed
+211,Uttar Pradesh,Constituency_212,MP_Name_212,Work_211,08-11-2022,Completed
+212,Maharashtra,Constituency_213,MP_Name_213,Work_212,26-12-2023,Completed
+213,Karnataka,Constituency_214,MP_Name_214,Work_213,17-11-2021,Completed
+214,Gujarat,Constituency_215,MP_Name_215,Work_214,29-08-2021,Completed
+215,Maharashtra,Constituency_216,MP_Name_216,Work_215,26-07-2022,Completed
+216,Karnataka,Constituency_217,MP_Name_217,Work_216,02-07-2022,Completed
+217,Gujarat,Constituency_218,MP_Name_218,Work_217,21-02-2022,Completed
+218,Maharashtra,Constituency_219,MP_Name_219,Work_218,30-05-2022,Completed
+219,Uttar Pradesh,Constituency_220,MP_Name_220,Work_219,10-11-2023,Completed
+220,Delhi,Constituency_221,MP_Name_221,Work_220,18-05-2022,Completed
+221,Gujarat,Constituency_222,MP_Name_222,Work_221,12-01-2023,Completed
+222,Maharashtra,Constituency_223,MP_Name_223,Work_222,20-05-2021,Completed
+223,Uttar Pradesh,Constituency_224,MP_Name_224,Work_223,08-08-2021,Completed
+224,Tamil Nadu,Constituency_225,MP_Name_225,Work_224,12-09-2023,Completed
+225,Uttar Pradesh,Constituency_226,MP_Name_226,Work_225,09-06-2021,Completed
+226,Delhi,Constituency_227,MP_Name_227,Work_226,09-01-2021,Completed
+227,Karnataka,Constituency_228,MP_Name_228,Work_227,26-11-2021,Completed
+228,Delhi,Constituency_229,MP_Name_229,Work_228,20-06-2021,Completed
+229,Karnataka,Constituency_230,MP_Name_230,Work_229,02-04-2021,Completed
+230,Maharashtra,Constituency_231,MP_Name_231,Work_230,17-07-2023,Completed
+231,Delhi,Constituency_232,MP_Name_232,Work_231,11-12-2022,Completed
+232,Uttar Pradesh,Constituency_233,MP_Name_233,Work_232,04-02-2022,Completed
+233,Karnataka,Constituency_234,MP_Name_234,Work_233,08-08-2021,Completed
+234,Tamil Nadu,Constituency_235,MP_Name_235,Work_234,21-07-2022,Completed
+235,Maharashtra,Constituency_236,MP_Name_236,Work_235,03-12-2023,Completed
+236,Delhi,Constituency_237,MP_Name_237,Work_236,18-07-2022,Completed
+237,Karnataka,Constituency_238,MP_Name_238,Work_237,29-09-2021,Completed
+238,Delhi,Constituency_239,MP_Name_239,Work_238,25-04-2021,Completed
+239,Maharashtra,Constituency_240,MP_Name_240,Work_239,18-11-2022,Completed
+240,Delhi,Constituency_241,MP_Name_241,Work_240,17-10-2021,Completed
+241,Tamil Nadu,Constituency_242,MP_Name_242,Work_241,27-06-2022,Completed
+242,Delhi,Constituency_243,MP_Name_243,Work_242,16-09-2023,Completed
+243,Karnataka,Constituency_244,MP_Name_244,Work_243,14-05-2021,Completed
+244,Tamil Nadu,Constituency_245,MP_Name_245,Work_244,05-01-2021,Completed
+245,Gujarat,Constituency_246,MP_Name_246,Work_245,24-06-2023,Completed
+246,Uttar Pradesh,Constituency_247,MP_Name_247,Work_246,25-12-2023,Completed
+247,Tamil Nadu,Constituency_248,MP_Name_248,Work_247,05-11-2023,Completed
+248,Uttar Pradesh,Constituency_249,MP_Name_249,Work_248,07-01-2021,Completed
+249,Maharashtra,Constituency_250,MP_Name_250,Work_249,03-04-2021,Completed
+250,Tamil Nadu,Constituency_251,MP_Name_251,Work_250,19-07-2023,Completed
+251,Delhi,Constituency_252,MP_Name_252,Work_251,14-03-2021,Completed
+252,Tamil Nadu,Constituency_253,MP_Name_253,Work_252,17-02-2022,Completed
+253,Karnataka,Constituency_254,MP_Name_254,Work_253,19-04-2023,Completed
+254,Delhi,Constituency_255,MP_Name_255,Work_254,07-07-2021,Completed
+255,Delhi,Constituency_256,MP_Name_256,Work_255,04-02-2022,Completed
+256,Gujarat,Constituency_257,MP_Name_257,Work_256,18-03-2021,Completed
+257,Gujarat,Constituency_258,MP_Name_258,Work_257,23-10-2022,Completed
+258,Uttar Pradesh,Constituency_259,MP_Name_259,Work_258,18-09-2023,Completed
+259,Karnataka,Constituency_260,MP_Name_260,Work_259,12-10-2022,Completed
+260,Maharashtra,Constituency_261,MP_Name_261,Work_260,12-10-2023,Completed
+261,Gujarat,Constituency_262,MP_Name_262,Work_261,28-03-2021,Completed
+262,Delhi,Constituency_263,MP_Name_263,Work_262,11-12-2021,Completed
+263,Maharashtra,Constituency_264,MP_Name_264,Work_263,12-12-2023,Completed
+264,Maharashtra,Constituency_265,MP_Name_265,Work_264,09-01-2021,Completed
+265,Karnataka,Constituency_266,MP_Name_266,Work_265,26-01-2023,Completed
+266,Tamil Nadu,Constituency_267,MP_Name_267,Work_266,11-04-2022,Completed
+267,Maharashtra,Constituency_268,MP_Name_268,Work_267,12-07-2022,Completed
+268,Tamil Nadu,Constituency_269,MP_Name_269,Work_268,15-03-2021,Completed
+269,Uttar Pradesh,Constituency_270,MP_Name_270,Work_269,09-06-2021,Completed
+270,Tamil Nadu,Constituency_271,MP_Name_271,Work_270,20-07-2022,Completed
+271,Karnataka,Constituency_272,MP_Name_272,Work_271,22-10-2021,Completed
+272,Delhi,Constituency_273,MP_Name_273,Work_272,25-03-2023,Completed
+273,Tamil Nadu,Constituency_274,MP_Name_274,Work_273,25-10-2022,Completed
+274,Delhi,Constituency_275,MP_Name_275,Work_274,19-11-2021,Completed
+275,Delhi,Constituency_276,MP_Name_276,Work_275,18-03-2021,Completed
+276,Uttar Pradesh,Constituency_277,MP_Name_277,Work_276,29-09-2022,Completed
+277,Tamil Nadu,Constituency_278,MP_Name_278,Work_277,28-08-2023,Completed
+278,Tamil Nadu,Constituency_279,MP_Name_279,Work_278,20-07-2023,Completed
+279,Karnataka,Constituency_280,MP_Name_280,Work_279,01-11-2021,Completed
+280,Karnataka,Constituency_281,MP_Name_281,Work_280,04-05-2021,Completed
+281,Tamil Nadu,Constituency_282,MP_Name_282,Work_281,12-06-2023,Completed
+282,Uttar Pradesh,Constituency_283,MP_Name_283,Work_282,09-10-2021,Completed
+283,Tamil Nadu,Constituency_284,MP_Name_284,Work_283,31-12-2022,Completed
+284,Gujarat,Constituency_285,MP_Name_285,Work_284,06-06-2022,Completed
+285,Delhi,Constituency_286,MP_Name_286,Work_285,23-08-2022,Completed
+286,Tamil Nadu,Constituency_287,MP_Name_287,Work_286,13-02-2023,Completed
+287,Tamil Nadu,Constituency_288,MP_Name_288,Work_287,18-05-2021,Completed
+288,Uttar Pradesh,Constituency_289,MP_Name_289,Work_288,15-09-2021,Completed
+289,Gujarat,Constituency_290,MP_Name_290,Work_289,17-05-2022,Completed
+290,Uttar Pradesh,Constituency_291,MP_Name_291,Work_290,18-02-2022,Completed
+291,Tamil Nadu,Constituency_292,MP_Name_292,Work_291,07-04-2023,Completed
+292,Delhi,Constituency_293,MP_Name_293,Work_292,07-07-2021,Completed
+293,Uttar Pradesh,Constituency_294,MP_Name_294,Work_293,07-08-2022,Completed
+294,Tamil Nadu,Constituency_295,MP_Name_295,Work_294,27-11-2021,Completed
+295,Maharashtra,Constituency_296,MP_Name_296,Work_295,14-06-2022,Completed
+296,Gujarat,Constituency_297,MP_Name_297,Work_296,02-03-2023,Completed
+297,Tamil Nadu,Constituency_298,MP_Name_298,Work_297,31-10-2023,Completed
+298,Delhi,Constituency_299,MP_Name_299,Work_298,20-02-2022,Completed
+299,Karnataka,Constituency_300,MP_Name_300,Work_299,16-10-2022,Completed
+300,Uttar Pradesh,Constituency_301,MP_Name_301,Work_300,27-09-2022,Completed
+301,Gujarat,Constituency_302,MP_Name_302,Work_301,28-04-2023,Completed
+302,Gujarat,Constituency_303,MP_Name_303,Work_302,04-11-2023,Completed
+303,Tamil Nadu,Constituency_304,MP_Name_304,Work_303,13-11-2023,Completed
+304,Maharashtra,Constituency_305,MP_Name_305,Work_304,13-08-2021,Completed
+305,Tamil Nadu,Constituency_306,MP_Name_306,Work_305,05-09-2023,Completed
+306,Maharashtra,Constituency_307,MP_Name_307,Work_306,08-09-2021,Completed
+307,Karnataka,Constituency_308,MP_Name_308,Work_307,12-05-2021,Completed
+308,Tamil Nadu,Constituency_309,MP_Name_309,Work_308,09-04-2023,Completed
+309,Maharashtra,Constituency_310,MP_Name_310,Work_309,23-05-2021,Completed
+310,Uttar Pradesh,Constituency_311,MP_Name_311,Work_310,16-01-2021,Completed
+311,Tamil Nadu,Constituency_312,MP_Name_312,Work_311,20-01-2022,Completed
+312,Maharashtra,Constituency_313,MP_Name_313,Work_312,25-08-2021,Completed
+313,Tamil Nadu,Constituency_314,MP_Name_314,Work_313,07-02-2021,Completed
+314,Tamil Nadu,Constituency_315,MP_Name_315,Work_314,09-02-2023,Completed
+315,Delhi,Constituency_316,MP_Name_316,Work_315,20-04-2023,Completed
+316,Gujarat,Constituency_317,MP_Name_317,Work_316,25-04-2022,Completed
+317,Uttar Pradesh,Constituency_318,MP_Name_318,Work_317,10-03-2021,Completed
+318,Karnataka,Constituency_319,MP_Name_319,Work_318,23-05-2023,Completed
+319,Maharashtra,Constituency_320,MP_Name_320,Work_319,07-10-2021,Completed
+320,Tamil Nadu,Constituency_321,MP_Name_321,Work_320,27-08-2023,Completed
+321,Delhi,Constituency_322,MP_Name_322,Work_321,07-03-2023,Completed
+322,Delhi,Constituency_323,MP_Name_323,Work_322,10-01-2021,Completed
+323,Tamil Nadu,Constituency_324,MP_Name_324,Work_323,25-11-2022,Completed
+324,Uttar Pradesh,Constituency_325,MP_Name_325,Work_324,23-02-2022,Completed
+325,Delhi,Constituency_326,MP_Name_326,Work_325,27-03-2022,Completed
+326,Gujarat,Constituency_327,MP_Name_327,Work_326,24-02-2022,Completed
+327,Gujarat,Constituency_328,MP_Name_328,Work_327,20-09-2021,Completed
+328,Uttar Pradesh,Constituency_329,MP_Name_329,Work_328,26-03-2021,Completed
+329,Delhi,Constituency_330,MP_Name_330,Work_329,21-04-2023,Completed
+330,Uttar Pradesh,Constituency_331,MP_Name_331,Work_330,04-05-2023,Completed
+331,Delhi,Constituency_332,MP_Name_332,Work_331,12-02-2023,Completed
+332,Maharashtra,Constituency_333,MP_Name_333,Work_332,19-05-2022,Completed
+333,Maharashtra,Constituency_334,MP_Name_334,Work_333,24-07-2023,Completed
+334,Karnataka,Constituency_335,MP_Name_335,Work_334,11-05-2022,Completed
+335,Uttar Pradesh,Constituency_336,MP_Name_336,Work_335,28-10-2021,Completed
+336,Tamil Nadu,Constituency_337,MP_Name_337,Work_336,28-07-2022,Completed
+337,Maharashtra,Constituency_338,MP_Name_338,Work_337,23-03-2023,Completed
+338,Tamil Nadu,Constituency_339,MP_Name_339,Work_338,10-04-2021,Completed
+339,Maharashtra,Constituency_340,MP_Name_340,Work_339,24-10-2022,Completed
+340,Uttar Pradesh,Constituency_341,MP_Name_341,Work_340,26-05-2023,Completed
+341,Delhi,Constituency_342,MP_Name_342,Work_341,06-12-2023,Completed
+342,Maharashtra,Constituency_343,MP_Name_343,Work_342,01-02-2022,Completed
+343,Delhi,Constituency_344,MP_Name_344,Work_343,06-01-2022,Completed
+344,Delhi,Constituency_345,MP_Name_345,Work_344,23-03-2022,Completed
+345,Maharashtra,Constituency_346,MP_Name_346,Work_345,08-01-2021,Completed
+346,Tamil Nadu,Constituency_347,MP_Name_347,Work_346,26-02-2023,Completed
+347,Delhi,Constituency_348,MP_Name_348,Work_347,28-03-2023,Completed
+348,Tamil Nadu,Constituency_349,MP_Name_349,Work_348,31-10-2022,Completed
+349,Tamil Nadu,Constituency_350,MP_Name_350,Work_349,30-08-2022,Completed
+350,Gujarat,Constituency_351,MP_Name_351,Work_350,15-12-2023,Completed
+351,Delhi,Constituency_352,MP_Name_352,Work_351,02-02-2023,Completed
+352,Karnataka,Constituency_353,MP_Name_353,Work_352,28-11-2021,Completed
+353,Karnataka,Constituency_354,MP_Name_354,Work_353,31-07-2023,Completed
+354,Uttar Pradesh,Constituency_355,MP_Name_355,Work_354,18-07-2023,Completed
+355,Uttar Pradesh,Constituency_356,MP_Name_356,Work_355,27-08-2022,Completed
+356,Delhi,Constituency_357,MP_Name_357,Work_356,18-06-2023,Completed
+357,Uttar Pradesh,Constituency_358,MP_Name_358,Work_357,17-08-2023,Completed
+358,Delhi,Constituency_359,MP_Name_359,Work_358,09-08-2021,Completed
+359,Karnataka,Constituency_360,MP_Name_360,Work_359,24-10-2021,Completed
+360,Karnataka,Constituency_361,MP_Name_361,Work_360,20-08-2021,Completed
+361,Uttar Pradesh,Constituency_362,MP_Name_362,Work_361,06-06-2022,Completed
+362,Gujarat,Constituency_363,MP_Name_363,Work_362,19-02-2022,Completed
+363,Delhi,Constituency_364,MP_Name_364,Work_363,07-04-2021,Completed
+364,Tamil Nadu,Constituency_365,MP_Name_365,Work_364,08-03-2021,Completed
+365,Uttar Pradesh,Constituency_366,MP_Name_366,Work_365,26-04-2021,Completed
+366,Tamil Nadu,Constituency_367,MP_Name_367,Work_366,08-07-2023,Completed
+367,Delhi,Constituency_368,MP_Name_368,Work_367,06-08-2023,Completed
+368,Uttar Pradesh,Constituency_369,MP_Name_369,Work_368,21-11-2023,Completed
+369,Delhi,Constituency_370,MP_Name_370,Work_369,17-02-2023,Completed
+370,Karnataka,Constituency_371,MP_Name_371,Work_370,14-11-2021,Completed
+371,Delhi,Constituency_372,MP_Name_372,Work_371,28-04-2021,Completed
+372,Tamil Nadu,Constituency_373,MP_Name_373,Work_372,04-08-2023,Completed
+373,Karnataka,Constituency_374,MP_Name_374,Work_373,08-03-2023,Completed
+374,Uttar Pradesh,Constituency_375,MP_Name_375,Work_374,07-02-2023,Completed
+375,Tamil Nadu,Constituency_376,MP_Name_376,Work_375,26-06-2023,Completed
+376,Karnataka,Constituency_377,MP_Name_377,Work_376,31-08-2021,Completed
+377,Uttar Pradesh,Constituency_378,MP_Name_378,Work_377,05-02-2022,Completed
+378,Karnataka,Constituency_379,MP_Name_379,Work_378,30-05-2023,Completed
+379,Maharashtra,Constituency_380,MP_Name_380,Work_379,09-09-2022,Completed
+380,Maharashtra,Constituency_381,MP_Name_381,Work_380,09-04-2023,Completed
+381,Tamil Nadu,Constituency_382,MP_Name_382,Work_381,24-09-2022,Completed
+382,Gujarat,Constituency_383,MP_Name_383,Work_382,10-08-2023,Completed
+383,Maharashtra,Constituency_384,MP_Name_384,Work_383,04-02-2023,Completed
+384,Uttar Pradesh,Constituency_385,MP_Name_385,Work_384,15-12-2022,Completed
+385,Tamil Nadu,Constituency_386,MP_Name_386,Work_385,30-04-2021,Completed
+386,Uttar Pradesh,Constituency_387,MP_Name_387,Work_386,31-03-2023,Completed
+387,Uttar Pradesh,Constituency_388,MP_Name_388,Work_387,21-07-2023,Completed
+388,Karnataka,Constituency_389,MP_Name_389,Work_388,09-08-2021,Completed
+389,Karnataka,Constituency_390,MP_Name_390,Work_389,18-11-2022,Completed
+390,Tamil Nadu,Constituency_391,MP_Name_391,Work_390,17-02-2021,Completed
+391,Delhi,Constituency_392,MP_Name_392,Work_391,05-01-2021,Completed
+392,Karnataka,Constituency_393,MP_Name_393,Work_392,15-07-2021,Completed
+393,Uttar Pradesh,Constituency_394,MP_Name_394,Work_393,24-12-2021,Completed
+394,Karnataka,Constituency_395,MP_Name_395,Work_394,11-10-2023,Completed
+395,Maharashtra,Constituency_396,MP_Name_396,Work_395,04-08-2022,Completed
+396,Gujarat,Constituency_397,MP_Name_397,Work_396,03-03-2023,Completed
+397,Maharashtra,Constituency_398,MP_Name_398,Work_397,06-04-2022,Completed
+398,Delhi,Constituency_399,MP_Name_399,Work_398,15-10-2022,Completed
+399,Tamil Nadu,Constituency_400,MP_Name_400,Work_399,02-12-2021,Completed
+400,Tamil Nadu,Constituency_401,MP_Name_401,Work_400,12-02-2022,Completed
+401,Delhi,Constituency_402,MP_Name_402,Work_401,09-11-2023,Completed
+402,Delhi,Constituency_403,MP_Name_403,Work_402,18-12-2021,Completed
+403,Delhi,Constituency_404,MP_Name_404,Work_403,11-02-2023,Completed
+404,Delhi,Constituency_405,MP_Name_405,Work_404,20-04-2022,Completed
+405,Maharashtra,Constituency_406,MP_Name_406,Work_405,22-02-2021,Completed
+406,Tamil Nadu,Constituency_407,MP_Name_407,Work_406,14-11-2022,Completed
+407,Karnataka,Constituency_408,MP_Name_408,Work_407,05-01-2021,Completed
+408,Uttar Pradesh,Constituency_409,MP_Name_409,Work_408,08-10-2023,Completed
+409,Tamil Nadu,Constituency_410,MP_Name_410,Work_409,29-10-2023,Completed
+410,Gujarat,Constituency_411,MP_Name_411,Work_410,25-07-2021,Completed
+411,Gujarat,Constituency_412,MP_Name_412,Work_411,31-12-2022,Completed
+412,Maharashtra,Constituency_413,MP_Name_413,Work_412,14-02-2022,Completed
+413,Gujarat,Constituency_414,MP_Name_414,Work_413,19-04-2021,Completed
+414,Delhi,Constituency_415,MP_Name_415,Work_414,01-06-2023,Completed
+415,Tamil Nadu,Constituency_416,MP_Name_416,Work_415,15-12-2022,Completed
+416,Uttar Pradesh,Constituency_417,MP_Name_417,Work_416,13-04-2022,Completed
+417,Maharashtra,Constituency_418,MP_Name_418,Work_417,18-04-2023,Completed
+418,Maharashtra,Constituency_419,MP_Name_419,Work_418,01-12-2022,Completed
+419,Maharashtra,Constituency_420,MP_Name_420,Work_419,23-01-2023,Completed
+420,Maharashtra,Constituency_421,MP_Name_421,Work_420,14-03-2021,Completed
+421,Gujarat,Constituency_422,MP_Name_422,Work_421,30-12-2023,Completed
+422,Karnataka,Constituency_423,MP_Name_423,Work_422,12-09-2021,Completed
+423,Tamil Nadu,Constituency_424,MP_Name_424,Work_423,13-06-2022,Completed
+424,Tamil Nadu,Constituency_425,MP_Name_425,Work_424,24-01-2021,Completed
+425,Tamil Nadu,Constituency_426,MP_Name_426,Work_425,17-10-2022,Completed
+426,Gujarat,Constituency_427,MP_Name_427,Work_426,08-12-2023,Completed
+427,Delhi,Constituency_428,MP_Name_428,Work_427,27-11-2021,Completed
+428,Uttar Pradesh,Constituency_429,MP_Name_429,Work_428,23-12-2021,Completed
+429,Tamil Nadu,Constituency_430,MP_Name_430,Work_429,17-05-2023,Completed
+430,Uttar Pradesh,Constituency_431,MP_Name_431,Work_430,30-07-2022,Completed
+431,Gujarat,Constituency_432,MP_Name_432,Work_431,17-10-2023,Completed
+432,Uttar Pradesh,Constituency_433,MP_Name_433,Work_432,18-04-2022,Completed
+433,Gujarat,Constituency_434,MP_Name_434,Work_433,24-10-2022,Completed
+434,Karnataka,Constituency_435,MP_Name_435,Work_434,08-12-2021,Completed
+435,Gujarat,Constituency_436,MP_Name_436,Work_435,15-03-2021,Completed
+436,Karnataka,Constituency_437,MP_Name_437,Work_436,13-01-2021,Completed
+437,Gujarat,Constituency_438,MP_Name_438,Work_437,06-07-2022,Completed
+438,Tamil Nadu,Constituency_439,MP_Name_439,Work_438,24-03-2022,Completed
+439,Maharashtra,Constituency_440,MP_Name_440,Work_439,26-12-2022,Completed
+440,Gujarat,Constituency_441,MP_Name_441,Work_440,21-09-2023,Completed
+441,Gujarat,Constituency_442,MP_Name_442,Work_441,24-03-2023,Completed
+442,Delhi,Constituency_443,MP_Name_443,Work_442,15-02-2022,Completed
+443,Tamil Nadu,Constituency_444,MP_Name_444,Work_443,12-05-2021,Completed
+444,Delhi,Constituency_445,MP_Name_445,Work_444,13-11-2023,Completed
+445,Karnataka,Constituency_446,MP_Name_446,Work_445,01-03-2021,Completed
+446,Maharashtra,Constituency_447,MP_Name_447,Work_446,06-10-2021,Completed
+447,Maharashtra,Constituency_448,MP_Name_448,Work_447,23-06-2023,Completed
+448,Karnataka,Constituency_449,MP_Name_449,Work_448,28-11-2023,Completed
+449,Delhi,Constituency_450,MP_Name_450,Work_449,07-12-2022,Completed
+450,Tamil Nadu,Constituency_451,MP_Name_451,Work_450,11-04-2022,Completed
+451,Tamil Nadu,Constituency_452,MP_Name_452,Work_451,20-08-2022,Completed
+452,Maharashtra,Constituency_453,MP_Name_453,Work_452,07-08-2022,Completed
+453,Tamil Nadu,Constituency_454,MP_Name_454,Work_453,12-09-2023,Completed
+454,Uttar Pradesh,Constituency_455,MP_Name_455,Work_454,26-06-2021,Completed
+455,Karnataka,Constituency_456,MP_Name_456,Work_455,21-01-2022,Completed
+456,Tamil Nadu,Constituency_457,MP_Name_457,Work_456,12-06-2021,Completed
+457,Karnataka,Constituency_458,MP_Name_458,Work_457,12-03-2023,Completed
+458,Maharashtra,Constituency_459,MP_Name_459,Work_458,18-07-2022,Completed
+459,Maharashtra,Constituency_460,MP_Name_460,Work_459,14-01-2022,Completed
+460,Delhi,Constituency_461,MP_Name_461,Work_460,21-08-2023,Completed
+461,Tamil Nadu,Constituency_462,MP_Name_462,Work_461,16-01-2021,Completed
+462,Delhi,Constituency_463,MP_Name_463,Work_462,16-06-2023,Completed
+463,Maharashtra,Constituency_464,MP_Name_464,Work_463,04-12-2022,Completed
+464,Uttar Pradesh,Constituency_465,MP_Name_465,Work_464,24-09-2021,Completed
+465,Delhi,Constituency_466,MP_Name_466,Work_465,18-03-2021,Completed
+466,Gujarat,Constituency_467,MP_Name_467,Work_466,25-04-2023,Completed
+467,Gujarat,Constituency_468,MP_Name_468,Work_467,23-12-2022,Completed
+468,Delhi,Constituency_469,MP_Name_469,Work_468,17-03-2023,Completed
+469,Karnataka,Constituency_470,MP_Name_470,Work_469,24-08-2022,Completed
+470,Uttar Pradesh,Constituency_471,MP_Name_471,Work_470,10-06-2022,Completed
+471,Uttar Pradesh,Constituency_472,MP_Name_472,Work_471,21-01-2021,Completed
+472,Uttar Pradesh,Constituency_473,MP_Name_473,Work_472,23-10-2021,Completed
+473,Gujarat,Constituency_474,MP_Name_474,Work_473,09-04-2022,Completed
+474,Tamil Nadu,Constituency_475,MP_Name_475,Work_474,02-04-2023,Completed
+475,Karnataka,Constituency_476,MP_Name_476,Work_475,06-09-2021,Completed
+476,Gujarat,Constituency_477,MP_Name_477,Work_476,19-05-2021,Completed
+477,Tamil Nadu,Constituency_478,MP_Name_478,Work_477,08-02-2022,Completed
+478,Uttar Pradesh,Constituency_479,MP_Name_479,Work_478,08-06-2022,Completed
+479,Delhi,Constituency_480,MP_Name_480,Work_479,02-12-2023,Completed
+480,Karnataka,Constituency_481,MP_Name_481,Work_480,08-08-2023,Completed
+481,Gujarat,Constituency_482,MP_Name_482,Work_481,28-01-2021,Completed
+482,Maharashtra,Constituency_483,MP_Name_483,Work_482,01-12-2022,Completed
+483,Gujarat,Constituency_484,MP_Name_484,Work_483,17-04-2021,Completed
+484,Uttar Pradesh,Constituency_485,MP_Name_485,Work_484,19-04-2023,Completed
+485,Karnataka,Constituency_486,MP_Name_486,Work_485,27-06-2023,Completed
+486,Gujarat,Constituency_487,MP_Name_487,Work_486,17-08-2021,Completed
+487,Delhi,Constituency_488,MP_Name_488,Work_487,10-12-2022,Completed
+488,Maharashtra,Constituency_489,MP_Name_489,Work_488,14-03-2021,Completed
+489,Delhi,Constituency_490,MP_Name_490,Work_489,08-12-2022,Completed
+490,Karnataka,Constituency_491,MP_Name_491,Work_490,20-03-2021,Completed
+491,Maharashtra,Constituency_492,MP_Name_492,Work_491,16-01-2022,Completed
+492,Gujarat,Constituency_493,MP_Name_493,Work_492,17-12-2022,Completed
+493,Tamil Nadu,Constituency_494,MP_Name_494,Work_493,03-02-2021,Completed
+494,Delhi,Constituency_495,MP_Name_495,Work_494,13-12-2021,Completed
+495,Gujarat,Constituency_496,MP_Name_496,Work_495,23-06-2021,Completed
+496,Uttar Pradesh,Constituency_497,MP_Name_497,Work_496,10-11-2022,Completed
+497,Delhi,Constituency_498,MP_Name_498,Work_497,18-04-2021,Completed
+498,Tamil Nadu,Constituency_499,MP_Name_499,Work_498,04-11-2023,Completed
+499,Tamil Nadu,Constituency_500,MP_Name_500,Work_499,11-03-2023,Completed
+500,Maharashtra,Constituency_501,MP_Name_501,Work_500,05-10-2021,Completed
+501,Delhi,Constituency_502,MP_Name_502,Work_501,25-01-2023,Completed
+502,Delhi,Constituency_503,MP_Name_503,Work_502,25-05-2021,Completed
+503,Uttar Pradesh,Constituency_504,MP_Name_504,Work_503,31-10-2021,Completed
+504,Karnataka,Constituency_505,MP_Name_505,Work_504,06-03-2023,Completed
+505,Maharashtra,Constituency_506,MP_Name_506,Work_505,11-04-2022,Completed
+506,Delhi,Constituency_507,MP_Name_507,Work_506,08-12-2023,Completed
+507,Maharashtra,Constituency_508,MP_Name_508,Work_507,20-06-2023,Completed
+508,Tamil Nadu,Constituency_509,MP_Name_509,Work_508,22-07-2023,Completed
+509,Uttar Pradesh,Constituency_510,MP_Name_510,Work_509,16-01-2021,Completed
+510,Tamil Nadu,Constituency_511,MP_Name_511,Work_510,14-05-2023,Completed
+511,Karnataka,Constituency_512,MP_Name_512,Work_511,24-04-2021,Completed
+512,Karnataka,Constituency_513,MP_Name_513,Work_512,29-04-2021,Completed
+513,Uttar Pradesh,Constituency_514,MP_Name_514,Work_513,22-04-2022,Completed
+514,Delhi,Constituency_515,MP_Name_515,Work_514,26-01-2022,Completed
+515,Karnataka,Constituency_516,MP_Name_516,Work_515,02-07-2021,Completed
+516,Gujarat,Constituency_517,MP_Name_517,Work_516,30-04-2023,Completed
+517,Uttar Pradesh,Constituency_518,MP_Name_518,Work_517,18-01-2023,Completed
+518,Karnataka,Constituency_519,MP_Name_519,Work_518,15-07-2021,Completed
+519,Karnataka,Constituency_520,MP_Name_520,Work_519,16-05-2023,Completed
+520,Karnataka,Constituency_521,MP_Name_521,Work_520,22-07-2022,Completed
+521,Delhi,Constituency_522,MP_Name_522,Work_521,17-06-2022,Completed
+522,Delhi,Constituency_523,MP_Name_523,Work_522,02-06-2023,Completed
+523,Gujarat,Constituency_524,MP_Name_524,Work_523,19-07-2021,Completed
+524,Maharashtra,Constituency_525,MP_Name_525,Work_524,02-09-2022,Completed
+525,Gujarat,Constituency_526,MP_Name_526,Work_525,30-12-2023,Completed
+526,Uttar Pradesh,Constituency_527,MP_Name_527,Work_526,26-09-2022,Completed
+527,Maharashtra,Constituency_528,MP_Name_528,Work_527,24-09-2023,Completed
+528,Uttar Pradesh,Constituency_529,MP_Name_529,Work_528,26-09-2021,Completed
+529,Karnataka,Constituency_530,MP_Name_530,Work_529,10-01-2022,Completed
+530,Delhi,Constituency_531,MP_Name_531,Work_530,19-10-2023,Completed
+531,Tamil Nadu,Constituency_532,MP_Name_532,Work_531,23-03-2021,Completed
+532,Maharashtra,Constituency_533,MP_Name_533,Work_532,30-12-2022,Completed
+533,Tamil Nadu,Constituency_534,MP_Name_534,Work_533,11-04-2022,Completed
+534,Maharashtra,Constituency_535,MP_Name_535,Work_534,17-11-2023,Completed
+535,Maharashtra,Constituency_536,MP_Name_536,Work_535,05-06-2023,Completed
+536,Karnataka,Constituency_537,MP_Name_537,Work_536,30-03-2021,Completed
+537,Uttar Pradesh,Constituency_538,MP_Name_538,Work_537,25-12-2022,Completed
+538,Delhi,Constituency_539,MP_Name_539,Work_538,08-08-2021,Completed
+539,Tamil Nadu,Constituency_540,MP_Name_540,Work_539,18-12-2021,Completed
+540,Delhi,Constituency_541,MP_Name_541,Work_540,29-03-2023,Completed
+541,Tamil Nadu,Constituency_542,MP_Name_542,Work_541,04-12-2021,Completed
+542,Delhi,Constituency_543,MP_Name_543,Work_542,13-10-2023,Completed
+543,Karnataka,Constituency_1,MP_Name_1,Work_543,01-08-2022,Completed
+544,Delhi,Constituency_2,MP_Name_2,Work_544,10-01-2022,Completed
+545,Gujarat,Constituency_3,MP_Name_3,Work_545,06-04-2023,Completed
+546,Maharashtra,Constituency_4,MP_Name_4,Work_546,08-08-2023,Completed
+547,Delhi,Constituency_5,MP_Name_5,Work_547,17-10-2021,Completed
+548,Delhi,Constituency_6,MP_Name_6,Work_548,18-07-2023,Completed
+549,Maharashtra,Constituency_7,MP_Name_7,Work_549,16-04-2021,Completed
+550,Gujarat,Constituency_8,MP_Name_8,Work_550,06-11-2021,Completed
+551,Maharashtra,Constituency_9,MP_Name_9,Work_551,09-08-2023,Completed
+552,Tamil Nadu,Constituency_10,MP_Name_10,Work_552,11-05-2021,Completed
+553,Uttar Pradesh,Constituency_11,MP_Name_11,Work_553,09-06-2023,Completed
+554,Uttar Pradesh,Constituency_12,MP_Name_12,Work_554,31-07-2022,Completed
+555,Delhi,Constituency_13,MP_Name_13,Work_555,29-09-2022,Completed
+556,Uttar Pradesh,Constituency_14,MP_Name_14,Work_556,04-07-2021,Completed
+557,Tamil Nadu,Constituency_15,MP_Name_15,Work_557,18-05-2022,Completed
+558,Delhi,Constituency_16,MP_Name_16,Work_558,11-10-2022,Completed
+559,Uttar Pradesh,Constituency_17,MP_Name_17,Work_559,05-11-2021,Completed
+560,Gujarat,Constituency_18,MP_Name_18,Work_560,11-07-2021,Completed
+561,Gujarat,Constituency_19,MP_Name_19,Work_561,29-12-2021,Completed
+562,Karnataka,Constituency_20,MP_Name_20,Work_562,02-04-2023,Completed
+563,Karnataka,Constituency_21,MP_Name_21,Work_563,14-09-2023,Completed
+564,Uttar Pradesh,Constituency_22,MP_Name_22,Work_564,29-06-2021,Completed
+565,Karnataka,Constituency_23,MP_Name_23,Work_565,13-01-2022,Completed
+566,Uttar Pradesh,Constituency_24,MP_Name_24,Work_566,31-03-2021,Completed
+567,Delhi,Constituency_25,MP_Name_25,Work_567,25-01-2023,Completed
+568,Uttar Pradesh,Constituency_26,MP_Name_26,Work_568,09-09-2021,Completed
+569,Tamil Nadu,Constituency_27,MP_Name_27,Work_569,05-06-2022,Completed
+570,Tamil Nadu,Constituency_28,MP_Name_28,Work_570,02-07-2023,Completed
+571,Uttar Pradesh,Constituency_29,MP_Name_29,Work_571,23-12-2023,Completed
+572,Delhi,Constituency_30,MP_Name_30,Work_572,29-05-2023,Completed
+573,Karnataka,Constituency_31,MP_Name_31,Work_573,29-08-2021,Completed
+574,Tamil Nadu,Constituency_32,MP_Name_32,Work_574,01-03-2021,Completed
+575,Gujarat,Constituency_33,MP_Name_33,Work_575,12-06-2023,Completed
+576,Uttar Pradesh,Constituency_34,MP_Name_34,Work_576,05-01-2022,Completed
+577,Delhi,Constituency_35,MP_Name_35,Work_577,14-06-2022,Completed
+578,Delhi,Constituency_36,MP_Name_36,Work_578,31-08-2023,Completed
+579,Maharashtra,Constituency_37,MP_Name_37,Work_579,28-11-2021,Completed
+580,Gujarat,Constituency_38,MP_Name_38,Work_580,26-01-2023,Completed
+581,Gujarat,Constituency_39,MP_Name_39,Work_581,14-06-2021,Completed
+582,Maharashtra,Constituency_40,MP_Name_40,Work_582,14-07-2023,Completed
+583,Tamil Nadu,Constituency_41,MP_Name_41,Work_583,07-02-2022,Completed
+584,Tamil Nadu,Constituency_42,MP_Name_42,Work_584,29-09-2021,Completed
+585,Maharashtra,Constituency_43,MP_Name_43,Work_585,12-02-2022,Completed
+586,Tamil Nadu,Constituency_44,MP_Name_44,Work_586,01-04-2021,Completed
+587,Gujarat,Constituency_45,MP_Name_45,Work_587,01-08-2023,Completed
+588,Karnataka,Constituency_46,MP_Name_46,Work_588,05-04-2022,Completed
+589,Uttar Pradesh,Constituency_47,MP_Name_47,Work_589,23-07-2022,Completed
+590,Delhi,Constituency_48,MP_Name_48,Work_590,28-04-2021,Completed
+591,Gujarat,Constituency_49,MP_Name_49,Work_591,25-04-2023,Completed
+592,Karnataka,Constituency_50,MP_Name_50,Work_592,12-05-2023,Completed
+593,Maharashtra,Constituency_51,MP_Name_51,Work_593,07-06-2021,Completed
+594,Delhi,Constituency_52,MP_Name_52,Work_594,13-12-2021,Completed
+595,Maharashtra,Constituency_53,MP_Name_53,Work_595,10-01-2022,Completed
+596,Gujarat,Constituency_54,MP_Name_54,Work_596,23-01-2021,Completed
+597,Delhi,Constituency_55,MP_Name_55,Work_597,28-11-2021,Completed
+598,Uttar Pradesh,Constituency_56,MP_Name_56,Work_598,15-10-2023,Completed
+599,Maharashtra,Constituency_57,MP_Name_57,Work_599,19-12-2023,Completed
+600,Maharashtra,Constituency_58,MP_Name_58,Work_600,28-04-2021,Completed
+601,Tamil Nadu,Constituency_59,MP_Name_59,Work_601,06-02-2022,Completed
+602,Delhi,Constituency_60,MP_Name_60,Work_602,08-09-2023,Completed
+603,Delhi,Constituency_61,MP_Name_61,Work_603,22-10-2022,Completed
+604,Gujarat,Constituency_62,MP_Name_62,Work_604,05-06-2023,Completed
+605,Karnataka,Constituency_63,MP_Name_63,Work_605,17-03-2022,Completed
+606,Gujarat,Constituency_64,MP_Name_64,Work_606,07-01-2023,Completed
+607,Gujarat,Constituency_65,MP_Name_65,Work_607,20-06-2023,Completed
+608,Tamil Nadu,Constituency_66,MP_Name_66,Work_608,26-10-2023,Completed
+609,Delhi,Constituency_67,MP_Name_67,Work_609,28-10-2021,Completed
+610,Uttar Pradesh,Constituency_68,MP_Name_68,Work_610,11-07-2022,Completed
+611,Gujarat,Constituency_69,MP_Name_69,Work_611,19-04-2021,Completed
+612,Uttar Pradesh,Constituency_70,MP_Name_70,Work_612,11-04-2022,Completed
+613,Delhi,Constituency_71,MP_Name_71,Work_613,16-05-2023,Completed
+614,Maharashtra,Constituency_72,MP_Name_72,Work_614,22-06-2021,Completed
+615,Gujarat,Constituency_73,MP_Name_73,Work_615,01-04-2023,Completed
+616,Karnataka,Constituency_74,MP_Name_74,Work_616,15-05-2023,Completed
+617,Maharashtra,Constituency_75,MP_Name_75,Work_617,18-03-2022,Completed
+618,Delhi,Constituency_76,MP_Name_76,Work_618,18-12-2021,Completed
+619,Maharashtra,Constituency_77,MP_Name_77,Work_619,15-11-2022,Completed
+620,Delhi,Constituency_78,MP_Name_78,Work_620,10-12-2023,Completed
+621,Tamil Nadu,Constituency_79,MP_Name_79,Work_621,17-08-2023,Completed
+622,Tamil Nadu,Constituency_80,MP_Name_80,Work_622,15-06-2022,Completed
+623,Uttar Pradesh,Constituency_81,MP_Name_81,Work_623,12-10-2023,Completed
+624,Maharashtra,Constituency_82,MP_Name_82,Work_624,21-08-2023,Completed
+625,Gujarat,Constituency_83,MP_Name_83,Work_625,28-10-2023,Completed
+626,Uttar Pradesh,Constituency_84,MP_Name_84,Work_626,18-11-2021,Completed
+627,Delhi,Constituency_85,MP_Name_85,Work_627,25-04-2022,Completed
+628,Gujarat,Constituency_86,MP_Name_86,Work_628,22-04-2021,Completed
+629,Gujarat,Constituency_87,MP_Name_87,Work_629,10-10-2021,Completed
+630,Uttar Pradesh,Constituency_88,MP_Name_88,Work_630,05-04-2022,Completed
+631,Tamil Nadu,Constituency_89,MP_Name_89,Work_631,14-03-2022,Completed
+632,Tamil Nadu,Constituency_90,MP_Name_90,Work_632,20-05-2022,Completed
+633,Maharashtra,Constituency_91,MP_Name_91,Work_633,07-01-2022,Completed
+634,Maharashtra,Constituency_92,MP_Name_92,Work_634,15-03-2023,Completed
+635,Delhi,Constituency_93,MP_Name_93,Work_635,03-06-2021,Completed
+636,Gujarat,Constituency_94,MP_Name_94,Work_636,18-03-2021,Completed
+637,Gujarat,Constituency_95,MP_Name_95,Work_637,15-02-2021,Completed
+638,Delhi,Constituency_96,MP_Name_96,Work_638,11-11-2021,Completed
+639,Gujarat,Constituency_97,MP_Name_97,Work_639,05-07-2021,Completed
+640,Karnataka,Constituency_98,MP_Name_98,Work_640,04-01-2021,Completed
+641,Uttar Pradesh,Constituency_99,MP_Name_99,Work_641,20-04-2021,Completed
+642,Maharashtra,Constituency_100,MP_Name_100,Work_642,16-12-2022,Completed
+643,Maharashtra,Constituency_101,MP_Name_101,Work_643,18-08-2022,Completed
+644,Tamil Nadu,Constituency_102,MP_Name_102,Work_644,27-05-2022,Completed
+645,Karnataka,Constituency_103,MP_Name_103,Work_645,02-08-2022,Completed
+646,Uttar Pradesh,Constituency_104,MP_Name_104,Work_646,15-02-2022,Completed
+647,Delhi,Constituency_105,MP_Name_105,Work_647,17-12-2021,Completed
+648,Tamil Nadu,Constituency_106,MP_Name_106,Work_648,05-04-2023,Completed
+649,Karnataka,Constituency_107,MP_Name_107,Work_649,01-08-2023,Completed
+650,Uttar Pradesh,Constituency_108,MP_Name_108,Work_650,23-11-2021,Completed
+651,Gujarat,Constituency_109,MP_Name_109,Work_651,08-10-2023,Completed
+652,Uttar Pradesh,Constituency_110,MP_Name_110,Work_652,08-10-2022,Completed
+653,Delhi,Constituency_111,MP_Name_111,Work_653,13-03-2021,Completed
+654,Tamil Nadu,Constituency_112,MP_Name_112,Work_654,19-07-2023,Completed
+655,Uttar Pradesh,Constituency_113,MP_Name_113,Work_655,27-08-2022,Completed
+656,Maharashtra,Constituency_114,MP_Name_114,Work_656,01-09-2021,Completed
+657,Gujarat,Constituency_115,MP_Name_115,Work_657,08-03-2021,Completed
+658,Tamil Nadu,Constituency_116,MP_Name_116,Work_658,09-05-2021,Completed
+659,Karnataka,Constituency_117,MP_Name_117,Work_659,09-04-2023,Completed
+660,Gujarat,Constituency_118,MP_Name_118,Work_660,21-09-2022,Completed
+661,Uttar Pradesh,Constituency_119,MP_Name_119,Work_661,03-01-2021,Completed
+662,Delhi,Constituency_120,MP_Name_120,Work_662,20-12-2022,Completed
+663,Gujarat,Constituency_121,MP_Name_121,Work_663,02-10-2021,Completed
+664,Uttar Pradesh,Constituency_122,MP_Name_122,Work_664,23-10-2021,Completed
+665,Uttar Pradesh,Constituency_123,MP_Name_123,Work_665,23-11-2023,Completed
+666,Uttar Pradesh,Constituency_124,MP_Name_124,Work_666,18-11-2023,Completed
+667,Tamil Nadu,Constituency_125,MP_Name_125,Work_667,05-09-2022,Completed
+668,Delhi,Constituency_126,MP_Name_126,Work_668,04-12-2022,Completed
+669,Delhi,Constituency_127,MP_Name_127,Work_669,17-02-2021,Completed
+670,Tamil Nadu,Constituency_128,MP_Name_128,Work_670,05-11-2021,Completed
+671,Karnataka,Constituency_129,MP_Name_129,Work_671,27-07-2022,Completed
+672,Maharashtra,Constituency_130,MP_Name_130,Work_672,03-10-2022,Completed
+673,Uttar Pradesh,Constituency_131,MP_Name_131,Work_673,13-08-2022,Completed
+674,Uttar Pradesh,Constituency_132,MP_Name_132,Work_674,11-10-2023,Completed
+675,Maharashtra,Constituency_133,MP_Name_133,Work_675,13-05-2022,Completed
+676,Tamil Nadu,Constituency_134,MP_Name_134,Work_676,05-09-2021,Completed
+677,Uttar Pradesh,Constituency_135,MP_Name_135,Work_677,22-08-2022,Completed
+678,Tamil Nadu,Constituency_136,MP_Name_136,Work_678,13-12-2022,Completed
+679,Karnataka,Constituency_137,MP_Name_137,Work_679,05-02-2023,Completed
+680,Gujarat,Constituency_138,MP_Name_138,Work_680,30-11-2022,Completed
+681,Maharashtra,Constituency_139,MP_Name_139,Work_681,27-06-2023,Completed
+682,Gujarat,Constituency_140,MP_Name_140,Work_682,22-10-2023,Completed
+683,Delhi,Constituency_141,MP_Name_141,Work_683,23-01-2023,Completed
+684,Delhi,Constituency_142,MP_Name_142,Work_684,26-05-2023,Completed
+685,Uttar Pradesh,Constituency_143,MP_Name_143,Work_685,06-01-2021,Completed
+686,Gujarat,Constituency_144,MP_Name_144,Work_686,01-06-2021,Completed
+687,Delhi,Constituency_145,MP_Name_145,Work_687,18-09-2023,Completed
+688,Karnataka,Constituency_146,MP_Name_146,Work_688,05-07-2021,Completed
+689,Delhi,Constituency_147,MP_Name_147,Work_689,31-07-2022,Completed
+690,Gujarat,Constituency_148,MP_Name_148,Work_690,02-12-2022,Completed
+691,Tamil Nadu,Constituency_149,MP_Name_149,Work_691,27-08-2021,Completed
+692,Karnataka,Constituency_150,MP_Name_150,Work_692,04-01-2022,Completed
+693,Delhi,Constituency_151,MP_Name_151,Work_693,09-07-2023,Completed
+694,Tamil Nadu,Constituency_152,MP_Name_152,Work_694,23-08-2021,Completed
+695,Uttar Pradesh,Constituency_153,MP_Name_153,Work_695,19-05-2023,Completed
+696,Karnataka,Constituency_154,MP_Name_154,Work_696,22-06-2023,Completed
+697,Gujarat,Constituency_155,MP_Name_155,Work_697,29-05-2023,Completed
+698,Maharashtra,Constituency_156,MP_Name_156,Work_698,20-01-2023,Completed
+699,Delhi,Constituency_157,MP_Name_157,Work_699,17-10-2021,Completed
+700,Karnataka,Constituency_158,MP_Name_158,Work_700,21-09-2022,Completed
+701,Maharashtra,Constituency_159,MP_Name_159,Work_701,07-06-2022,Completed
+702,Gujarat,Constituency_160,MP_Name_160,Work_702,26-07-2023,Completed
+703,Karnataka,Constituency_161,MP_Name_161,Work_703,05-01-2023,Completed
+704,Uttar Pradesh,Constituency_162,MP_Name_162,Work_704,12-06-2023,Completed
+705,Tamil Nadu,Constituency_163,MP_Name_163,Work_705,21-12-2023,Completed
+706,Karnataka,Constituency_164,MP_Name_164,Work_706,24-12-2021,Completed
+707,Delhi,Constituency_165,MP_Name_165,Work_707,30-11-2023,Completed
+708,Maharashtra,Constituency_166,MP_Name_166,Work_708,01-03-2022,Completed
+709,Delhi,Constituency_167,MP_Name_167,Work_709,29-12-2023,Completed
+710,Maharashtra,Constituency_168,MP_Name_168,Work_710,26-02-2021,Completed
+711,Uttar Pradesh,Constituency_169,MP_Name_169,Work_711,24-05-2023,Completed
+712,Karnataka,Constituency_170,MP_Name_170,Work_712,16-08-2023,Completed
+713,Karnataka,Constituency_171,MP_Name_171,Work_713,20-05-2021,Completed
+714,Karnataka,Constituency_172,MP_Name_172,Work_714,20-07-2023,Completed
+715,Gujarat,Constituency_173,MP_Name_173,Work_715,04-03-2022,Completed
+716,Uttar Pradesh,Constituency_174,MP_Name_174,Work_716,28-11-2023,Completed
+717,Tamil Nadu,Constituency_175,MP_Name_175,Work_717,09-01-2023,Completed
+718,Karnataka,Constituency_176,MP_Name_176,Work_718,02-09-2022,Completed
+719,Uttar Pradesh,Constituency_177,MP_Name_177,Work_719,30-08-2022,Completed
+720,Gujarat,Constituency_178,MP_Name_178,Work_720,24-10-2021,Completed
+721,Tamil Nadu,Constituency_179,MP_Name_179,Work_721,13-01-2021,Completed
+722,Maharashtra,Constituency_180,MP_Name_180,Work_722,08-06-2022,Completed
+723,Tamil Nadu,Constituency_181,MP_Name_181,Work_723,18-10-2023,Completed
+724,Karnataka,Constituency_182,MP_Name_182,Work_724,01-02-2022,Completed
+725,Tamil Nadu,Constituency_183,MP_Name_183,Work_725,02-03-2023,Completed
+726,Tamil Nadu,Constituency_184,MP_Name_184,Work_726,16-07-2021,Completed
+727,Maharashtra,Constituency_185,MP_Name_185,Work_727,21-10-2022,Completed
+728,Maharashtra,Constituency_186,MP_Name_186,Work_728,10-06-2022,Completed
+729,Tamil Nadu,Constituency_187,MP_Name_187,Work_729,26-10-2023,Completed
+730,Delhi,Constituency_188,MP_Name_188,Work_730,27-06-2021,Completed
+731,Gujarat,Constituency_189,MP_Name_189,Work_731,25-11-2022,Completed
+732,Tamil Nadu,Constituency_190,MP_Name_190,Work_732,16-05-2023,Completed
+733,Delhi,Constituency_191,MP_Name_191,Work_733,09-03-2021,Completed
+734,Tamil Nadu,Constituency_192,MP_Name_192,Work_734,11-02-2023,Completed
+735,Tamil Nadu,Constituency_193,MP_Name_193,Work_735,27-07-2023,Completed
+736,Gujarat,Constituency_194,MP_Name_194,Work_736,18-09-2022,Completed
+737,Gujarat,Constituency_195,MP_Name_195,Work_737,22-07-2022,Completed
+738,Karnataka,Constituency_196,MP_Name_196,Work_738,26-04-2022,Completed
+739,Delhi,Constituency_197,MP_Name_197,Work_739,23-03-2023,Completed
+740,Tamil Nadu,Constituency_198,MP_Name_198,Work_740,12-04-2022,Completed
+741,Uttar Pradesh,Constituency_199,MP_Name_199,Work_741,01-02-2021,Completed
+742,Karnataka,Constituency_200,MP_Name_200,Work_742,11-10-2022,Completed
+743,Karnataka,Constituency_201,MP_Name_201,Work_743,03-03-2023,Completed
+744,Gujarat,Constituency_202,MP_Name_202,Work_744,04-01-2022,Completed
+745,Maharashtra,Constituency_203,MP_Name_203,Work_745,30-10-2023,Completed
+746,Karnataka,Constituency_204,MP_Name_204,Work_746,12-08-2021,Completed
+747,Delhi,Constituency_205,MP_Name_205,Work_747,25-08-2022,Completed
+748,Tamil Nadu,Constituency_206,MP_Name_206,Work_748,20-10-2023,Completed
+749,Maharashtra,Constituency_207,MP_Name_207,Work_749,03-11-2023,Completed
+750,Tamil Nadu,Constituency_208,MP_Name_208,Work_750,16-09-2023,Completed
+751,Maharashtra,Constituency_209,MP_Name_209,Work_751,25-11-2023,Completed
+752,Gujarat,Constituency_210,MP_Name_210,Work_752,23-12-2022,Completed
+753,Maharashtra,Constituency_211,MP_Name_211,Work_753,24-03-2022,Completed
+754,Karnataka,Constituency_212,MP_Name_212,Work_754,08-11-2023,Completed
+755,Delhi,Constituency_213,MP_Name_213,Work_755,25-12-2022,Completed
+756,Maharashtra,Constituency_214,MP_Name_214,Work_756,28-08-2021,Completed
+757,Gujarat,Constituency_215,MP_Name_215,Work_757,30-11-2021,Completed
+758,Delhi,Constituency_216,MP_Name_216,Work_758,19-02-2021,Completed
+759,Gujarat,Constituency_217,MP_Name_217,Work_759,09-03-2023,Completed
+760,Tamil Nadu,Constituency_218,MP_Name_218,Work_760,03-03-2021,Completed
+761,Karnataka,Constituency_219,MP_Name_219,Work_761,28-04-2023,Completed
+762,Delhi,Constituency_220,MP_Name_220,Work_762,20-07-2022,Completed
+763,Gujarat,Constituency_221,MP_Name_221,Work_763,11-06-2022,Completed
+764,Maharashtra,Constituency_222,MP_Name_222,Work_764,25-12-2023,Completed
+765,Karnataka,Constituency_223,MP_Name_223,Work_765,15-01-2022,Completed
+766,Uttar Pradesh,Constituency_224,MP_Name_224,Work_766,01-02-2023,Completed
+767,Uttar Pradesh,Constituency_225,MP_Name_225,Work_767,02-11-2023,Completed
+768,Delhi,Constituency_226,MP_Name_226,Work_768,06-10-2023,Completed
+769,Maharashtra,Constituency_227,MP_Name_227,Work_769,29-12-2023,Completed
+770,Maharashtra,Constituency_228,MP_Name_228,Work_770,16-04-2022,Completed
+771,Tamil Nadu,Constituency_229,MP_Name_229,Work_771,05-01-2021,Completed
+772,Delhi,Constituency_230,MP_Name_230,Work_772,30-10-2021,Completed
+773,Tamil Nadu,Constituency_231,MP_Name_231,Work_773,30-05-2023,Completed
+774,Delhi,Constituency_232,MP_Name_232,Work_774,01-03-2023,Completed
+775,Maharashtra,Constituency_233,MP_Name_233,Work_775,07-08-2022,Completed
+776,Delhi,Constituency_234,MP_Name_234,Work_776,25-12-2023,Completed
+777,Maharashtra,Constituency_235,MP_Name_235,Work_777,29-06-2022,Completed
+778,Uttar Pradesh,Constituency_236,MP_Name_236,Work_778,14-09-2021,Completed
+779,Delhi,Constituency_237,MP_Name_237,Work_779,25-03-2023,Completed
+780,Gujarat,Constituency_238,MP_Name_238,Work_780,05-02-2023,Completed
+781,Karnataka,Constituency_239,MP_Name_239,Work_781,08-09-2023,Completed
+782,Tamil Nadu,Constituency_240,MP_Name_240,Work_782,10-03-2022,Completed
+783,Gujarat,Constituency_241,MP_Name_241,Work_783,17-05-2022,Completed
+784,Delhi,Constituency_242,MP_Name_242,Work_784,09-05-2022,Completed
+785,Uttar Pradesh,Constituency_243,MP_Name_243,Work_785,22-12-2021,Completed
+786,Gujarat,Constituency_244,MP_Name_244,Work_786,07-05-2023,Completed
+787,Uttar Pradesh,Constituency_245,MP_Name_245,Work_787,03-09-2022,Completed
+788,Tamil Nadu,Constituency_246,MP_Name_246,Work_788,28-02-2021,Completed
+789,Maharashtra,Constituency_247,MP_Name_247,Work_789,29-07-2022,Completed
+790,Delhi,Constituency_248,MP_Name_248,Work_790,05-01-2021,Completed
+791,Gujarat,Constituency_249,MP_Name_249,Work_791,04-05-2022,Completed
+792,Maharashtra,Constituency_250,MP_Name_250,Work_792,23-05-2021,Completed
+793,Tamil Nadu,Constituency_251,MP_Name_251,Work_793,07-06-2021,Completed
+794,Delhi,Constituency_252,MP_Name_252,Work_794,07-01-2022,Completed
+795,Uttar Pradesh,Constituency_253,MP_Name_253,Work_795,14-01-2023,Completed
+796,Delhi,Constituency_254,MP_Name_254,Work_796,14-07-2021,Completed
+797,Gujarat,Constituency_255,MP_Name_255,Work_797,09-12-2021,Completed
+798,Tamil Nadu,Constituency_256,MP_Name_256,Work_798,11-08-2021,Completed
+799,Tamil Nadu,Constituency_257,MP_Name_257,Work_799,28-01-2021,Completed
+800,Maharashtra,Constituency_258,MP_Name_258,Work_800,12-10-2023,Completed
+801,Maharashtra,Constituency_259,MP_Name_259,Work_801,28-07-2023,Completed
+802,Tamil Nadu,Constituency_260,MP_Name_260,Work_802,11-06-2021,Completed
+803,Tamil Nadu,Constituency_261,MP_Name_261,Work_803,23-09-2022,Completed
+804,Karnataka,Constituency_262,MP_Name_262,Work_804,02-05-2022,Completed
+805,Uttar Pradesh,Constituency_263,MP_Name_263,Work_805,24-10-2022,Completed
+806,Uttar Pradesh,Constituency_264,MP_Name_264,Work_806,29-06-2022,Completed
+807,Uttar Pradesh,Constituency_265,MP_Name_265,Work_807,10-11-2022,Completed
+808,Karnataka,Constituency_266,MP_Name_266,Work_808,06-12-2021,Completed
+809,Gujarat,Constituency_267,MP_Name_267,Work_809,21-03-2022,Completed
+810,Maharashtra,Constituency_268,MP_Name_268,Work_810,30-06-2023,Completed
+811,Uttar Pradesh,Constituency_269,MP_Name_269,Work_811,13-06-2023,Completed
+812,Karnataka,Constituency_270,MP_Name_270,Work_812,30-09-2021,Completed
+813,Delhi,Constituency_271,MP_Name_271,Work_813,11-12-2021,Completed
+814,Karnataka,Constituency_272,MP_Name_272,Work_814,31-03-2021,Completed
+815,Delhi,Constituency_273,MP_Name_273,Work_815,18-01-2021,Completed
+816,Uttar Pradesh,Constituency_274,MP_Name_274,Work_816,02-11-2022,Completed
+817,Uttar Pradesh,Constituency_275,MP_Name_275,Work_817,15-06-2023,Completed
+818,Karnataka,Constituency_276,MP_Name_276,Work_818,22-07-2023,Completed
+819,Delhi,Constituency_277,MP_Name_277,Work_819,27-03-2023,Completed
+820,Uttar Pradesh,Constituency_278,MP_Name_278,Work_820,12-07-2022,Completed
+821,Karnataka,Constituency_279,MP_Name_279,Work_821,31-01-2022,Completed
+822,Karnataka,Constituency_280,MP_Name_280,Work_822,21-01-2021,Completed
+823,Tamil Nadu,Constituency_281,MP_Name_281,Work_823,05-03-2023,Completed
+824,Maharashtra,Constituency_282,MP_Name_282,Work_824,25-04-2021,Completed
+825,Gujarat,Constituency_283,MP_Name_283,Work_825,13-07-2022,Completed
+826,Karnataka,Constituency_284,MP_Name_284,Work_826,25-07-2023,Completed
+827,Maharashtra,Constituency_285,MP_Name_285,Work_827,27-11-2022,Completed
+828,Delhi,Constituency_286,MP_Name_286,Work_828,24-02-2023,Completed
+829,Maharashtra,Constituency_287,MP_Name_287,Work_829,20-07-2021,Completed
+830,Karnataka,Constituency_288,MP_Name_288,Work_830,28-04-2021,Completed
+831,Tamil Nadu,Constituency_289,MP_Name_289,Work_831,26-07-2022,Completed
+832,Tamil Nadu,Constituency_290,MP_Name_290,Work_832,16-10-2022,Completed
+833,Karnataka,Constituency_291,MP_Name_291,Work_833,05-12-2022,Completed
+834,Gujarat,Constituency_292,MP_Name_292,Work_834,22-06-2021,Completed
+835,Tamil Nadu,Constituency_293,MP_Name_293,Work_835,27-07-2022,Completed
+836,Tamil Nadu,Constituency_294,MP_Name_294,Work_836,02-05-2023,Completed
+837,Maharashtra,Constituency_295,MP_Name_295,Work_837,08-01-2022,Completed
+838,Tamil Nadu,Constituency_296,MP_Name_296,Work_838,28-04-2022,Completed
+839,Delhi,Constituency_297,MP_Name_297,Work_839,30-09-2022,Completed
+840,Uttar Pradesh,Constituency_298,MP_Name_298,Work_840,20-02-2022,Completed
+841,Maharashtra,Constituency_299,MP_Name_299,Work_841,01-07-2021,Completed
+842,Uttar Pradesh,Constituency_300,MP_Name_300,Work_842,30-06-2021,Completed
+843,Maharashtra,Constituency_301,MP_Name_301,Work_843,15-05-2023,Completed
+844,Tamil Nadu,Constituency_302,MP_Name_302,Work_844,19-06-2022,Completed
+845,Delhi,Constituency_303,MP_Name_303,Work_845,30-06-2022,Completed
+846,Gujarat,Constituency_304,MP_Name_304,Work_846,06-06-2023,Completed
+847,Delhi,Constituency_305,MP_Name_305,Work_847,19-08-2021,Completed
+848,Delhi,Constituency_306,MP_Name_306,Work_848,19-07-2021,Completed
+849,Delhi,Constituency_307,MP_Name_307,Work_849,19-06-2023,Completed
+850,Gujarat,Constituency_308,MP_Name_308,Work_850,02-04-2022,Completed
+851,Delhi,Constituency_309,MP_Name_309,Work_851,19-04-2021,Completed
+852,Karnataka,Constituency_310,MP_Name_310,Work_852,04-08-2023,Completed
+853,Tamil Nadu,Constituency_311,MP_Name_311,Work_853,01-11-2022,Completed
+854,Tamil Nadu,Constituency_312,MP_Name_312,Work_854,06-12-2023,Completed
+855,Karnataka,Constituency_313,MP_Name_313,Work_855,13-09-2021,Completed
+856,Delhi,Constituency_314,MP_Name_314,Work_856,01-04-2021,Completed
+857,Uttar Pradesh,Constituency_315,MP_Name_315,Work_857,07-06-2021,Completed
+858,Gujarat,Constituency_316,MP_Name_316,Work_858,10-02-2022,Completed
+859,Delhi,Constituency_317,MP_Name_317,Work_859,07-09-2023,Completed
+860,Tamil Nadu,Constituency_318,MP_Name_318,Work_860,23-12-2022,Completed
+861,Delhi,Constituency_319,MP_Name_319,Work_861,24-03-2021,Completed
+862,Uttar Pradesh,Constituency_320,MP_Name_320,Work_862,05-12-2021,Completed
+863,Delhi,Constituency_321,MP_Name_321,Work_863,16-09-2023,Completed
+864,Karnataka,Constituency_322,MP_Name_322,Work_864,30-10-2021,Completed
+865,Maharashtra,Constituency_323,MP_Name_323,Work_865,03-01-2021,Completed
+866,Tamil Nadu,Constituency_324,MP_Name_324,Work_866,19-07-2022,Completed
+867,Delhi,Constituency_325,MP_Name_325,Work_867,27-02-2022,Completed
+868,Tamil Nadu,Constituency_326,MP_Name_326,Work_868,29-06-2022,Completed
+869,Uttar Pradesh,Constituency_327,MP_Name_327,Work_869,29-06-2021,Completed
+870,Maharashtra,Constituency_328,MP_Name_328,Work_870,12-09-2021,Completed
+871,Maharashtra,Constituency_329,MP_Name_329,Work_871,09-01-2021,Completed
+872,Delhi,Constituency_330,MP_Name_330,Work_872,15-01-2021,Completed
+873,Karnataka,Constituency_331,MP_Name_331,Work_873,21-03-2021,Completed
+874,Tamil Nadu,Constituency_332,MP_Name_332,Work_874,16-02-2021,Completed
+875,Uttar Pradesh,Constituency_333,MP_Name_333,Work_875,31-08-2022,Completed
+876,Delhi,Constituency_334,MP_Name_334,Work_876,30-08-2023,Completed
+877,Delhi,Constituency_335,MP_Name_335,Work_877,07-01-2021,Completed
+878,Gujarat,Constituency_336,MP_Name_336,Work_878,16-08-2022,Completed
+879,Tamil Nadu,Constituency_337,MP_Name_337,Work_879,14-08-2022,Completed
+880,Gujarat,Constituency_338,MP_Name_338,Work_880,06-11-2023,Completed
+881,Gujarat,Constituency_339,MP_Name_339,Work_881,08-10-2023,Completed
+882,Karnataka,Constituency_340,MP_Name_340,Work_882,11-06-2022,Completed
+883,Karnataka,Constituency_341,MP_Name_341,Work_883,16-04-2022,Completed
+884,Maharashtra,Constituency_342,MP_Name_342,Work_884,21-04-2022,Completed
+885,Delhi,Constituency_343,MP_Name_343,Work_885,05-04-2022,Completed
+886,Uttar Pradesh,Constituency_344,MP_Name_344,Work_886,28-06-2021,Completed
+887,Tamil Nadu,Constituency_345,MP_Name_345,Work_887,13-08-2022,Completed
+888,Delhi,Constituency_346,MP_Name_346,Work_888,19-09-2021,Completed
+889,Uttar Pradesh,Constituency_347,MP_Name_347,Work_889,13-11-2022,Completed
+890,Maharashtra,Constituency_348,MP_Name_348,Work_890,04-05-2023,Completed
+891,Maharashtra,Constituency_349,MP_Name_349,Work_891,24-11-2021,Completed
+892,Karnataka,Constituency_350,MP_Name_350,Work_892,15-01-2023,Completed
+893,Maharashtra,Constituency_351,MP_Name_351,Work_893,19-09-2021,Completed
+894,Karnataka,Constituency_352,MP_Name_352,Work_894,26-12-2023,Completed
+895,Tamil Nadu,Constituency_353,MP_Name_353,Work_895,15-07-2022,Completed
+896,Gujarat,Constituency_354,MP_Name_354,Work_896,03-11-2023,Completed
+897,Maharashtra,Constituency_355,MP_Name_355,Work_897,25-04-2023,Completed
+898,Uttar Pradesh,Constituency_356,MP_Name_356,Work_898,02-12-2021,Completed
+899,Tamil Nadu,Constituency_357,MP_Name_357,Work_899,27-06-2021,Completed
+900,Uttar Pradesh,Constituency_358,MP_Name_358,Work_900,04-08-2023,Completed
+901,Uttar Pradesh,Constituency_359,MP_Name_359,Work_901,06-01-2021,Completed
+902,Delhi,Constituency_360,MP_Name_360,Work_902,08-07-2021,Completed
+903,Delhi,Constituency_361,MP_Name_361,Work_903,21-01-2023,Completed
+904,Uttar Pradesh,Constituency_362,MP_Name_362,Work_904,13-06-2023,Completed
+905,Maharashtra,Constituency_363,MP_Name_363,Work_905,24-07-2023,Completed
+906,Maharashtra,Constituency_364,MP_Name_364,Work_906,25-09-2021,Completed
+907,Delhi,Constituency_365,MP_Name_365,Work_907,16-05-2022,Completed
+908,Maharashtra,Constituency_366,MP_Name_366,Work_908,14-01-2023,Completed
+909,Delhi,Constituency_367,MP_Name_367,Work_909,31-08-2021,Completed
+910,Delhi,Constituency_368,MP_Name_368,Work_910,29-06-2022,Completed
+911,Delhi,Constituency_369,MP_Name_369,Work_911,16-04-2021,Completed
+912,Gujarat,Constituency_370,MP_Name_370,Work_912,31-05-2021,Completed
+913,Uttar Pradesh,Constituency_371,MP_Name_371,Work_913,28-01-2023,Completed
+914,Uttar Pradesh,Constituency_372,MP_Name_372,Work_914,23-08-2023,Completed
+915,Tamil Nadu,Constituency_373,MP_Name_373,Work_915,22-10-2022,Completed
+916,Uttar Pradesh,Constituency_374,MP_Name_374,Work_916,29-07-2022,Completed
+917,Delhi,Constituency_375,MP_Name_375,Work_917,22-03-2022,Completed
+918,Maharashtra,Constituency_376,MP_Name_376,Work_918,04-10-2023,Completed
+919,Delhi,Constituency_377,MP_Name_377,Work_919,06-11-2021,Completed
+920,Uttar Pradesh,Constituency_378,MP_Name_378,Work_920,15-05-2021,Completed
+921,Gujarat,Constituency_379,MP_Name_379,Work_921,03-11-2021,Completed
+922,Tamil Nadu,Constituency_380,MP_Name_380,Work_922,19-08-2021,Completed
+923,Uttar Pradesh,Constituency_381,MP_Name_381,Work_923,08-07-2021,Completed
+924,Delhi,Constituency_382,MP_Name_382,Work_924,23-03-2022,Completed
+925,Uttar Pradesh,Constituency_383,MP_Name_383,Work_925,01-06-2023,Completed
+926,Delhi,Constituency_384,MP_Name_384,Work_926,08-01-2023,Completed
+927,Karnataka,Constituency_385,MP_Name_385,Work_927,01-08-2023,Completed
+928,Maharashtra,Constituency_386,MP_Name_386,Work_928,16-01-2023,Completed
+929,Karnataka,Constituency_387,MP_Name_387,Work_929,21-10-2021,Completed
+930,Delhi,Constituency_388,MP_Name_388,Work_930,06-07-2022,Completed
+931,Gujarat,Constituency_389,MP_Name_389,Work_931,27-12-2021,Completed
+932,Gujarat,Constituency_390,MP_Name_390,Work_932,13-01-2021,Completed
+933,Uttar Pradesh,Constituency_391,MP_Name_391,Work_933,13-06-2021,Completed
+934,Tamil Nadu,Constituency_392,MP_Name_392,Work_934,03-12-2022,Completed
+935,Maharashtra,Constituency_393,MP_Name_393,Work_935,05-02-2023,Completed
+936,Tamil Nadu,Constituency_394,MP_Name_394,Work_936,26-03-2021,Completed
+937,Delhi,Constituency_395,MP_Name_395,Work_937,12-06-2022,Completed
+938,Tamil Nadu,Constituency_396,MP_Name_396,Work_938,24-11-2022,Completed
+939,Uttar Pradesh,Constituency_397,MP_Name_397,Work_939,04-09-2023,Completed
+940,Uttar Pradesh,Constituency_398,MP_Name_398,Work_940,28-10-2023,Completed
+941,Delhi,Constituency_399,MP_Name_399,Work_941,20-01-2023,Completed
+942,Tamil Nadu,Constituency_400,MP_Name_400,Work_942,13-10-2023,Completed
+943,Uttar Pradesh,Constituency_401,MP_Name_401,Work_943,14-07-2022,Completed
+944,Uttar Pradesh,Constituency_402,MP_Name_402,Work_944,02-02-2023,Completed
+945,Karnataka,Constituency_403,MP_Name_403,Work_945,04-08-2023,Completed
+946,Tamil Nadu,Constituency_404,MP_Name_404,Work_946,01-06-2021,Completed
+947,Uttar Pradesh,Constituency_405,MP_Name_405,Work_947,06-04-2022,Completed
+948,Delhi,Constituency_406,MP_Name_406,Work_948,12-03-2021,Completed
+949,Uttar Pradesh,Constituency_407,MP_Name_407,Work_949,01-09-2022,Completed
+950,Delhi,Constituency_408,MP_Name_408,Work_950,31-03-2023,Completed
+951,Maharashtra,Constituency_409,MP_Name_409,Work_951,07-02-2021,Completed
+952,Tamil Nadu,Constituency_410,MP_Name_410,Work_952,19-12-2023,Completed
+953,Uttar Pradesh,Constituency_411,MP_Name_411,Work_953,18-10-2021,Completed
+954,Delhi,Constituency_412,MP_Name_412,Work_954,31-03-2021,Completed
+955,Delhi,Constituency_413,MP_Name_413,Work_955,20-12-2021,Completed
+956,Tamil Nadu,Constituency_414,MP_Name_414,Work_956,11-02-2023,Completed
+957,Karnataka,Constituency_415,MP_Name_415,Work_957,03-08-2023,Completed
+958,Maharashtra,Constituency_416,MP_Name_416,Work_958,17-12-2023,Completed
+959,Maharashtra,Constituency_417,MP_Name_417,Work_959,25-11-2022,Completed
+960,Delhi,Constituency_418,MP_Name_418,Work_960,04-04-2021,Completed
+961,Gujarat,Constituency_419,MP_Name_419,Work_961,22-07-2022,Completed
+962,Uttar Pradesh,Constituency_420,MP_Name_420,Work_962,10-04-2023,Completed
+963,Tamil Nadu,Constituency_421,MP_Name_421,Work_963,06-10-2021,Completed
+964,Gujarat,Constituency_422,MP_Name_422,Work_964,26-05-2023,Completed
+965,Karnataka,Constituency_423,MP_Name_423,Work_965,18-12-2023,Completed
+966,Uttar Pradesh,Constituency_424,MP_Name_424,Work_966,16-12-2021,Completed
+967,Delhi,Constituency_425,MP_Name_425,Work_967,23-12-2023,Completed
+968,Gujarat,Constituency_426,MP_Name_426,Work_968,31-07-2022,Completed
+969,Maharashtra,Constituency_427,MP_Name_427,Work_969,15-05-2023,Completed
+970,Maharashtra,Constituency_428,MP_Name_428,Work_970,21-08-2021,Completed
+971,Maharashtra,Constituency_429,MP_Name_429,Work_971,23-01-2022,Completed
+972,Gujarat,Constituency_430,MP_Name_430,Work_972,05-07-2022,Completed
+973,Tamil Nadu,Constituency_431,MP_Name_431,Work_973,28-10-2022,Completed
+974,Uttar Pradesh,Constituency_432,MP_Name_432,Work_974,22-02-2023,Completed
+975,Uttar Pradesh,Constituency_433,MP_Name_433,Work_975,10-08-2021,Completed
+976,Tamil Nadu,Constituency_434,MP_Name_434,Work_976,16-05-2023,Completed
+977,Tamil Nadu,Constituency_435,MP_Name_435,Work_977,01-09-2023,Completed
+978,Karnataka,Constituency_436,MP_Name_436,Work_978,05-07-2022,Completed
+979,Delhi,Constituency_437,MP_Name_437,Work_979,21-05-2022,Completed
+980,Delhi,Constituency_438,MP_Name_438,Work_980,30-09-2021,Completed
+981,Uttar Pradesh,Constituency_439,MP_Name_439,Work_981,06-08-2021,Completed
+982,Maharashtra,Constituency_440,MP_Name_440,Work_982,27-11-2023,Completed
+983,Karnataka,Constituency_441,MP_Name_441,Work_983,25-10-2021,Completed
+984,Tamil Nadu,Constituency_442,MP_Name_442,Work_984,28-09-2023,Completed
+985,Uttar Pradesh,Constituency_443,MP_Name_443,Work_985,19-01-2023,Completed
+986,Uttar Pradesh,Constituency_444,MP_Name_444,Work_986,24-12-2021,Completed
+987,Gujarat,Constituency_445,MP_Name_445,Work_987,04-06-2022,Completed
+988,Tamil Nadu,Constituency_446,MP_Name_446,Work_988,26-12-2021,Completed
+989,Maharashtra,Constituency_447,MP_Name_447,Work_989,12-10-2022,Completed
+990,Delhi,Constituency_448,MP_Name_448,Work_990,11-08-2022,Completed
+991,Maharashtra,Constituency_449,MP_Name_449,Work_991,27-08-2021,Completed
+992,Uttar Pradesh,Constituency_450,MP_Name_450,Work_992,09-04-2022,Completed
+993,Delhi,Constituency_451,MP_Name_451,Work_993,24-02-2021,Completed
+994,Tamil Nadu,Constituency_452,MP_Name_452,Work_994,08-01-2021,Completed
+995,Delhi,Constituency_453,MP_Name_453,Work_995,20-06-2022,Completed
+996,Delhi,Constituency_454,MP_Name_454,Work_996,31-10-2023,Completed
+997,Uttar Pradesh,Constituency_455,MP_Name_455,Work_997,09-04-2021,Completed
+998,Tamil Nadu,Constituency_456,MP_Name_456,Work_998,02-12-2023,Completed
+999,Tamil Nadu,Constituency_457,MP_Name_457,Work_999,19-05-2023,Completed
+1000,Karnataka,Constituency_458,MP_Name_458,Work_1000,03-11-2023,Completed
+1001,Maharashtra,Constituency_459,MP_Name_459,Work_1001,11-05-2023,Completed
+1002,Uttar Pradesh,Constituency_460,MP_Name_460,Work_1002,13-09-2022,Completed
+1003,Delhi,Constituency_461,MP_Name_461,Work_1003,03-08-2023,Completed
+1004,Uttar Pradesh,Constituency_462,MP_Name_462,Work_1004,22-06-2023,Completed
+1005,Delhi,Constituency_463,MP_Name_463,Work_1005,09-10-2022,Completed
+1006,Uttar Pradesh,Constituency_464,MP_Name_464,Work_1006,18-04-2022,Completed
+1007,Tamil Nadu,Constituency_465,MP_Name_465,Work_1007,08-01-2023,Completed
+1008,Tamil Nadu,Constituency_466,MP_Name_466,Work_1008,23-06-2023,Completed
+1009,Delhi,Constituency_467,MP_Name_467,Work_1009,28-01-2023,Completed
+1010,Tamil Nadu,Constituency_468,MP_Name_468,Work_1010,25-02-2022,Completed
+1011,Karnataka,Constituency_469,MP_Name_469,Work_1011,06-02-2021,Completed
+1012,Maharashtra,Constituency_470,MP_Name_470,Work_1012,09-08-2021,Completed
+1013,Tamil Nadu,Constituency_471,MP_Name_471,Work_1013,27-07-2023,Completed
+1014,Karnataka,Constituency_472,MP_Name_472,Work_1014,22-02-2023,Completed
+1015,Delhi,Constituency_473,MP_Name_473,Work_1015,17-11-2022,Completed
+1016,Maharashtra,Constituency_474,MP_Name_474,Work_1016,13-05-2022,Completed
+1017,Delhi,Constituency_475,MP_Name_475,Work_1017,27-04-2023,Completed
+1018,Gujarat,Constituency_476,MP_Name_476,Work_1018,08-01-2022,Completed
+1019,Gujarat,Constituency_477,MP_Name_477,Work_1019,13-04-2022,Completed
+1020,Tamil Nadu,Constituency_478,MP_Name_478,Work_1020,05-01-2023,Completed
+1021,Karnataka,Constituency_479,MP_Name_479,Work_1021,20-11-2021,Completed
+1022,Delhi,Constituency_480,MP_Name_480,Work_1022,23-11-2022,Completed
+1023,Delhi,Constituency_481,MP_Name_481,Work_1023,23-11-2021,Completed
+1024,Uttar Pradesh,Constituency_482,MP_Name_482,Work_1024,10-09-2021,Completed
+1025,Tamil Nadu,Constituency_483,MP_Name_483,Work_1025,22-03-2021,Completed
+1026,Tamil Nadu,Constituency_484,MP_Name_484,Work_1026,06-07-2021,Completed
+1027,Karnataka,Constituency_485,MP_Name_485,Work_1027,16-12-2023,Completed
+1028,Gujarat,Constituency_486,MP_Name_486,Work_1028,28-01-2023,Completed
+1029,Gujarat,Constituency_487,MP_Name_487,Work_1029,21-12-2022,Completed
+1030,Uttar Pradesh,Constituency_488,MP_Name_488,Work_1030,06-06-2021,Completed
+1031,Maharashtra,Constituency_489,MP_Name_489,Work_1031,01-09-2023,Completed
+1032,Maharashtra,Constituency_490,MP_Name_490,Work_1032,25-01-2023,Completed
+1033,Tamil Nadu,Constituency_491,MP_Name_491,Work_1033,10-11-2021,Completed
+1034,Karnataka,Constituency_492,MP_Name_492,Work_1034,23-05-2023,Completed
+1035,Delhi,Constituency_493,MP_Name_493,Work_1035,17-08-2023,Completed
+1036,Tamil Nadu,Constituency_494,MP_Name_494,Work_1036,09-08-2022,Completed
+1037,Karnataka,Constituency_495,MP_Name_495,Work_1037,06-06-2021,Completed
+1038,Karnataka,Constituency_496,MP_Name_496,Work_1038,19-06-2023,Completed
+1039,Tamil Nadu,Constituency_497,MP_Name_497,Work_1039,10-01-2022,Completed
+1040,Maharashtra,Constituency_498,MP_Name_498,Work_1040,22-02-2022,Completed
+1041,Gujarat,Constituency_499,MP_Name_499,Work_1041,13-05-2021,Completed
+1042,Uttar Pradesh,Constituency_500,MP_Name_500,Work_1042,19-09-2023,Completed
+1043,Delhi,Constituency_501,MP_Name_501,Work_1043,02-10-2023,Completed
+1044,Karnataka,Constituency_502,MP_Name_502,Work_1044,12-01-2023,Completed
+1045,Karnataka,Constituency_503,MP_Name_503,Work_1045,28-02-2021,Completed
+1046,Gujarat,Constituency_504,MP_Name_504,Work_1046,19-06-2022,Completed
+1047,Delhi,Constituency_505,MP_Name_505,Work_1047,09-01-2021,Completed
+1048,Maharashtra,Constituency_506,MP_Name_506,Work_1048,12-09-2023,Completed
+1049,Gujarat,Constituency_507,MP_Name_507,Work_1049,20-05-2021,Completed
+1050,Tamil Nadu,Constituency_508,MP_Name_508,Work_1050,19-01-2021,Completed
+1051,Delhi,Constituency_509,MP_Name_509,Work_1051,04-08-2022,Completed
+1052,Maharashtra,Constituency_510,MP_Name_510,Work_1052,04-09-2022,Completed
+1053,Tamil Nadu,Constituency_511,MP_Name_511,Work_1053,20-07-2023,Completed
+1054,Uttar Pradesh,Constituency_512,MP_Name_512,Work_1054,23-07-2021,Completed
+1055,Maharashtra,Constituency_513,MP_Name_513,Work_1055,24-01-2021,Completed
+1056,Karnataka,Constituency_514,MP_Name_514,Work_1056,07-09-2023,Completed
+1057,Gujarat,Constituency_515,MP_Name_515,Work_1057,20-09-2021,Completed
+1058,Gujarat,Constituency_516,MP_Name_516,Work_1058,16-01-2022,Completed
+1059,Gujarat,Constituency_517,MP_Name_517,Work_1059,19-01-2022,Completed
+1060,Karnataka,Constituency_518,MP_Name_518,Work_1060,05-03-2023,Completed
+1061,Tamil Nadu,Constituency_519,MP_Name_519,Work_1061,02-02-2023,Completed
+1062,Uttar Pradesh,Constituency_520,MP_Name_520,Work_1062,15-04-2023,Completed
+1063,Gujarat,Constituency_521,MP_Name_521,Work_1063,09-04-2023,Completed
+1064,Tamil Nadu,Constituency_522,MP_Name_522,Work_1064,05-07-2022,Completed
+1065,Tamil Nadu,Constituency_523,MP_Name_523,Work_1065,17-10-2023,Completed
+1066,Gujarat,Constituency_524,MP_Name_524,Work_1066,14-03-2023,Completed
+1067,Tamil Nadu,Constituency_525,MP_Name_525,Work_1067,08-07-2021,Completed
+1068,Uttar Pradesh,Constituency_526,MP_Name_526,Work_1068,06-02-2023,Completed
+1069,Delhi,Constituency_527,MP_Name_527,Work_1069,25-08-2022,Completed
+1070,Gujarat,Constituency_528,MP_Name_528,Work_1070,15-11-2021,Completed
+1071,Karnataka,Constituency_529,MP_Name_529,Work_1071,21-02-2021,Completed
+1072,Karnataka,Constituency_530,MP_Name_530,Work_1072,01-04-2022,Completed
+1073,Karnataka,Constituency_531,MP_Name_531,Work_1073,13-04-2022,Completed
+1074,Maharashtra,Constituency_532,MP_Name_532,Work_1074,01-03-2022,Completed
+1075,Gujarat,Constituency_533,MP_Name_533,Work_1075,29-03-2022,Completed
+1076,Gujarat,Constituency_534,MP_Name_534,Work_1076,24-11-2023,Completed
+1077,Tamil Nadu,Constituency_535,MP_Name_535,Work_1077,10-09-2021,Completed
+1078,Delhi,Constituency_536,MP_Name_536,Work_1078,22-11-2023,Completed
+1079,Tamil Nadu,Constituency_537,MP_Name_537,Work_1079,27-01-2021,Completed
+1080,Karnataka,Constituency_538,MP_Name_538,Work_1080,18-04-2022,Completed
+1081,Tamil Nadu,Constituency_539,MP_Name_539,Work_1081,25-11-2022,Completed
+1082,Delhi,Constituency_540,MP_Name_540,Work_1082,25-06-2023,Completed
+1083,Karnataka,Constituency_541,MP_Name_541,Work_1083,04-09-2023,Completed
+1084,Tamil Nadu,Constituency_542,MP_Name_542,Work_1084,09-03-2022,Completed
+1085,Gujarat,Constituency_543,MP_Name_543,Work_1085,14-07-2023,Completed
