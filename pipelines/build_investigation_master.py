@@ -35,7 +35,7 @@ def build_investigation_master():
         s.constituency,
         s.mp_name,
         s.house,
-        s.recommended_date,
+        TRY_CAST(NULL AS DATE) as recommended_date,
         s.sanction_date,
         s.sanction_amount,
         s.work_status,
@@ -52,14 +52,14 @@ def build_investigation_master():
     ) s
     LEFT JOIN (
         SELECT 
-            work_id,
+            work_title,
             SUM(disbursed_amount) as total_expenditure,
             COUNT(*) as transaction_count,
             MAX(vendor_name) as primary_vendor
         FROM expenditure_works
-        WHERE work_id IS NOT NULL
-        GROUP BY work_id
-    ) e ON s.clean_work_id = e.work_id
+        WHERE work_title IS NOT NULL
+        GROUP BY work_title
+    ) e ON s.work_title = e.work_title
     LEFT JOIN (
         SELECT DISTINCT
             regexp_extract(regexp_replace(work_title, '\\s+', '', 'g'), '([A-Z0-9]+/[A-Z0-9]+/[0-9]{4}-[0-9]{4}/[0-9]+)') as clean_work_id,

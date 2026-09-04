@@ -1,490 +1,444 @@
 sr_no,state,constituency,mp_name,work,completion_date,work_status
-1,Tamil Nadu,Constituency_2,MP_Name_2,Work_1,10-01-2022,Completed
-2,Karnataka,Constituency_3,MP_Name_3,Work_2,19-03-2022,Completed
-3,Delhi,Constituency_4,MP_Name_4,Work_3,01-12-2021,Completed
-4,Gujarat,Constituency_5,MP_Name_5,Work_4,10-03-2022,Completed
-5,Delhi,Constituency_6,MP_Name_6,Work_5,16-03-2022,Completed
-6,Maharashtra,Constituency_7,MP_Name_7,Work_6,22-09-2021,Completed
-7,Karnataka,Constituency_8,MP_Name_8,Work_7,24-05-2021,Completed
-8,Tamil Nadu,Constituency_9,MP_Name_9,Work_8,30-08-2021,Completed
-9,Delhi,Constituency_10,MP_Name_10,Work_9,26-11-2023,Completed
-10,Gujarat,Constituency_11,MP_Name_11,Work_10,07-03-2022,Completed
-11,Maharashtra,Constituency_12,MP_Name_12,Work_11,28-05-2022,Completed
-12,Gujarat,Constituency_13,MP_Name_13,Work_12,26-06-2021,Completed
-13,Maharashtra,Constituency_14,MP_Name_14,Work_13,14-08-2022,Completed
-14,Uttar Pradesh,Constituency_15,MP_Name_15,Work_14,25-06-2022,Completed
-15,Delhi,Constituency_16,MP_Name_16,Work_15,29-11-2022,Completed
-16,Uttar Pradesh,Constituency_17,MP_Name_17,Work_16,08-12-2021,Completed
-17,Maharashtra,Constituency_18,MP_Name_18,Work_17,28-07-2022,Completed
-18,Tamil Nadu,Constituency_19,MP_Name_19,Work_18,06-08-2022,Completed
-19,Delhi,Constituency_20,MP_Name_20,Work_19,23-05-2022,Completed
-20,Delhi,Constituency_21,MP_Name_21,Work_20,28-03-2022,Completed
-21,Maharashtra,Constituency_22,MP_Name_22,Work_21,07-03-2023,Completed
-22,Tamil Nadu,Constituency_23,MP_Name_23,Work_22,02-05-2022,Completed
-23,Karnataka,Constituency_24,MP_Name_24,Work_23,13-06-2022,Completed
-24,Tamil Nadu,Constituency_25,MP_Name_25,Work_24,07-12-2021,Completed
-25,Gujarat,Constituency_26,MP_Name_26,Work_25,04-11-2022,Completed
-26,Karnataka,Constituency_27,MP_Name_27,Work_26,07-11-2023,Completed
-27,Tamil Nadu,Constituency_28,MP_Name_28,Work_27,06-09-2021,Completed
-28,Maharashtra,Constituency_29,MP_Name_29,Work_28,24-09-2023,Completed
-29,Uttar Pradesh,Constituency_30,MP_Name_30,Work_29,25-01-2023,Completed
-30,Tamil Nadu,Constituency_31,MP_Name_31,Work_30,08-11-2022,Completed
-31,Maharashtra,Constituency_32,MP_Name_32,Work_31,29-04-2022,Completed
-32,Uttar Pradesh,Constituency_33,MP_Name_33,Work_32,19-07-2022,Completed
-33,Tamil Nadu,Constituency_34,MP_Name_34,Work_33,23-12-2023,Completed
-34,Uttar Pradesh,Constituency_35,MP_Name_35,Work_34,11-03-2022,Completed
-35,Maharashtra,Constituency_36,MP_Name_36,Work_35,25-07-2023,Completed
-36,Karnataka,Constituency_37,MP_Name_37,Work_36,21-05-2023,Completed
-37,Karnataka,Constituency_38,MP_Name_38,Work_37,29-05-2023,Completed
-38,Karnataka,Constituency_39,MP_Name_39,Work_38,11-06-2021,Completed
-39,Maharashtra,Constituency_40,MP_Name_40,Work_39,13-11-2022,Completed
-40,Tamil Nadu,Constituency_41,MP_Name_41,Work_40,09-02-2023,Completed
-41,Delhi,Constituency_42,MP_Name_42,Work_41,10-01-2021,Completed
-42,Uttar Pradesh,Constituency_43,MP_Name_43,Work_42,28-08-2023,Completed
-43,Tamil Nadu,Constituency_44,MP_Name_44,Work_43,17-04-2023,Completed
-44,Tamil Nadu,Constituency_45,MP_Name_45,Work_44,23-07-2023,Completed
-45,Tamil Nadu,Constituency_46,MP_Name_46,Work_45,21-05-2021,Completed
-46,Delhi,Constituency_47,MP_Name_47,Work_46,13-11-2022,Completed
-47,Delhi,Constituency_48,MP_Name_48,Work_47,29-09-2023,Completed
-48,Uttar Pradesh,Constituency_49,MP_Name_49,Work_48,26-12-2021,Completed
-49,Gujarat,Constituency_50,MP_Name_50,Work_49,26-03-2021,Completed
-50,Tamil Nadu,Constituency_51,MP_Name_51,Work_50,11-01-2022,Completed
-51,Delhi,Constituency_52,MP_Name_52,Work_51,24-07-2021,Completed
-52,Tamil Nadu,Constituency_53,MP_Name_53,Work_52,10-07-2022,Completed
-53,Delhi,Constituency_54,MP_Name_54,Work_53,11-03-2022,Completed
-54,Karnataka,Constituency_55,MP_Name_55,Work_54,09-12-2021,Completed
-55,Maharashtra,Constituency_56,MP_Name_56,Work_55,12-09-2022,Completed
-56,Karnataka,Constituency_57,MP_Name_57,Work_56,24-11-2021,Completed
-57,Uttar Pradesh,Constituency_58,MP_Name_58,Work_57,22-01-2023,Completed
-58,Tamil Nadu,Constituency_59,MP_Name_59,Work_58,05-07-2021,Completed
-59,Karnataka,Constituency_60,MP_Name_60,Work_59,23-07-2021,Completed
-60,Gujarat,Constituency_61,MP_Name_61,Work_60,12-01-2022,Completed
-61,Uttar Pradesh,Constituency_62,MP_Name_62,Work_61,29-08-2022,Completed
-62,Tamil Nadu,Constituency_63,MP_Name_63,Work_62,06-11-2021,Completed
-63,Gujarat,Constituency_64,MP_Name_64,Work_63,19-08-2021,Completed
-64,Karnataka,Constituency_65,MP_Name_65,Work_64,19-07-2023,Completed
-65,Delhi,Constituency_66,MP_Name_66,Work_65,24-05-2022,Completed
-66,Delhi,Constituency_67,MP_Name_67,Work_66,08-12-2022,Completed
-67,Gujarat,Constituency_68,MP_Name_68,Work_67,30-04-2023,Completed
-68,Tamil Nadu,Constituency_69,MP_Name_69,Work_68,14-05-2023,Completed
-69,Karnataka,Constituency_70,MP_Name_70,Work_69,06-08-2021,Completed
-70,Maharashtra,Constituency_71,MP_Name_71,Work_70,22-05-2022,Completed
-71,Gujarat,Constituency_72,MP_Name_72,Work_71,30-07-2021,Completed
-72,Uttar Pradesh,Constituency_73,MP_Name_73,Work_72,04-08-2023,Completed
-73,Uttar Pradesh,Constituency_74,MP_Name_74,Work_73,05-12-2023,Completed
-74,Tamil Nadu,Constituency_75,MP_Name_75,Work_74,14-11-2022,Completed
-75,Delhi,Constituency_76,MP_Name_76,Work_75,04-08-2022,Completed
-76,Gujarat,Constituency_77,MP_Name_77,Work_76,16-08-2023,Completed
-77,Uttar Pradesh,Constituency_78,MP_Name_78,Work_77,30-08-2021,Completed
-78,Delhi,Constituency_79,MP_Name_79,Work_78,03-12-2021,Completed
-79,Tamil Nadu,Constituency_80,MP_Name_80,Work_79,30-06-2022,Completed
-80,Tamil Nadu,Constituency_81,MP_Name_81,Work_80,08-08-2022,Completed
-81,Gujarat,Constituency_82,MP_Name_82,Work_81,22-09-2021,Completed
-82,Delhi,Constituency_83,MP_Name_83,Work_82,21-01-2023,Completed
-83,Gujarat,Constituency_84,MP_Name_84,Work_83,27-04-2022,Completed
-84,Maharashtra,Constituency_85,MP_Name_85,Work_84,23-04-2023,Completed
-85,Tamil Nadu,Constituency_86,MP_Name_86,Work_85,08-12-2021,Completed
-86,Uttar Pradesh,Constituency_87,MP_Name_87,Work_86,14-01-2021,Completed
-87,Gujarat,Constituency_88,MP_Name_88,Work_87,18-08-2021,Completed
-88,Uttar Pradesh,Constituency_89,MP_Name_89,Work_88,26-04-2021,Completed
-89,Gujarat,Constituency_90,MP_Name_90,Work_89,30-10-2021,Completed
-90,Delhi,Constituency_91,MP_Name_91,Work_90,29-03-2021,Completed
-91,Tamil Nadu,Constituency_92,MP_Name_92,Work_91,05-08-2021,Completed
-92,Tamil Nadu,Constituency_93,MP_Name_93,Work_92,27-11-2022,Completed
-93,Maharashtra,Constituency_94,MP_Name_94,Work_93,29-12-2021,Completed
-94,Maharashtra,Constituency_95,MP_Name_95,Work_94,03-12-2022,Completed
-95,Delhi,Constituency_96,MP_Name_96,Work_95,23-02-2022,Completed
-96,Uttar Pradesh,Constituency_97,MP_Name_97,Work_96,26-07-2022,Completed
-97,Tamil Nadu,Constituency_98,MP_Name_98,Work_97,12-12-2022,Completed
-98,Karnataka,Constituency_99,MP_Name_99,Work_98,02-02-2022,Completed
-99,Karnataka,Constituency_100,MP_Name_100,Work_99,01-12-2023,Completed
-100,Gujarat,Constituency_101,MP_Name_101,Work_100,27-02-2022,Completed
-101,Gujarat,Constituency_102,MP_Name_102,Work_101,13-11-2022,Completed
-102,Maharashtra,Constituency_103,MP_Name_103,Work_102,09-05-2023,Completed
-103,Gujarat,Constituency_104,MP_Name_104,Work_103,15-11-2022,Completed
-104,Gujarat,Constituency_105,MP_Name_105,Work_104,10-05-2022,Completed
-105,Maharashtra,Constituency_106,MP_Name_106,Work_105,11-10-2021,Completed
-106,Gujarat,Constituency_107,MP_Name_107,Work_106,10-08-2023,Completed
-107,Tamil Nadu,Constituency_108,MP_Name_108,Work_107,30-06-2023,Completed
-108,Maharashtra,Constituency_109,MP_Name_109,Work_108,22-10-2021,Completed
-109,Gujarat,Constituency_110,MP_Name_110,Work_109,07-10-2022,Completed
-110,Maharashtra,Constituency_111,MP_Name_111,Work_110,19-02-2022,Completed
-111,Karnataka,Constituency_112,MP_Name_112,Work_111,23-07-2021,Completed
-112,Karnataka,Constituency_113,MP_Name_113,Work_112,09-02-2022,Completed
-113,Uttar Pradesh,Constituency_114,MP_Name_114,Work_113,26-02-2021,Completed
-114,Maharashtra,Constituency_115,MP_Name_115,Work_114,06-12-2023,Completed
-115,Karnataka,Constituency_116,MP_Name_116,Work_115,02-05-2021,Completed
-116,Maharashtra,Constituency_117,MP_Name_117,Work_116,03-08-2021,Completed
-117,Maharashtra,Constituency_118,MP_Name_118,Work_117,29-08-2021,Completed
-118,Gujarat,Constituency_119,MP_Name_119,Work_118,10-01-2021,Completed
-119,Karnataka,Constituency_120,MP_Name_120,Work_119,27-10-2021,Completed
-120,Gujarat,Constituency_121,MP_Name_121,Work_120,14-01-2021,Completed
-121,Gujarat,Constituency_122,MP_Name_122,Work_121,18-06-2021,Completed
-122,Uttar Pradesh,Constituency_123,MP_Name_123,Work_122,25-08-2023,Completed
-123,Maharashtra,Constituency_124,MP_Name_124,Work_123,12-11-2023,Completed
-124,Karnataka,Constituency_125,MP_Name_125,Work_124,24-08-2021,Completed
-125,Delhi,Constituency_126,MP_Name_126,Work_125,01-06-2023,Completed
-126,Tamil Nadu,Constituency_127,MP_Name_127,Work_126,28-04-2021,Completed
-127,Delhi,Constituency_128,MP_Name_128,Work_127,25-01-2022,Completed
-128,Karnataka,Constituency_129,MP_Name_129,Work_128,16-09-2023,Completed
-129,Tamil Nadu,Constituency_130,MP_Name_130,Work_129,22-10-2022,Completed
-130,Gujarat,Constituency_131,MP_Name_131,Work_130,02-12-2021,Completed
-131,Maharashtra,Constituency_132,MP_Name_132,Work_131,15-04-2022,Completed
-132,Tamil Nadu,Constituency_133,MP_Name_133,Work_132,17-11-2021,Completed
-133,Delhi,Constituency_134,MP_Name_134,Work_133,24-12-2022,Completed
-134,Tamil Nadu,Constituency_135,MP_Name_135,Work_134,25-07-2023,Completed
-135,Gujarat,Constituency_136,MP_Name_136,Work_135,17-02-2022,Completed
-136,Uttar Pradesh,Constituency_137,MP_Name_137,Work_136,22-03-2022,Completed
-137,Delhi,Constituency_138,MP_Name_138,Work_137,14-11-2022,Completed
-138,Karnataka,Constituency_139,MP_Name_139,Work_138,04-06-2023,Completed
-139,Tamil Nadu,Constituency_140,MP_Name_140,Work_139,07-01-2023,Completed
-140,Karnataka,Constituency_141,MP_Name_141,Work_140,15-09-2023,Completed
-141,Delhi,Constituency_142,MP_Name_142,Work_141,30-01-2022,Completed
-142,Karnataka,Constituency_143,MP_Name_143,Work_142,14-12-2022,Completed
-143,Delhi,Constituency_144,MP_Name_144,Work_143,02-01-2021,Completed
-144,Delhi,Constituency_145,MP_Name_145,Work_144,24-06-2021,Completed
-145,Delhi,Constituency_146,MP_Name_146,Work_145,08-10-2022,Completed
-146,Uttar Pradesh,Constituency_147,MP_Name_147,Work_146,03-12-2022,Completed
-147,Tamil Nadu,Constituency_148,MP_Name_148,Work_147,01-04-2023,Completed
-148,Karnataka,Constituency_149,MP_Name_149,Work_148,18-09-2022,Completed
-149,Gujarat,Constituency_150,MP_Name_150,Work_149,22-03-2023,Completed
-150,Delhi,Constituency_151,MP_Name_151,Work_150,18-05-2021,Completed
-151,Gujarat,Constituency_152,MP_Name_152,Work_151,10-12-2021,Completed
-152,Delhi,Constituency_153,MP_Name_153,Work_152,01-03-2023,Completed
-153,Uttar Pradesh,Constituency_154,MP_Name_154,Work_153,06-09-2022,Completed
-154,Delhi,Constituency_155,MP_Name_155,Work_154,10-12-2021,Completed
-155,Gujarat,Constituency_156,MP_Name_156,Work_155,26-05-2023,Completed
-156,Gujarat,Constituency_157,MP_Name_157,Work_156,17-01-2022,Completed
-157,Tamil Nadu,Constituency_158,MP_Name_158,Work_157,21-08-2022,Completed
-158,Karnataka,Constituency_159,MP_Name_159,Work_158,10-08-2021,Completed
-159,Tamil Nadu,Constituency_160,MP_Name_160,Work_159,02-09-2022,Completed
-160,Delhi,Constituency_161,MP_Name_161,Work_160,03-03-2023,Completed
-161,Delhi,Constituency_162,MP_Name_162,Work_161,15-03-2022,Completed
-162,Delhi,Constituency_163,MP_Name_163,Work_162,27-01-2022,Completed
-163,Tamil Nadu,Constituency_164,MP_Name_164,Work_163,16-11-2021,Completed
-164,Karnataka,Constituency_165,MP_Name_165,Work_164,11-09-2023,Completed
-165,Delhi,Constituency_166,MP_Name_166,Work_165,01-01-2022,Completed
-166,Maharashtra,Constituency_167,MP_Name_167,Work_166,28-08-2021,Completed
-167,Tamil Nadu,Constituency_168,MP_Name_168,Work_167,12-10-2022,Completed
-168,Uttar Pradesh,Constituency_169,MP_Name_169,Work_168,24-03-2022,Completed
-169,Maharashtra,Constituency_170,MP_Name_170,Work_169,02-11-2022,Completed
-170,Uttar Pradesh,Constituency_171,MP_Name_171,Work_170,22-07-2023,Completed
-171,Tamil Nadu,Constituency_172,MP_Name_172,Work_171,05-09-2022,Completed
-172,Tamil Nadu,Constituency_173,MP_Name_173,Work_172,08-09-2021,Completed
-173,Gujarat,Constituency_174,MP_Name_174,Work_173,12-06-2022,Completed
-174,Delhi,Constituency_175,MP_Name_175,Work_174,22-02-2021,Completed
-175,Uttar Pradesh,Constituency_176,MP_Name_176,Work_175,17-06-2023,Completed
-176,Maharashtra,Constituency_177,MP_Name_177,Work_176,04-03-2022,Completed
-177,Tamil Nadu,Constituency_178,MP_Name_178,Work_177,22-08-2023,Completed
-178,Uttar Pradesh,Constituency_179,MP_Name_179,Work_178,06-04-2022,Completed
-179,Delhi,Constituency_180,MP_Name_180,Work_179,18-12-2023,Completed
-180,Uttar Pradesh,Constituency_181,MP_Name_181,Work_180,05-04-2023,Completed
-181,Delhi,Constituency_182,MP_Name_182,Work_181,24-06-2023,Completed
-182,Karnataka,Constituency_183,MP_Name_183,Work_182,21-03-2021,Completed
-183,Maharashtra,Constituency_184,MP_Name_184,Work_183,14-11-2022,Completed
-184,Delhi,Constituency_185,MP_Name_185,Work_184,22-01-2023,Completed
-185,Maharashtra,Constituency_186,MP_Name_186,Work_185,14-06-2021,Completed
-186,Delhi,Constituency_187,MP_Name_187,Work_186,18-07-2023,Completed
-187,Karnataka,Constituency_188,MP_Name_188,Work_187,29-08-2021,Completed
-188,Karnataka,Constituency_189,MP_Name_189,Work_188,22-09-2023,Completed
-189,Delhi,Constituency_190,MP_Name_190,Work_189,17-12-2021,Completed
-190,Gujarat,Constituency_191,MP_Name_191,Work_190,11-06-2023,Completed
-191,Karnataka,Constituency_192,MP_Name_192,Work_191,22-03-2021,Completed
-192,Karnataka,Constituency_193,MP_Name_193,Work_192,29-11-2023,Completed
-193,Maharashtra,Constituency_194,MP_Name_194,Work_193,01-01-2022,Completed
-194,Delhi,Constituency_195,MP_Name_195,Work_194,29-01-2021,Completed
-195,Gujarat,Constituency_196,MP_Name_196,Work_195,27-10-2023,Completed
-196,Maharashtra,Constituency_197,MP_Name_197,Work_196,10-11-2021,Completed
-197,Gujarat,Constituency_198,MP_Name_198,Work_197,11-07-2023,Completed
-198,Tamil Nadu,Constituency_199,MP_Name_199,Work_198,03-10-2022,Completed
-199,Gujarat,Constituency_200,MP_Name_200,Work_199,09-08-2022,Completed
-200,Tamil Nadu,Constituency_201,MP_Name_201,Work_200,09-07-2023,Completed
-201,Uttar Pradesh,Constituency_202,MP_Name_202,Work_201,11-06-2023,Completed
-202,Delhi,Constituency_203,MP_Name_203,Work_202,18-11-2021,Completed
-203,Gujarat,Constituency_204,MP_Name_204,Work_203,01-11-2023,Completed
-204,Karnataka,Constituency_205,MP_Name_205,Work_204,22-04-2023,Completed
-205,Karnataka,Constituency_206,MP_Name_206,Work_205,14-03-2021,Completed
-206,Uttar Pradesh,Constituency_207,MP_Name_207,Work_206,29-10-2022,Completed
-207,Gujarat,Constituency_208,MP_Name_208,Work_207,15-02-2021,Completed
-208,Gujarat,Constituency_209,MP_Name_209,Work_208,15-05-2022,Completed
-209,Tamil Nadu,Constituency_210,MP_Name_210,Work_209,26-02-2023,Completed
-210,Delhi,Constituency_211,MP_Name_211,Work_210,26-09-2021,Completed
-211,Gujarat,Constituency_212,MP_Name_212,Work_211,05-12-2023,Completed
-212,Uttar Pradesh,Constituency_213,MP_Name_213,Work_212,25-01-2022,Completed
-213,Tamil Nadu,Constituency_214,MP_Name_214,Work_213,21-11-2022,Completed
-214,Maharashtra,Constituency_215,MP_Name_215,Work_214,12-06-2022,Completed
-215,Delhi,Constituency_216,MP_Name_216,Work_215,28-11-2021,Completed
-216,Uttar Pradesh,Constituency_217,MP_Name_217,Work_216,14-12-2022,Completed
-217,Delhi,Constituency_218,MP_Name_218,Work_217,17-09-2023,Completed
-218,Maharashtra,Constituency_219,MP_Name_219,Work_218,29-04-2022,Completed
-219,Delhi,Constituency_220,MP_Name_220,Work_219,28-07-2023,Completed
-220,Maharashtra,Constituency_221,MP_Name_221,Work_220,02-11-2021,Completed
-221,Gujarat,Constituency_222,MP_Name_222,Work_221,16-09-2023,Completed
-222,Gujarat,Constituency_223,MP_Name_223,Work_222,19-12-2023,Completed
-223,Tamil Nadu,Constituency_224,MP_Name_224,Work_223,05-03-2021,Completed
-224,Delhi,Constituency_225,MP_Name_225,Work_224,19-07-2023,Completed
-225,Uttar Pradesh,Constituency_226,MP_Name_226,Work_225,03-05-2023,Completed
-226,Gujarat,Constituency_227,MP_Name_227,Work_226,07-11-2023,Completed
-227,Delhi,Constituency_228,MP_Name_228,Work_227,25-01-2021,Completed
-228,Karnataka,Constituency_229,MP_Name_229,Work_228,09-06-2023,Completed
-229,Uttar Pradesh,Constituency_230,MP_Name_230,Work_229,22-05-2022,Completed
-230,Uttar Pradesh,Constituency_231,MP_Name_231,Work_230,29-04-2022,Completed
-231,Tamil Nadu,Constituency_232,MP_Name_232,Work_231,08-11-2022,Completed
-232,Gujarat,Constituency_233,MP_Name_233,Work_232,26-03-2021,Completed
-233,Karnataka,Constituency_234,MP_Name_234,Work_233,11-04-2022,Completed
-234,Delhi,Constituency_235,MP_Name_235,Work_234,01-06-2021,Completed
-235,Delhi,Constituency_236,MP_Name_236,Work_235,02-09-2022,Completed
-236,Delhi,Constituency_237,MP_Name_237,Work_236,31-05-2023,Completed
-237,Tamil Nadu,Constituency_238,MP_Name_238,Work_237,26-03-2022,Completed
-238,Tamil Nadu,Constituency_239,MP_Name_239,Work_238,05-11-2023,Completed
-239,Maharashtra,Constituency_240,MP_Name_240,Work_239,29-06-2021,Completed
-240,Gujarat,Constituency_241,MP_Name_241,Work_240,10-10-2023,Completed
-241,Tamil Nadu,Constituency_242,MP_Name_242,Work_241,07-09-2021,Completed
-242,Maharashtra,Constituency_243,MP_Name_243,Work_242,22-11-2021,Completed
-243,Maharashtra,Constituency_244,MP_Name_244,Work_243,05-03-2023,Completed
-244,Delhi,Constituency_245,MP_Name_245,Work_244,12-06-2021,Completed
-245,Uttar Pradesh,Constituency_1,MP_Name_1,Work_245,13-03-2023,Completed
-246,Gujarat,Constituency_2,MP_Name_2,Work_246,23-10-2021,Completed
-247,Tamil Nadu,Constituency_3,MP_Name_3,Work_247,28-12-2022,Completed
-248,Maharashtra,Constituency_4,MP_Name_4,Work_248,05-07-2022,Completed
-249,Tamil Nadu,Constituency_5,MP_Name_5,Work_249,16-09-2023,Completed
-250,Delhi,Constituency_6,MP_Name_6,Work_250,03-08-2022,Completed
-251,Delhi,Constituency_7,MP_Name_7,Work_251,28-05-2023,Completed
-252,Delhi,Constituency_8,MP_Name_8,Work_252,09-09-2022,Completed
-253,Delhi,Constituency_9,MP_Name_9,Work_253,22-12-2023,Completed
-254,Tamil Nadu,Constituency_10,MP_Name_10,Work_254,22-07-2023,Completed
-255,Gujarat,Constituency_11,MP_Name_11,Work_255,21-04-2022,Completed
-256,Gujarat,Constituency_12,MP_Name_12,Work_256,23-03-2021,Completed
-257,Karnataka,Constituency_13,MP_Name_13,Work_257,06-03-2021,Completed
-258,Delhi,Constituency_14,MP_Name_14,Work_258,18-05-2023,Completed
-259,Uttar Pradesh,Constituency_15,MP_Name_15,Work_259,06-10-2022,Completed
-260,Maharashtra,Constituency_16,MP_Name_16,Work_260,22-08-2023,Completed
-261,Tamil Nadu,Constituency_17,MP_Name_17,Work_261,07-04-2023,Completed
-262,Tamil Nadu,Constituency_18,MP_Name_18,Work_262,02-11-2021,Completed
-263,Karnataka,Constituency_19,MP_Name_19,Work_263,21-03-2022,Completed
-264,Delhi,Constituency_20,MP_Name_20,Work_264,28-09-2023,Completed
-265,Maharashtra,Constituency_21,MP_Name_21,Work_265,31-01-2021,Completed
-266,Gujarat,Constituency_22,MP_Name_22,Work_266,26-02-2021,Completed
-267,Gujarat,Constituency_23,MP_Name_23,Work_267,06-11-2022,Completed
-268,Karnataka,Constituency_24,MP_Name_24,Work_268,30-07-2022,Completed
-269,Maharashtra,Constituency_25,MP_Name_25,Work_269,22-06-2023,Completed
-270,Uttar Pradesh,Constituency_26,MP_Name_26,Work_270,09-09-2021,Completed
-271,Karnataka,Constituency_27,MP_Name_27,Work_271,11-07-2021,Completed
-272,Gujarat,Constituency_28,MP_Name_28,Work_272,08-04-2021,Completed
-273,Karnataka,Constituency_29,MP_Name_29,Work_273,23-06-2021,Completed
-274,Delhi,Constituency_30,MP_Name_30,Work_274,25-10-2022,Completed
-275,Delhi,Constituency_31,MP_Name_31,Work_275,03-12-2023,Completed
-276,Gujarat,Constituency_32,MP_Name_32,Work_276,02-06-2023,Completed
-277,Karnataka,Constituency_33,MP_Name_33,Work_277,25-08-2023,Completed
-278,Gujarat,Constituency_34,MP_Name_34,Work_278,16-02-2023,Completed
-279,Uttar Pradesh,Constituency_35,MP_Name_35,Work_279,27-07-2023,Completed
-280,Delhi,Constituency_36,MP_Name_36,Work_280,10-08-2022,Completed
-281,Uttar Pradesh,Constituency_37,MP_Name_37,Work_281,09-02-2022,Completed
-282,Maharashtra,Constituency_38,MP_Name_38,Work_282,13-12-2023,Completed
-283,Uttar Pradesh,Constituency_39,MP_Name_39,Work_283,15-05-2022,Completed
-284,Maharashtra,Constituency_40,MP_Name_40,Work_284,05-05-2021,Completed
-285,Delhi,Constituency_41,MP_Name_41,Work_285,28-09-2023,Completed
-286,Gujarat,Constituency_42,MP_Name_42,Work_286,26-03-2022,Completed
-287,Gujarat,Constituency_43,MP_Name_43,Work_287,01-07-2022,Completed
-288,Karnataka,Constituency_44,MP_Name_44,Work_288,10-07-2023,Completed
-289,Uttar Pradesh,Constituency_45,MP_Name_45,Work_289,16-04-2023,Completed
-290,Uttar Pradesh,Constituency_46,MP_Name_46,Work_290,27-10-2022,Completed
-291,Maharashtra,Constituency_47,MP_Name_47,Work_291,24-10-2021,Completed
-292,Maharashtra,Constituency_48,MP_Name_48,Work_292,14-08-2023,Completed
-293,Maharashtra,Constituency_49,MP_Name_49,Work_293,31-10-2021,Completed
-294,Tamil Nadu,Constituency_50,MP_Name_50,Work_294,16-11-2021,Completed
-295,Karnataka,Constituency_51,MP_Name_51,Work_295,01-10-2023,Completed
-296,Karnataka,Constituency_52,MP_Name_52,Work_296,06-08-2022,Completed
-297,Maharashtra,Constituency_53,MP_Name_53,Work_297,20-03-2023,Completed
-298,Gujarat,Constituency_54,MP_Name_54,Work_298,07-02-2023,Completed
-299,Gujarat,Constituency_55,MP_Name_55,Work_299,25-05-2022,Completed
-300,Uttar Pradesh,Constituency_56,MP_Name_56,Work_300,26-08-2022,Completed
-301,Gujarat,Constituency_57,MP_Name_57,Work_301,25-10-2022,Completed
-302,Delhi,Constituency_58,MP_Name_58,Work_302,04-09-2023,Completed
-303,Gujarat,Constituency_59,MP_Name_59,Work_303,19-06-2021,Completed
-304,Karnataka,Constituency_60,MP_Name_60,Work_304,23-10-2022,Completed
-305,Tamil Nadu,Constituency_61,MP_Name_61,Work_305,15-06-2021,Completed
-306,Uttar Pradesh,Constituency_62,MP_Name_62,Work_306,01-01-2023,Completed
-307,Gujarat,Constituency_63,MP_Name_63,Work_307,28-06-2022,Completed
-308,Maharashtra,Constituency_64,MP_Name_64,Work_308,03-08-2021,Completed
-309,Tamil Nadu,Constituency_65,MP_Name_65,Work_309,22-04-2023,Completed
-310,Gujarat,Constituency_66,MP_Name_66,Work_310,07-10-2023,Completed
-311,Gujarat,Constituency_67,MP_Name_67,Work_311,29-06-2023,Completed
-312,Uttar Pradesh,Constituency_68,MP_Name_68,Work_312,02-05-2023,Completed
-313,Delhi,Constituency_69,MP_Name_69,Work_313,22-11-2021,Completed
-314,Tamil Nadu,Constituency_70,MP_Name_70,Work_314,23-05-2021,Completed
-315,Delhi,Constituency_71,MP_Name_71,Work_315,08-09-2022,Completed
-316,Delhi,Constituency_72,MP_Name_72,Work_316,22-07-2023,Completed
-317,Karnataka,Constituency_73,MP_Name_73,Work_317,19-04-2021,Completed
-318,Karnataka,Constituency_74,MP_Name_74,Work_318,12-01-2023,Completed
-319,Karnataka,Constituency_75,MP_Name_75,Work_319,12-04-2022,Completed
-320,Gujarat,Constituency_76,MP_Name_76,Work_320,29-05-2023,Completed
-321,Delhi,Constituency_77,MP_Name_77,Work_321,02-06-2022,Completed
-322,Delhi,Constituency_78,MP_Name_78,Work_322,25-02-2022,Completed
-323,Tamil Nadu,Constituency_79,MP_Name_79,Work_323,05-06-2022,Completed
-324,Delhi,Constituency_80,MP_Name_80,Work_324,09-02-2022,Completed
-325,Gujarat,Constituency_81,MP_Name_81,Work_325,06-06-2021,Completed
-326,Maharashtra,Constituency_82,MP_Name_82,Work_326,18-09-2022,Completed
-327,Tamil Nadu,Constituency_83,MP_Name_83,Work_327,01-09-2023,Completed
-328,Karnataka,Constituency_84,MP_Name_84,Work_328,15-02-2023,Completed
-329,Delhi,Constituency_85,MP_Name_85,Work_329,23-02-2023,Completed
-330,Uttar Pradesh,Constituency_86,MP_Name_86,Work_330,09-03-2021,Completed
-331,Karnataka,Constituency_87,MP_Name_87,Work_331,18-09-2021,Completed
-332,Tamil Nadu,Constituency_88,MP_Name_88,Work_332,08-02-2021,Completed
-333,Tamil Nadu,Constituency_89,MP_Name_89,Work_333,09-01-2022,Completed
-334,Gujarat,Constituency_90,MP_Name_90,Work_334,22-08-2023,Completed
-335,Karnataka,Constituency_91,MP_Name_91,Work_335,08-06-2021,Completed
-336,Maharashtra,Constituency_92,MP_Name_92,Work_336,27-04-2023,Completed
-337,Uttar Pradesh,Constituency_93,MP_Name_93,Work_337,14-01-2022,Completed
-338,Delhi,Constituency_94,MP_Name_94,Work_338,07-05-2022,Completed
-339,Maharashtra,Constituency_95,MP_Name_95,Work_339,25-03-2022,Completed
-340,Maharashtra,Constituency_96,MP_Name_96,Work_340,05-08-2021,Completed
-341,Gujarat,Constituency_97,MP_Name_97,Work_341,22-12-2021,Completed
-342,Tamil Nadu,Constituency_98,MP_Name_98,Work_342,29-03-2023,Completed
-343,Delhi,Constituency_99,MP_Name_99,Work_343,21-06-2023,Completed
-344,Uttar Pradesh,Constituency_100,MP_Name_100,Work_344,10-07-2021,Completed
-345,Uttar Pradesh,Constituency_101,MP_Name_101,Work_345,25-06-2023,Completed
-346,Delhi,Constituency_102,MP_Name_102,Work_346,24-11-2023,Completed
-347,Karnataka,Constituency_103,MP_Name_103,Work_347,29-10-2022,Completed
-348,Tamil Nadu,Constituency_104,MP_Name_104,Work_348,28-08-2021,Completed
-349,Maharashtra,Constituency_105,MP_Name_105,Work_349,28-12-2021,Completed
-350,Maharashtra,Constituency_106,MP_Name_106,Work_350,05-04-2022,Completed
-351,Delhi,Constituency_107,MP_Name_107,Work_351,02-04-2021,Completed
-352,Gujarat,Constituency_108,MP_Name_108,Work_352,31-01-2022,Completed
-353,Delhi,Constituency_109,MP_Name_109,Work_353,30-06-2023,Completed
-354,Uttar Pradesh,Constituency_110,MP_Name_110,Work_354,18-09-2021,Completed
-355,Tamil Nadu,Constituency_111,MP_Name_111,Work_355,10-06-2023,Completed
-356,Gujarat,Constituency_112,MP_Name_112,Work_356,20-01-2021,Completed
-357,Delhi,Constituency_113,MP_Name_113,Work_357,14-02-2022,Completed
-358,Maharashtra,Constituency_114,MP_Name_114,Work_358,19-07-2023,Completed
-359,Delhi,Constituency_115,MP_Name_115,Work_359,14-09-2021,Completed
-360,Karnataka,Constituency_116,MP_Name_116,Work_360,01-11-2022,Completed
-361,Karnataka,Constituency_117,MP_Name_117,Work_361,10-06-2021,Completed
-362,Karnataka,Constituency_118,MP_Name_118,Work_362,05-09-2023,Completed
-363,Karnataka,Constituency_119,MP_Name_119,Work_363,18-06-2023,Completed
-364,Maharashtra,Constituency_120,MP_Name_120,Work_364,26-04-2022,Completed
-365,Gujarat,Constituency_121,MP_Name_121,Work_365,04-07-2021,Completed
-366,Maharashtra,Constituency_122,MP_Name_122,Work_366,17-09-2023,Completed
-367,Karnataka,Constituency_123,MP_Name_123,Work_367,24-11-2022,Completed
-368,Karnataka,Constituency_124,MP_Name_124,Work_368,08-10-2021,Completed
-369,Delhi,Constituency_125,MP_Name_125,Work_369,30-11-2022,Completed
-370,Karnataka,Constituency_126,MP_Name_126,Work_370,27-02-2022,Completed
-371,Maharashtra,Constituency_127,MP_Name_127,Work_371,09-12-2023,Completed
-372,Karnataka,Constituency_128,MP_Name_128,Work_372,15-10-2021,Completed
-373,Tamil Nadu,Constituency_129,MP_Name_129,Work_373,25-05-2023,Completed
-374,Gujarat,Constituency_130,MP_Name_130,Work_374,12-04-2021,Completed
-375,Gujarat,Constituency_131,MP_Name_131,Work_375,07-08-2023,Completed
-376,Karnataka,Constituency_132,MP_Name_132,Work_376,10-06-2022,Completed
-377,Delhi,Constituency_133,MP_Name_133,Work_377,19-10-2022,Completed
-378,Uttar Pradesh,Constituency_134,MP_Name_134,Work_378,31-08-2023,Completed
-379,Karnataka,Constituency_135,MP_Name_135,Work_379,04-05-2023,Completed
-380,Maharashtra,Constituency_136,MP_Name_136,Work_380,08-09-2023,Completed
-381,Karnataka,Constituency_137,MP_Name_137,Work_381,22-02-2021,Completed
-382,Maharashtra,Constituency_138,MP_Name_138,Work_382,24-06-2023,Completed
-383,Gujarat,Constituency_139,MP_Name_139,Work_383,31-08-2022,Completed
-384,Uttar Pradesh,Constituency_140,MP_Name_140,Work_384,28-01-2021,Completed
-385,Tamil Nadu,Constituency_141,MP_Name_141,Work_385,03-08-2022,Completed
-386,Uttar Pradesh,Constituency_142,MP_Name_142,Work_386,27-03-2023,Completed
-387,Gujarat,Constituency_143,MP_Name_143,Work_387,12-07-2022,Completed
-388,Karnataka,Constituency_144,MP_Name_144,Work_388,29-12-2023,Completed
-389,Maharashtra,Constituency_145,MP_Name_145,Work_389,18-02-2022,Completed
-390,Tamil Nadu,Constituency_146,MP_Name_146,Work_390,02-11-2021,Completed
-391,Delhi,Constituency_147,MP_Name_147,Work_391,10-03-2023,Completed
-392,Delhi,Constituency_148,MP_Name_148,Work_392,09-09-2021,Completed
-393,Tamil Nadu,Constituency_149,MP_Name_149,Work_393,14-09-2023,Completed
-394,Karnataka,Constituency_150,MP_Name_150,Work_394,12-06-2021,Completed
-395,Maharashtra,Constituency_151,MP_Name_151,Work_395,10-03-2021,Completed
-396,Tamil Nadu,Constituency_152,MP_Name_152,Work_396,19-06-2021,Completed
-397,Karnataka,Constituency_153,MP_Name_153,Work_397,20-12-2023,Completed
-398,Gujarat,Constituency_154,MP_Name_154,Work_398,11-08-2022,Completed
-399,Gujarat,Constituency_155,MP_Name_155,Work_399,03-07-2021,Completed
-400,Delhi,Constituency_156,MP_Name_156,Work_400,02-07-2021,Completed
-401,Delhi,Constituency_157,MP_Name_157,Work_401,16-05-2022,Completed
-402,Maharashtra,Constituency_158,MP_Name_158,Work_402,29-11-2023,Completed
-403,Maharashtra,Constituency_159,MP_Name_159,Work_403,26-01-2023,Completed
-404,Karnataka,Constituency_160,MP_Name_160,Work_404,01-05-2021,Completed
-405,Uttar Pradesh,Constituency_161,MP_Name_161,Work_405,13-10-2021,Completed
-406,Karnataka,Constituency_162,MP_Name_162,Work_406,29-09-2023,Completed
-407,Gujarat,Constituency_163,MP_Name_163,Work_407,28-02-2021,Completed
-408,Delhi,Constituency_164,MP_Name_164,Work_408,25-09-2022,Completed
-409,Gujarat,Constituency_165,MP_Name_165,Work_409,02-07-2021,Completed
-410,Maharashtra,Constituency_166,MP_Name_166,Work_410,20-08-2022,Completed
-411,Maharashtra,Constituency_167,MP_Name_167,Work_411,24-07-2023,Completed
-412,Karnataka,Constituency_168,MP_Name_168,Work_412,29-05-2023,Completed
-413,Maharashtra,Constituency_169,MP_Name_169,Work_413,09-04-2021,Completed
-414,Uttar Pradesh,Constituency_170,MP_Name_170,Work_414,27-07-2023,Completed
-415,Maharashtra,Constituency_171,MP_Name_171,Work_415,01-01-2021,Completed
-416,Tamil Nadu,Constituency_172,MP_Name_172,Work_416,06-10-2021,Completed
-417,Tamil Nadu,Constituency_173,MP_Name_173,Work_417,10-03-2021,Completed
-418,Maharashtra,Constituency_174,MP_Name_174,Work_418,09-03-2022,Completed
-419,Maharashtra,Constituency_175,MP_Name_175,Work_419,26-03-2021,Completed
-420,Delhi,Constituency_176,MP_Name_176,Work_420,01-12-2022,Completed
-421,Karnataka,Constituency_177,MP_Name_177,Work_421,13-10-2022,Completed
-422,Tamil Nadu,Constituency_178,MP_Name_178,Work_422,09-10-2021,Completed
-423,Delhi,Constituency_179,MP_Name_179,Work_423,28-11-2022,Completed
-424,Uttar Pradesh,Constituency_180,MP_Name_180,Work_424,15-02-2023,Completed
-425,Gujarat,Constituency_181,MP_Name_181,Work_425,18-11-2022,Completed
-426,Delhi,Constituency_182,MP_Name_182,Work_426,22-02-2022,Completed
-427,Delhi,Constituency_183,MP_Name_183,Work_427,05-04-2021,Completed
-428,Maharashtra,Constituency_184,MP_Name_184,Work_428,27-04-2021,Completed
-429,Gujarat,Constituency_185,MP_Name_185,Work_429,30-01-2022,Completed
-430,Gujarat,Constituency_186,MP_Name_186,Work_430,16-01-2021,Completed
-431,Uttar Pradesh,Constituency_187,MP_Name_187,Work_431,26-11-2021,Completed
-432,Gujarat,Constituency_188,MP_Name_188,Work_432,19-07-2023,Completed
-433,Gujarat,Constituency_189,MP_Name_189,Work_433,04-09-2021,Completed
-434,Maharashtra,Constituency_190,MP_Name_190,Work_434,15-01-2023,Completed
-435,Gujarat,Constituency_191,MP_Name_191,Work_435,24-07-2023,Completed
-436,Tamil Nadu,Constituency_192,MP_Name_192,Work_436,21-04-2021,Completed
-437,Maharashtra,Constituency_193,MP_Name_193,Work_437,15-12-2022,Completed
-438,Karnataka,Constituency_194,MP_Name_194,Work_438,24-11-2022,Completed
-439,Delhi,Constituency_195,MP_Name_195,Work_439,09-03-2022,Completed
-440,Tamil Nadu,Constituency_196,MP_Name_196,Work_440,27-05-2022,Completed
-441,Gujarat,Constituency_197,MP_Name_197,Work_441,16-05-2023,Completed
-442,Tamil Nadu,Constituency_198,MP_Name_198,Work_442,10-10-2021,Completed
-443,Karnataka,Constituency_199,MP_Name_199,Work_443,07-03-2021,Completed
-444,Karnataka,Constituency_200,MP_Name_200,Work_444,29-07-2022,Completed
-445,Delhi,Constituency_201,MP_Name_201,Work_445,26-05-2023,Completed
-446,Delhi,Constituency_202,MP_Name_202,Work_446,10-11-2022,Completed
-447,Uttar Pradesh,Constituency_203,MP_Name_203,Work_447,06-10-2021,Completed
-448,Karnataka,Constituency_204,MP_Name_204,Work_448,29-08-2023,Completed
-449,Gujarat,Constituency_205,MP_Name_205,Work_449,17-05-2022,Completed
-450,Karnataka,Constituency_206,MP_Name_206,Work_450,29-10-2022,Completed
-451,Delhi,Constituency_207,MP_Name_207,Work_451,13-12-2023,Completed
-452,Karnataka,Constituency_208,MP_Name_208,Work_452,24-02-2022,Completed
-453,Delhi,Constituency_209,MP_Name_209,Work_453,14-11-2021,Completed
-454,Delhi,Constituency_210,MP_Name_210,Work_454,08-07-2023,Completed
-455,Maharashtra,Constituency_211,MP_Name_211,Work_455,13-07-2021,Completed
-456,Uttar Pradesh,Constituency_212,MP_Name_212,Work_456,29-04-2022,Completed
-457,Maharashtra,Constituency_213,MP_Name_213,Work_457,03-08-2023,Completed
-458,Uttar Pradesh,Constituency_214,MP_Name_214,Work_458,24-05-2021,Completed
-459,Maharashtra,Constituency_215,MP_Name_215,Work_459,02-04-2022,Completed
-460,Maharashtra,Constituency_216,MP_Name_216,Work_460,20-03-2023,Completed
-461,Delhi,Constituency_217,MP_Name_217,Work_461,02-05-2021,Completed
-462,Gujarat,Constituency_218,MP_Name_218,Work_462,01-01-2021,Completed
-463,Delhi,Constituency_219,MP_Name_219,Work_463,18-07-2022,Completed
-464,Delhi,Constituency_220,MP_Name_220,Work_464,07-05-2021,Completed
-465,Maharashtra,Constituency_221,MP_Name_221,Work_465,11-09-2023,Completed
-466,Tamil Nadu,Constituency_222,MP_Name_222,Work_466,18-10-2022,Completed
-467,Karnataka,Constituency_223,MP_Name_223,Work_467,01-08-2023,Completed
-468,Delhi,Constituency_224,MP_Name_224,Work_468,29-08-2022,Completed
-469,Uttar Pradesh,Constituency_225,MP_Name_225,Work_469,01-04-2022,Completed
-470,Uttar Pradesh,Constituency_226,MP_Name_226,Work_470,27-04-2021,Completed
-471,Gujarat,Constituency_227,MP_Name_227,Work_471,08-11-2023,Completed
-472,Uttar Pradesh,Constituency_228,MP_Name_228,Work_472,31-07-2022,Completed
-473,Uttar Pradesh,Constituency_229,MP_Name_229,Work_473,31-01-2023,Completed
-474,Maharashtra,Constituency_230,MP_Name_230,Work_474,16-05-2022,Completed
-475,Karnataka,Constituency_231,MP_Name_231,Work_475,03-04-2022,Completed
-476,Karnataka,Constituency_232,MP_Name_232,Work_476,01-07-2023,Completed
-477,Tamil Nadu,Constituency_233,MP_Name_233,Work_477,03-09-2021,Completed
-478,Tamil Nadu,Constituency_234,MP_Name_234,Work_478,28-11-2023,Completed
-479,Tamil Nadu,Constituency_235,MP_Name_235,Work_479,03-04-2022,Completed
-480,Gujarat,Constituency_236,MP_Name_236,Work_480,07-12-2021,Completed
-481,Uttar Pradesh,Constituency_237,MP_Name_237,Work_481,11-11-2021,Completed
-482,Gujarat,Constituency_238,MP_Name_238,Work_482,11-01-2022,Completed
-483,Karnataka,Constituency_239,MP_Name_239,Work_483,04-04-2023,Completed
-484,Delhi,Constituency_240,MP_Name_240,Work_484,07-06-2023,Completed
-485,Uttar Pradesh,Constituency_241,MP_Name_241,Work_485,16-08-2023,Completed
-486,Gujarat,Constituency_242,MP_Name_242,Work_486,05-02-2022,Completed
-487,Maharashtra,Constituency_243,MP_Name_243,Work_487,25-11-2021,Completed
-488,Tamil Nadu,Constituency_244,MP_Name_244,Work_488,15-03-2022,Completed
-489,Maharashtra,Constituency_245,MP_Name_245,Work_489,08-07-2021,Completed
+1,Maharashtra,Constituency_94,MP_Name_94,MH/790/2021-2022/50519 - Construction of Drinking Water facility,27-08-2024,Completed
+2,Madhya Pradesh,Constituency_213,MP_Name_213,MP/497/2023-2024/51149 - Construction of Health facility,23-10-2023,Completed
+3,Karnataka,Constituency_157,MP_Name_157,KA/921/2021-2022/50859 - Construction of Health facility,03-05-2022,Completed
+4,Gujarat,Constituency_22,MP_Name_22,GJ/899/2022-2023/50116 - Construction of Sanitation facility,11-02-2024,Completed
+5,Maharashtra,Constituency_242,MP_Name_242,MH/775/2021-2022/51315 - Construction of Education facility,23-07-2024,Completed
+6,Rajasthan,Constituency_185,MP_Name_185,RJ/992/2022-2023/50999 - Construction of Electricity facility,21-01-2023,Completed
+7,Uttar Pradesh,Constituency_150,MP_Name_150,UP/459/2023-2024/50820 - Construction of Roads facility,15-01-2021,Completed
+8,West Bengal,Constituency_165,MP_Name_165,WB/241/2022-2023/50903 - Construction of Sanitation facility,05-10-2023,Completed
+9,Karnataka,Constituency_28,MP_Name_28,KA/862/2021-2022/50152 - Construction of Education facility,04-11-2022,Completed
+10,Tamil Nadu,Constituency_162,MP_Name_162,TN/855/2021-2022/50879 - Construction of Sanitation facility,05-08-2023,Completed
+11,Madhya Pradesh,Constituency_128,MP_Name_128,MP/174/2021-2022/50696 - Construction of Drinking Water facility,13-02-2022,Completed
+12,Gujarat,Constituency_143,MP_Name_143,GJ/807/2021-2022/50777 - Construction of Sanitation facility,28-03-2021,Completed
+13,West Bengal,Constituency_165,MP_Name_165,WB/682/2023-2024/50901 - Construction of Sanitation facility,12-03-2021,Completed
+14,Karnataka,Constituency_208,MP_Name_208,KA/902/2022-2023/51118 - Construction of Electricity facility,17-06-2022,Completed
+15,Uttar Pradesh,Constituency_33,MP_Name_33,UP/725/2022-2023/50182 - Construction of Sanitation facility,11-05-2024,Completed
+16,Madhya Pradesh,Constituency_67,MP_Name_67,MP/148/2022-2023/50361 - Construction of Drinking Water facility,21-03-2022,Completed
+17,West Bengal,Constituency_219,MP_Name_219,WB/465/2021-2022/51182 - Construction of Drinking Water facility,02-10-2022,Completed
+18,Karnataka,Constituency_156,MP_Name_156,KA/538/2023-2024/50850 - Construction of Electricity facility,06-05-2021,Completed
+19,Delhi,Constituency_200,MP_Name_200,DL/622/2021-2022/51084 - Construction of Sanitation facility,07-02-2022,Completed
+20,Rajasthan,Constituency_182,MP_Name_182,RJ/820/2023-2024/50986 - Construction of Sanitation facility,14-03-2023,Completed
+21,Rajasthan,Constituency_57,MP_Name_57,RJ/128/2022-2023/50306 - Construction of Electricity facility,28-09-2024,Completed
+22,West Bengal,Constituency_8,MP_Name_8,WB/703/2022-2023/50042 - Construction of Education facility,24-08-2023,Completed
+23,Karnataka,Constituency_91,MP_Name_91,KA/908/2021-2022/50501 - Construction of Education facility,10-03-2022,Completed
+24,Bihar,Constituency_214,MP_Name_214,BR/324/2022-2023/51159 - Construction of Sanitation facility,31-03-2021,Completed
+25,Tamil Nadu,Constituency_19,MP_Name_19,TN/468/2022-2023/50097 - Construction of Sanitation facility,11-06-2022,Completed
+26,West Bengal,Constituency_42,MP_Name_42,WB/508/2022-2023/50219 - Construction of Roads facility,02-03-2024,Completed
+27,Karnataka,Constituency_56,MP_Name_56,KA/115/2023-2024/50297 - Construction of Drinking Water facility,01-02-2024,Completed
+28,Rajasthan,Constituency_57,MP_Name_57,RJ/884/2021-2022/50305 - Construction of Electricity facility,15-03-2023,Completed
+29,Bihar,Constituency_53,MP_Name_53,BR/112/2022-2023/50281 - Construction of Health facility,05-04-2022,Completed
+30,Gujarat,Constituency_22,MP_Name_22,GJ/571/2023-2024/50122 - Construction of Roads facility,23-10-2022,Completed
+31,Maharashtra,Constituency_75,MP_Name_75,MH/192/2022-2023/50409 - Construction of Health facility,13-11-2023,Completed
+32,Karnataka,Constituency_239,MP_Name_239,KA/831/2023-2024/51300 - Construction of Electricity facility,30-07-2024,Completed
+33,West Bengal,Constituency_122,MP_Name_122,WB/282/2021-2022/50671 - Construction of Drinking Water facility,25-12-2021,Completed
+34,Maharashtra,Constituency_222,MP_Name_222,MH/572/2023-2024/51200 - Construction of Sanitation facility,30-11-2023,Completed
+35,Bihar,Constituency_111,MP_Name_111,BR/428/2021-2022/50616 - Construction of Sanitation facility,03-07-2024,Completed
+36,Bihar,Constituency_31,MP_Name_31,BR/397/2021-2022/50169 - Construction of Sanitation facility,21-08-2024,Completed
+37,Madhya Pradesh,Constituency_119,MP_Name_119,MP/572/2023-2024/50654 - Construction of Health facility,29-10-2021,Completed
+38,Maharashtra,Constituency_6,MP_Name_6,MH/539/2021-2022/50026 - Construction of Roads facility,10-02-2023,Completed
+39,Bihar,Constituency_29,MP_Name_29,BR/729/2022-2023/50155 - Construction of Roads facility,16-12-2024,Completed
+40,Karnataka,Constituency_83,MP_Name_83,KA/764/2022-2023/50454 - Construction of Education facility,11-06-2024,Completed
+41,Maharashtra,Constituency_76,MP_Name_76,MH/255/2022-2023/50414 - Construction of Education facility,15-05-2021,Completed
+42,Maharashtra,Constituency_30,MP_Name_30,MH/814/2022-2023/50161 - Construction of Drinking Water facility,30-01-2023,Completed
+43,Delhi,Constituency_43,MP_Name_43,DL/857/2022-2023/50230 - Construction of Education facility,03-05-2023,Completed
+44,Maharashtra,Constituency_228,MP_Name_228,MH/139/2021-2022/51237 - Construction of Education facility,22-12-2021,Completed
+45,Bihar,Constituency_214,MP_Name_214,BR/855/2022-2023/51158 - Construction of Education facility,05-12-2023,Completed
+46,Gujarat,Constituency_100,MP_Name_100,GJ/667/2022-2023/50556 - Construction of Electricity facility,10-12-2024,Completed
+47,Maharashtra,Constituency_30,MP_Name_30,MH/599/2022-2023/50157 - Construction of Electricity facility,24-07-2024,Completed
+48,Rajasthan,Constituency_89,MP_Name_89,RJ/933/2023-2024/50488 - Construction of Roads facility,13-01-2021,Completed
+49,West Bengal,Constituency_165,MP_Name_165,WB/502/2021-2022/50899 - Construction of Health facility,18-01-2023,Completed
+50,Maharashtra,Constituency_198,MP_Name_198,MH/719/2022-2023/51079 - Construction of Electricity facility,30-12-2021,Completed
+51,Delhi,Constituency_231,MP_Name_231,DL/526/2022-2023/51253 - Construction of Education facility,21-03-2021,Completed
+52,Rajasthan,Constituency_113,MP_Name_113,RJ/127/2021-2022/50630 - Construction of Electricity facility,22-02-2023,Completed
+53,Bihar,Constituency_29,MP_Name_29,BR/982/2022-2023/50153 - Construction of Education facility,25-10-2024,Completed
+54,Gujarat,Constituency_180,MP_Name_180,GJ/740/2021-2022/50970 - Construction of Sanitation facility,27-11-2023,Completed
+55,Tamil Nadu,Constituency_49,MP_Name_49,TN/231/2023-2024/50263 - Construction of Sanitation facility,15-02-2023,Completed
+56,Bihar,Constituency_190,MP_Name_190,BR/908/2023-2024/51030 - Construction of Education facility,17-07-2024,Completed
+57,West Bengal,Constituency_42,MP_Name_42,WB/888/2021-2022/50222 - Construction of Drinking Water facility,01-03-2021,Completed
+58,Gujarat,Constituency_46,MP_Name_46,GJ/688/2022-2023/50249 - Construction of Electricity facility,19-02-2024,Completed
+59,Bihar,Constituency_87,MP_Name_87,BR/169/2021-2022/50481 - Construction of Roads facility,26-02-2023,Completed
+60,Madhya Pradesh,Constituency_71,MP_Name_71,MP/818/2022-2023/50384 - Construction of Drinking Water facility,31-01-2023,Completed
+61,Gujarat,Constituency_195,MP_Name_195,GJ/302/2023-2024/51062 - Construction of Health facility,04-12-2023,Completed
+62,Madhya Pradesh,Constituency_80,MP_Name_80,MP/490/2022-2023/50438 - Construction of Sanitation facility,25-02-2021,Completed
+63,Tamil Nadu,Constituency_189,MP_Name_189,TN/761/2023-2024/51026 - Construction of Roads facility,27-02-2024,Completed
+64,Karnataka,Constituency_115,MP_Name_115,KA/373/2021-2022/50638 - Construction of Health facility,29-12-2022,Completed
+65,Gujarat,Constituency_195,MP_Name_195,GJ/908/2022-2023/51061 - Construction of Roads facility,03-12-2021,Completed
+66,Bihar,Constituency_244,MP_Name_244,BR/144/2021-2022/51322 - Construction of Drinking Water facility,26-05-2024,Completed
+67,Uttar Pradesh,Constituency_32,MP_Name_32,UP/423/2022-2023/50174 - Construction of Drinking Water facility,12-05-2022,Completed
+68,Madhya Pradesh,Constituency_67,MP_Name_67,MP/106/2022-2023/50359 - Construction of Drinking Water facility,22-03-2022,Completed
+69,Rajasthan,Constituency_130,MP_Name_130,RJ/212/2023-2024/50705 - Construction of Drinking Water facility,12-06-2021,Completed
+70,Rajasthan,Constituency_102,MP_Name_102,RJ/686/2021-2022/50567 - Construction of Drinking Water facility,20-10-2022,Completed
+71,Uttar Pradesh,Constituency_11,MP_Name_11,UP/920/2021-2022/50058 - Construction of Sanitation facility,29-01-2022,Completed
+72,Maharashtra,Constituency_10,MP_Name_10,MH/291/2023-2024/50052 - Construction of Drinking Water facility,27-10-2021,Completed
+73,Tamil Nadu,Constituency_162,MP_Name_162,TN/764/2021-2022/50881 - Construction of Electricity facility,06-12-2021,Completed
+74,Uttar Pradesh,Constituency_55,MP_Name_55,UP/262/2022-2023/50293 - Construction of Sanitation facility,04-06-2023,Completed
+75,Maharashtra,Constituency_221,MP_Name_221,MH/463/2022-2023/51198 - Construction of Sanitation facility,02-08-2024,Completed
+76,Gujarat,Constituency_99,MP_Name_99,GJ/312/2022-2023/50546 - Construction of Electricity facility,01-02-2024,Completed
+77,Madhya Pradesh,Constituency_63,MP_Name_63,MP/348/2023-2024/50341 - Construction of Electricity facility,16-08-2024,Completed
+78,Delhi,Constituency_177,MP_Name_177,DL/288/2022-2023/50956 - Construction of Roads facility,16-01-2023,Completed
+79,Gujarat,Constituency_188,MP_Name_188,GJ/105/2022-2023/51017 - Construction of Sanitation facility,30-11-2023,Completed
+80,Maharashtra,Constituency_211,MP_Name_211,MH/632/2023-2024/51138 - Construction of Drinking Water facility,02-12-2021,Completed
+81,Maharashtra,Constituency_76,MP_Name_76,MH/795/2022-2023/50416 - Construction of Sanitation facility,12-01-2021,Completed
+82,West Bengal,Constituency_227,MP_Name_227,WB/728/2021-2022/51232 - Construction of Drinking Water facility,18-02-2023,Completed
+83,Madhya Pradesh,Constituency_63,MP_Name_63,MP/527/2023-2024/50340 - Construction of Roads facility,19-05-2023,Completed
+84,Bihar,Constituency_214,MP_Name_214,BR/300/2022-2023/51157 - Construction of Health facility,02-10-2021,Completed
+85,Delhi,Constituency_231,MP_Name_231,DL/599/2022-2023/51250 - Construction of Drinking Water facility,17-07-2021,Completed
+86,Bihar,Constituency_90,MP_Name_90,BR/225/2023-2024/50493 - Construction of Drinking Water facility,27-02-2021,Completed
+87,Bihar,Constituency_125,MP_Name_125,BR/514/2022-2023/50682 - Construction of Drinking Water facility,10-09-2022,Completed
+88,Rajasthan,Constituency_89,MP_Name_89,RJ/700/2022-2023/50489 - Construction of Sanitation facility,09-06-2023,Completed
+89,Uttar Pradesh,Constituency_21,MP_Name_21,UP/341/2021-2022/50113 - Construction of Sanitation facility,10-04-2022,Completed
+90,Uttar Pradesh,Constituency_55,MP_Name_55,UP/681/2022-2023/50290 - Construction of Electricity facility,09-01-2023,Completed
+91,Maharashtra,Constituency_149,MP_Name_149,MH/168/2023-2024/50814 - Construction of Drinking Water facility,25-09-2024,Completed
+92,Bihar,Constituency_191,MP_Name_191,BR/236/2022-2023/51038 - Construction of Electricity facility,04-12-2024,Completed
+93,Tamil Nadu,Constituency_118,MP_Name_118,TN/835/2021-2022/50651 - Construction of Sanitation facility,15-05-2022,Completed
+94,Bihar,Constituency_84,MP_Name_84,BR/654/2021-2022/50460 - Construction of Electricity facility,27-11-2022,Completed
+95,Madhya Pradesh,Constituency_37,MP_Name_37,MP/276/2022-2023/50198 - Construction of Electricity facility,30-11-2021,Completed
+96,Karnataka,Constituency_92,MP_Name_92,KA/739/2023-2024/50507 - Construction of Drinking Water facility,27-09-2022,Completed
+97,Uttar Pradesh,Constituency_21,MP_Name_21,UP/208/2021-2022/50111 - Construction of Roads facility,30-04-2023,Completed
+98,Karnataka,Constituency_104,MP_Name_104,KA/929/2022-2023/50583 - Construction of Electricity facility,21-04-2024,Completed
+99,Rajasthan,Constituency_207,MP_Name_207,RJ/223/2023-2024/51117 - Construction of Health facility,27-01-2021,Completed
+100,Tamil Nadu,Constituency_220,MP_Name_220,TN/386/2021-2022/51190 - Construction of Health facility,01-01-2021,Completed
+101,Gujarat,Constituency_79,MP_Name_79,GJ/477/2022-2023/50434 - Construction of Electricity facility,07-01-2022,Completed
+102,Gujarat,Constituency_180,MP_Name_180,GJ/138/2021-2022/50968 - Construction of Electricity facility,23-03-2021,Completed
+103,Bihar,Constituency_31,MP_Name_31,BR/616/2022-2023/50166 - Construction of Drinking Water facility,21-12-2023,Completed
+104,Tamil Nadu,Constituency_175,MP_Name_175,TN/343/2022-2023/50938 - Construction of Electricity facility,29-11-2021,Completed
+105,Madhya Pradesh,Constituency_223,MP_Name_223,MP/361/2023-2024/51208 - Construction of Sanitation facility,24-08-2023,Completed
+106,Uttar Pradesh,Constituency_21,MP_Name_21,UP/423/2023-2024/50109 - Construction of Health facility,27-02-2023,Completed
+107,Maharashtra,Constituency_112,MP_Name_112,MH/780/2022-2023/50624 - Construction of Drinking Water facility,04-06-2021,Completed
+108,Bihar,Constituency_73,MP_Name_73,BR/590/2021-2022/50394 - Construction of Sanitation facility,01-02-2021,Completed
+109,Uttar Pradesh,Constituency_196,MP_Name_196,UP/891/2021-2022/51066 - Construction of Education facility,28-11-2023,Completed
+110,Bihar,Constituency_151,MP_Name_151,BR/101/2021-2022/50829 - Construction of Sanitation facility,19-04-2023,Completed
+111,Karnataka,Constituency_5,MP_Name_5,KA/706/2023-2024/50023 - Construction of Drinking Water facility,24-10-2024,Completed
+112,Maharashtra,Constituency_221,MP_Name_221,MH/886/2022-2023/51197 - Construction of Electricity facility,07-06-2021,Completed
+113,Rajasthan,Constituency_130,MP_Name_130,RJ/677/2021-2022/50703 - Construction of Sanitation facility,01-01-2021,Completed
+114,Rajasthan,Constituency_134,MP_Name_134,RJ/264/2021-2022/50723 - Construction of Roads facility,26-09-2023,Completed
+115,West Bengal,Constituency_184,MP_Name_184,WB/872/2022-2023/50994 - Construction of Drinking Water facility,11-04-2024,Completed
+116,Gujarat,Constituency_143,MP_Name_143,GJ/595/2023-2024/50779 - Construction of Sanitation facility,03-06-2022,Completed
+117,Uttar Pradesh,Constituency_215,MP_Name_215,UP/619/2022-2023/51166 - Construction of Sanitation facility,29-03-2024,Completed
+118,Karnataka,Constituency_171,MP_Name_171,KA/869/2021-2022/50926 - Construction of Education facility,01-01-2022,Completed
+119,Rajasthan,Constituency_138,MP_Name_138,RJ/965/2022-2023/50746 - Construction of Drinking Water facility,09-08-2024,Completed
+120,Delhi,Constituency_64,MP_Name_64,DL/744/2022-2023/50344 - Construction of Electricity facility,28-09-2021,Completed
+121,Uttar Pradesh,Constituency_224,MP_Name_224,UP/973/2021-2022/51211 - Construction of Sanitation facility,02-02-2022,Completed
+122,West Bengal,Constituency_3,MP_Name_3,WB/517/2023-2024/50010 - Construction of Education facility,17-10-2021,Completed
+123,Madhya Pradesh,Constituency_80,MP_Name_80,MP/172/2023-2024/50436 - Construction of Sanitation facility,05-10-2021,Completed
+124,Maharashtra,Constituency_211,MP_Name_211,MH/342/2022-2023/51142 - Construction of Sanitation facility,05-11-2021,Completed
+125,Delhi,Constituency_69,MP_Name_69,DL/646/2023-2024/50373 - Construction of Drinking Water facility,28-10-2024,Completed
+126,Maharashtra,Constituency_120,MP_Name_120,MH/872/2021-2022/50661 - Construction of Education facility,11-03-2024,Completed
+127,Uttar Pradesh,Constituency_215,MP_Name_215,UP/840/2023-2024/51165 - Construction of Roads facility,25-02-2021,Completed
+128,West Bengal,Constituency_42,MP_Name_42,WB/869/2023-2024/50224 - Construction of Drinking Water facility,01-05-2023,Completed
+129,Gujarat,Constituency_66,MP_Name_66,GJ/404/2022-2023/50356 - Construction of Electricity facility,19-04-2024,Completed
+130,Bihar,Constituency_73,MP_Name_73,BR/750/2023-2024/50396 - Construction of Education facility,13-12-2023,Completed
+131,Bihar,Constituency_183,MP_Name_183,BR/242/2022-2023/50990 - Construction of Electricity facility,02-01-2023,Completed
+132,Uttar Pradesh,Constituency_55,MP_Name_55,UP/568/2022-2023/50294 - Construction of Health facility,04-05-2022,Completed
+133,Delhi,Constituency_240,MP_Name_240,DL/199/2023-2024/51304 - Construction of Drinking Water facility,15-04-2021,Completed
+134,Delhi,Constituency_52,MP_Name_52,DL/364/2021-2022/50279 - Construction of Roads facility,09-07-2023,Completed
+135,Maharashtra,Constituency_206,MP_Name_206,MH/908/2021-2022/51113 - Construction of Education facility,19-04-2022,Completed
+136,Rajasthan,Constituency_182,MP_Name_182,RJ/316/2023-2024/50984 - Construction of Sanitation facility,17-08-2022,Completed
+137,Karnataka,Constituency_68,MP_Name_68,KA/271/2021-2022/50365 - Construction of Drinking Water facility,18-08-2023,Completed
+138,Rajasthan,Constituency_102,MP_Name_102,RJ/326/2023-2024/50572 - Construction of Roads facility,25-01-2023,Completed
+139,Karnataka,Constituency_7,MP_Name_7,KA/593/2021-2022/50035 - Construction of Sanitation facility,01-10-2021,Completed
+140,Bihar,Constituency_236,MP_Name_236,BR/313/2021-2022/51283 - Construction of Education facility,30-09-2022,Completed
+141,Madhya Pradesh,Constituency_140,MP_Name_140,MP/278/2022-2023/50757 - Construction of Education facility,20-02-2022,Completed
+142,Tamil Nadu,Constituency_162,MP_Name_162,TN/929/2021-2022/50882 - Construction of Education facility,15-03-2024,Completed
+143,West Bengal,Constituency_60,MP_Name_60,WB/321/2021-2022/50322 - Construction of Electricity facility,25-08-2021,Completed
+144,Karnataka,Constituency_146,MP_Name_146,KA/713/2021-2022/50791 - Construction of Education facility,07-05-2021,Completed
+145,West Bengal,Constituency_229,MP_Name_229,WB/712/2023-2024/51240 - Construction of Electricity facility,16-09-2021,Completed
+146,Rajasthan,Constituency_20,MP_Name_20,RJ/305/2021-2022/50107 - Construction of Drinking Water facility,24-12-2022,Completed
+147,Gujarat,Constituency_158,MP_Name_158,GJ/828/2022-2023/50864 - Construction of Drinking Water facility,05-05-2024,Completed
+148,Delhi,Constituency_129,MP_Name_129,DL/691/2022-2023/50698 - Construction of Drinking Water facility,07-01-2024,Completed
+149,Bihar,Constituency_98,MP_Name_98,BR/245/2021-2022/50542 - Construction of Education facility,07-07-2023,Completed
+150,Karnataka,Constituency_26,MP_Name_26,KA/497/2021-2022/50138 - Construction of Drinking Water facility,12-05-2022,Completed
+151,Bihar,Constituency_216,MP_Name_216,BR/850/2023-2024/51171 - Construction of Electricity facility,23-07-2022,Completed
+152,Gujarat,Constituency_145,MP_Name_145,GJ/475/2023-2024/50789 - Construction of Education facility,10-11-2023,Completed
+153,Madhya Pradesh,Constituency_34,MP_Name_34,MP/434/2022-2023/50186 - Construction of Health facility,16-01-2021,Completed
+154,Gujarat,Constituency_143,MP_Name_143,GJ/915/2022-2023/50776 - Construction of Electricity facility,10-11-2022,Completed
+155,Maharashtra,Constituency_242,MP_Name_242,MH/582/2022-2023/51316 - Construction of Education facility,25-05-2023,Completed
+156,Karnataka,Constituency_74,MP_Name_74,KA/607/2022-2023/50405 - Construction of Electricity facility,27-04-2022,Completed
+157,Tamil Nadu,Constituency_61,MP_Name_61,TN/164/2021-2022/50329 - Construction of Drinking Water facility,25-11-2023,Completed
+158,Karnataka,Constituency_68,MP_Name_68,KA/638/2022-2023/50362 - Construction of Sanitation facility,18-02-2023,Completed
+159,Rajasthan,Constituency_138,MP_Name_138,RJ/329/2022-2023/50745 - Construction of Drinking Water facility,29-06-2024,Completed
+160,Tamil Nadu,Constituency_232,MP_Name_232,TN/939/2022-2023/51257 - Construction of Roads facility,07-10-2024,Completed
+161,Rajasthan,Constituency_226,MP_Name_226,RJ/695/2022-2023/51218 - Construction of Roads facility,20-01-2022,Completed
+162,Gujarat,Constituency_180,MP_Name_180,GJ/798/2021-2022/50969 - Construction of Sanitation facility,12-04-2024,Completed
+163,Maharashtra,Constituency_85,MP_Name_85,MH/895/2022-2023/50463 - Construction of Drinking Water facility,05-04-2021,Completed
+164,Bihar,Constituency_24,MP_Name_24,BR/148/2022-2023/50126 - Construction of Sanitation facility,14-06-2023,Completed
+165,Madhya Pradesh,Constituency_119,MP_Name_119,MP/182/2022-2023/50656 - Construction of Education facility,12-01-2021,Completed
+166,Gujarat,Constituency_40,MP_Name_40,GJ/556/2021-2022/50214 - Construction of Education facility,19-08-2023,Completed
+167,Gujarat,Constituency_205,MP_Name_205,GJ/626/2021-2022/51110 - Construction of Drinking Water facility,06-11-2021,Completed
+168,Karnataka,Constituency_74,MP_Name_74,KA/733/2021-2022/50402 - Construction of Sanitation facility,06-04-2022,Completed
+169,Bihar,Constituency_181,MP_Name_181,BR/787/2022-2023/50973 - Construction of Education facility,03-01-2023,Completed
+170,Bihar,Constituency_105,MP_Name_105,BR/515/2022-2023/50588 - Construction of Education facility,30-10-2024,Completed
+171,Bihar,Constituency_181,MP_Name_181,BR/740/2021-2022/50978 - Construction of Drinking Water facility,10-06-2024,Completed
+172,Karnataka,Constituency_233,MP_Name_233,KA/352/2022-2023/51267 - Construction of Health facility,20-04-2024,Completed
+173,Madhya Pradesh,Constituency_223,MP_Name_223,MP/361/2021-2022/51206 - Construction of Education facility,21-06-2021,Completed
+174,Tamil Nadu,Constituency_19,MP_Name_19,TN/152/2021-2022/50100 - Construction of Education facility,01-08-2024,Completed
+175,Bihar,Constituency_172,MP_Name_172,BR/596/2021-2022/50930 - Construction of Health facility,29-01-2024,Completed
+176,Madhya Pradesh,Constituency_14,MP_Name_14,MP/689/2021-2022/50073 - Construction of Roads facility,20-01-2022,Completed
+177,Bihar,Constituency_212,MP_Name_212,BR/881/2021-2022/51147 - Construction of Health facility,01-05-2022,Completed
+178,Tamil Nadu,Constituency_61,MP_Name_61,TN/120/2021-2022/50323 - Construction of Sanitation facility,19-08-2022,Completed
+179,Madhya Pradesh,Constituency_161,MP_Name_161,MP/680/2021-2022/50876 - Construction of Sanitation facility,29-04-2021,Completed
+180,Bihar,Constituency_87,MP_Name_87,BR/842/2021-2022/50475 - Construction of Roads facility,04-08-2021,Completed
+181,West Bengal,Constituency_229,MP_Name_229,WB/179/2023-2024/51241 - Construction of Roads facility,12-12-2023,Completed
+182,West Bengal,Constituency_17,MP_Name_17,WB/336/2023-2024/50088 - Construction of Education facility,29-09-2023,Completed
+183,Madhya Pradesh,Constituency_34,MP_Name_34,MP/560/2021-2022/50189 - Construction of Sanitation facility,17-01-2024,Completed
+184,Karnataka,Constituency_156,MP_Name_156,KA/798/2021-2022/50848 - Construction of Education facility,01-01-2024,Completed
+185,West Bengal,Constituency_95,MP_Name_95,WB/310/2022-2023/50526 - Construction of Health facility,03-06-2024,Completed
+186,Delhi,Constituency_103,MP_Name_103,DL/174/2022-2023/50573 - Construction of Electricity facility,05-11-2024,Completed
+187,Delhi,Constituency_50,MP_Name_50,DL/198/2023-2024/50268 - Construction of Drinking Water facility,09-03-2024,Completed
+188,Bihar,Constituency_73,MP_Name_73,BR/230/2021-2022/50393 - Construction of Roads facility,09-06-2022,Completed
+189,Delhi,Constituency_54,MP_Name_54,DL/173/2023-2024/50287 - Construction of Sanitation facility,12-05-2022,Completed
+190,Tamil Nadu,Constituency_220,MP_Name_220,TN/739/2021-2022/51187 - Construction of Roads facility,08-06-2021,Completed
+191,Maharashtra,Constituency_222,MP_Name_222,MH/581/2021-2022/51199 - Construction of Health facility,07-05-2024,Completed
+192,Uttar Pradesh,Constituency_186,MP_Name_186,UP/639/2022-2023/51004 - Construction of Electricity facility,11-03-2023,Completed
+193,Rajasthan,Constituency_182,MP_Name_182,RJ/439/2022-2023/50982 - Construction of Sanitation facility,21-01-2022,Completed
+194,Karnataka,Constituency_74,MP_Name_74,KA/927/2023-2024/50404 - Construction of Education facility,11-04-2024,Completed
+195,Madhya Pradesh,Constituency_223,MP_Name_223,MP/982/2022-2023/51204 - Construction of Education facility,01-06-2021,Completed
+196,Gujarat,Constituency_205,MP_Name_205,GJ/913/2021-2022/51108 - Construction of Electricity facility,13-11-2023,Completed
+197,Maharashtra,Constituency_148,MP_Name_148,MH/243/2021-2022/50807 - Construction of Drinking Water facility,04-03-2023,Completed
+198,Maharashtra,Constituency_198,MP_Name_198,MH/426/2023-2024/51077 - Construction of Electricity facility,16-02-2022,Completed
+199,Uttar Pradesh,Constituency_224,MP_Name_224,UP/601/2023-2024/51209 - Construction of Roads facility,05-05-2024,Completed
+200,Uttar Pradesh,Constituency_196,MP_Name_196,UP/310/2023-2024/51069 - Construction of Health facility,11-10-2024,Completed
+201,Gujarat,Constituency_153,MP_Name_153,GJ/377/2021-2022/50834 - Construction of Electricity facility,04-01-2024,Completed
+202,West Bengal,Constituency_122,MP_Name_122,WB/813/2022-2023/50670 - Construction of Drinking Water facility,13-07-2022,Completed
+203,Delhi,Constituency_192,MP_Name_192,DL/506/2022-2023/51042 - Construction of Health facility,15-01-2022,Completed
+204,Bihar,Constituency_87,MP_Name_87,BR/269/2021-2022/50479 - Construction of Electricity facility,31-12-2024,Completed
+205,Bihar,Constituency_90,MP_Name_90,BR/511/2021-2022/50497 - Construction of Electricity facility,16-07-2022,Completed
+206,Delhi,Constituency_64,MP_Name_64,DL/441/2022-2023/50343 - Construction of Roads facility,05-10-2023,Completed
+207,Karnataka,Constituency_147,MP_Name_147,KA/417/2023-2024/50798 - Construction of Electricity facility,21-09-2021,Completed
+208,Delhi,Constituency_50,MP_Name_50,DL/723/2021-2022/50269 - Construction of Education facility,05-04-2021,Completed
+209,Maharashtra,Constituency_142,MP_Name_142,MH/376/2021-2022/50768 - Construction of Electricity facility,14-08-2021,Completed
+210,Madhya Pradesh,Constituency_132,MP_Name_132,MP/929/2021-2022/50715 - Construction of Sanitation facility,14-05-2022,Completed
+211,Delhi,Constituency_43,MP_Name_43,DL/359/2022-2023/50228 - Construction of Electricity facility,21-06-2023,Completed
+212,Maharashtra,Constituency_211,MP_Name_211,MH/919/2022-2023/51141 - Construction of Electricity facility,04-10-2022,Completed
+213,Delhi,Constituency_240,MP_Name_240,DL/163/2022-2023/51305 - Construction of Electricity facility,28-12-2023,Completed
+214,Rajasthan,Constituency_194,MP_Name_194,RJ/207/2021-2022/51053 - Construction of Roads facility,29-11-2022,Completed
+215,Bihar,Constituency_190,MP_Name_190,BR/785/2023-2024/51034 - Construction of Roads facility,05-03-2024,Completed
+216,Bihar,Constituency_183,MP_Name_183,BR/514/2023-2024/50989 - Construction of Sanitation facility,09-09-2023,Completed
+217,Delhi,Constituency_137,MP_Name_137,DL/855/2023-2024/50734 - Construction of Health facility,27-12-2021,Completed
+218,Bihar,Constituency_172,MP_Name_172,BR/434/2023-2024/50928 - Construction of Education facility,26-05-2022,Completed
+219,Tamil Nadu,Constituency_65,MP_Name_65,TN/359/2022-2023/50350 - Construction of Sanitation facility,12-11-2022,Completed
+220,Uttar Pradesh,Constituency_11,MP_Name_11,UP/235/2021-2022/50057 - Construction of Health facility,12-09-2023,Completed
+221,Gujarat,Constituency_99,MP_Name_99,GJ/389/2023-2024/50545 - Construction of Roads facility,09-03-2022,Completed
+222,Karnataka,Constituency_28,MP_Name_28,KA/986/2022-2023/50151 - Construction of Health facility,16-12-2024,Completed
+223,Rajasthan,Constituency_135,MP_Name_135,RJ/679/2022-2023/50728 - Construction of Sanitation facility,27-09-2022,Completed
+224,Delhi,Constituency_126,MP_Name_126,DL/740/2021-2022/50685 - Construction of Education facility,14-08-2022,Completed
+225,Maharashtra,Constituency_77,MP_Name_77,MH/699/2022-2023/50423 - Construction of Sanitation facility,16-08-2024,Completed
+226,West Bengal,Constituency_48,MP_Name_48,WB/748/2023-2024/50258 - Construction of Drinking Water facility,25-12-2021,Completed
+227,Maharashtra,Constituency_77,MP_Name_77,MH/688/2021-2022/50420 - Construction of Drinking Water facility,16-06-2023,Completed
+228,Karnataka,Constituency_74,MP_Name_74,KA/841/2021-2022/50401 - Construction of Drinking Water facility,25-02-2021,Completed
+229,Uttar Pradesh,Constituency_196,MP_Name_196,UP/655/2021-2022/51065 - Construction of Sanitation facility,04-04-2024,Completed
+230,Maharashtra,Constituency_94,MP_Name_94,MH/243/2023-2024/50521 - Construction of Education facility,08-01-2022,Completed
+231,Gujarat,Constituency_210,MP_Name_210,GJ/754/2023-2024/51129 - Construction of Drinking Water facility,08-07-2021,Completed
+232,Rajasthan,Constituency_185,MP_Name_185,RJ/965/2023-2024/51002 - Construction of Electricity facility,03-07-2021,Completed
+233,Tamil Nadu,Constituency_81,MP_Name_81,TN/391/2021-2022/50445 - Construction of Sanitation facility,04-04-2022,Completed
+234,Bihar,Constituency_190,MP_Name_190,BR/582/2023-2024/51029 - Construction of Roads facility,07-05-2021,Completed
+235,Karnataka,Constituency_168,MP_Name_168,KA/766/2022-2023/50917 - Construction of Roads facility,10-03-2021,Completed
+236,Gujarat,Constituency_121,MP_Name_121,GJ/541/2021-2022/50665 - Construction of Health facility,13-10-2024,Completed
+237,Maharashtra,Constituency_44,MP_Name_44,MH/425/2021-2022/50232 - Construction of Electricity facility,01-12-2023,Completed
+238,Rajasthan,Constituency_27,MP_Name_27,RJ/184/2022-2023/50142 - Construction of Health facility,01-02-2021,Completed
+239,West Bengal,Constituency_18,MP_Name_18,WB/993/2023-2024/50095 - Construction of Roads facility,17-06-2021,Completed
+240,Maharashtra,Constituency_76,MP_Name_76,MH/442/2021-2022/50415 - Construction of Health facility,09-04-2023,Completed
+241,Bihar,Constituency_187,MP_Name_187,BR/874/2022-2023/51011 - Construction of Sanitation facility,27-12-2024,Completed
+242,Rajasthan,Constituency_182,MP_Name_182,RJ/225/2022-2023/50983 - Construction of Sanitation facility,20-05-2024,Completed
+243,Maharashtra,Constituency_6,MP_Name_6,MH/517/2022-2023/50030 - Construction of Health facility,10-08-2023,Completed
+244,Gujarat,Constituency_153,MP_Name_153,GJ/630/2022-2023/50836 - Construction of Roads facility,06-03-2022,Completed
+245,Karnataka,Constituency_82,MP_Name_82,KA/343/2022-2023/50453 - Construction of Health facility,07-12-2024,Completed
+246,Delhi,Constituency_200,MP_Name_200,DL/901/2023-2024/51088 - Construction of Drinking Water facility,13-12-2023,Completed
+247,Madhya Pradesh,Constituency_140,MP_Name_140,MP/769/2022-2023/50755 - Construction of Health facility,19-09-2024,Completed
+248,Madhya Pradesh,Constituency_241,MP_Name_241,MP/210/2022-2023/51308 - Construction of Drinking Water facility,04-05-2021,Completed
+249,Delhi,Constituency_103,MP_Name_103,DL/877/2022-2023/50577 - Construction of Drinking Water facility,06-04-2024,Completed
+250,Uttar Pradesh,Constituency_186,MP_Name_186,UP/689/2023-2024/51009 - Construction of Sanitation facility,15-06-2024,Completed
+251,Karnataka,Constituency_91,MP_Name_91,KA/688/2021-2022/50503 - Construction of Education facility,28-02-2023,Completed
+252,Karnataka,Constituency_26,MP_Name_26,KA/958/2021-2022/50139 - Construction of Sanitation facility,07-06-2022,Completed
+253,Karnataka,Constituency_92,MP_Name_92,KA/993/2021-2022/50509 - Construction of Roads facility,21-06-2024,Completed
+254,Bihar,Constituency_244,MP_Name_244,BR/689/2021-2022/51323 - Construction of Sanitation facility,04-01-2024,Completed
+255,Delhi,Constituency_137,MP_Name_137,DL/861/2021-2022/50741 - Construction of Electricity facility,21-02-2021,Completed
+256,Bihar,Constituency_181,MP_Name_181,BR/661/2021-2022/50977 - Construction of Health facility,07-04-2021,Completed
+257,Gujarat,Constituency_123,MP_Name_123,GJ/417/2021-2022/50677 - Construction of Health facility,04-05-2021,Completed
+258,Tamil Nadu,Constituency_162,MP_Name_162,TN/294/2021-2022/50884 - Construction of Drinking Water facility,13-09-2023,Completed
+259,Gujarat,Constituency_225,MP_Name_225,GJ/195/2021-2022/51214 - Construction of Sanitation facility,10-04-2021,Completed
+260,Bihar,Constituency_125,MP_Name_125,BR/897/2023-2024/50684 - Construction of Sanitation facility,15-01-2023,Completed
+261,Karnataka,Constituency_58,MP_Name_58,KA/669/2021-2022/50309 - Construction of Roads facility,18-08-2024,Completed
+262,Delhi,Constituency_173,MP_Name_173,DL/436/2022-2023/50931 - Construction of Electricity facility,10-01-2021,Completed
+263,Bihar,Constituency_187,MP_Name_187,BR/724/2023-2024/51015 - Construction of Roads facility,03-11-2021,Completed
+264,Bihar,Constituency_117,MP_Name_117,BR/579/2021-2022/50647 - Construction of Health facility,14-10-2023,Completed
+265,West Bengal,Constituency_39,MP_Name_39,WB/994/2023-2024/50206 - Construction of Electricity facility,23-07-2024,Completed
+266,Maharashtra,Constituency_75,MP_Name_75,MH/289/2023-2024/50411 - Construction of Education facility,26-03-2022,Completed
+267,West Bengal,Constituency_237,MP_Name_237,WB/339/2023-2024/51284 - Construction of Health facility,12-06-2021,Completed
+268,Karnataka,Constituency_154,MP_Name_154,KA/227/2022-2023/50843 - Construction of Sanitation facility,24-12-2023,Completed
+269,Madhya Pradesh,Constituency_132,MP_Name_132,MP/968/2022-2023/50717 - Construction of Education facility,11-08-2023,Completed
+270,Rajasthan,Constituency_194,MP_Name_194,RJ/614/2021-2022/51057 - Construction of Health facility,18-05-2022,Completed
+271,Madhya Pradesh,Constituency_144,MP_Name_144,MP/949/2021-2022/50783 - Construction of Electricity facility,30-05-2022,Completed
+272,Delhi,Constituency_50,MP_Name_50,DL/568/2022-2023/50271 - Construction of Electricity facility,27-02-2024,Completed
+273,Tamil Nadu,Constituency_175,MP_Name_175,TN/866/2022-2023/50942 - Construction of Electricity facility,06-10-2021,Completed
+274,Maharashtra,Constituency_110,MP_Name_110,MH/702/2021-2022/50612 - Construction of Electricity facility,01-01-2023,Completed
+275,Bihar,Constituency_214,MP_Name_214,BR/686/2023-2024/51154 - Construction of Drinking Water facility,21-07-2023,Completed
+276,Madhya Pradesh,Constituency_119,MP_Name_119,MP/303/2023-2024/50659 - Construction of Drinking Water facility,11-06-2023,Completed
+277,Maharashtra,Constituency_148,MP_Name_148,MH/727/2023-2024/50806 - Construction of Health facility,22-10-2023,Completed
+278,Gujarat,Constituency_158,MP_Name_158,GJ/941/2023-2024/50863 - Construction of Drinking Water facility,15-07-2023,Completed
+279,Madhya Pradesh,Constituency_241,MP_Name_241,MP/529/2023-2024/51311 - Construction of Drinking Water facility,11-08-2022,Completed
+280,West Bengal,Constituency_3,MP_Name_3,WB/997/2022-2023/50012 - Construction of Roads facility,10-02-2024,Completed
+281,Gujarat,Constituency_66,MP_Name_66,GJ/965/2023-2024/50354 - Construction of Drinking Water facility,26-03-2022,Completed
+282,Rajasthan,Constituency_160,MP_Name_160,RJ/299/2021-2022/50873 - Construction of Health facility,26-12-2021,Completed
+283,Bihar,Constituency_169,MP_Name_169,BR/932/2021-2022/50920 - Construction of Electricity facility,10-05-2023,Completed
+284,Tamil Nadu,Constituency_106,MP_Name_106,TN/600/2021-2022/50594 - Construction of Drinking Water facility,31-03-2022,Completed
+285,Madhya Pradesh,Constituency_140,MP_Name_140,MP/914/2023-2024/50758 - Construction of Education facility,25-03-2023,Completed
+286,Maharashtra,Constituency_30,MP_Name_30,MH/163/2021-2022/50162 - Construction of Electricity facility,22-10-2021,Completed
+287,Bihar,Constituency_98,MP_Name_98,BR/980/2023-2024/50543 - Construction of Health facility,06-07-2021,Completed
+288,Rajasthan,Constituency_176,MP_Name_176,RJ/294/2021-2022/50951 - Construction of Electricity facility,19-05-2022,Completed
+289,Karnataka,Constituency_193,MP_Name_193,KA/839/2021-2022/51049 - Construction of Sanitation facility,02-03-2022,Completed
+290,Rajasthan,Constituency_130,MP_Name_130,RJ/370/2022-2023/50704 - Construction of Roads facility,20-09-2023,Completed
+291,Rajasthan,Constituency_207,MP_Name_207,RJ/858/2022-2023/51116 - Construction of Education facility,25-10-2021,Completed
+292,Delhi,Constituency_192,MP_Name_192,DL/329/2021-2022/51040 - Construction of Drinking Water facility,23-01-2024,Completed
+293,Delhi,Constituency_12,MP_Name_12,DL/489/2021-2022/50064 - Construction of Drinking Water facility,21-07-2021,Completed
+294,Delhi,Constituency_202,MP_Name_202,DL/954/2022-2023/51096 - Construction of Sanitation facility,09-01-2024,Completed
+295,Delhi,Constituency_52,MP_Name_52,DL/748/2021-2022/50276 - Construction of Electricity facility,06-09-2024,Completed
+296,Bihar,Constituency_98,MP_Name_98,BR/883/2021-2022/50541 - Construction of Drinking Water facility,30-07-2022,Completed
+297,Madhya Pradesh,Constituency_241,MP_Name_241,MP/263/2023-2024/51309 - Construction of Health facility,07-08-2024,Completed
+298,Uttar Pradesh,Constituency_215,MP_Name_215,UP/290/2022-2023/51163 - Construction of Education facility,18-03-2023,Completed
+299,Karnataka,Constituency_92,MP_Name_92,KA/631/2022-2023/50508 - Construction of Roads facility,02-11-2023,Completed
+300,Madhya Pradesh,Constituency_34,MP_Name_34,MP/630/2023-2024/50190 - Construction of Roads facility,08-08-2023,Completed
+301,Karnataka,Constituency_147,MP_Name_147,KA/262/2021-2022/50799 - Construction of Drinking Water facility,28-09-2023,Completed
+302,Madhya Pradesh,Constituency_14,MP_Name_14,MP/106/2023-2024/50071 - Construction of Health facility,18-05-2022,Completed
+303,Karnataka,Constituency_28,MP_Name_28,KA/274/2021-2022/50148 - Construction of Sanitation facility,28-11-2024,Completed
+304,Karnataka,Constituency_157,MP_Name_157,KA/237/2023-2024/50857 - Construction of Sanitation facility,01-05-2021,Completed
+305,Madhya Pradesh,Constituency_67,MP_Name_67,MP/606/2022-2023/50360 - Construction of Health facility,01-08-2022,Completed
+306,West Bengal,Constituency_18,MP_Name_18,WB/262/2021-2022/50093 - Construction of Roads facility,07-08-2022,Completed
+307,Delhi,Constituency_23,MP_Name_23,DL/589/2022-2023/50123 - Construction of Sanitation facility,04-07-2021,Completed
+308,Madhya Pradesh,Constituency_167,MP_Name_167,MP/727/2022-2023/50910 - Construction of Sanitation facility,30-09-2021,Completed
+309,Tamil Nadu,Constituency_19,MP_Name_19,TN/487/2023-2024/50096 - Construction of Education facility,25-09-2024,Completed
+310,West Bengal,Constituency_1,MP_Name_1,WB/604/2022-2023/50003 - Construction of Roads facility,07-12-2024,Completed
+311,Maharashtra,Constituency_6,MP_Name_6,MH/552/2022-2023/50029 - Construction of Health facility,25-05-2021,Completed
+312,Gujarat,Constituency_93,MP_Name_93,GJ/431/2022-2023/50513 - Construction of Health facility,30-11-2024,Completed
+313,Madhya Pradesh,Constituency_235,MP_Name_235,MP/631/2022-2023/51280 - Construction of Sanitation facility,20-02-2023,Completed
+314,Bihar,Constituency_236,MP_Name_236,BR/715/2022-2023/51281 - Construction of Drinking Water facility,11-10-2024,Completed
+315,Maharashtra,Constituency_201,MP_Name_201,MH/645/2021-2022/51092 - Construction of Roads facility,09-08-2021,Completed
+316,West Bengal,Constituency_3,MP_Name_3,WB/145/2021-2022/50011 - Construction of Education facility,01-05-2021,Completed
+317,West Bengal,Constituency_25,MP_Name_25,WB/681/2022-2023/50135 - Construction of Education facility,22-03-2023,Completed
+318,Karnataka,Constituency_7,MP_Name_7,KA/989/2022-2023/50038 - Construction of Electricity facility,24-10-2022,Completed
+319,Maharashtra,Constituency_242,MP_Name_242,MH/101/2022-2023/51313 - Construction of Electricity facility,28-03-2024,Completed
+320,Gujarat,Constituency_93,MP_Name_93,GJ/256/2021-2022/50514 - Construction of Health facility,27-07-2023,Completed
+321,Madhya Pradesh,Constituency_14,MP_Name_14,MP/943/2023-2024/50074 - Construction of Roads facility,10-04-2024,Completed
+322,Tamil Nadu,Constituency_61,MP_Name_61,TN/116/2022-2023/50327 - Construction of Education facility,09-08-2021,Completed
+323,Delhi,Constituency_109,MP_Name_109,DL/124/2023-2024/50610 - Construction of Drinking Water facility,23-10-2023,Completed
+324,Gujarat,Constituency_40,MP_Name_40,GJ/449/2021-2022/50208 - Construction of Electricity facility,25-05-2021,Completed
+325,Delhi,Constituency_43,MP_Name_43,DL/720/2021-2022/50226 - Construction of Education facility,12-08-2021,Completed
+326,West Bengal,Constituency_48,MP_Name_48,WB/272/2021-2022/50261 - Construction of Drinking Water facility,01-10-2022,Completed
+327,Bihar,Constituency_190,MP_Name_190,BR/936/2023-2024/51033 - Construction of Education facility,01-08-2023,Completed
+328,Rajasthan,Constituency_207,MP_Name_207,RJ/938/2021-2022/51115 - Construction of Education facility,16-09-2022,Completed
+329,Uttar Pradesh,Constituency_238,MP_Name_238,UP/934/2023-2024/51294 - Construction of Health facility,14-06-2022,Completed
+330,Gujarat,Constituency_99,MP_Name_99,GJ/129/2022-2023/50547 - Construction of Health facility,29-03-2024,Completed
+331,Rajasthan,Constituency_89,MP_Name_89,RJ/699/2021-2022/50487 - Construction of Sanitation facility,28-12-2022,Completed
+332,Gujarat,Constituency_22,MP_Name_22,GJ/459/2022-2023/50118 - Construction of Electricity facility,10-10-2021,Completed
+333,Gujarat,Constituency_195,MP_Name_195,GJ/593/2023-2024/51060 - Construction of Health facility,05-10-2022,Completed
+334,Delhi,Constituency_230,MP_Name_230,DL/669/2021-2022/51248 - Construction of Education facility,08-08-2023,Completed
+335,Bihar,Constituency_90,MP_Name_90,BR/316/2021-2022/50490 - Construction of Electricity facility,21-10-2024,Completed
+336,Bihar,Constituency_31,MP_Name_31,BR/819/2023-2024/50163 - Construction of Drinking Water facility,12-11-2021,Completed
+337,Delhi,Constituency_129,MP_Name_129,DL/538/2022-2023/50699 - Construction of Health facility,26-11-2022,Completed
+338,Rajasthan,Constituency_102,MP_Name_102,RJ/809/2023-2024/50568 - Construction of Drinking Water facility,11-10-2021,Completed
+339,Gujarat,Constituency_145,MP_Name_145,GJ/166/2021-2022/50786 - Construction of Education facility,09-06-2021,Completed
+340,Rajasthan,Constituency_134,MP_Name_134,RJ/111/2021-2022/50725 - Construction of Sanitation facility,01-07-2024,Completed
+341,Rajasthan,Constituency_176,MP_Name_176,RJ/993/2021-2022/50948 - Construction of Education facility,10-11-2022,Completed
+342,Gujarat,Constituency_123,MP_Name_123,GJ/987/2022-2023/50676 - Construction of Sanitation facility,24-12-2021,Completed
+343,Delhi,Constituency_230,MP_Name_230,DL/489/2023-2024/51243 - Construction of Electricity facility,09-10-2022,Completed
+344,Tamil Nadu,Constituency_49,MP_Name_49,TN/315/2022-2023/50265 - Construction of Education facility,30-10-2023,Completed
+345,Maharashtra,Constituency_149,MP_Name_149,MH/615/2023-2024/50812 - Construction of Sanitation facility,31-12-2022,Completed
+346,Bihar,Constituency_98,MP_Name_98,BR/563/2021-2022/50544 - Construction of Health facility,09-04-2021,Completed
+347,Rajasthan,Constituency_160,MP_Name_160,RJ/839/2023-2024/50874 - Construction of Health facility,18-01-2024,Completed
+348,Maharashtra,Constituency_243,MP_Name_243,MH/311/2021-2022/51317 - Construction of Education facility,29-12-2021,Completed
+349,Tamil Nadu,Constituency_189,MP_Name_189,TN/155/2022-2023/51025 - Construction of Education facility,16-06-2023,Completed
+350,Tamil Nadu,Constituency_65,MP_Name_65,TN/368/2023-2024/50349 - Construction of Health facility,10-07-2024,Completed
+351,Bihar,Constituency_87,MP_Name_87,BR/275/2023-2024/50478 - Construction of Electricity facility,24-07-2023,Completed
+352,Delhi,Constituency_137,MP_Name_137,DL/610/2021-2022/50735 - Construction of Electricity facility,11-12-2023,Completed
+353,Maharashtra,Constituency_221,MP_Name_221,MH/316/2021-2022/51195 - Construction of Roads facility,18-06-2022,Completed
+354,Rajasthan,Constituency_41,MP_Name_41,RJ/927/2022-2023/50215 - Construction of Electricity facility,07-09-2021,Completed
+355,West Bengal,Constituency_17,MP_Name_17,WB/274/2022-2023/50089 - Construction of Drinking Water facility,24-07-2023,Completed
+356,Madhya Pradesh,Constituency_63,MP_Name_63,MP/475/2023-2024/50338 - Construction of Electricity facility,31-01-2024,Completed
+357,Gujarat,Constituency_40,MP_Name_40,GJ/723/2023-2024/50212 - Construction of Education facility,24-10-2022,Completed
+358,Karnataka,Constituency_156,MP_Name_156,KA/727/2021-2022/50854 - Construction of Education facility,26-07-2024,Completed
+359,Maharashtra,Constituency_201,MP_Name_201,MH/853/2023-2024/51091 - Construction of Electricity facility,06-10-2023,Completed
+360,West Bengal,Constituency_4,MP_Name_4,WB/161/2022-2023/50016 - Construction of Drinking Water facility,18-08-2022,Completed
+361,Maharashtra,Constituency_47,MP_Name_47,MH/263/2022-2023/50256 - Construction of Health facility,05-01-2022,Completed
+362,Uttar Pradesh,Constituency_196,MP_Name_196,UP/857/2023-2024/51067 - Construction of Health facility,14-10-2024,Completed
+363,Uttar Pradesh,Constituency_33,MP_Name_33,UP/749/2021-2022/50180 - Construction of Sanitation facility,01-05-2021,Completed
+364,West Bengal,Constituency_163,MP_Name_163,WB/125/2022-2023/50889 - Construction of Sanitation facility,03-11-2023,Completed
+365,Maharashtra,Constituency_85,MP_Name_85,MH/269/2023-2024/50461 - Construction of Education facility,07-10-2021,Completed
+366,Bihar,Constituency_187,MP_Name_187,BR/857/2023-2024/51014 - Construction of Education facility,07-07-2024,Completed
+367,Karnataka,Constituency_104,MP_Name_104,KA/673/2022-2023/50582 - Construction of Education facility,09-04-2023,Completed
+368,West Bengal,Constituency_165,MP_Name_165,WB/143/2022-2023/50900 - Construction of Electricity facility,08-07-2021,Completed
+369,Gujarat,Constituency_153,MP_Name_153,GJ/250/2022-2023/50837 - Construction of Electricity facility,02-12-2021,Completed
+370,West Bengal,Constituency_42,MP_Name_42,WB/747/2021-2022/50221 - Construction of Health facility,15-02-2024,Completed
+371,Tamil Nadu,Constituency_162,MP_Name_162,TN/132/2023-2024/50880 - Construction of Sanitation facility,02-10-2024,Completed
+372,Karnataka,Constituency_168,MP_Name_168,KA/497/2023-2024/50916 - Construction of Education facility,14-03-2023,Completed
+373,Delhi,Constituency_43,MP_Name_43,DL/511/2021-2022/50227 - Construction of Sanitation facility,01-01-2024,Completed
+374,Gujarat,Constituency_121,MP_Name_121,GJ/516/2022-2023/50669 - Construction of Health facility,21-12-2024,Completed
+375,Delhi,Constituency_126,MP_Name_126,DL/358/2022-2023/50688 - Construction of Health facility,30-03-2022,Completed
+376,Karnataka,Constituency_157,MP_Name_157,KA/211/2023-2024/50862 - Construction of Health facility,30-12-2021,Completed
+377,Uttar Pradesh,Constituency_186,MP_Name_186,UP/807/2023-2024/51006 - Construction of Electricity facility,23-08-2022,Completed
+378,West Bengal,Constituency_8,MP_Name_8,WB/644/2022-2023/50040 - Construction of Sanitation facility,19-02-2022,Completed
+379,Karnataka,Constituency_146,MP_Name_146,KA/534/2023-2024/50796 - Construction of Electricity facility,01-08-2024,Completed
+380,Bihar,Constituency_84,MP_Name_84,BR/274/2022-2023/50458 - Construction of Drinking Water facility,09-01-2024,Completed
+381,Maharashtra,Constituency_94,MP_Name_94,MH/605/2021-2022/50520 - Construction of Health facility,19-04-2024,Completed
+382,West Bengal,Constituency_219,MP_Name_219,WB/353/2021-2022/51184 - Construction of Drinking Water facility,15-08-2024,Completed
+383,Rajasthan,Constituency_113,MP_Name_113,RJ/520/2022-2023/50629 - Construction of Health facility,05-03-2024,Completed
+384,Delhi,Constituency_200,MP_Name_200,DL/952/2021-2022/51085 - Construction of Roads facility,08-09-2021,Completed
+385,Bihar,Constituency_105,MP_Name_105,BR/552/2021-2022/50587 - Construction of Roads facility,21-02-2022,Completed
+386,West Bengal,Constituency_219,MP_Name_219,WB/771/2021-2022/51186 - Construction of Sanitation facility,11-09-2022,Completed
+387,Delhi,Constituency_103,MP_Name_103,DL/964/2023-2024/50575 - Construction of Drinking Water facility,17-07-2022,Completed
+388,West Bengal,Constituency_42,MP_Name_42,WB/852/2022-2023/50218 - Construction of Education facility,25-12-2024,Completed
+389,Madhya Pradesh,Constituency_63,MP_Name_63,MP/929/2021-2022/50339 - Construction of Health facility,30-07-2021,Completed
+390,Gujarat,Constituency_46,MP_Name_46,GJ/287/2021-2022/50252 - Construction of Sanitation facility,22-09-2021,Completed
+391,Maharashtra,Constituency_70,MP_Name_70,MH/422/2022-2023/50382 - Construction of Electricity facility,26-11-2021,Completed
+392,Maharashtra,Constituency_198,MP_Name_198,MH/806/2023-2024/51076 - Construction of Roads facility,11-11-2022,Completed
+393,Gujarat,Constituency_188,MP_Name_188,GJ/350/2022-2023/51018 - Construction of Health facility,04-01-2022,Completed
+394,Madhya Pradesh,Constituency_80,MP_Name_80,MP/290/2023-2024/50441 - Construction of Drinking Water facility,24-07-2021,Completed
+395,Karnataka,Constituency_154,MP_Name_154,KA/809/2023-2024/50842 - Construction of Sanitation facility,23-01-2024,Completed
+396,Karnataka,Constituency_146,MP_Name_146,KA/433/2021-2022/50797 - Construction of Sanitation facility,29-05-2023,Completed
+397,Maharashtra,Constituency_70,MP_Name_70,MH/456/2022-2023/50381 - Construction of Sanitation facility,24-08-2023,Completed
+398,Gujarat,Constituency_205,MP_Name_205,GJ/721/2021-2022/51106 - Construction of Sanitation facility,03-05-2023,Completed
+399,West Bengal,Constituency_133,MP_Name_133,WB/187/2022-2023/50721 - Construction of Drinking Water facility,30-06-2022,Completed
+400,Maharashtra,Constituency_149,MP_Name_149,MH/729/2022-2023/50817 - Construction of Electricity facility,31-07-2023,Completed
+401,Uttar Pradesh,Constituency_21,MP_Name_21,UP/322/2021-2022/50110 - Construction of Sanitation facility,04-09-2021,Completed
+402,Gujarat,Constituency_46,MP_Name_46,GJ/962/2023-2024/50250 - Construction of Sanitation facility,23-01-2021,Completed
+403,West Bengal,Constituency_133,MP_Name_133,WB/630/2021-2022/50720 - Construction of Roads facility,25-11-2024,Completed
+404,Gujarat,Constituency_121,MP_Name_121,GJ/409/2023-2024/50667 - Construction of Drinking Water facility,09-11-2021,Completed
+405,Karnataka,Constituency_74,MP_Name_74,KA/322/2021-2022/50398 - Construction of Electricity facility,22-12-2023,Completed
+406,Bihar,Constituency_53,MP_Name_53,BR/324/2023-2024/50283 - Construction of Roads facility,09-03-2024,Completed
+407,Karnataka,Constituency_141,MP_Name_141,KA/518/2022-2023/50759 - Construction of Education facility,11-04-2022,Completed
+408,Rajasthan,Constituency_102,MP_Name_102,RJ/488/2021-2022/50571 - Construction of Sanitation facility,17-12-2022,Completed
+409,Rajasthan,Constituency_185,MP_Name_185,RJ/142/2021-2022/50998 - Construction of Roads facility,15-10-2021,Completed
+410,Karnataka,Constituency_157,MP_Name_157,KA/456/2023-2024/50858 - Construction of Drinking Water facility,20-04-2024,Completed
+411,Madhya Pradesh,Constituency_119,MP_Name_119,MP/561/2022-2023/50660 - Construction of Drinking Water facility,04-03-2024,Completed
+412,Maharashtra,Constituency_76,MP_Name_76,MH/402/2023-2024/50418 - Construction of Roads facility,24-01-2023,Completed
+413,Rajasthan,Constituency_57,MP_Name_57,RJ/809/2023-2024/50304 - Construction of Electricity facility,03-09-2023,Completed
+414,Bihar,Constituency_199,MP_Name_199,BR/552/2021-2022/51080 - Construction of Education facility,13-03-2023,Completed
+415,Maharashtra,Constituency_149,MP_Name_149,MH/855/2021-2022/50815 - Construction of Drinking Water facility,09-02-2024,Completed
+416,Rajasthan,Constituency_245,MP_Name_245,RJ/568/2022-2023/51329 - Construction of Roads facility,02-12-2021,Completed
+417,Tamil Nadu,Constituency_81,MP_Name_81,TN/643/2023-2024/50446 - Construction of Sanitation facility,05-09-2023,Completed
+418,Karnataka,Constituency_26,MP_Name_26,KA/324/2022-2023/50137 - Construction of Electricity facility,24-04-2021,Completed
+419,Maharashtra,Constituency_59,MP_Name_59,MH/785/2021-2022/50317 - Construction of Health facility,16-08-2022,Completed
+420,Gujarat,Constituency_218,MP_Name_218,GJ/855/2022-2023/51177 - Construction of Sanitation facility,24-07-2021,Completed
+421,Gujarat,Constituency_114,MP_Name_114,GJ/204/2021-2022/50633 - Construction of Health facility,02-09-2023,Completed
+422,West Bengal,Constituency_219,MP_Name_219,WB/462/2021-2022/51183 - Construction of Roads facility,12-05-2024,Completed
+423,Maharashtra,Constituency_88,MP_Name_88,MH/472/2022-2023/50485 - Construction of Sanitation facility,12-01-2023,Completed
+424,Maharashtra,Constituency_44,MP_Name_44,MH/405/2023-2024/50238 - Construction of Drinking Water facility,16-03-2022,Completed
+425,Karnataka,Constituency_58,MP_Name_58,KA/654/2023-2024/50313 - Construction of Health facility,23-12-2022,Completed
+426,Maharashtra,Constituency_77,MP_Name_77,MH/282/2023-2024/50421 - Construction of Education facility,10-07-2024,Completed
+427,Gujarat,Constituency_78,MP_Name_78,GJ/133/2021-2022/50426 - Construction of Education facility,11-01-2023,Completed
+428,Tamil Nadu,Constituency_175,MP_Name_175,TN/223/2021-2022/50945 - Construction of Electricity facility,03-02-2022,Completed
+429,Gujarat,Constituency_139,MP_Name_139,GJ/223/2023-2024/50752 - Construction of Drinking Water facility,01-11-2021,Completed
+430,Maharashtra,Constituency_211,MP_Name_211,MH/653/2023-2024/51140 - Construction of Education facility,28-10-2022,Completed
+431,Uttar Pradesh,Constituency_11,MP_Name_11,UP/288/2023-2024/50060 - Construction of Education facility,25-10-2023,Completed
+432,Madhya Pradesh,Constituency_67,MP_Name_67,MP/985/2022-2023/50358 - Construction of Electricity facility,08-03-2021,Completed
+433,Rajasthan,Constituency_13,MP_Name_13,RJ/624/2023-2024/50069 - Construction of Education facility,11-12-2024,Completed
+434,Rajasthan,Constituency_27,MP_Name_27,RJ/295/2023-2024/50143 - Construction of Roads facility,14-01-2023,Completed
+435,Karnataka,Constituency_147,MP_Name_147,KA/564/2022-2023/50801 - Construction of Health facility,27-03-2023,Completed
+436,Uttar Pradesh,Constituency_32,MP_Name_32,UP/146/2023-2024/50172 - Construction of Health facility,26-11-2021,Completed
+437,Madhya Pradesh,Constituency_80,MP_Name_80,MP/946/2023-2024/50442 - Construction of Sanitation facility,11-12-2024,Completed
+438,Delhi,Constituency_64,MP_Name_64,DL/389/2021-2022/50347 - Construction of Electricity facility,09-05-2021,Completed
+439,Karnataka,Constituency_156,MP_Name_156,KA/950/2023-2024/50851 - Construction of Education facility,29-08-2023,Completed
+440,Karnataka,Constituency_233,MP_Name_233,KA/388/2021-2022/51264 - Construction of Education facility,17-08-2024,Completed
+441,Uttar Pradesh,Constituency_33,MP_Name_33,UP/621/2022-2023/50178 - Construction of Health facility,22-07-2024,Completed
+442,Maharashtra,Constituency_149,MP_Name_149,MH/457/2022-2023/50816 - Construction of Education facility,22-03-2021,Completed
+443,Karnataka,Constituency_193,MP_Name_193,KA/231/2021-2022/51047 - Construction of Drinking Water facility,24-06-2024,Completed
