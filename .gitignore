@@ -1,46 +1,11 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# ============================================================
+# Nirikshak 2.0 — MPLADS Anomaly Investigation Portal
+# .gitignore — curated for deployment
+# Rules: ignore large/generated/secret files; track everything
+#        needed to run the backend + frontend in production.
+# ============================================================
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.*
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/versions
-
-# testing
-/coverage
-
-# next.js
-/.next/
-/out/
-
-# production
-/build
-
-# misc
-.DS_Store
-*.pem
-
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
-
-# env files (can opt-in for committing if needed)
-.env*
-
-# vercel
-.vercel
-
-# typescript
-*.tsbuildinfo
-next-env.d.ts
-
-# Python & Virtual Environments
+# ─── Python & Virtual Environments ──────────────────────────
 .venv/
 venv/
 env/
@@ -48,24 +13,103 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.pyi.bak
+*.egg-info/
+dist/
+build/
+.mypy_cache/
+.ruff_cache/
 
-# Node & Frontend
+# ─── Secrets & Environment ──────────────────────────────────
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ─── Node / Frontend Build ──────────────────────────────────
+node_modules/
 frontend/node_modules/
 frontend/.next/
-frontend/.vercel/
 frontend/out/
+frontend/.vercel/
+frontend/coverage/
+/.next/
+/out/
+/build
+.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
 
-# Database files & large caches (>50MB)
+# TypeScript / Next.js generated
+*.tsbuildinfo
+next-env.d.ts
+
+# ─── Large Raw Source Datasets (regenerable via ETL) ────────
+# LS_DATASET raw CSVs — up to 30 MB each
+LS_DATASET/*.csv
+RS_DATASET/*.csv
+# Keep __init__.py and Python source files inside those dirs
+!LS_DATASET/*.py
+!RS_DATASET/*.py
+!LS_DATASET/__init__.py
+!RS_DATASET/__init__.py
+
+# ─── Large Database Files ────────────────────────────────────
 *.duckdb
 *.duckdb.wal
 *.sqlite
 *.sqlite3
 data_processed/parliament_data.duckdb
 data_processed/parliament_data.sqlite
+
+# ─── Specific Oversized Processed Files (>10 MB) ────────────
+# works_recommended.csv is 41 MB — too large for git
 data_processed/cleaned_csv/works_recommended.csv
 
+# ─── KEEP: Small Processed Data (required by FastAPI at runtime)
+# data_processed/cleaned_csv/   → all except works_recommended.csv (above)
+# data_processed/parquet/       → parquet versions, <1 MB each
+# data_processed/anomalies/     → anomaly scores, <1 MB each
+# data_processed/investigation/ → flagged investigations, <1 MB each
+# data_processed/models/        → trained ML model joblibs, <10 MB each
+# (No additional ignore rules needed — these are tracked by default)
 
+# ─── Scratch / Temp / Generated Reports ─────────────────────
+scratch/
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
 
-# System & Logs
-Thumbs.db
+# ─── Logs ────────────────────────────────────────────────────
 *.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# ─── OS & Editor Artifacts ──────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/settings.json
+*.code-workspace
+
+# ─── Vercel / Deployment Caches ─────────────────────────────
+.vercel
+
+# ─── Sentence-BERT / HuggingFace model cache ────────────────
+# These are downloaded at runtime, not stored in repo
+.cache/
+models/sentence-transformers/
+data_processed/embeddings/
+
+# ─── PDF reports (generated on-demand) ──────────────────────
+reports/*.pdf
+MPLADS_AI_ML_System_Complete_Report.pdf

@@ -102,9 +102,11 @@ function AnomalyInvestigationPortalContent() {
   // Filters
   const [page, setPage] = useState(1);
   const [selectedRisk, setSelectedRisk] = useState("All");
+  const [selectedState, setSelectedState] = useState("All");
   const [selectedState, setSelectedState] = useState(stateParam);
   const [selectedCategory, setSelectedCategory] = useState("All");
   const [selectedHouse, setSelectedHouse] = useState("All");
+  const [searchDistrict, setSearchDistrict] = useState("");
   const [searchDistrict, setSearchDistrict] = useState(districtParam);
   const [stateSearchFilter, setStateSearchFilter] = useState("");
   const [sortBy, setSortBy] = useState("priority_score_desc");

@@ -1,6 +1,7 @@
 "use client";
 
 import React from "react";
+import { IndiaMap, defaultCities } from "@/components/ui/india-map";
 import { useRouter } from "next/navigation";
 import { IndiaMap, defaultCities, CityMarker } from "@/components/ui/india-map";
 import { Sparkles, MapPin, Layers, TrendingUp, ShieldCheck } from "lucide-react";
@@ -72,6 +73,7 @@ export function Hero() {
 
         {/* Animated Political India Map with Glowing City Markers - Scaled to 80%+ coverage */}
         <div id="map" className="relative w-full max-w-6xl mx-auto min-h-[650px] sm:min-h-[780px] lg:min-h-[880px] flex items-center justify-center">
+          <IndiaMap cities={defaultCities} className="w-full h-full" />
           <IndiaMap 
             cities={defaultCities} 
             className="w-full h-full" 
