@@ -123,8 +123,11 @@ class SBERTDedupModel:
         return results
 
     def batch_detect_constituency_duplicates(self, threshold: float = 0.82, max_pairs: int = 50) -> List[Dict[str, Any]]:
-        if self.embeddings is None:
+        if self.embeddings is None or self.metadata is None:
             self.load_index()
+
+        if self.metadata is None or self.embeddings is None:
+            return []
 
         duplicate_pairs = []
         for district, group in self.metadata.groupby('district'):

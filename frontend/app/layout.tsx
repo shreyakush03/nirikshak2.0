@@ -1,29 +1,42 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Poppins, Nunito, Space_Mono } from "next/font/google";
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const poppins = Poppins({
+  weight: ["400", "500", "600", "700", "800"],
   subsets: ["latin"],
+  variable: "--font-poppins",
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
+const nunito = Nunito({
+  weight: ["400", "500", "600", "700"],
   subsets: ["latin"],
+  variable: "--font-nunito",
+});
+
+const spaceMono = Space_Mono({
+  weight: ["400", "700"],
+  subsets: ["latin"],
+  variable: "--font-space-mono",
 });
 
 export const metadata: Metadata = {
-  title: "DRISHTI-MPLADS | AI-Powered Fund Utilization & Anomaly Monitoring Platform",
+  title: "Nirikshak AI | AI-Powered Fund Utilization & Anomaly Monitoring Platform",
   description: "Detection & Risk Inspection via Semantic & Hierarchical Trend Intelligence for Members of Parliament Local Area Development Scheme",
 };
 
-export default function RootLayout({ children }: LayoutProps<"/">) {
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
   return (
     <html
       lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      className={`${poppins.variable} ${nunito.variable} ${spaceMono.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="min-h-full flex flex-col font-nunito bg-background text-foreground">{children}</body>
     </html>
   );
 }
+
