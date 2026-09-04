@@ -1,0 +1,32 @@
+# Python & Virtual Environments
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node & Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/.vercel/
+frontend/out/
+
+# Database files & large caches (>50MB)
+*.duckdb
+*.duckdb.wal
+*.sqlite
+*.sqlite3
+data_processed/parliament_data.duckdb
+data_processed/parliament_data.sqlite
+data_processed/cleaned_csv/works_recommended.csv
+
+# Large Raw Datasets
+LS_DATASET/
+RS_DATASET/
+
+# System & Logs
+.DS_Store
+Thumbs.db
+*.log
