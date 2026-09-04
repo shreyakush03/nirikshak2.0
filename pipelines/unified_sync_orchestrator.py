@@ -39,35 +39,34 @@ def get_all_models():
     
     if _delay_model is None:
         try:
-            from delay_prediction_module import MPLADSSurvivalDelayModel
             from models.delay_prediction_module import MPLADSSurvivalDelayModel
             _delay_model = MPLADSSurvivalDelayModel.load()
-        except Exception:
+        except Exception as e:
+            print(f"[Sync] Delay model load exception: {e}")
             _delay_model = None
 
     if _xgboost_scorer is None:
         try:
-            from xgboost_risk_scoring_module import MPLADSXGBoostRiskScorer
             from models.xgboost_risk_scoring_module import MPLADSXGBoostRiskScorer
             _xgboost_scorer = MPLADSXGBoostRiskScorer.load()
-        except Exception:
+        except Exception as e:
+            print(f"[Sync] XGBoost model load exception: {e}")
             _xgboost_scorer = None
 
     if _vendor_analyzer is None:
         try:
-            from vendor_collusion_graph_module import VendorCollusionGraphAnalyzer
             from models.vendor_collusion_graph_module import VendorCollusionGraphAnalyzer
             _vendor_analyzer = VendorCollusionGraphAnalyzer(DB_PATH)
-        except Exception:
+        except Exception as e:
+            print(f"[Sync] Vendor analyzer exception: {e}")
             _vendor_analyzer = None
 
     if _sbert_model is None:
         try:
-            from sentence_bert_model import MPLADSDedupModel
-            _sbert_model = MPLADSDedupModel()
             from models.sentence_bert_model import SBERTDedupModel
             _sbert_model = SBERTDedupModel()
-        except Exception:
+        except Exception as e:
+            print(f"[Sync] SBERT model load exception: {e}")
             _sbert_model = None
 
     return {
@@ -148,14 +147,12 @@ def sync_work_record(project_id: str, db_path: str = DB_PATH) -> Dict[str, Any]:
     dup_matches = []
     if models["sbert"] and work_title:
         try:
-            sbert_res = models["sbert"].find_similar_works(
             sbert_res = models["sbert"].find_duplicates(
                 query_text=work_title,
                 state=state if state else None,
                 top_k=3,
                 threshold=0.65
             )
-            filtered_dups = [m for m in (sbert_res.get("matched_works") or []) if m.get("project_id") != project_id]
             filtered_dups = [m for m in (sbert_res or []) if m.get("project_id") != project_id]
             if filtered_dups:
                 dup_matches = filtered_dups
