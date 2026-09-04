@@ -139,7 +139,7 @@ def check_sentence_bert_accuracy():
     print("=" * 75)
 
     try:
-        from sentence_bert_model import SBERTDedupModel
+        from models.sentence_bert_model import SBERTDedupModel
         sbert = SBERTDedupModel()
         sbert.load_index()
     except Exception as e:
