@@ -30,9 +30,15 @@ jobs:
         run: python pipelines/scraper.py
 
       - name: Commit and Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Pull latest first to avoid conflicts
+          git pull --rebase origin main
+          
           git add pipelines/LS_DATASET/* pipelines/RS_DATASET/* -f
           
           # Only commit if there are changes
@@ -40,6 +46,5 @@ jobs:
             echo "No new data to commit."
           else
             git commit -m "Automated nightly data sync from MOSPI dashboard [skip ci]"
-            git pull --rebase origin main
-            git push
+            git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" HEAD:main
           fi
