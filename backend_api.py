@@ -45,12 +45,15 @@ def get_metadata():
     con = duckdb.connect(DB_PATH, read_only=True)
     states = [r[0] for r in con.execute("SELECT DISTINCT state FROM project_investigations WHERE state IS NOT NULL ORDER BY state").fetchall()]
     categories = [r[0] for r in con.execute("SELECT DISTINCT work_category FROM project_investigations WHERE work_category IS NOT NULL ORDER BY work_category").fetchall()]
+    districts = [r[0] for r in con.execute("SELECT DISTINCT district FROM project_investigations WHERE district IS NOT NULL ORDER BY district").fetchall()]
     con.close()
     return {
         "states": states,
+        "districts": districts,
         "work_categories": categories,
         "risk_levels": ["CRITICAL", "HIGH", "MEDIUM", "LOW", "NORMAL"]
     }
+
 
 # ----------------- SECTION: ALL STATES AND UTS CARDS -----------------
 @app.get("/api/anomalies/states")
@@ -1056,6 +1059,30 @@ def get_role_dashboard_api(role: str, entity_id: str):
         raise HTTPException(status_code=400, detail=str(e))
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Dashboard aggregation error: {str(e)}")
+
+
+@app.get("/api/works/{sanction_id:path}/dossier-pdf")
+def download_project_dossier_pdf(sanction_id: str):
+    """
+    Generates and returns an official, printable Statutory Audit Dossier PDF
+    with project profile, multi-model consensus scores, and statutory remarks.
+    """
+    try:
+        from reports.audit_dossier_generator import generate_audit_dossier_pdf
+        pdf_content = generate_audit_dossier_pdf(sanction_id, db_path=DB_PATH)
+        safe_filename = sanction_id.replace("/", "_").replace("\\", "_")
+        return Response(
+            content=pdf_content,
+            media_type="application/pdf",
+            headers={
+                "Content-Disposition": f'attachment; filename="MPLADS_Audit_Dossier_{safe_filename}.pdf"'
+            }
+        )
+    except ValueError as e:
+        raise HTTPException(status_code=404, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Audit dossier PDF generation error: {str(e)}")
+
 
 
 

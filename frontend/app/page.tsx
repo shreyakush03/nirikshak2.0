@@ -28,7 +28,9 @@ import {
   MapPin,
   Copy,
   Sparkles,
-  Network
+  Network,
+  UserCheck,
+  FileText
 } from "lucide-react";
 import { 
   BarChart, 
@@ -106,6 +108,13 @@ export default function AnomalyInvestigationPortal() {
   const [step4Loading, setStep4Loading] = useState<boolean>(false);
   const [modelValidationData, setModelValidationData] = useState<any>(null);
 
+  // Step 4 RBAC Role-Based Access Control State
+  const [rbacRole, setRbacRole] = useState<"ministry" | "state" | "district" | "mp">("ministry");
+  const [rbacEntity, setRbacEntity] = useState<string>("National Portfolio");
+  const [rbacScopedData, setRbacScopedData] = useState<any>(null);
+  const [rbacLoading, setRbacLoading] = useState<boolean>(false);
+
+
   // Initial Data Fetch
   useEffect(() => {
     async function init() {
@@ -151,11 +160,40 @@ export default function AnomalyInvestigationPortal() {
     }
   };
 
+  // Step 4 RBAC Scoped Dashboard Data Fetch
+  const loadRbacScope = async (role: string, entity: string) => {
+    if (role === "ministry") {
+      setRbacScopedData(null);
+      return;
+    }
+    setRbacLoading(true);
+    try {
+      const res = await fetch(`/api/py/dashboard/${role}/${encodeURIComponent(entity)}`);
+      if (res.ok) {
+        const data = await res.json();
+        setRbacScopedData(data);
+      }
+    } catch (err) {
+      console.error("RBAC scope fetch error:", err);
+    } finally {
+      setRbacLoading(false);
+    }
+  };
+
+  useEffect(() => {
+    if (rbacRole !== "ministry" && rbacEntity) {
+      loadRbacScope(rbacRole, rbacEntity);
+    } else {
+      setRbacScopedData(null);
+    }
+  }, [rbacRole, rbacEntity]);
+
   useEffect(() => {
     if (activeTab === "forecasting" && selectedMpForForecast && !forecastResult) {
       runMpForecast(selectedMpForForecast);
     }
   }, [activeTab, selectedMpForForecast]);
+
 
   // Fetch Filtered Anomalies List
   useEffect(() => {
@@ -386,20 +424,93 @@ export default function AnomalyInvestigationPortal() {
 
       {/* Main Header */}
       <header className="border-b border-slate-800 bg-slate-900/60 backdrop-blur-md sticky top-0 z-40">
-        <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
-          <div className="flex items-center gap-3">
-            <div className="p-2 bg-gradient-to-tr from-rose-500 to-amber-500 rounded-xl shadow-lg shadow-rose-500/20">
-              <ShieldAlert className="w-5 h-5 text-white" />
+        <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between gap-4">
+          <div className="flex items-center gap-4">
+            <div className="flex items-center gap-3">
+              <div className="p-2 bg-gradient-to-tr from-rose-500 to-amber-500 rounded-xl shadow-lg shadow-rose-500/20">
+                <ShieldAlert className="w-5 h-5 text-white" />
+              </div>
+              <div>
+                <span className="font-bold text-lg tracking-tight bg-gradient-to-r from-white via-slate-200 to-slate-400 bg-clip-text text-transparent">
+                  MPLADS Anomaly Investigation Layer
+                </span>
+                <span className="text-xs ml-2 px-2 py-0.5 rounded-full bg-rose-500/10 text-rose-400 border border-rose-500/20">
+                  State & UT Coverage
+                </span>
+              </div>
             </div>
-            <div>
-              <span className="font-bold text-lg tracking-tight bg-gradient-to-r from-white via-slate-200 to-slate-400 bg-clip-text text-transparent">
-                MPLADS Anomaly Investigation Layer
-              </span>
-              <span className="text-xs ml-2 px-2 py-0.5 rounded-full bg-rose-500/10 text-rose-400 border border-rose-500/20">
-                State & UT Coverage
-              </span>
+
+            {/* STEP 4: RBAC ROLE SELECTOR & ENTITY SCOPER */}
+            <div className="hidden lg:flex items-center gap-1.5 p-1 bg-slate-950 border border-slate-800 rounded-xl">
+              <div className="flex items-center gap-1 px-2 text-xs font-semibold text-slate-400">
+                <UserCheck className="w-3.5 h-3.5 text-indigo-400" />
+                <span className="text-[11px]">Role:</span>
+              </div>
+              <select
+                value={rbacRole}
+                onChange={(e) => {
+                  const newRole = e.target.value as "ministry" | "state" | "district" | "mp";
+                  setRbacRole(newRole);
+                  if (newRole === "ministry") {
+                    setRbacEntity("National Portfolio");
+                  } else if (newRole === "state") {
+                    const defaultState = (meta?.states && meta.states.length > 0) ? meta.states[0] : "Uttar Pradesh";
+                    setRbacEntity(defaultState);
+                  } else if (newRole === "district") {
+                    const defaultDist = (meta?.districts && meta.districts.length > 0) ? meta.districts[0] : "Varanasi";
+                    setRbacEntity(defaultDist);
+                  } else if (newRole === "mp") {
+                    const defaultMp = (forecastMps && forecastMps.length > 0) ? forecastMps[0].mp_name : "Hon'ble MP";
+                    setRbacEntity(defaultMp);
+                  }
+                }}
+                className="bg-slate-900 border border-slate-800 rounded-lg px-2.5 py-1 text-xs font-semibold text-white focus:outline-none focus:border-indigo-500 cursor-pointer"
+              >
+                <option value="ministry">Ministry (National View)</option>
+                <option value="state">State Nodal Agency</option>
+                <option value="district">District Authority (IDA)</option>
+                <option value="mp">Member of Parliament (MP)</option>
+              </select>
+
+              {/* Dynamic Entity Selector based on selected RBAC role */}
+              {rbacRole === "state" && (
+                <select
+                  value={rbacEntity}
+                  onChange={(e) => setRbacEntity(e.target.value)}
+                  className="bg-slate-900 border border-indigo-500/50 rounded-lg px-2 py-1 text-xs text-indigo-300 font-medium max-w-[150px] truncate focus:outline-none cursor-pointer"
+                >
+                  {(meta?.states || []).map((s: string) => (
+                    <option key={s} value={s}>{s}</option>
+                  ))}
+                </select>
+              )}
+
+              {rbacRole === "district" && (
+                <select
+                  value={rbacEntity}
+                  onChange={(e) => setRbacEntity(e.target.value)}
+                  className="bg-slate-900 border border-indigo-500/50 rounded-lg px-2 py-1 text-xs text-indigo-300 font-medium max-w-[180px] truncate focus:outline-none cursor-pointer"
+                >
+                  {(meta?.districts || []).slice(0, 80).map((d: string) => (
+                    <option key={d} value={d}>{d}</option>
+                  ))}
+                </select>
+              )}
+
+              {rbacRole === "mp" && (
+                <select
+                  value={rbacEntity}
+                  onChange={(e) => setRbacEntity(e.target.value)}
+                  className="bg-slate-900 border border-indigo-500/50 rounded-lg px-2 py-1 text-xs text-indigo-300 font-medium max-w-[180px] truncate focus:outline-none cursor-pointer"
+                >
+                  {(forecastMps || []).map((m: any) => (
+                    <option key={m.mp_name} value={m.mp_name}>{m.mp_name}</option>
+                  ))}
+                </select>
+              )}
             </div>
           </div>
+
 
           {/* Navigation */}
           <nav className="flex gap-1 p-1 bg-slate-900 border border-slate-800 rounded-xl">
@@ -495,37 +606,106 @@ export default function AnomalyInvestigationPortal() {
         {/* TAB 1: OVERVIEW */}
         {activeTab === "overview" && (
           <div className="space-y-8">
+            {/* RBAC Active Filter Banner */}
+            {rbacRole !== "ministry" && (
+              <div className="p-4 rounded-2xl bg-gradient-to-r from-indigo-950/60 via-slate-900 to-indigo-950/40 border border-indigo-500/40 flex items-center justify-between">
+                <div className="flex items-center gap-3">
+                  <div className="p-2 bg-indigo-500/20 text-indigo-400 rounded-xl">
+                    <UserCheck className="w-5 h-5" />
+                  </div>
+                  <div>
+                    <span className="text-xs font-bold text-indigo-400 uppercase tracking-wider">
+                      RBAC Scoped Perspective Active: {rbacRole === "state" ? "State Nodal Agency" : rbacRole === "district" ? "District Collector / IDA" : "Hon'ble MP"}
+                    </span>
+                    <h3 className="text-sm font-bold text-white mt-0.5">
+                      Scoped Entity: <span className="text-indigo-300 font-mono">{rbacEntity}</span>
+                    </h3>
+                  </div>
+                </div>
+                <div className="flex items-center gap-3">
+                  {rbacLoading ? (
+                    <span className="text-xs text-indigo-300 flex items-center gap-1">
+                      <Activity className="w-3.5 h-3.5 animate-spin" /> Syncing Role Data...
+                    </span>
+                  ) : (
+                    <span className="text-xs text-slate-400">
+                      Viewing <b className="text-white font-mono">{rbacScopedData ? rbacScopedData.total_works : 0}</b> works in jurisdiction
+                    </span>
+                  )}
+                  <button
+                    onClick={() => {
+                      setRbacRole("ministry");
+                      setRbacEntity("National Portfolio");
+                    }}
+                    className="px-2.5 py-1 bg-slate-800 hover:bg-slate-700 text-slate-300 hover:text-white rounded-lg text-xs font-semibold transition-colors"
+                  >
+                    Reset to National View
+                  </button>
+                </div>
+              </div>
+            )}
+
             <div className="grid grid-cols-1 md:grid-cols-5 gap-4">
               <div className="p-5 rounded-2xl bg-slate-900/60 border border-slate-800">
-                <div className="text-slate-400 text-xs font-medium uppercase tracking-wider">Total Projects Analyzed</div>
+                <div className="text-slate-400 text-xs font-medium uppercase tracking-wider">
+                  {rbacRole === "ministry" ? "Total Projects Analyzed" : "Jurisdiction Total Works"}
+                </div>
                 <div className="text-2xl font-bold mt-2 text-white">
-                  {summary ? summary.total_projects.toLocaleString() : "..."}
+                  {rbacRole !== "ministry" && rbacScopedData 
+                    ? rbacScopedData.total_works.toLocaleString()
+                    : summary ? summary.total_projects.toLocaleString() : "..."}
                 </div>
-                <div className="text-[11px] text-slate-500 mt-1">Unified Lok Sabha & Rajya Sabha</div>
+                <div className="text-[11px] text-slate-500 mt-1">
+                  {rbacRole === "ministry" ? "Unified Lok Sabha & Rajya Sabha" : `Scoped to ${rbacRole.toUpperCase()}`}
+                </div>
               </div>
 
               <div className="p-5 rounded-2xl bg-slate-900/60 border border-slate-800">
-                <div className="text-rose-400 text-xs font-medium uppercase tracking-wider">Flagged Anomalies</div>
+                <div className="text-rose-400 text-xs font-medium uppercase tracking-wider">
+                  {rbacRole === "ministry" ? "Flagged Anomalies" : "Critical Risk Works"}
+                </div>
                 <div className="text-2xl font-bold mt-2 text-rose-400">
-                  {summary ? summary.total_anomalies.toLocaleString() : "..."}
+                  {rbacRole !== "ministry" && rbacScopedData
+                    ? rbacScopedData.critical_risk_count.toLocaleString()
+                    : summary ? summary.total_anomalies.toLocaleString() : "..."}
                 </div>
-                <div className="text-[11px] text-rose-500/80 mt-1">{summary ? `${summary.anomaly_percentage}% rate` : "..."}</div>
+                <div className="text-[11px] text-rose-500/80 mt-1">
+                  {rbacRole !== "ministry" && rbacScopedData
+                    ? `${rbacScopedData.total_works > 0 ? ((rbacScopedData.critical_risk_count / rbacScopedData.total_works) * 100).toFixed(1) : 0}% critical rate`
+                    : summary ? `${summary.anomaly_percentage}% rate` : "..."}
+                </div>
               </div>
 
               <div className="p-5 rounded-2xl bg-slate-900/60 border border-slate-800">
-                <div className="text-amber-400 text-xs font-medium uppercase tracking-wider">Critical / High Risk</div>
+                <div className="text-amber-400 text-xs font-medium uppercase tracking-wider">
+                  {rbacRole === "ministry" ? "Critical / High Risk" : "High Risk Works"}
+                </div>
                 <div className="text-2xl font-bold mt-2 text-amber-400">
-                  {summary ? (summary.risk_distribution.critical + summary.risk_distribution.high).toLocaleString() : "..."}
+                  {rbacRole !== "ministry" && rbacScopedData
+                    ? rbacScopedData.high_risk_count.toLocaleString()
+                    : summary ? (summary.risk_distribution.critical + summary.risk_distribution.high).toLocaleString() : "..."}
                 </div>
-                <div className="text-[11px] text-amber-500/80 mt-1">Requires primary review</div>
+                <div className="text-[11px] text-amber-500/80 mt-1">
+                  {rbacRole !== "ministry" && rbacScopedData
+                    ? `Avg Priority: ${rbacScopedData.avg_priority_score}`
+                    : "Requires primary review"}
+                </div>
               </div>
 
               <div className="p-5 rounded-2xl bg-slate-900/60 border border-slate-800">
-                <div className="text-emerald-400 text-xs font-medium uppercase tracking-wider">Validated Precision</div>
-                <div className="text-2xl font-bold mt-2 text-emerald-400">
-                  {summary ? `${(summary.precision * 100).toFixed(2)}%` : "..."}
+                <div className="text-emerald-400 text-xs font-medium uppercase tracking-wider">
+                  {rbacRole === "ministry" ? "Validated Precision" : "Sanctioned Budget"}
                 </div>
-                <div className="text-[11px] text-emerald-500/80 mt-1">On benchmark perturbations</div>
+                <div className="text-2xl font-bold mt-2 text-emerald-400">
+                  {rbacRole !== "ministry" && rbacScopedData
+                    ? `₹${rbacScopedData.total_sanction_cr} Cr`
+                    : summary ? `${(summary.precision * 100).toFixed(2)}%` : "..."}
+                </div>
+                <div className="text-[11px] text-emerald-500/80 mt-1">
+                  {rbacRole !== "ministry" && rbacScopedData
+                    ? `Exp: ₹${rbacScopedData.total_expenditure_cr} Cr`
+                    : "On benchmark perturbations"}
+                </div>
               </div>
 
               <div className="p-5 rounded-2xl bg-slate-900/60 border border-slate-800">
@@ -1988,12 +2168,25 @@ export default function AnomalyInvestigationPortal() {
       {activeProjectId && (
         <div className="fixed inset-0 z-50 bg-black/80 backdrop-blur-sm flex items-center justify-center p-4 sm:p-6 overflow-y-auto">
           <div className="bg-slate-900 border border-slate-800 rounded-3xl w-full max-w-4xl max-h-[90vh] overflow-y-auto shadow-2xl p-6 sm:p-8 space-y-6 relative">
-            <button
-              onClick={() => { setActiveProjectId(null); setProjectDetail(null); }}
-              className="absolute top-6 right-6 p-2 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-400 hover:text-white transition-colors"
-            >
-              <X className="w-5 h-5" />
-            </button>
+            <div className="absolute top-6 right-6 flex items-center gap-2">
+              <a
+                href={`/api/py/works/${encodeURIComponent(activeProjectId)}/dossier-pdf`}
+                target="_blank"
+                rel="noreferrer"
+                download
+                className="flex items-center gap-1.5 px-3 py-1.5 bg-gradient-to-r from-rose-600 to-amber-600 hover:from-rose-500 hover:to-amber-500 text-white rounded-xl text-xs font-bold shadow-lg shadow-rose-600/20 transition-all cursor-pointer"
+                title="Download Official Audit Dossier PDF with Multi-Model Consensus & Statutory Remarks"
+              >
+                <FileText className="w-3.5 h-3.5" />
+                <span>Export Dossier (PDF)</span>
+              </a>
+              <button
+                onClick={() => { setActiveProjectId(null); setProjectDetail(null); }}
+                className="p-2 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-400 hover:text-white transition-colors"
+              >
+                <X className="w-5 h-5" />
+              </button>
+            </div>
 
             {detailLoading || !projectDetail ? (
               <div className="py-16 text-center text-slate-400 text-sm">
