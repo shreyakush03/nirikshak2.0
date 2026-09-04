@@ -34,27 +34,27 @@ export function Header() {
 
         {/* Center: Navigation Links (Desktop) */}
         <nav className="hidden md:flex items-center gap-6 text-xs font-semibold text-neutral-600 font-nunito">
-          <Link href="#hero" className="hover:text-[#FF4F00] transition-colors">
+          <Link href="/" className="hover:text-[#FF4F00] transition-colors">
             Home
           </Link>
-          <Link href="#map" className="hover:text-[#FF4F00] transition-colors">
+          <Link href="/#map" className="hover:text-[#FF4F00] transition-colors">
             Cities
           </Link>
-          <Link href="#overview" className="hover:text-[#FF4F00] transition-colors">
-            Analytics
+          <Link href="/projects" className="hover:text-[#FF4F00] transition-colors">
+            Explore Projects
           </Link>
-          <Link href="#overview" className="hover:text-[#FF4F00] transition-colors">
-            About
+          <Link href="/projects?tab=overview" className="hover:text-[#FF4F00] transition-colors">
+            Analytics
           </Link>
         </nav>
 
         {/* Right: Primary Action Button */}
         <div className="flex items-center gap-2">
-          <a href="#overview">
+          <Link href="/projects">
             <Button size="sm" variant="default" className="shadow-md shadow-[#FF4F00]/20 font-nunito font-bold">
-              View Overview
+              Explore Projects
             </Button>
-          </a>
+          </Link>
 
           {/* Mobile Menu Toggle Button */}
           <button
@@ -72,21 +72,28 @@ export function Header() {
       {mobileMenuOpen && (
         <div className="md:hidden px-4 pt-2 pb-4 border-t border-[#E5E5E5] bg-white space-y-2 text-xs font-semibold text-neutral-700 font-nunito">
           <Link
-            href="#hero"
+            href="/"
             onClick={() => setMobileMenuOpen(false)}
             className="block px-3 py-2 rounded-lg hover:bg-[#F5F5F5]"
           >
             Home
           </Link>
           <Link
-            href="#map"
+            href="/#map"
             onClick={() => setMobileMenuOpen(false)}
             className="block px-3 py-2 rounded-lg hover:bg-[#F5F5F5]"
           >
             Cities
           </Link>
           <Link
-            href="#overview"
+            href="/projects"
+            onClick={() => setMobileMenuOpen(false)}
+            className="block px-3 py-2 rounded-lg hover:bg-[#F5F5F5] text-[#FF4F00] font-bold"
+          >
+            Explore Projects
+          </Link>
+          <Link
+            href="/projects?tab=overview"
             onClick={() => setMobileMenuOpen(false)}
             className="block px-3 py-2 rounded-lg hover:bg-[#F5F5F5]"
           >

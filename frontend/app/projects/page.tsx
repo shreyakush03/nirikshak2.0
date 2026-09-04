@@ -1,17 +1,15 @@
 "use client";
 
-import React, { useState, useEffect, useRef } from "react";
-import { useRouter } from "next/navigation";
+import React, { useState, useEffect, useRef, Suspense } from "react";
+import { useRouter, useSearchParams } from "next/navigation";
 import Link from "next/link";
-import { Header } from "@/components/header";
-import { Hero } from "@/components/hero";
 import { 
   AlertTriangle, 
   CheckCircle2, 
   TrendingUp, 
   Activity, 
   Sliders, 
-  Database,
+  Database, 
   Building2,
   Calendar,
   Layers,
@@ -33,7 +31,8 @@ import {
   Network,
   UserCheck,
   FileText,
-  ChevronDown
+  ChevronDown,
+  ArrowLeft
 } from "lucide-react";
 import { 
   BarChart, 
@@ -55,9 +54,21 @@ import {
   Legend 
 } from "recharts";
 
-export default function AnomalyInvestigationPortal() {
+function AnomalyInvestigationPortalContent() {
   const router = useRouter();
-  const [activeTab, setActiveTab] = useState<"overview" | "investigate" | "graphs" | "evaluation" | "forecasting" | "dedup" | "collusion">("investigate");
+  const searchParams = useSearchParams();
+  const tabParam = searchParams.get("tab") as any;
+
+  const validTabs = ["overview", "investigate", "graphs", "evaluation", "forecasting", "dedup", "collusion"];
+  const initialTab = validTabs.includes(tabParam) ? tabParam : "overview";
+
+  const [activeTab, setActiveTab] = useState<"overview" | "investigate" | "graphs" | "evaluation" | "forecasting" | "dedup" | "collusion">(initialTab);
+
+  useEffect(() => {
+    if (tabParam && validTabs.includes(tabParam)) {
+      setActiveTab(tabParam);
+    }
+  }, [tabParam]);
   
   // Data States
   const [summary, setSummary] = useState<any>(null);
@@ -85,15 +96,27 @@ export default function AnomalyInvestigationPortal() {
   const [dossierDedupMatches, setDossierDedupMatches] = useState<any[]>([]);
   const [dossierDedupLoading, setDossierDedupLoading] = useState<boolean>(false);
 
+  const stateParam = searchParams.get("state") || "All";
+  const districtParam = searchParams.get("district") || "";
+
   // Filters
   const [page, setPage] = useState(1);
   const [selectedRisk, setSelectedRisk] = useState("All");
-  const [selectedState, setSelectedState] = useState("All");
+  const [selectedState, setSelectedState] = useState(stateParam);
   const [selectedCategory, setSelectedCategory] = useState("All");
   const [selectedHouse, setSelectedHouse] = useState("All");
-  const [searchDistrict, setSearchDistrict] = useState("");
+  const [searchDistrict, setSearchDistrict] = useState(districtParam);
   const [stateSearchFilter, setStateSearchFilter] = useState("");
   const [sortBy, setSortBy] = useState("priority_score_desc");
+
+  useEffect(() => {
+    if (searchParams.get("state")) {
+      setSelectedState(searchParams.get("state")!);
+    }
+    if (searchParams.get("district")) {
+      setSearchDistrict(searchParams.get("district")!);
+    }
+  }, [searchParams]);
 
   // Selected Project for Modal / Detail View
   const [activeProjectId, setActiveProjectId] = useState<string | null>(null);
@@ -440,15 +463,6 @@ export default function AnomalyInvestigationPortal() {
 
   return (
     <div className="min-h-screen bg-[#FAFAFA] text-neutral-900 antialiased selection:bg-[#FF4F00] selection:text-white">
-      {/* 1. Global Sticky Homepage Header */}
-      <Header />
-
-      {/* 2. Full-Bleed Homepage Hero with Animated India Political Map */}
-      <Hero />
-
-      {/* 3. Overview Anchor linking the Header button to the Main Anomaly Investigation Portal */}
-      <div id="overview" className="scroll-mt-6" />
-
       {/* Top Banner & Analytical Decision Support Notice */}
       <div className="bg-[#F5F5F5] border-b border-[#E5E5E5] px-6 py-2 text-[11px] text-neutral-600 flex items-center justify-between">
         <div className="flex items-center gap-2">
@@ -468,24 +482,34 @@ export default function AnomalyInvestigationPortal() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           {/* Top Bar: Brand, Title & RBAC Controls */}
           <div className="h-16 flex items-center justify-between gap-4 border-b border-[#E5E5E5]">
-            {/* Brand Logo & Name */}
-            <div className="flex items-center gap-3 shrink-0">
-              <div className="w-10 h-10 rounded-xl bg-gradient-to-tr from-[#FF4F00] to-amber-500 flex items-center justify-center shadow-md shadow-[#FF4F00]/20 shrink-0">
-                <ShieldAlert className="w-5 h-5 text-white" />
-              </div>
-              <div className="flex flex-col">
-                <div className="flex items-center gap-2">
-                  <span className="font-bold text-base sm:text-lg tracking-tight font-poppins text-neutral-900">
-                    MPLADS Anomaly Investigation Layer
-                  </span>
-                  <span className="hidden md:inline-flex items-center text-[10px] font-semibold px-2 py-0.5 rounded-full bg-[#FF4F00]/10 text-[#FF4F00] border border-[#FF4F00]/20">
-                    State & UT Coverage
+            {/* Brand Logo & Back to Home */}
+            <div className="flex items-center gap-4 shrink-0">
+              <Link
+                href="/"
+                className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-neutral-100 hover:bg-neutral-200 text-neutral-700 hover:text-neutral-900 text-xs font-semibold font-nunito transition-colors"
+                title="Return to Home"
+              >
+                <ArrowLeft className="w-3.5 h-3.5 text-[#FF4F00]" />
+                <span className="hidden sm:inline">Home</span>
+              </Link>
+              <Link href="/" className="flex items-center gap-3 shrink-0 group">
+                <div className="w-10 h-10 rounded-xl bg-gradient-to-tr from-[#FF4F00] to-amber-500 flex items-center justify-center shadow-md shadow-[#FF4F00]/20 shrink-0 group-hover:scale-105 transition-transform">
+                  <ShieldAlert className="w-5 h-5 text-white" />
+                </div>
+                <div className="flex flex-col">
+                  <div className="flex items-center gap-2">
+                    <span className="font-bold text-base sm:text-lg tracking-tight font-poppins text-neutral-900 group-hover:text-[#FF4F00] transition-colors">
+                      MPLADS Projects Portal
+                    </span>
+                    <span className="hidden md:inline-flex items-center text-[10px] font-semibold px-2 py-0.5 rounded-full bg-[#FF4F00]/10 text-[#FF4F00] border border-[#FF4F00]/20">
+                      National Live
+                    </span>
+                  </div>
+                  <span className="text-[10px] text-neutral-500 font-mono tracking-wide">
+                    NIRIKSHAK 2.0 • AI-POWERED MONITORING
                   </span>
                 </div>
-                <span className="text-[10px] text-neutral-500 font-mono tracking-wide">
-                  NIRIKSHAK 2.0 • AI-POWERED MONITORING
-                </span>
-              </div>
+              </Link>
             </div>
 
             {/* STEP 4: RBAC ROLE SELECTOR & ENTITY SCOPER */}
@@ -2765,5 +2789,20 @@ export default function AnomalyInvestigationPortal() {
       )}
 
     </div>
+  );
+}
+
+export default function AnomalyInvestigationPortal() {
+  return (
+    <Suspense fallback={
+      <div className="min-h-screen bg-[#FAFAFA] flex items-center justify-center">
+        <div className="flex items-center gap-3 text-neutral-600 font-nunito font-semibold text-sm">
+          <div className="w-5 h-5 border-2 border-[#FF4F00] border-t-transparent rounded-full animate-spin"></div>
+          Loading Nirikshak Projects Portal...
+        </div>
+      </div>
+    }>
+      <AnomalyInvestigationPortalContent />
+    </Suspense>
   );
 }

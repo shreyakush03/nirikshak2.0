@@ -1,12 +1,26 @@
 "use client";
 
 import React from "react";
-import { IndiaMap, defaultCities } from "@/components/ui/india-map";
+import { useRouter } from "next/navigation";
+import { IndiaMap, defaultCities, CityMarker } from "@/components/ui/india-map";
 import { Sparkles, MapPin, Layers, TrendingUp, ShieldCheck } from "lucide-react";
 
 export function Hero() {
+  const router = useRouter();
+
+  const handleCitySelect = (city: CityMarker) => {
+    const params = new URLSearchParams({ tab: "investigate" });
+    if (city.state) params.set("state", city.state);
+    if (city.district) params.set("district", city.district);
+    router.push(`/projects?${params.toString()}`);
+  };
+
+  const handleStateSelect = (stateName: string) => {
+    const params = new URLSearchParams({ tab: "investigate", state: stateName });
+    router.push(`/projects?${params.toString()}`);
+  };
   return (
-    <section id="hero" className="w-full relative py-16 md:py-24 overflow-hidden bg-[#FAFAFA] border-b border-[#E5E5E5]">
+    <section id="hero" className="w-full relative py-12 md:py-20 overflow-visible bg-[#FAFAFA] border-b border-[#E5E5E5]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
         
         {/* Top Centered Header & Tag */}
@@ -28,6 +42,18 @@ export function Hero() {
             Monitor fund flows, audit anomalies, detect duplicate projects, and track civic developments across India.
           </p>
 
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-4">
+            <a href="/projects">
+              <button
+                type="button"
+                className="inline-flex items-center gap-2.5 px-6 py-3 rounded-xl bg-gradient-to-r from-[#FF4F00] to-amber-500 hover:from-[#e04500] hover:to-amber-600 text-white font-bold text-sm sm:text-base font-nunito shadow-lg shadow-[#FF4F00]/25 hover:shadow-xl hover:shadow-[#FF4F00]/30 hover:scale-[1.02] active:scale-[0.98] transition-all cursor-pointer"
+              >
+                <Layers className="w-4 h-4 text-white" />
+                <span>Explore Projects</span>
+              </button>
+            </a>
+          </div>
+
           <div className="flex flex-wrap items-center justify-center gap-6 pt-2 text-xs font-semibold text-neutral-600 font-space-mono">
             <span className="flex items-center gap-1.5">
               <span className="w-2.5 h-2.5 rounded-full bg-[#22D3EE] animate-pulse"></span>
@@ -46,7 +72,12 @@ export function Hero() {
 
         {/* Animated Political India Map with Glowing City Markers - Scaled to 80%+ coverage */}
         <div id="map" className="relative w-full max-w-6xl mx-auto min-h-[650px] sm:min-h-[780px] lg:min-h-[880px] flex items-center justify-center">
-          <IndiaMap cities={defaultCities} className="w-full h-full" />
+          <IndiaMap 
+            cities={defaultCities} 
+            className="w-full h-full" 
+            onCitySelect={handleCitySelect}
+            onStateSelect={handleStateSelect}
+          />
         </div>
 
       </div>
