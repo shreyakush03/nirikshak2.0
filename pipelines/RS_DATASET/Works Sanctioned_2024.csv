@@ -1,0 +1,980 @@
+sr_no,state,ida,constituency,mp_name,work,work_category,sanction_date,sanction_amount,work_status
+1,Tamil Nadu,District_1,Constituency_2,MP_Name_2,Work_1,Health,19-12-2023,1600378,Sanctioned
+2,Uttar Pradesh,District_2,Constituency_3,MP_Name_3,Work_2,Education,01-06-2022,1075233,Sanctioned
+3,Delhi,District_3,Constituency_4,MP_Name_4,Work_3,Sanitation,03-07-2022,1362079,Sanctioned
+4,Delhi,District_4,Constituency_5,MP_Name_5,Work_4,Drinking Water,17-07-2023,1445804,Sanctioned
+5,Tamil Nadu,District_5,Constituency_6,MP_Name_6,Work_5,Sanitation,01-12-2022,1886602,Sanctioned
+6,Gujarat,District_6,Constituency_7,MP_Name_7,Work_6,Drinking Water,25-06-2023,1732755,Sanctioned
+7,Gujarat,District_7,Constituency_8,MP_Name_8,Work_7,Education,28-04-2023,1093523,Sanctioned
+8,Uttar Pradesh,District_8,Constituency_9,MP_Name_9,Work_8,Education,28-09-2021,482016,Sanctioned
+9,Karnataka,District_9,Constituency_10,MP_Name_10,Work_9,Drinking Water,19-09-2023,669678,Sanctioned
+10,Gujarat,District_0,Constituency_11,MP_Name_11,Work_10,Electricity,22-05-2022,749913,Sanctioned
+11,Uttar Pradesh,District_1,Constituency_12,MP_Name_12,Work_11,Health,13-02-2023,1718954,Sanctioned
+12,Karnataka,District_2,Constituency_13,MP_Name_13,Work_12,Sanitation,21-08-2023,1078548,Sanctioned
+13,Karnataka,District_3,Constituency_14,MP_Name_14,Work_13,Education,01-07-2021,1654782,Sanctioned
+14,Maharashtra,District_4,Constituency_15,MP_Name_15,Work_14,Electricity,14-08-2021,1722353,Sanctioned
+15,Gujarat,District_5,Constituency_16,MP_Name_16,Work_15,Roads,18-08-2022,883357,Sanctioned
+16,Uttar Pradesh,District_6,Constituency_17,MP_Name_17,Work_16,Roads,27-02-2021,1712543,Sanctioned
+17,Maharashtra,District_7,Constituency_18,MP_Name_18,Work_17,Education,16-09-2022,1466006,Sanctioned
+18,Uttar Pradesh,District_8,Constituency_19,MP_Name_19,Work_18,Drinking Water,30-03-2022,823109,Sanctioned
+19,Karnataka,District_9,Constituency_20,MP_Name_20,Work_19,Sanitation,30-04-2021,1243062,Sanctioned
+20,Maharashtra,District_0,Constituency_21,MP_Name_21,Work_20,Education,12-07-2021,1329009,Sanctioned
+21,Tamil Nadu,District_1,Constituency_22,MP_Name_22,Work_21,Sanitation,18-10-2022,1089866,Sanctioned
+22,Tamil Nadu,District_2,Constituency_23,MP_Name_23,Work_22,Education,21-06-2022,606083,Sanctioned
+23,Delhi,District_3,Constituency_24,MP_Name_24,Work_23,Sanitation,23-02-2022,436838,Sanctioned
+24,Karnataka,District_4,Constituency_25,MP_Name_25,Work_24,Education,23-11-2022,1190852,Sanctioned
+25,Karnataka,District_5,Constituency_26,MP_Name_26,Work_25,Sanitation,18-06-2021,913298,Sanctioned
+26,Karnataka,District_6,Constituency_27,MP_Name_27,Work_26,Roads,12-11-2022,631917,Sanctioned
+27,Delhi,District_7,Constituency_28,MP_Name_28,Work_27,Education,10-04-2023,971751,Sanctioned
+28,Maharashtra,District_8,Constituency_29,MP_Name_29,Work_28,Sanitation,13-01-2022,1889288,Sanctioned
+29,Gujarat,District_9,Constituency_30,MP_Name_30,Work_29,Health,26-02-2023,1278456,Sanctioned
+30,Maharashtra,District_0,Constituency_31,MP_Name_31,Work_30,Sanitation,03-09-2022,1529980,Sanctioned
+31,Maharashtra,District_1,Constituency_32,MP_Name_32,Work_31,Electricity,07-11-2021,882391,Sanctioned
+32,Gujarat,District_2,Constituency_33,MP_Name_33,Work_32,Drinking Water,24-08-2021,766189,Sanctioned
+33,Delhi,District_3,Constituency_34,MP_Name_34,Work_33,Health,08-03-2022,1297586,Sanctioned
+34,Uttar Pradesh,District_4,Constituency_35,MP_Name_35,Work_34,Sanitation,10-07-2022,440505,Sanctioned
+35,Tamil Nadu,District_5,Constituency_36,MP_Name_36,Work_35,Drinking Water,11-11-2022,1136794,Sanctioned
+36,Maharashtra,District_6,Constituency_37,MP_Name_37,Work_36,Health,12-02-2021,1737674,Sanctioned
+37,Gujarat,District_7,Constituency_38,MP_Name_38,Work_37,Electricity,12-06-2021,1282862,Sanctioned
+38,Maharashtra,District_8,Constituency_39,MP_Name_39,Work_38,Health,22-07-2023,596611,Sanctioned
+39,Gujarat,District_9,Constituency_40,MP_Name_40,Work_39,Drinking Water,24-11-2022,1745201,Sanctioned
+40,Tamil Nadu,District_0,Constituency_41,MP_Name_41,Work_40,Drinking Water,31-01-2021,1713628,Sanctioned
+41,Uttar Pradesh,District_1,Constituency_42,MP_Name_42,Work_41,Health,30-11-2021,878849,Sanctioned
+42,Delhi,District_2,Constituency_43,MP_Name_43,Work_42,Sanitation,12-08-2021,1103296,Sanctioned
+43,Uttar Pradesh,District_3,Constituency_44,MP_Name_44,Work_43,Roads,15-09-2022,1539114,Sanctioned
+44,Gujarat,District_4,Constituency_45,MP_Name_45,Work_44,Sanitation,01-11-2021,1515038,Sanctioned
+45,Gujarat,District_5,Constituency_46,MP_Name_46,Work_45,Roads,17-06-2022,1614864,Sanctioned
+46,Maharashtra,District_6,Constituency_47,MP_Name_47,Work_46,Roads,11-12-2023,719722,Sanctioned
+47,Uttar Pradesh,District_7,Constituency_48,MP_Name_48,Work_47,Roads,26-12-2021,1248285,Sanctioned
+48,Delhi,District_8,Constituency_49,MP_Name_49,Work_48,Health,19-04-2022,1470997,Sanctioned
+49,Maharashtra,District_9,Constituency_50,MP_Name_50,Work_49,Health,20-05-2021,1319749,Sanctioned
+50,Uttar Pradesh,District_0,Constituency_51,MP_Name_51,Work_50,Health,16-10-2023,1166322,Sanctioned
+51,Uttar Pradesh,District_1,Constituency_52,MP_Name_52,Work_51,Roads,30-01-2022,1471252,Sanctioned
+52,Gujarat,District_2,Constituency_53,MP_Name_53,Work_52,Sanitation,01-04-2022,1625445,Sanctioned
+53,Tamil Nadu,District_3,Constituency_54,MP_Name_54,Work_53,Education,23-09-2021,770579,Sanctioned
+54,Maharashtra,District_4,Constituency_55,MP_Name_55,Work_54,Roads,03-07-2023,1450737,Sanctioned
+55,Gujarat,District_5,Constituency_56,MP_Name_56,Work_55,Roads,01-12-2021,1032988,Sanctioned
+56,Maharashtra,District_6,Constituency_57,MP_Name_57,Work_56,Education,07-08-2021,579095,Sanctioned
+57,Uttar Pradesh,District_7,Constituency_58,MP_Name_58,Work_57,Electricity,18-10-2023,668273,Sanctioned
+58,Uttar Pradesh,District_8,Constituency_59,MP_Name_59,Work_58,Electricity,30-12-2022,1556185,Sanctioned
+59,Karnataka,District_9,Constituency_60,MP_Name_60,Work_59,Electricity,24-06-2023,1561500,Sanctioned
+60,Delhi,District_0,Constituency_61,MP_Name_61,Work_60,Education,16-03-2022,1741028,Sanctioned
+61,Karnataka,District_1,Constituency_62,MP_Name_62,Work_61,Sanitation,18-02-2022,1191661,Sanctioned
+62,Maharashtra,District_2,Constituency_63,MP_Name_63,Work_62,Roads,29-03-2021,1286412,Sanctioned
+63,Karnataka,District_3,Constituency_64,MP_Name_64,Work_63,Health,31-08-2023,1013282,Sanctioned
+64,Gujarat,District_4,Constituency_65,MP_Name_65,Work_64,Sanitation,11-06-2023,868160,Sanctioned
+65,Gujarat,District_5,Constituency_66,MP_Name_66,Work_65,Electricity,15-04-2023,1492739,Sanctioned
+66,Gujarat,District_6,Constituency_67,MP_Name_67,Work_66,Health,06-12-2021,1854967,Sanctioned
+67,Gujarat,District_7,Constituency_68,MP_Name_68,Work_67,Sanitation,12-08-2021,1340118,Sanctioned
+68,Uttar Pradesh,District_8,Constituency_69,MP_Name_69,Work_68,Health,14-02-2021,1783169,Sanctioned
+69,Delhi,District_9,Constituency_70,MP_Name_70,Work_69,Electricity,24-05-2023,1625199,Sanctioned
+70,Karnataka,District_0,Constituency_71,MP_Name_71,Work_70,Electricity,30-10-2022,1047402,Sanctioned
+71,Uttar Pradesh,District_1,Constituency_72,MP_Name_72,Work_71,Electricity,15-08-2022,1036615,Sanctioned
+72,Maharashtra,District_2,Constituency_73,MP_Name_73,Work_72,Sanitation,23-09-2022,604597,Sanctioned
+73,Gujarat,District_3,Constituency_74,MP_Name_74,Work_73,Electricity,25-01-2022,1681618,Sanctioned
+74,Maharashtra,District_4,Constituency_75,MP_Name_75,Work_74,Education,10-12-2021,1809501,Sanctioned
+75,Gujarat,District_5,Constituency_76,MP_Name_76,Work_75,Electricity,04-01-2021,859545,Sanctioned
+76,Uttar Pradesh,District_6,Constituency_77,MP_Name_77,Work_76,Roads,15-03-2022,441607,Sanctioned
+77,Delhi,District_7,Constituency_78,MP_Name_78,Work_77,Health,18-05-2021,1007949,Sanctioned
+78,Tamil Nadu,District_8,Constituency_79,MP_Name_79,Work_78,Education,03-10-2022,902247,Sanctioned
+79,Karnataka,District_9,Constituency_80,MP_Name_80,Work_79,Health,18-06-2022,657376,Sanctioned
+80,Karnataka,District_0,Constituency_81,MP_Name_81,Work_80,Roads,02-05-2023,886271,Sanctioned
+81,Uttar Pradesh,District_1,Constituency_82,MP_Name_82,Work_81,Sanitation,17-06-2021,1296037,Sanctioned
+82,Tamil Nadu,District_2,Constituency_83,MP_Name_83,Work_82,Electricity,24-03-2022,1053692,Sanctioned
+83,Maharashtra,District_3,Constituency_84,MP_Name_84,Work_83,Drinking Water,05-09-2023,517779,Sanctioned
+84,Uttar Pradesh,District_4,Constituency_85,MP_Name_85,Work_84,Electricity,24-11-2023,786507,Sanctioned
+85,Tamil Nadu,District_5,Constituency_86,MP_Name_86,Work_85,Drinking Water,20-01-2023,1525304,Sanctioned
+86,Gujarat,District_6,Constituency_87,MP_Name_87,Work_86,Sanitation,07-08-2023,1438210,Sanctioned
+87,Maharashtra,District_7,Constituency_88,MP_Name_88,Work_87,Roads,16-04-2022,1885338,Sanctioned
+88,Uttar Pradesh,District_8,Constituency_89,MP_Name_89,Work_88,Drinking Water,14-08-2021,783064,Sanctioned
+89,Delhi,District_9,Constituency_90,MP_Name_90,Work_89,Roads,27-01-2022,1541327,Sanctioned
+90,Tamil Nadu,District_0,Constituency_91,MP_Name_91,Work_90,Health,07-06-2021,1044293,Sanctioned
+91,Uttar Pradesh,District_1,Constituency_92,MP_Name_92,Work_91,Drinking Water,13-06-2022,800741,Sanctioned
+92,Tamil Nadu,District_2,Constituency_93,MP_Name_93,Work_92,Roads,20-12-2023,628437,Sanctioned
+93,Tamil Nadu,District_3,Constituency_94,MP_Name_94,Work_93,Education,28-04-2021,1672991,Sanctioned
+94,Gujarat,District_4,Constituency_95,MP_Name_95,Work_94,Education,13-04-2022,506931,Sanctioned
+95,Uttar Pradesh,District_5,Constituency_96,MP_Name_96,Work_95,Education,02-05-2022,842609,Sanctioned
+96,Karnataka,District_6,Constituency_97,MP_Name_97,Work_96,Education,15-02-2022,800791,Sanctioned
+97,Gujarat,District_7,Constituency_98,MP_Name_98,Work_97,Education,13-08-2023,823907,Sanctioned
+98,Delhi,District_8,Constituency_99,MP_Name_99,Work_98,Electricity,17-10-2021,1291138,Sanctioned
+99,Karnataka,District_9,Constituency_100,MP_Name_100,Work_99,Electricity,12-09-2023,733636,Sanctioned
+100,Maharashtra,District_0,Constituency_101,MP_Name_101,Work_100,Drinking Water,02-08-2023,1015065,Sanctioned
+101,Uttar Pradesh,District_1,Constituency_102,MP_Name_102,Work_101,Drinking Water,06-08-2023,529904,Sanctioned
+102,Karnataka,District_2,Constituency_103,MP_Name_103,Work_102,Education,05-01-2021,558920,Sanctioned
+103,Maharashtra,District_3,Constituency_104,MP_Name_104,Work_103,Education,20-07-2023,527621,Sanctioned
+104,Karnataka,District_4,Constituency_105,MP_Name_105,Work_104,Sanitation,13-03-2021,932137,Sanctioned
+105,Delhi,District_5,Constituency_106,MP_Name_106,Work_105,Education,09-08-2022,1603352,Sanctioned
+106,Gujarat,District_6,Constituency_107,MP_Name_107,Work_106,Roads,23-07-2021,1030622,Sanctioned
+107,Delhi,District_7,Constituency_108,MP_Name_108,Work_107,Health,10-04-2021,1615254,Sanctioned
+108,Delhi,District_8,Constituency_109,MP_Name_109,Work_108,Drinking Water,20-11-2022,1483870,Sanctioned
+109,Karnataka,District_9,Constituency_110,MP_Name_110,Work_109,Roads,14-12-2021,1862323,Sanctioned
+110,Uttar Pradesh,District_0,Constituency_111,MP_Name_111,Work_110,Education,27-01-2023,1115169,Sanctioned
+111,Karnataka,District_1,Constituency_112,MP_Name_112,Work_111,Education,04-03-2022,657088,Sanctioned
+112,Delhi,District_2,Constituency_113,MP_Name_113,Work_112,Education,20-03-2022,1371000,Sanctioned
+113,Delhi,District_3,Constituency_114,MP_Name_114,Work_113,Sanitation,03-06-2022,1613592,Sanctioned
+114,Uttar Pradesh,District_4,Constituency_115,MP_Name_115,Work_114,Roads,05-11-2021,1359321,Sanctioned
+115,Karnataka,District_5,Constituency_116,MP_Name_116,Work_115,Electricity,13-06-2023,1081553,Sanctioned
+116,Maharashtra,District_6,Constituency_117,MP_Name_117,Work_116,Electricity,31-08-2022,1645882,Sanctioned
+117,Maharashtra,District_7,Constituency_118,MP_Name_118,Work_117,Drinking Water,01-05-2021,1350954,Sanctioned
+118,Gujarat,District_8,Constituency_119,MP_Name_119,Work_118,Sanitation,01-04-2021,1359166,Sanctioned
+119,Delhi,District_9,Constituency_120,MP_Name_120,Work_119,Health,05-10-2022,822964,Sanctioned
+120,Gujarat,District_0,Constituency_121,MP_Name_121,Work_120,Health,29-10-2022,1522634,Sanctioned
+121,Gujarat,District_1,Constituency_122,MP_Name_122,Work_121,Drinking Water,10-07-2021,1807103,Sanctioned
+122,Delhi,District_2,Constituency_123,MP_Name_123,Work_122,Drinking Water,27-12-2023,703451,Sanctioned
+123,Maharashtra,District_3,Constituency_124,MP_Name_124,Work_123,Education,24-08-2023,1625718,Sanctioned
+124,Karnataka,District_4,Constituency_125,MP_Name_125,Work_124,Roads,27-07-2022,1779774,Sanctioned
+125,Tamil Nadu,District_5,Constituency_126,MP_Name_126,Work_125,Roads,16-11-2021,1281404,Sanctioned
+126,Delhi,District_6,Constituency_127,MP_Name_127,Work_126,Sanitation,13-01-2022,456554,Sanctioned
+127,Karnataka,District_7,Constituency_128,MP_Name_128,Work_127,Health,22-05-2022,1389679,Sanctioned
+128,Delhi,District_8,Constituency_129,MP_Name_129,Work_128,Drinking Water,07-12-2021,466291,Sanctioned
+129,Maharashtra,District_9,Constituency_130,MP_Name_130,Work_129,Drinking Water,17-04-2022,862391,Sanctioned
+130,Uttar Pradesh,District_0,Constituency_131,MP_Name_131,Work_130,Drinking Water,04-10-2021,1591361,Sanctioned
+131,Maharashtra,District_1,Constituency_132,MP_Name_132,Work_131,Health,21-02-2023,708785,Sanctioned
+132,Maharashtra,District_2,Constituency_133,MP_Name_133,Work_132,Electricity,04-11-2023,1654544,Sanctioned
+133,Gujarat,District_3,Constituency_134,MP_Name_134,Work_133,Sanitation,03-11-2023,1225019,Sanctioned
+134,Gujarat,District_4,Constituency_135,MP_Name_135,Work_134,Health,30-07-2023,1165120,Sanctioned
+135,Tamil Nadu,District_5,Constituency_136,MP_Name_136,Work_135,Education,27-11-2022,1455301,Sanctioned
+136,Delhi,District_6,Constituency_137,MP_Name_137,Work_136,Electricity,05-07-2021,1853149,Sanctioned
+137,Karnataka,District_7,Constituency_138,MP_Name_138,Work_137,Sanitation,07-07-2023,467522,Sanctioned
+138,Maharashtra,District_8,Constituency_139,MP_Name_139,Work_138,Health,19-06-2022,863992,Sanctioned
+139,Delhi,District_9,Constituency_140,MP_Name_140,Work_139,Sanitation,01-05-2021,1384018,Sanctioned
+140,Karnataka,District_0,Constituency_141,MP_Name_141,Work_140,Roads,05-06-2022,1418105,Sanctioned
+141,Maharashtra,District_1,Constituency_142,MP_Name_142,Work_141,Roads,05-08-2021,1846015,Sanctioned
+142,Karnataka,District_2,Constituency_143,MP_Name_143,Work_142,Sanitation,24-03-2021,1021834,Sanctioned
+143,Delhi,District_3,Constituency_144,MP_Name_144,Work_143,Sanitation,06-12-2021,1548279,Sanctioned
+144,Uttar Pradesh,District_4,Constituency_145,MP_Name_145,Work_144,Electricity,09-10-2022,1722256,Sanctioned
+145,Karnataka,District_5,Constituency_146,MP_Name_146,Work_145,Electricity,02-03-2023,806551,Sanctioned
+146,Karnataka,District_6,Constituency_147,MP_Name_147,Work_146,Education,27-07-2021,1755588,Sanctioned
+147,Tamil Nadu,District_7,Constituency_148,MP_Name_148,Work_147,Health,03-09-2022,907607,Sanctioned
+148,Maharashtra,District_8,Constituency_149,MP_Name_149,Work_148,Electricity,02-05-2021,1035081,Sanctioned
+149,Karnataka,District_9,Constituency_150,MP_Name_150,Work_149,Sanitation,10-08-2021,1732884,Sanctioned
+150,Karnataka,District_0,Constituency_151,MP_Name_151,Work_150,Roads,11-05-2023,1497180,Sanctioned
+151,Delhi,District_1,Constituency_152,MP_Name_152,Work_151,Health,28-08-2023,854870,Sanctioned
+152,Maharashtra,District_2,Constituency_153,MP_Name_153,Work_152,Roads,05-11-2022,1060644,Sanctioned
+153,Maharashtra,District_3,Constituency_154,MP_Name_154,Work_153,Roads,30-09-2023,960591,Sanctioned
+154,Karnataka,District_4,Constituency_155,MP_Name_155,Work_154,Sanitation,18-12-2022,1848816,Sanctioned
+155,Tamil Nadu,District_5,Constituency_156,MP_Name_156,Work_155,Education,25-07-2023,1720952,Sanctioned
+156,Gujarat,District_6,Constituency_157,MP_Name_157,Work_156,Drinking Water,14-08-2022,1465563,Sanctioned
+157,Karnataka,District_7,Constituency_158,MP_Name_158,Work_157,Health,01-10-2023,1894726,Sanctioned
+158,Maharashtra,District_8,Constituency_159,MP_Name_159,Work_158,Drinking Water,28-05-2021,596500,Sanctioned
+159,Delhi,District_9,Constituency_160,MP_Name_160,Work_159,Education,06-11-2022,1207404,Sanctioned
+160,Maharashtra,District_0,Constituency_161,MP_Name_161,Work_160,Electricity,31-05-2023,1291196,Sanctioned
+161,Uttar Pradesh,District_1,Constituency_162,MP_Name_162,Work_161,Electricity,07-09-2021,1868893,Sanctioned
+162,Gujarat,District_2,Constituency_163,MP_Name_163,Work_162,Drinking Water,10-10-2021,1268130,Sanctioned
+163,Maharashtra,District_3,Constituency_164,MP_Name_164,Work_163,Sanitation,18-02-2022,1160088,Sanctioned
+164,Delhi,District_4,Constituency_165,MP_Name_165,Work_164,Health,30-06-2021,732201,Sanctioned
+165,Uttar Pradesh,District_5,Constituency_166,MP_Name_166,Work_165,Health,26-08-2021,910143,Sanctioned
+166,Delhi,District_6,Constituency_167,MP_Name_167,Work_166,Health,31-05-2021,1463676,Sanctioned
+167,Delhi,District_7,Constituency_168,MP_Name_168,Work_167,Education,12-12-2023,432430,Sanctioned
+168,Karnataka,District_8,Constituency_169,MP_Name_169,Work_168,Electricity,29-10-2023,711481,Sanctioned
+169,Uttar Pradesh,District_9,Constituency_170,MP_Name_170,Work_169,Health,08-10-2022,698009,Sanctioned
+170,Delhi,District_0,Constituency_171,MP_Name_171,Work_170,Sanitation,13-03-2021,1094140,Sanctioned
+171,Maharashtra,District_1,Constituency_172,MP_Name_172,Work_171,Electricity,05-03-2022,1840589,Sanctioned
+172,Uttar Pradesh,District_2,Constituency_173,MP_Name_173,Work_172,Health,19-01-2023,1763463,Sanctioned
+173,Gujarat,District_3,Constituency_174,MP_Name_174,Work_173,Sanitation,10-05-2023,1421448,Sanctioned
+174,Uttar Pradesh,District_4,Constituency_175,MP_Name_175,Work_174,Electricity,04-10-2022,948946,Sanctioned
+175,Uttar Pradesh,District_5,Constituency_176,MP_Name_176,Work_175,Electricity,23-10-2023,1794855,Sanctioned
+176,Gujarat,District_6,Constituency_177,MP_Name_177,Work_176,Electricity,02-05-2021,901725,Sanctioned
+177,Uttar Pradesh,District_7,Constituency_178,MP_Name_178,Work_177,Roads,04-09-2022,599332,Sanctioned
+178,Gujarat,District_8,Constituency_179,MP_Name_179,Work_178,Roads,05-01-2023,974058,Sanctioned
+179,Maharashtra,District_9,Constituency_180,MP_Name_180,Work_179,Sanitation,15-10-2022,933965,Sanctioned
+180,Delhi,District_0,Constituency_181,MP_Name_181,Work_180,Sanitation,15-01-2022,1690191,Sanctioned
+181,Tamil Nadu,District_1,Constituency_182,MP_Name_182,Work_181,Education,14-02-2023,1476037,Sanctioned
+182,Maharashtra,District_2,Constituency_183,MP_Name_183,Work_182,Drinking Water,09-07-2022,933435,Sanctioned
+183,Gujarat,District_3,Constituency_184,MP_Name_184,Work_183,Roads,08-01-2023,1033064,Sanctioned
+184,Tamil Nadu,District_4,Constituency_185,MP_Name_185,Work_184,Roads,26-10-2022,1258178,Sanctioned
+185,Maharashtra,District_5,Constituency_186,MP_Name_186,Work_185,Electricity,23-11-2021,490414,Sanctioned
+186,Maharashtra,District_6,Constituency_187,MP_Name_187,Work_186,Electricity,24-01-2023,1662566,Sanctioned
+187,Tamil Nadu,District_7,Constituency_188,MP_Name_188,Work_187,Roads,20-10-2023,674839,Sanctioned
+188,Karnataka,District_8,Constituency_189,MP_Name_189,Work_188,Sanitation,07-12-2023,844518,Sanctioned
+189,Tamil Nadu,District_9,Constituency_190,MP_Name_190,Work_189,Education,25-06-2022,1651742,Sanctioned
+190,Delhi,District_0,Constituency_191,MP_Name_191,Work_190,Electricity,01-08-2022,1655524,Sanctioned
+191,Tamil Nadu,District_1,Constituency_192,MP_Name_192,Work_191,Electricity,18-04-2021,492665,Sanctioned
+192,Karnataka,District_2,Constituency_193,MP_Name_193,Work_192,Electricity,30-07-2023,1864940,Sanctioned
+193,Maharashtra,District_3,Constituency_194,MP_Name_194,Work_193,Education,12-11-2023,580424,Sanctioned
+194,Maharashtra,District_4,Constituency_195,MP_Name_195,Work_194,Education,15-11-2022,1061940,Sanctioned
+195,Gujarat,District_5,Constituency_196,MP_Name_196,Work_195,Health,08-08-2021,1842293,Sanctioned
+196,Karnataka,District_6,Constituency_197,MP_Name_197,Work_196,Drinking Water,27-12-2023,885506,Sanctioned
+197,Tamil Nadu,District_7,Constituency_198,MP_Name_198,Work_197,Electricity,14-04-2022,1335171,Sanctioned
+198,Gujarat,District_8,Constituency_199,MP_Name_199,Work_198,Health,24-04-2023,1714155,Sanctioned
+199,Gujarat,District_9,Constituency_200,MP_Name_200,Work_199,Education,13-06-2023,1401742,Sanctioned
+200,Maharashtra,District_0,Constituency_201,MP_Name_201,Work_200,Health,10-01-2021,528943,Sanctioned
+201,Delhi,District_1,Constituency_202,MP_Name_202,Work_201,Health,01-05-2021,1215697,Sanctioned
+202,Gujarat,District_2,Constituency_203,MP_Name_203,Work_202,Education,19-12-2023,740801,Sanctioned
+203,Gujarat,District_3,Constituency_204,MP_Name_204,Work_203,Education,06-12-2022,1333465,Sanctioned
+204,Delhi,District_4,Constituency_205,MP_Name_205,Work_204,Health,13-07-2023,1800228,Sanctioned
+205,Karnataka,District_5,Constituency_206,MP_Name_206,Work_205,Electricity,19-03-2023,1136148,Sanctioned
+206,Karnataka,District_6,Constituency_207,MP_Name_207,Work_206,Drinking Water,02-04-2023,1430712,Sanctioned
+207,Karnataka,District_7,Constituency_208,MP_Name_208,Work_207,Drinking Water,15-04-2023,1291914,Sanctioned
+208,Gujarat,District_8,Constituency_209,MP_Name_209,Work_208,Health,10-11-2021,810822,Sanctioned
+209,Gujarat,District_9,Constituency_210,MP_Name_210,Work_209,Health,04-04-2023,1833742,Sanctioned
+210,Tamil Nadu,District_0,Constituency_211,MP_Name_211,Work_210,Roads,22-01-2021,755362,Sanctioned
+211,Maharashtra,District_1,Constituency_212,MP_Name_212,Work_211,Education,11-12-2021,466657,Sanctioned
+212,Tamil Nadu,District_2,Constituency_213,MP_Name_213,Work_212,Electricity,18-03-2021,643539,Sanctioned
+213,Tamil Nadu,District_3,Constituency_214,MP_Name_214,Work_213,Sanitation,21-10-2022,527461,Sanctioned
+214,Delhi,District_4,Constituency_215,MP_Name_215,Work_214,Drinking Water,25-01-2021,469080,Sanctioned
+215,Delhi,District_5,Constituency_216,MP_Name_216,Work_215,Drinking Water,05-07-2023,958063,Sanctioned
+216,Gujarat,District_6,Constituency_217,MP_Name_217,Work_216,Education,04-01-2021,1544072,Sanctioned
+217,Delhi,District_7,Constituency_218,MP_Name_218,Work_217,Education,23-10-2022,661631,Sanctioned
+218,Tamil Nadu,District_8,Constituency_219,MP_Name_219,Work_218,Sanitation,12-04-2023,1592883,Sanctioned
+219,Gujarat,District_9,Constituency_220,MP_Name_220,Work_219,Electricity,21-03-2023,479231,Sanctioned
+220,Gujarat,District_0,Constituency_221,MP_Name_221,Work_220,Electricity,16-07-2021,1739505,Sanctioned
+221,Karnataka,District_1,Constituency_222,MP_Name_222,Work_221,Education,28-09-2023,1410281,Sanctioned
+222,Delhi,District_2,Constituency_223,MP_Name_223,Work_222,Electricity,03-12-2022,1026688,Sanctioned
+223,Tamil Nadu,District_3,Constituency_224,MP_Name_224,Work_223,Electricity,03-05-2023,1433557,Sanctioned
+224,Uttar Pradesh,District_4,Constituency_225,MP_Name_225,Work_224,Education,21-07-2021,1086067,Sanctioned
+225,Tamil Nadu,District_5,Constituency_226,MP_Name_226,Work_225,Electricity,19-12-2022,757024,Sanctioned
+226,Uttar Pradesh,District_6,Constituency_227,MP_Name_227,Work_226,Electricity,12-09-2022,984559,Sanctioned
+227,Delhi,District_7,Constituency_228,MP_Name_228,Work_227,Roads,29-03-2022,458387,Sanctioned
+228,Uttar Pradesh,District_8,Constituency_229,MP_Name_229,Work_228,Sanitation,11-05-2021,1115250,Sanctioned
+229,Uttar Pradesh,District_9,Constituency_230,MP_Name_230,Work_229,Roads,27-06-2021,1084904,Sanctioned
+230,Maharashtra,District_0,Constituency_231,MP_Name_231,Work_230,Drinking Water,06-09-2021,574416,Sanctioned
+231,Uttar Pradesh,District_1,Constituency_232,MP_Name_232,Work_231,Electricity,25-04-2022,646597,Sanctioned
+232,Tamil Nadu,District_2,Constituency_233,MP_Name_233,Work_232,Sanitation,27-05-2023,706551,Sanctioned
+233,Tamil Nadu,District_3,Constituency_234,MP_Name_234,Work_233,Roads,06-03-2023,1414167,Sanctioned
+234,Uttar Pradesh,District_4,Constituency_235,MP_Name_235,Work_234,Education,22-04-2022,1420746,Sanctioned
+235,Karnataka,District_5,Constituency_236,MP_Name_236,Work_235,Electricity,08-05-2023,1500690,Sanctioned
+236,Maharashtra,District_6,Constituency_237,MP_Name_237,Work_236,Education,04-10-2021,1720331,Sanctioned
+237,Karnataka,District_7,Constituency_238,MP_Name_238,Work_237,Sanitation,29-12-2023,905198,Sanctioned
+238,Karnataka,District_8,Constituency_239,MP_Name_239,Work_238,Sanitation,06-05-2021,1233284,Sanctioned
+239,Karnataka,District_9,Constituency_240,MP_Name_240,Work_239,Electricity,13-12-2021,1111141,Sanctioned
+240,Gujarat,District_0,Constituency_241,MP_Name_241,Work_240,Health,03-07-2022,495668,Sanctioned
+241,Gujarat,District_1,Constituency_242,MP_Name_242,Work_241,Sanitation,29-11-2022,985813,Sanctioned
+242,Delhi,District_2,Constituency_243,MP_Name_243,Work_242,Education,01-06-2022,1766118,Sanctioned
+243,Tamil Nadu,District_3,Constituency_244,MP_Name_244,Work_243,Education,08-09-2021,1751764,Sanctioned
+244,Karnataka,District_4,Constituency_245,MP_Name_245,Work_244,Electricity,04-04-2021,836888,Sanctioned
+245,Tamil Nadu,District_5,Constituency_1,MP_Name_1,Work_245,Sanitation,24-04-2022,1437715,Sanctioned
+246,Gujarat,District_6,Constituency_2,MP_Name_2,Work_246,Education,27-05-2023,1026307,Sanctioned
+247,Karnataka,District_7,Constituency_3,MP_Name_3,Work_247,Health,20-03-2022,1252103,Sanctioned
+248,Delhi,District_8,Constituency_4,MP_Name_4,Work_248,Sanitation,13-01-2021,1243533,Sanctioned
+249,Karnataka,District_9,Constituency_5,MP_Name_5,Work_249,Electricity,06-09-2021,1287075,Sanctioned
+250,Gujarat,District_0,Constituency_6,MP_Name_6,Work_250,Electricity,17-12-2021,1126904,Sanctioned
+251,Gujarat,District_1,Constituency_7,MP_Name_7,Work_251,Sanitation,04-04-2021,1738313,Sanctioned
+252,Karnataka,District_2,Constituency_8,MP_Name_8,Work_252,Electricity,23-09-2022,728462,Sanctioned
+253,Gujarat,District_3,Constituency_9,MP_Name_9,Work_253,Roads,17-07-2023,1824195,Sanctioned
+254,Gujarat,District_4,Constituency_10,MP_Name_10,Work_254,Roads,10-01-2023,1545598,Sanctioned
+255,Tamil Nadu,District_5,Constituency_11,MP_Name_11,Work_255,Drinking Water,06-08-2023,1560236,Sanctioned
+256,Gujarat,District_6,Constituency_12,MP_Name_12,Work_256,Electricity,11-12-2023,1565561,Sanctioned
+257,Delhi,District_7,Constituency_13,MP_Name_13,Work_257,Roads,20-07-2023,876096,Sanctioned
+258,Delhi,District_8,Constituency_14,MP_Name_14,Work_258,Education,02-12-2022,692849,Sanctioned
+259,Tamil Nadu,District_9,Constituency_15,MP_Name_15,Work_259,Roads,24-11-2023,1124754,Sanctioned
+260,Tamil Nadu,District_0,Constituency_16,MP_Name_16,Work_260,Health,25-01-2022,917422,Sanctioned
+261,Tamil Nadu,District_1,Constituency_17,MP_Name_17,Work_261,Electricity,14-06-2022,1597033,Sanctioned
+262,Tamil Nadu,District_2,Constituency_18,MP_Name_18,Work_262,Drinking Water,12-02-2021,667835,Sanctioned
+263,Maharashtra,District_3,Constituency_19,MP_Name_19,Work_263,Health,10-04-2021,1280033,Sanctioned
+264,Karnataka,District_4,Constituency_20,MP_Name_20,Work_264,Drinking Water,09-09-2022,897707,Sanctioned
+265,Uttar Pradesh,District_5,Constituency_21,MP_Name_21,Work_265,Education,14-06-2021,1413736,Sanctioned
+266,Delhi,District_6,Constituency_22,MP_Name_22,Work_266,Roads,08-08-2023,838344,Sanctioned
+267,Uttar Pradesh,District_7,Constituency_23,MP_Name_23,Work_267,Electricity,11-01-2021,493630,Sanctioned
+268,Uttar Pradesh,District_8,Constituency_24,MP_Name_24,Work_268,Drinking Water,14-09-2023,848775,Sanctioned
+269,Uttar Pradesh,District_9,Constituency_25,MP_Name_25,Work_269,Health,04-07-2023,1588963,Sanctioned
+270,Maharashtra,District_0,Constituency_26,MP_Name_26,Work_270,Education,14-02-2023,1053606,Sanctioned
+271,Gujarat,District_1,Constituency_27,MP_Name_27,Work_271,Health,30-03-2022,1898144,Sanctioned
+272,Maharashtra,District_2,Constituency_28,MP_Name_28,Work_272,Health,16-04-2022,1633134,Sanctioned
+273,Tamil Nadu,District_3,Constituency_29,MP_Name_29,Work_273,Sanitation,02-11-2022,1562624,Sanctioned
+274,Maharashtra,District_4,Constituency_30,MP_Name_30,Work_274,Health,08-08-2023,1789796,Sanctioned
+275,Maharashtra,District_5,Constituency_31,MP_Name_31,Work_275,Roads,16-12-2023,1734866,Sanctioned
+276,Uttar Pradesh,District_6,Constituency_32,MP_Name_32,Work_276,Electricity,18-09-2022,1870116,Sanctioned
+277,Maharashtra,District_7,Constituency_33,MP_Name_33,Work_277,Sanitation,01-12-2022,629013,Sanctioned
+278,Uttar Pradesh,District_8,Constituency_34,MP_Name_34,Work_278,Sanitation,06-02-2023,977365,Sanctioned
+279,Karnataka,District_9,Constituency_35,MP_Name_35,Work_279,Drinking Water,05-10-2022,1157597,Sanctioned
+280,Karnataka,District_0,Constituency_36,MP_Name_36,Work_280,Electricity,11-01-2022,1165190,Sanctioned
+281,Gujarat,District_1,Constituency_37,MP_Name_37,Work_281,Sanitation,24-01-2021,623023,Sanctioned
+282,Delhi,District_2,Constituency_38,MP_Name_38,Work_282,Electricity,19-05-2023,831849,Sanctioned
+283,Maharashtra,District_3,Constituency_39,MP_Name_39,Work_283,Roads,14-05-2022,1415823,Sanctioned
+284,Uttar Pradesh,District_4,Constituency_40,MP_Name_40,Work_284,Sanitation,22-03-2022,481803,Sanctioned
+285,Delhi,District_5,Constituency_41,MP_Name_41,Work_285,Sanitation,13-11-2023,1474751,Sanctioned
+286,Delhi,District_6,Constituency_42,MP_Name_42,Work_286,Sanitation,06-02-2022,866682,Sanctioned
+287,Tamil Nadu,District_7,Constituency_43,MP_Name_43,Work_287,Sanitation,24-12-2022,855919,Sanctioned
+288,Karnataka,District_8,Constituency_44,MP_Name_44,Work_288,Sanitation,25-06-2023,485025,Sanctioned
+289,Tamil Nadu,District_9,Constituency_45,MP_Name_45,Work_289,Sanitation,14-05-2023,1254332,Sanctioned
+290,Gujarat,District_0,Constituency_46,MP_Name_46,Work_290,Health,19-11-2021,1605521,Sanctioned
+291,Uttar Pradesh,District_1,Constituency_47,MP_Name_47,Work_291,Electricity,30-09-2023,1190968,Sanctioned
+292,Tamil Nadu,District_2,Constituency_48,MP_Name_48,Work_292,Sanitation,06-08-2022,1129634,Sanctioned
+293,Uttar Pradesh,District_3,Constituency_49,MP_Name_49,Work_293,Sanitation,11-08-2023,627712,Sanctioned
+294,Delhi,District_4,Constituency_50,MP_Name_50,Work_294,Health,09-11-2022,850639,Sanctioned
+295,Maharashtra,District_5,Constituency_51,MP_Name_51,Work_295,Drinking Water,20-01-2023,1443219,Sanctioned
+296,Maharashtra,District_6,Constituency_52,MP_Name_52,Work_296,Sanitation,14-12-2023,1571473,Sanctioned
+297,Delhi,District_7,Constituency_53,MP_Name_53,Work_297,Electricity,09-08-2021,737472,Sanctioned
+298,Gujarat,District_8,Constituency_54,MP_Name_54,Work_298,Sanitation,16-06-2021,1067084,Sanctioned
+299,Uttar Pradesh,District_9,Constituency_55,MP_Name_55,Work_299,Electricity,11-11-2021,487662,Sanctioned
+300,Tamil Nadu,District_0,Constituency_56,MP_Name_56,Work_300,Electricity,02-07-2023,817069,Sanctioned
+301,Maharashtra,District_1,Constituency_57,MP_Name_57,Work_301,Sanitation,14-11-2023,534002,Sanctioned
+302,Tamil Nadu,District_2,Constituency_58,MP_Name_58,Work_302,Education,18-12-2022,1499170,Sanctioned
+303,Maharashtra,District_3,Constituency_59,MP_Name_59,Work_303,Electricity,01-11-2023,1562331,Sanctioned
+304,Delhi,District_4,Constituency_60,MP_Name_60,Work_304,Roads,06-05-2021,779090,Sanctioned
+305,Tamil Nadu,District_5,Constituency_61,MP_Name_61,Work_305,Drinking Water,10-12-2022,893133,Sanctioned
+306,Maharashtra,District_6,Constituency_62,MP_Name_62,Work_306,Electricity,28-07-2022,1860842,Sanctioned
+307,Tamil Nadu,District_7,Constituency_63,MP_Name_63,Work_307,Electricity,28-06-2022,1248254,Sanctioned
+308,Gujarat,District_8,Constituency_64,MP_Name_64,Work_308,Electricity,10-05-2021,1283727,Sanctioned
+309,Delhi,District_9,Constituency_65,MP_Name_65,Work_309,Electricity,19-02-2022,1505545,Sanctioned
+310,Tamil Nadu,District_0,Constituency_66,MP_Name_66,Work_310,Health,27-04-2023,497230,Sanctioned
+311,Gujarat,District_1,Constituency_67,MP_Name_67,Work_311,Health,26-12-2021,499901,Sanctioned
+312,Uttar Pradesh,District_2,Constituency_68,MP_Name_68,Work_312,Health,29-10-2023,1816600,Sanctioned
+313,Tamil Nadu,District_3,Constituency_69,MP_Name_69,Work_313,Education,13-04-2023,615982,Sanctioned
+314,Delhi,District_4,Constituency_70,MP_Name_70,Work_314,Sanitation,07-07-2021,1712511,Sanctioned
+315,Gujarat,District_5,Constituency_71,MP_Name_71,Work_315,Drinking Water,02-10-2021,826821,Sanctioned
+316,Uttar Pradesh,District_6,Constituency_72,MP_Name_72,Work_316,Roads,25-12-2022,669810,Sanctioned
+317,Delhi,District_7,Constituency_73,MP_Name_73,Work_317,Health,14-01-2023,582770,Sanctioned
+318,Delhi,District_8,Constituency_74,MP_Name_74,Work_318,Roads,30-06-2022,1650006,Sanctioned
+319,Delhi,District_9,Constituency_75,MP_Name_75,Work_319,Roads,08-11-2021,1341231,Sanctioned
+320,Delhi,District_0,Constituency_76,MP_Name_76,Work_320,Education,06-12-2023,823889,Sanctioned
+321,Uttar Pradesh,District_1,Constituency_77,MP_Name_77,Work_321,Health,15-10-2021,538040,Sanctioned
+322,Gujarat,District_2,Constituency_78,MP_Name_78,Work_322,Sanitation,23-10-2021,1337465,Sanctioned
+323,Tamil Nadu,District_3,Constituency_79,MP_Name_79,Work_323,Education,09-06-2022,943413,Sanctioned
+324,Gujarat,District_4,Constituency_80,MP_Name_80,Work_324,Education,30-05-2023,1417766,Sanctioned
+325,Uttar Pradesh,District_5,Constituency_81,MP_Name_81,Work_325,Roads,26-11-2022,982893,Sanctioned
+326,Delhi,District_6,Constituency_82,MP_Name_82,Work_326,Sanitation,29-09-2023,1849620,Sanctioned
+327,Delhi,District_7,Constituency_83,MP_Name_83,Work_327,Electricity,28-02-2022,1209435,Sanctioned
+328,Maharashtra,District_8,Constituency_84,MP_Name_84,Work_328,Health,03-04-2022,1216408,Sanctioned
+329,Gujarat,District_9,Constituency_85,MP_Name_85,Work_329,Roads,03-07-2022,1004846,Sanctioned
+330,Delhi,District_0,Constituency_86,MP_Name_86,Work_330,Roads,17-07-2021,1746563,Sanctioned
+331,Gujarat,District_1,Constituency_87,MP_Name_87,Work_331,Education,24-02-2023,645554,Sanctioned
+332,Gujarat,District_2,Constituency_88,MP_Name_88,Work_332,Health,08-03-2022,692174,Sanctioned
+333,Karnataka,District_3,Constituency_89,MP_Name_89,Work_333,Sanitation,24-04-2021,634619,Sanctioned
+334,Karnataka,District_4,Constituency_90,MP_Name_90,Work_334,Sanitation,28-06-2021,782359,Sanctioned
+335,Karnataka,District_5,Constituency_91,MP_Name_91,Work_335,Drinking Water,11-03-2021,1451089,Sanctioned
+336,Gujarat,District_6,Constituency_92,MP_Name_92,Work_336,Electricity,14-05-2022,1494354,Sanctioned
+337,Karnataka,District_7,Constituency_93,MP_Name_93,Work_337,Electricity,12-07-2023,802001,Sanctioned
+338,Tamil Nadu,District_8,Constituency_94,MP_Name_94,Work_338,Roads,07-02-2021,1547282,Sanctioned
+339,Maharashtra,District_9,Constituency_95,MP_Name_95,Work_339,Health,02-03-2021,866418,Sanctioned
+340,Karnataka,District_0,Constituency_96,MP_Name_96,Work_340,Roads,01-02-2022,1048171,Sanctioned
+341,Karnataka,District_1,Constituency_97,MP_Name_97,Work_341,Health,21-04-2021,1488076,Sanctioned
+342,Delhi,District_2,Constituency_98,MP_Name_98,Work_342,Roads,07-05-2023,1294457,Sanctioned
+343,Tamil Nadu,District_3,Constituency_99,MP_Name_99,Work_343,Health,23-07-2021,573951,Sanctioned
+344,Maharashtra,District_4,Constituency_100,MP_Name_100,Work_344,Health,01-09-2021,446416,Sanctioned
+345,Tamil Nadu,District_5,Constituency_101,MP_Name_101,Work_345,Roads,21-06-2022,958892,Sanctioned
+346,Tamil Nadu,District_6,Constituency_102,MP_Name_102,Work_346,Drinking Water,23-08-2021,760391,Sanctioned
+347,Uttar Pradesh,District_7,Constituency_103,MP_Name_103,Work_347,Education,07-11-2021,1505784,Sanctioned
+348,Tamil Nadu,District_8,Constituency_104,MP_Name_104,Work_348,Sanitation,29-11-2021,1264774,Sanctioned
+349,Gujarat,District_9,Constituency_105,MP_Name_105,Work_349,Sanitation,04-03-2022,615367,Sanctioned
+350,Uttar Pradesh,District_0,Constituency_106,MP_Name_106,Work_350,Education,14-07-2021,1716445,Sanctioned
+351,Gujarat,District_1,Constituency_107,MP_Name_107,Work_351,Education,11-10-2021,747590,Sanctioned
+352,Gujarat,District_2,Constituency_108,MP_Name_108,Work_352,Sanitation,23-12-2021,1687148,Sanctioned
+353,Delhi,District_3,Constituency_109,MP_Name_109,Work_353,Electricity,11-04-2021,424254,Sanctioned
+354,Uttar Pradesh,District_4,Constituency_110,MP_Name_110,Work_354,Electricity,13-12-2023,1590265,Sanctioned
+355,Delhi,District_5,Constituency_111,MP_Name_111,Work_355,Health,14-11-2023,1299387,Sanctioned
+356,Gujarat,District_6,Constituency_112,MP_Name_112,Work_356,Education,19-05-2023,1832980,Sanctioned
+357,Tamil Nadu,District_7,Constituency_113,MP_Name_113,Work_357,Roads,13-12-2021,1124316,Sanctioned
+358,Delhi,District_8,Constituency_114,MP_Name_114,Work_358,Drinking Water,13-04-2022,727920,Sanctioned
+359,Tamil Nadu,District_9,Constituency_115,MP_Name_115,Work_359,Education,25-09-2021,1850297,Sanctioned
+360,Delhi,District_0,Constituency_116,MP_Name_116,Work_360,Education,30-05-2021,750440,Sanctioned
+361,Uttar Pradesh,District_1,Constituency_117,MP_Name_117,Work_361,Health,03-12-2023,1623770,Sanctioned
+362,Tamil Nadu,District_2,Constituency_118,MP_Name_118,Work_362,Health,13-06-2023,1764110,Sanctioned
+363,Maharashtra,District_3,Constituency_119,MP_Name_119,Work_363,Drinking Water,07-09-2022,1119092,Sanctioned
+364,Karnataka,District_4,Constituency_120,MP_Name_120,Work_364,Education,23-12-2023,1016909,Sanctioned
+365,Maharashtra,District_5,Constituency_121,MP_Name_121,Work_365,Education,29-03-2023,457682,Sanctioned
+366,Gujarat,District_6,Constituency_122,MP_Name_122,Work_366,Electricity,10-03-2023,453239,Sanctioned
+367,Uttar Pradesh,District_7,Constituency_123,MP_Name_123,Work_367,Drinking Water,15-02-2022,1202493,Sanctioned
+368,Delhi,District_8,Constituency_124,MP_Name_124,Work_368,Drinking Water,15-05-2022,1331600,Sanctioned
+369,Karnataka,District_9,Constituency_125,MP_Name_125,Work_369,Sanitation,19-08-2023,1644828,Sanctioned
+370,Karnataka,District_0,Constituency_126,MP_Name_126,Work_370,Drinking Water,09-07-2021,1592761,Sanctioned
+371,Uttar Pradesh,District_1,Constituency_127,MP_Name_127,Work_371,Roads,28-10-2021,747125,Sanctioned
+372,Delhi,District_2,Constituency_128,MP_Name_128,Work_372,Roads,20-06-2022,1623227,Sanctioned
+373,Karnataka,District_3,Constituency_129,MP_Name_129,Work_373,Education,16-06-2023,631648,Sanctioned
+374,Karnataka,District_4,Constituency_130,MP_Name_130,Work_374,Health,02-02-2023,1745076,Sanctioned
+375,Delhi,District_5,Constituency_131,MP_Name_131,Work_375,Education,08-02-2022,852076,Sanctioned
+376,Maharashtra,District_6,Constituency_132,MP_Name_132,Work_376,Sanitation,03-06-2022,845047,Sanctioned
+377,Uttar Pradesh,District_7,Constituency_133,MP_Name_133,Work_377,Health,09-08-2022,795146,Sanctioned
+378,Uttar Pradesh,District_8,Constituency_134,MP_Name_134,Work_378,Roads,08-01-2023,1383885,Sanctioned
+379,Delhi,District_9,Constituency_135,MP_Name_135,Work_379,Health,13-06-2021,494928,Sanctioned
+380,Uttar Pradesh,District_0,Constituency_136,MP_Name_136,Work_380,Sanitation,03-06-2021,926428,Sanctioned
+381,Maharashtra,District_1,Constituency_137,MP_Name_137,Work_381,Education,06-03-2021,649147,Sanctioned
+382,Delhi,District_2,Constituency_138,MP_Name_138,Work_382,Drinking Water,23-01-2022,1424335,Sanctioned
+383,Delhi,District_3,Constituency_139,MP_Name_139,Work_383,Roads,01-07-2021,1897452,Sanctioned
+384,Maharashtra,District_4,Constituency_140,MP_Name_140,Work_384,Sanitation,19-02-2021,1280648,Sanctioned
+385,Delhi,District_5,Constituency_141,MP_Name_141,Work_385,Education,13-07-2021,776581,Sanctioned
+386,Karnataka,District_6,Constituency_142,MP_Name_142,Work_386,Health,23-11-2022,1481763,Sanctioned
+387,Delhi,District_7,Constituency_143,MP_Name_143,Work_387,Health,07-12-2023,1099442,Sanctioned
+388,Delhi,District_8,Constituency_144,MP_Name_144,Work_388,Education,04-05-2023,1794225,Sanctioned
+389,Gujarat,District_9,Constituency_145,MP_Name_145,Work_389,Health,22-01-2021,1042735,Sanctioned
+390,Tamil Nadu,District_0,Constituency_146,MP_Name_146,Work_390,Sanitation,19-07-2021,1444142,Sanctioned
+391,Karnataka,District_1,Constituency_147,MP_Name_147,Work_391,Health,17-05-2021,419569,Sanctioned
+392,Delhi,District_2,Constituency_148,MP_Name_148,Work_392,Sanitation,09-10-2021,1322307,Sanctioned
+393,Tamil Nadu,District_3,Constituency_149,MP_Name_149,Work_393,Health,20-04-2023,434987,Sanctioned
+394,Delhi,District_4,Constituency_150,MP_Name_150,Work_394,Roads,24-08-2022,418826,Sanctioned
+395,Delhi,District_5,Constituency_151,MP_Name_151,Work_395,Sanitation,08-03-2021,651330,Sanctioned
+396,Delhi,District_6,Constituency_152,MP_Name_152,Work_396,Health,05-12-2022,939889,Sanctioned
+397,Tamil Nadu,District_7,Constituency_153,MP_Name_153,Work_397,Roads,08-09-2021,485077,Sanctioned
+398,Uttar Pradesh,District_8,Constituency_154,MP_Name_154,Work_398,Drinking Water,20-09-2021,1538486,Sanctioned
+399,Uttar Pradesh,District_9,Constituency_155,MP_Name_155,Work_399,Sanitation,14-05-2022,1293088,Sanctioned
+400,Karnataka,District_0,Constituency_156,MP_Name_156,Work_400,Roads,25-08-2023,901472,Sanctioned
+401,Delhi,District_1,Constituency_157,MP_Name_157,Work_401,Health,31-03-2021,575077,Sanctioned
+402,Tamil Nadu,District_2,Constituency_158,MP_Name_158,Work_402,Roads,23-04-2022,525106,Sanctioned
+403,Tamil Nadu,District_3,Constituency_159,MP_Name_159,Work_403,Roads,04-01-2022,1666187,Sanctioned
+404,Delhi,District_4,Constituency_160,MP_Name_160,Work_404,Drinking Water,01-12-2022,844178,Sanctioned
+405,Tamil Nadu,District_5,Constituency_161,MP_Name_161,Work_405,Electricity,06-11-2022,1884956,Sanctioned
+406,Gujarat,District_6,Constituency_162,MP_Name_162,Work_406,Electricity,12-01-2022,879910,Sanctioned
+407,Delhi,District_7,Constituency_163,MP_Name_163,Work_407,Electricity,05-07-2023,476022,Sanctioned
+408,Maharashtra,District_8,Constituency_164,MP_Name_164,Work_408,Roads,25-06-2021,1746424,Sanctioned
+409,Karnataka,District_9,Constituency_165,MP_Name_165,Work_409,Drinking Water,16-11-2023,987590,Sanctioned
+410,Karnataka,District_0,Constituency_166,MP_Name_166,Work_410,Electricity,02-06-2022,1397093,Sanctioned
+411,Gujarat,District_1,Constituency_167,MP_Name_167,Work_411,Sanitation,21-11-2023,855975,Sanctioned
+412,Delhi,District_2,Constituency_168,MP_Name_168,Work_412,Health,03-07-2021,773393,Sanctioned
+413,Uttar Pradesh,District_3,Constituency_169,MP_Name_169,Work_413,Roads,18-10-2023,525132,Sanctioned
+414,Uttar Pradesh,District_4,Constituency_170,MP_Name_170,Work_414,Electricity,27-01-2022,423621,Sanctioned
+415,Uttar Pradesh,District_5,Constituency_171,MP_Name_171,Work_415,Education,02-08-2022,1263937,Sanctioned
+416,Uttar Pradesh,District_6,Constituency_172,MP_Name_172,Work_416,Electricity,12-10-2022,1116323,Sanctioned
+417,Delhi,District_7,Constituency_173,MP_Name_173,Work_417,Health,03-12-2023,1317291,Sanctioned
+418,Tamil Nadu,District_8,Constituency_174,MP_Name_174,Work_418,Drinking Water,29-09-2023,1702148,Sanctioned
+419,Karnataka,District_9,Constituency_175,MP_Name_175,Work_419,Sanitation,18-11-2023,745275,Sanctioned
+420,Karnataka,District_0,Constituency_176,MP_Name_176,Work_420,Health,15-03-2022,800422,Sanctioned
+421,Delhi,District_1,Constituency_177,MP_Name_177,Work_421,Drinking Water,10-07-2021,1128765,Sanctioned
+422,Maharashtra,District_2,Constituency_178,MP_Name_178,Work_422,Education,21-06-2023,1575465,Sanctioned
+423,Delhi,District_3,Constituency_179,MP_Name_179,Work_423,Education,06-10-2022,1134236,Sanctioned
+424,Karnataka,District_4,Constituency_180,MP_Name_180,Work_424,Roads,27-10-2023,1285692,Sanctioned
+425,Tamil Nadu,District_5,Constituency_181,MP_Name_181,Work_425,Electricity,16-11-2022,1658307,Sanctioned
+426,Maharashtra,District_6,Constituency_182,MP_Name_182,Work_426,Education,23-05-2022,959760,Sanctioned
+427,Delhi,District_7,Constituency_183,MP_Name_183,Work_427,Sanitation,14-11-2023,1483767,Sanctioned
+428,Delhi,District_8,Constituency_184,MP_Name_184,Work_428,Sanitation,01-07-2022,954996,Sanctioned
+429,Karnataka,District_9,Constituency_185,MP_Name_185,Work_429,Electricity,27-10-2022,555173,Sanctioned
+430,Maharashtra,District_0,Constituency_186,MP_Name_186,Work_430,Health,23-02-2022,618188,Sanctioned
+431,Maharashtra,District_1,Constituency_187,MP_Name_187,Work_431,Roads,24-10-2023,856353,Sanctioned
+432,Uttar Pradesh,District_2,Constituency_188,MP_Name_188,Work_432,Sanitation,28-07-2022,835261,Sanctioned
+433,Uttar Pradesh,District_3,Constituency_189,MP_Name_189,Work_433,Drinking Water,29-10-2023,467968,Sanctioned
+434,Maharashtra,District_4,Constituency_190,MP_Name_190,Work_434,Sanitation,29-06-2021,596444,Sanctioned
+435,Tamil Nadu,District_5,Constituency_191,MP_Name_191,Work_435,Education,03-03-2022,1701074,Sanctioned
+436,Tamil Nadu,District_6,Constituency_192,MP_Name_192,Work_436,Education,21-08-2022,1842760,Sanctioned
+437,Delhi,District_7,Constituency_193,MP_Name_193,Work_437,Electricity,15-07-2023,440002,Sanctioned
+438,Tamil Nadu,District_8,Constituency_194,MP_Name_194,Work_438,Drinking Water,10-07-2023,1824067,Sanctioned
+439,Uttar Pradesh,District_9,Constituency_195,MP_Name_195,Work_439,Education,01-07-2022,1842997,Sanctioned
+440,Delhi,District_0,Constituency_196,MP_Name_196,Work_440,Drinking Water,28-03-2023,1634802,Sanctioned
+441,Karnataka,District_1,Constituency_197,MP_Name_197,Work_441,Health,09-07-2021,919834,Sanctioned
+442,Delhi,District_2,Constituency_198,MP_Name_198,Work_442,Roads,15-10-2022,1367264,Sanctioned
+443,Maharashtra,District_3,Constituency_199,MP_Name_199,Work_443,Roads,22-02-2023,522909,Sanctioned
+444,Uttar Pradesh,District_4,Constituency_200,MP_Name_200,Work_444,Roads,01-09-2021,1766546,Sanctioned
+445,Tamil Nadu,District_5,Constituency_201,MP_Name_201,Work_445,Education,19-11-2022,1498573,Sanctioned
+446,Karnataka,District_6,Constituency_202,MP_Name_202,Work_446,Electricity,19-03-2021,915506,Sanctioned
+447,Tamil Nadu,District_7,Constituency_203,MP_Name_203,Work_447,Roads,20-08-2022,855828,Sanctioned
+448,Maharashtra,District_8,Constituency_204,MP_Name_204,Work_448,Education,13-02-2022,984311,Sanctioned
+449,Uttar Pradesh,District_9,Constituency_205,MP_Name_205,Work_449,Drinking Water,19-07-2021,857765,Sanctioned
+450,Tamil Nadu,District_0,Constituency_206,MP_Name_206,Work_450,Electricity,18-12-2022,870010,Sanctioned
+451,Uttar Pradesh,District_1,Constituency_207,MP_Name_207,Work_451,Health,25-01-2022,1813175,Sanctioned
+452,Tamil Nadu,District_2,Constituency_208,MP_Name_208,Work_452,Health,13-12-2022,1049857,Sanctioned
+453,Karnataka,District_3,Constituency_209,MP_Name_209,Work_453,Education,22-04-2021,1692994,Sanctioned
+454,Karnataka,District_4,Constituency_210,MP_Name_210,Work_454,Sanitation,18-11-2023,701312,Sanctioned
+455,Tamil Nadu,District_5,Constituency_211,MP_Name_211,Work_455,Sanitation,28-04-2022,980136,Sanctioned
+456,Tamil Nadu,District_6,Constituency_212,MP_Name_212,Work_456,Health,17-06-2023,1883120,Sanctioned
+457,Uttar Pradesh,District_7,Constituency_213,MP_Name_213,Work_457,Drinking Water,03-11-2022,1125840,Sanctioned
+458,Gujarat,District_8,Constituency_214,MP_Name_214,Work_458,Electricity,22-10-2022,1732840,Sanctioned
+459,Uttar Pradesh,District_9,Constituency_215,MP_Name_215,Work_459,Electricity,08-12-2022,1236558,Sanctioned
+460,Uttar Pradesh,District_0,Constituency_216,MP_Name_216,Work_460,Health,29-06-2021,1820122,Sanctioned
+461,Uttar Pradesh,District_1,Constituency_217,MP_Name_217,Work_461,Health,13-11-2023,1368651,Sanctioned
+462,Tamil Nadu,District_2,Constituency_218,MP_Name_218,Work_462,Roads,13-01-2021,1521308,Sanctioned
+463,Maharashtra,District_3,Constituency_219,MP_Name_219,Work_463,Sanitation,18-09-2023,1577963,Sanctioned
+464,Tamil Nadu,District_4,Constituency_220,MP_Name_220,Work_464,Roads,20-06-2021,458731,Sanctioned
+465,Tamil Nadu,District_5,Constituency_221,MP_Name_221,Work_465,Roads,08-04-2021,1897535,Sanctioned
+466,Uttar Pradesh,District_6,Constituency_222,MP_Name_222,Work_466,Roads,27-11-2023,1241160,Sanctioned
+467,Delhi,District_7,Constituency_223,MP_Name_223,Work_467,Electricity,06-09-2023,959304,Sanctioned
+468,Tamil Nadu,District_8,Constituency_224,MP_Name_224,Work_468,Health,27-02-2021,730418,Sanctioned
+469,Karnataka,District_9,Constituency_225,MP_Name_225,Work_469,Drinking Water,15-03-2021,742596,Sanctioned
+470,Maharashtra,District_0,Constituency_226,MP_Name_226,Work_470,Health,07-01-2021,516855,Sanctioned
+471,Uttar Pradesh,District_1,Constituency_227,MP_Name_227,Work_471,Electricity,30-10-2023,1090780,Sanctioned
+472,Maharashtra,District_2,Constituency_228,MP_Name_228,Work_472,Electricity,13-03-2021,1505221,Sanctioned
+473,Uttar Pradesh,District_3,Constituency_229,MP_Name_229,Work_473,Sanitation,10-05-2021,1681482,Sanctioned
+474,Tamil Nadu,District_4,Constituency_230,MP_Name_230,Work_474,Education,08-02-2022,1232578,Sanctioned
+475,Delhi,District_5,Constituency_231,MP_Name_231,Work_475,Sanitation,17-11-2021,1355259,Sanctioned
+476,Delhi,District_6,Constituency_232,MP_Name_232,Work_476,Sanitation,03-05-2022,1181523,Sanctioned
+477,Tamil Nadu,District_7,Constituency_233,MP_Name_233,Work_477,Health,29-10-2023,1473682,Sanctioned
+478,Maharashtra,District_8,Constituency_234,MP_Name_234,Work_478,Roads,30-04-2022,673284,Sanctioned
+479,Karnataka,District_9,Constituency_235,MP_Name_235,Work_479,Electricity,01-11-2021,1119814,Sanctioned
+480,Delhi,District_0,Constituency_236,MP_Name_236,Work_480,Electricity,05-09-2021,1693631,Sanctioned
+481,Gujarat,District_1,Constituency_237,MP_Name_237,Work_481,Roads,23-06-2021,1118647,Sanctioned
+482,Karnataka,District_2,Constituency_238,MP_Name_238,Work_482,Sanitation,27-07-2023,729827,Sanctioned
+483,Delhi,District_3,Constituency_239,MP_Name_239,Work_483,Roads,26-09-2021,1275543,Sanctioned
+484,Tamil Nadu,District_4,Constituency_240,MP_Name_240,Work_484,Education,20-03-2021,1700953,Sanctioned
+485,Gujarat,District_5,Constituency_241,MP_Name_241,Work_485,Drinking Water,06-04-2023,641960,Sanctioned
+486,Tamil Nadu,District_6,Constituency_242,MP_Name_242,Work_486,Electricity,09-09-2022,557767,Sanctioned
+487,Karnataka,District_7,Constituency_243,MP_Name_243,Work_487,Health,13-07-2022,673430,Sanctioned
+488,Maharashtra,District_8,Constituency_244,MP_Name_244,Work_488,Health,06-09-2021,1195891,Sanctioned
+489,Karnataka,District_9,Constituency_245,MP_Name_245,Work_489,Roads,26-11-2023,742457,Sanctioned
+490,Delhi,District_0,Constituency_1,MP_Name_1,Work_490,Drinking Water,06-01-2023,435593,Sanctioned
+491,Tamil Nadu,District_1,Constituency_2,MP_Name_2,Work_491,Sanitation,01-02-2023,1653266,Sanctioned
+492,Delhi,District_2,Constituency_3,MP_Name_3,Work_492,Education,17-06-2023,816425,Sanctioned
+493,Tamil Nadu,District_3,Constituency_4,MP_Name_4,Work_493,Education,06-05-2023,1887100,Sanctioned
+494,Tamil Nadu,District_4,Constituency_5,MP_Name_5,Work_494,Health,26-07-2021,1288167,Sanctioned
+495,Maharashtra,District_5,Constituency_6,MP_Name_6,Work_495,Electricity,23-11-2023,1474885,Sanctioned
+496,Delhi,District_6,Constituency_7,MP_Name_7,Work_496,Education,10-05-2022,1478267,Sanctioned
+497,Uttar Pradesh,District_7,Constituency_8,MP_Name_8,Work_497,Education,08-12-2022,1011141,Sanctioned
+498,Delhi,District_8,Constituency_9,MP_Name_9,Work_498,Health,26-06-2022,535609,Sanctioned
+499,Maharashtra,District_9,Constituency_10,MP_Name_10,Work_499,Drinking Water,10-01-2023,638710,Sanctioned
+500,Karnataka,District_0,Constituency_11,MP_Name_11,Work_500,Sanitation,12-09-2022,1236518,Sanctioned
+501,Maharashtra,District_1,Constituency_12,MP_Name_12,Work_501,Roads,24-09-2022,1226770,Sanctioned
+502,Tamil Nadu,District_2,Constituency_13,MP_Name_13,Work_502,Sanitation,19-06-2022,730219,Sanctioned
+503,Uttar Pradesh,District_3,Constituency_14,MP_Name_14,Work_503,Roads,01-10-2023,1884904,Sanctioned
+504,Maharashtra,District_4,Constituency_15,MP_Name_15,Work_504,Sanitation,23-01-2021,412556,Sanctioned
+505,Maharashtra,District_5,Constituency_16,MP_Name_16,Work_505,Sanitation,14-08-2023,1184356,Sanctioned
+506,Gujarat,District_6,Constituency_17,MP_Name_17,Work_506,Drinking Water,14-11-2021,1480458,Sanctioned
+507,Uttar Pradesh,District_7,Constituency_18,MP_Name_18,Work_507,Drinking Water,23-01-2022,846325,Sanctioned
+508,Uttar Pradesh,District_8,Constituency_19,MP_Name_19,Work_508,Sanitation,27-07-2022,705834,Sanctioned
+509,Uttar Pradesh,District_9,Constituency_20,MP_Name_20,Work_509,Roads,04-12-2021,441180,Sanctioned
+510,Maharashtra,District_0,Constituency_21,MP_Name_21,Work_510,Drinking Water,15-10-2021,950994,Sanctioned
+511,Karnataka,District_1,Constituency_22,MP_Name_22,Work_511,Roads,20-06-2021,1487533,Sanctioned
+512,Tamil Nadu,District_2,Constituency_23,MP_Name_23,Work_512,Health,21-10-2022,497473,Sanctioned
+513,Delhi,District_3,Constituency_24,MP_Name_24,Work_513,Health,03-08-2023,820602,Sanctioned
+514,Gujarat,District_4,Constituency_25,MP_Name_25,Work_514,Education,06-02-2021,1420445,Sanctioned
+515,Gujarat,District_5,Constituency_26,MP_Name_26,Work_515,Education,19-11-2021,1248129,Sanctioned
+516,Delhi,District_6,Constituency_27,MP_Name_27,Work_516,Health,25-04-2023,854469,Sanctioned
+517,Tamil Nadu,District_7,Constituency_28,MP_Name_28,Work_517,Roads,12-03-2022,1654363,Sanctioned
+518,Uttar Pradesh,District_8,Constituency_29,MP_Name_29,Work_518,Health,09-02-2023,585128,Sanctioned
+519,Maharashtra,District_9,Constituency_30,MP_Name_30,Work_519,Education,23-12-2021,1356365,Sanctioned
+520,Tamil Nadu,District_0,Constituency_31,MP_Name_31,Work_520,Sanitation,13-04-2023,1662292,Sanctioned
+521,Uttar Pradesh,District_1,Constituency_32,MP_Name_32,Work_521,Roads,30-04-2023,1643657,Sanctioned
+522,Delhi,District_2,Constituency_33,MP_Name_33,Work_522,Drinking Water,10-05-2021,1720228,Sanctioned
+523,Tamil Nadu,District_3,Constituency_34,MP_Name_34,Work_523,Drinking Water,17-10-2021,1662310,Sanctioned
+524,Delhi,District_4,Constituency_35,MP_Name_35,Work_524,Electricity,02-03-2021,427189,Sanctioned
+525,Karnataka,District_5,Constituency_36,MP_Name_36,Work_525,Sanitation,17-10-2023,576105,Sanctioned
+526,Uttar Pradesh,District_6,Constituency_37,MP_Name_37,Work_526,Roads,05-08-2022,531091,Sanctioned
+527,Gujarat,District_7,Constituency_38,MP_Name_38,Work_527,Electricity,24-05-2022,1070836,Sanctioned
+528,Karnataka,District_8,Constituency_39,MP_Name_39,Work_528,Drinking Water,22-05-2021,978735,Sanctioned
+529,Delhi,District_9,Constituency_40,MP_Name_40,Work_529,Roads,16-07-2021,559476,Sanctioned
+530,Tamil Nadu,District_0,Constituency_41,MP_Name_41,Work_530,Health,06-01-2023,1733348,Sanctioned
+531,Karnataka,District_1,Constituency_42,MP_Name_42,Work_531,Electricity,19-03-2022,1042681,Sanctioned
+532,Maharashtra,District_2,Constituency_43,MP_Name_43,Work_532,Roads,28-10-2023,1211424,Sanctioned
+533,Gujarat,District_3,Constituency_44,MP_Name_44,Work_533,Electricity,21-06-2021,1125995,Sanctioned
+534,Karnataka,District_4,Constituency_45,MP_Name_45,Work_534,Health,12-06-2021,543156,Sanctioned
+535,Gujarat,District_5,Constituency_46,MP_Name_46,Work_535,Electricity,05-02-2021,899245,Sanctioned
+536,Karnataka,District_6,Constituency_47,MP_Name_47,Work_536,Drinking Water,06-01-2022,1038415,Sanctioned
+537,Tamil Nadu,District_7,Constituency_48,MP_Name_48,Work_537,Sanitation,21-03-2021,1024793,Sanctioned
+538,Karnataka,District_8,Constituency_49,MP_Name_49,Work_538,Education,03-04-2021,1293269,Sanctioned
+539,Karnataka,District_9,Constituency_50,MP_Name_50,Work_539,Sanitation,29-06-2021,1131798,Sanctioned
+540,Tamil Nadu,District_0,Constituency_51,MP_Name_51,Work_540,Roads,11-07-2023,1635818,Sanctioned
+541,Karnataka,District_1,Constituency_52,MP_Name_52,Work_541,Health,23-12-2022,1441504,Sanctioned
+542,Maharashtra,District_2,Constituency_53,MP_Name_53,Work_542,Health,24-11-2022,1851546,Sanctioned
+543,Delhi,District_3,Constituency_54,MP_Name_54,Work_543,Education,19-11-2023,454176,Sanctioned
+544,Tamil Nadu,District_4,Constituency_55,MP_Name_55,Work_544,Roads,26-01-2022,1676164,Sanctioned
+545,Uttar Pradesh,District_5,Constituency_56,MP_Name_56,Work_545,Education,09-02-2021,1028702,Sanctioned
+546,Tamil Nadu,District_6,Constituency_57,MP_Name_57,Work_546,Health,12-03-2022,779246,Sanctioned
+547,Delhi,District_7,Constituency_58,MP_Name_58,Work_547,Sanitation,03-02-2022,1417692,Sanctioned
+548,Gujarat,District_8,Constituency_59,MP_Name_59,Work_548,Education,09-06-2022,527345,Sanctioned
+549,Maharashtra,District_9,Constituency_60,MP_Name_60,Work_549,Health,05-12-2021,1624150,Sanctioned
+550,Delhi,District_0,Constituency_61,MP_Name_61,Work_550,Electricity,08-12-2022,1011509,Sanctioned
+551,Delhi,District_1,Constituency_62,MP_Name_62,Work_551,Electricity,21-02-2021,940651,Sanctioned
+552,Maharashtra,District_2,Constituency_63,MP_Name_63,Work_552,Sanitation,25-03-2021,1338005,Sanctioned
+553,Maharashtra,District_3,Constituency_64,MP_Name_64,Work_553,Education,25-05-2022,527172,Sanctioned
+554,Karnataka,District_4,Constituency_65,MP_Name_65,Work_554,Electricity,18-12-2023,1056761,Sanctioned
+555,Maharashtra,District_5,Constituency_66,MP_Name_66,Work_555,Roads,10-03-2021,765343,Sanctioned
+556,Maharashtra,District_6,Constituency_67,MP_Name_67,Work_556,Education,10-06-2021,625076,Sanctioned
+557,Karnataka,District_7,Constituency_68,MP_Name_68,Work_557,Drinking Water,11-12-2022,1406838,Sanctioned
+558,Delhi,District_8,Constituency_69,MP_Name_69,Work_558,Drinking Water,17-12-2022,698117,Sanctioned
+559,Maharashtra,District_9,Constituency_70,MP_Name_70,Work_559,Sanitation,24-03-2021,1011908,Sanctioned
+560,Gujarat,District_0,Constituency_71,MP_Name_71,Work_560,Health,26-05-2022,1783695,Sanctioned
+561,Karnataka,District_1,Constituency_72,MP_Name_72,Work_561,Sanitation,19-09-2023,1659671,Sanctioned
+562,Maharashtra,District_2,Constituency_73,MP_Name_73,Work_562,Education,30-06-2021,1152561,Sanctioned
+563,Maharashtra,District_3,Constituency_74,MP_Name_74,Work_563,Health,29-07-2023,1699007,Sanctioned
+564,Karnataka,District_4,Constituency_75,MP_Name_75,Work_564,Electricity,24-06-2022,1636505,Sanctioned
+565,Karnataka,District_5,Constituency_76,MP_Name_76,Work_565,Sanitation,21-10-2021,517577,Sanctioned
+566,Gujarat,District_6,Constituency_77,MP_Name_77,Work_566,Electricity,11-08-2021,1212245,Sanctioned
+567,Maharashtra,District_7,Constituency_78,MP_Name_78,Work_567,Education,15-05-2022,998661,Sanctioned
+568,Maharashtra,District_8,Constituency_79,MP_Name_79,Work_568,Electricity,20-07-2021,460759,Sanctioned
+569,Gujarat,District_9,Constituency_80,MP_Name_80,Work_569,Education,07-01-2023,1806448,Sanctioned
+570,Delhi,District_0,Constituency_81,MP_Name_81,Work_570,Roads,27-01-2023,1574763,Sanctioned
+571,Maharashtra,District_1,Constituency_82,MP_Name_82,Work_571,Roads,30-04-2022,1241844,Sanctioned
+572,Uttar Pradesh,District_2,Constituency_83,MP_Name_83,Work_572,Health,26-12-2021,1852200,Sanctioned
+573,Maharashtra,District_3,Constituency_84,MP_Name_84,Work_573,Roads,30-06-2021,810158,Sanctioned
+574,Uttar Pradesh,District_4,Constituency_85,MP_Name_85,Work_574,Sanitation,27-09-2023,1852058,Sanctioned
+575,Tamil Nadu,District_5,Constituency_86,MP_Name_86,Work_575,Roads,27-09-2021,1450528,Sanctioned
+576,Karnataka,District_6,Constituency_87,MP_Name_87,Work_576,Sanitation,15-08-2021,971545,Sanctioned
+577,Delhi,District_7,Constituency_88,MP_Name_88,Work_577,Electricity,22-05-2022,1067412,Sanctioned
+578,Maharashtra,District_8,Constituency_89,MP_Name_89,Work_578,Sanitation,06-01-2021,714215,Sanctioned
+579,Karnataka,District_9,Constituency_90,MP_Name_90,Work_579,Health,24-01-2023,1193747,Sanctioned
+580,Karnataka,District_0,Constituency_91,MP_Name_91,Work_580,Sanitation,24-04-2021,1614186,Sanctioned
+581,Maharashtra,District_1,Constituency_92,MP_Name_92,Work_581,Sanitation,15-01-2023,1479641,Sanctioned
+582,Uttar Pradesh,District_2,Constituency_93,MP_Name_93,Work_582,Health,29-01-2021,1003012,Sanctioned
+583,Gujarat,District_3,Constituency_94,MP_Name_94,Work_583,Drinking Water,14-12-2022,1722865,Sanctioned
+584,Uttar Pradesh,District_4,Constituency_95,MP_Name_95,Work_584,Sanitation,01-09-2023,1304927,Sanctioned
+585,Gujarat,District_5,Constituency_96,MP_Name_96,Work_585,Health,12-12-2022,884595,Sanctioned
+586,Tamil Nadu,District_6,Constituency_97,MP_Name_97,Work_586,Electricity,21-11-2022,1742697,Sanctioned
+587,Karnataka,District_7,Constituency_98,MP_Name_98,Work_587,Education,21-01-2022,635583,Sanctioned
+588,Maharashtra,District_8,Constituency_99,MP_Name_99,Work_588,Education,09-05-2021,954278,Sanctioned
+589,Uttar Pradesh,District_9,Constituency_100,MP_Name_100,Work_589,Sanitation,21-08-2023,1252997,Sanctioned
+590,Karnataka,District_0,Constituency_101,MP_Name_101,Work_590,Sanitation,14-09-2021,1102723,Sanctioned
+591,Gujarat,District_1,Constituency_102,MP_Name_102,Work_591,Electricity,10-09-2023,737245,Sanctioned
+592,Delhi,District_2,Constituency_103,MP_Name_103,Work_592,Roads,03-05-2021,786589,Sanctioned
+593,Karnataka,District_3,Constituency_104,MP_Name_104,Work_593,Roads,17-08-2021,1718672,Sanctioned
+594,Gujarat,District_4,Constituency_105,MP_Name_105,Work_594,Drinking Water,06-08-2023,562646,Sanctioned
+595,Uttar Pradesh,District_5,Constituency_106,MP_Name_106,Work_595,Drinking Water,10-01-2021,1431286,Sanctioned
+596,Tamil Nadu,District_6,Constituency_107,MP_Name_107,Work_596,Electricity,01-01-2021,1206628,Sanctioned
+597,Tamil Nadu,District_7,Constituency_108,MP_Name_108,Work_597,Health,05-07-2023,1248710,Sanctioned
+598,Gujarat,District_8,Constituency_109,MP_Name_109,Work_598,Sanitation,13-05-2023,1672657,Sanctioned
+599,Karnataka,District_9,Constituency_110,MP_Name_110,Work_599,Roads,01-12-2023,1102309,Sanctioned
+600,Delhi,District_0,Constituency_111,MP_Name_111,Work_600,Sanitation,20-02-2021,1270876,Sanctioned
+601,Tamil Nadu,District_1,Constituency_112,MP_Name_112,Work_601,Education,15-04-2023,1846444,Sanctioned
+602,Maharashtra,District_2,Constituency_113,MP_Name_113,Work_602,Electricity,24-01-2023,529811,Sanctioned
+603,Delhi,District_3,Constituency_114,MP_Name_114,Work_603,Health,28-03-2022,1799772,Sanctioned
+604,Tamil Nadu,District_4,Constituency_115,MP_Name_115,Work_604,Health,11-08-2021,1088999,Sanctioned
+605,Karnataka,District_5,Constituency_116,MP_Name_116,Work_605,Sanitation,28-05-2023,1849023,Sanctioned
+606,Uttar Pradesh,District_6,Constituency_117,MP_Name_117,Work_606,Roads,17-09-2021,866728,Sanctioned
+607,Delhi,District_7,Constituency_118,MP_Name_118,Work_607,Drinking Water,17-08-2021,1613728,Sanctioned
+608,Tamil Nadu,District_8,Constituency_119,MP_Name_119,Work_608,Sanitation,11-04-2021,1830735,Sanctioned
+609,Karnataka,District_9,Constituency_120,MP_Name_120,Work_609,Roads,17-06-2022,1713614,Sanctioned
+610,Tamil Nadu,District_0,Constituency_121,MP_Name_121,Work_610,Health,26-12-2023,1538177,Sanctioned
+611,Gujarat,District_1,Constituency_122,MP_Name_122,Work_611,Roads,26-11-2022,1722929,Sanctioned
+612,Maharashtra,District_2,Constituency_123,MP_Name_123,Work_612,Electricity,18-01-2023,1753929,Sanctioned
+613,Tamil Nadu,District_3,Constituency_124,MP_Name_124,Work_613,Health,31-03-2023,582004,Sanctioned
+614,Maharashtra,District_4,Constituency_125,MP_Name_125,Work_614,Education,29-09-2021,1074531,Sanctioned
+615,Tamil Nadu,District_5,Constituency_126,MP_Name_126,Work_615,Drinking Water,15-03-2021,766687,Sanctioned
+616,Uttar Pradesh,District_6,Constituency_127,MP_Name_127,Work_616,Electricity,23-07-2023,1645071,Sanctioned
+617,Maharashtra,District_7,Constituency_128,MP_Name_128,Work_617,Electricity,20-11-2022,553954,Sanctioned
+618,Maharashtra,District_8,Constituency_129,MP_Name_129,Work_618,Roads,10-11-2023,703662,Sanctioned
+619,Uttar Pradesh,District_9,Constituency_130,MP_Name_130,Work_619,Education,07-07-2021,632883,Sanctioned
+620,Karnataka,District_0,Constituency_131,MP_Name_131,Work_620,Roads,14-04-2021,571001,Sanctioned
+621,Delhi,District_1,Constituency_132,MP_Name_132,Work_621,Electricity,21-07-2021,934878,Sanctioned
+622,Tamil Nadu,District_2,Constituency_133,MP_Name_133,Work_622,Sanitation,09-09-2022,1607111,Sanctioned
+623,Delhi,District_3,Constituency_134,MP_Name_134,Work_623,Health,14-06-2023,1296112,Sanctioned
+624,Tamil Nadu,District_4,Constituency_135,MP_Name_135,Work_624,Drinking Water,29-08-2022,605046,Sanctioned
+625,Karnataka,District_5,Constituency_136,MP_Name_136,Work_625,Electricity,04-07-2021,1880453,Sanctioned
+626,Maharashtra,District_6,Constituency_137,MP_Name_137,Work_626,Education,01-11-2022,636689,Sanctioned
+627,Uttar Pradesh,District_7,Constituency_138,MP_Name_138,Work_627,Health,23-09-2023,1419613,Sanctioned
+628,Maharashtra,District_8,Constituency_139,MP_Name_139,Work_628,Roads,09-12-2021,907757,Sanctioned
+629,Karnataka,District_9,Constituency_140,MP_Name_140,Work_629,Education,09-12-2022,1428627,Sanctioned
+630,Gujarat,District_0,Constituency_141,MP_Name_141,Work_630,Education,07-01-2023,936597,Sanctioned
+631,Karnataka,District_1,Constituency_142,MP_Name_142,Work_631,Roads,08-05-2021,1576014,Sanctioned
+632,Maharashtra,District_2,Constituency_143,MP_Name_143,Work_632,Drinking Water,08-10-2023,1221988,Sanctioned
+633,Tamil Nadu,District_3,Constituency_144,MP_Name_144,Work_633,Education,09-12-2021,551668,Sanctioned
+634,Delhi,District_4,Constituency_145,MP_Name_145,Work_634,Roads,07-02-2022,1160380,Sanctioned
+635,Tamil Nadu,District_5,Constituency_146,MP_Name_146,Work_635,Drinking Water,18-08-2022,1779038,Sanctioned
+636,Maharashtra,District_6,Constituency_147,MP_Name_147,Work_636,Roads,27-09-2023,644904,Sanctioned
+637,Maharashtra,District_7,Constituency_148,MP_Name_148,Work_637,Electricity,18-10-2022,1557769,Sanctioned
+638,Uttar Pradesh,District_8,Constituency_149,MP_Name_149,Work_638,Electricity,07-04-2023,1107820,Sanctioned
+639,Maharashtra,District_9,Constituency_150,MP_Name_150,Work_639,Health,01-11-2022,1114242,Sanctioned
+640,Uttar Pradesh,District_0,Constituency_151,MP_Name_151,Work_640,Electricity,20-02-2021,1229963,Sanctioned
+641,Uttar Pradesh,District_1,Constituency_152,MP_Name_152,Work_641,Health,14-02-2022,481732,Sanctioned
+642,Uttar Pradesh,District_2,Constituency_153,MP_Name_153,Work_642,Roads,23-02-2022,1226504,Sanctioned
+643,Uttar Pradesh,District_3,Constituency_154,MP_Name_154,Work_643,Drinking Water,04-06-2022,414493,Sanctioned
+644,Tamil Nadu,District_4,Constituency_155,MP_Name_155,Work_644,Drinking Water,16-04-2023,544051,Sanctioned
+645,Karnataka,District_5,Constituency_156,MP_Name_156,Work_645,Drinking Water,08-08-2023,1515206,Sanctioned
+646,Delhi,District_6,Constituency_157,MP_Name_157,Work_646,Education,26-11-2023,493717,Sanctioned
+647,Tamil Nadu,District_7,Constituency_158,MP_Name_158,Work_647,Education,10-07-2023,853600,Sanctioned
+648,Tamil Nadu,District_8,Constituency_159,MP_Name_159,Work_648,Drinking Water,23-11-2023,811843,Sanctioned
+649,Gujarat,District_9,Constituency_160,MP_Name_160,Work_649,Drinking Water,22-08-2021,837703,Sanctioned
+650,Tamil Nadu,District_0,Constituency_161,MP_Name_161,Work_650,Electricity,13-09-2021,1179603,Sanctioned
+651,Gujarat,District_1,Constituency_162,MP_Name_162,Work_651,Sanitation,06-10-2023,660476,Sanctioned
+652,Maharashtra,District_2,Constituency_163,MP_Name_163,Work_652,Roads,03-09-2021,1288256,Sanctioned
+653,Gujarat,District_3,Constituency_164,MP_Name_164,Work_653,Education,21-01-2021,1844165,Sanctioned
+654,Tamil Nadu,District_4,Constituency_165,MP_Name_165,Work_654,Electricity,17-11-2021,1645571,Sanctioned
+655,Uttar Pradesh,District_5,Constituency_166,MP_Name_166,Work_655,Education,19-08-2022,1014024,Sanctioned
+656,Delhi,District_6,Constituency_167,MP_Name_167,Work_656,Roads,21-05-2023,1580493,Sanctioned
+657,Delhi,District_7,Constituency_168,MP_Name_168,Work_657,Roads,28-03-2022,1095877,Sanctioned
+658,Karnataka,District_8,Constituency_169,MP_Name_169,Work_658,Education,20-04-2022,1344073,Sanctioned
+659,Maharashtra,District_9,Constituency_170,MP_Name_170,Work_659,Electricity,14-12-2023,1849627,Sanctioned
+660,Gujarat,District_0,Constituency_171,MP_Name_171,Work_660,Education,30-03-2021,1152955,Sanctioned
+661,Tamil Nadu,District_1,Constituency_172,MP_Name_172,Work_661,Drinking Water,29-05-2021,1495568,Sanctioned
+662,Uttar Pradesh,District_2,Constituency_173,MP_Name_173,Work_662,Health,26-10-2023,721931,Sanctioned
+663,Delhi,District_3,Constituency_174,MP_Name_174,Work_663,Drinking Water,05-12-2021,1492328,Sanctioned
+664,Gujarat,District_4,Constituency_175,MP_Name_175,Work_664,Sanitation,10-10-2023,1623436,Sanctioned
+665,Delhi,District_5,Constituency_176,MP_Name_176,Work_665,Roads,06-04-2023,855843,Sanctioned
+666,Uttar Pradesh,District_6,Constituency_177,MP_Name_177,Work_666,Sanitation,01-01-2023,1826232,Sanctioned
+667,Maharashtra,District_7,Constituency_178,MP_Name_178,Work_667,Health,17-02-2023,1147510,Sanctioned
+668,Uttar Pradesh,District_8,Constituency_179,MP_Name_179,Work_668,Electricity,07-10-2021,474089,Sanctioned
+669,Uttar Pradesh,District_9,Constituency_180,MP_Name_180,Work_669,Electricity,23-08-2023,613592,Sanctioned
+670,Delhi,District_0,Constituency_181,MP_Name_181,Work_670,Drinking Water,13-01-2021,973310,Sanctioned
+671,Gujarat,District_1,Constituency_182,MP_Name_182,Work_671,Drinking Water,16-03-2022,1328116,Sanctioned
+672,Tamil Nadu,District_2,Constituency_183,MP_Name_183,Work_672,Sanitation,23-12-2023,1164841,Sanctioned
+673,Karnataka,District_3,Constituency_184,MP_Name_184,Work_673,Health,07-01-2021,779899,Sanctioned
+674,Uttar Pradesh,District_4,Constituency_185,MP_Name_185,Work_674,Drinking Water,12-10-2022,841699,Sanctioned
+675,Delhi,District_5,Constituency_186,MP_Name_186,Work_675,Sanitation,06-10-2022,481354,Sanctioned
+676,Karnataka,District_6,Constituency_187,MP_Name_187,Work_676,Health,10-03-2021,1675697,Sanctioned
+677,Tamil Nadu,District_7,Constituency_188,MP_Name_188,Work_677,Electricity,10-01-2022,1133388,Sanctioned
+678,Maharashtra,District_8,Constituency_189,MP_Name_189,Work_678,Sanitation,31-01-2021,1717345,Sanctioned
+679,Uttar Pradesh,District_9,Constituency_190,MP_Name_190,Work_679,Electricity,20-02-2022,980295,Sanctioned
+680,Maharashtra,District_0,Constituency_191,MP_Name_191,Work_680,Sanitation,25-10-2022,1049175,Sanctioned
+681,Delhi,District_1,Constituency_192,MP_Name_192,Work_681,Electricity,08-09-2022,416963,Sanctioned
+682,Gujarat,District_2,Constituency_193,MP_Name_193,Work_682,Sanitation,13-02-2021,994557,Sanctioned
+683,Tamil Nadu,District_3,Constituency_194,MP_Name_194,Work_683,Sanitation,11-08-2021,725243,Sanctioned
+684,Delhi,District_4,Constituency_195,MP_Name_195,Work_684,Health,03-07-2021,975407,Sanctioned
+685,Maharashtra,District_5,Constituency_196,MP_Name_196,Work_685,Health,12-08-2021,1865706,Sanctioned
+686,Tamil Nadu,District_6,Constituency_197,MP_Name_197,Work_686,Education,16-05-2021,1035490,Sanctioned
+687,Maharashtra,District_7,Constituency_198,MP_Name_198,Work_687,Sanitation,16-07-2021,1010871,Sanctioned
+688,Gujarat,District_8,Constituency_199,MP_Name_199,Work_688,Electricity,19-07-2023,1463411,Sanctioned
+689,Delhi,District_9,Constituency_200,MP_Name_200,Work_689,Education,10-11-2022,442932,Sanctioned
+690,Karnataka,District_0,Constituency_201,MP_Name_201,Work_690,Sanitation,02-03-2022,1144824,Sanctioned
+691,Karnataka,District_1,Constituency_202,MP_Name_202,Work_691,Education,02-05-2021,1022492,Sanctioned
+692,Tamil Nadu,District_2,Constituency_203,MP_Name_203,Work_692,Roads,06-09-2022,1339141,Sanctioned
+693,Delhi,District_3,Constituency_204,MP_Name_204,Work_693,Education,26-11-2023,603386,Sanctioned
+694,Maharashtra,District_4,Constituency_205,MP_Name_205,Work_694,Drinking Water,14-10-2022,1748617,Sanctioned
+695,Delhi,District_5,Constituency_206,MP_Name_206,Work_695,Education,15-04-2021,627735,Sanctioned
+696,Delhi,District_6,Constituency_207,MP_Name_207,Work_696,Electricity,24-04-2022,1864669,Sanctioned
+697,Gujarat,District_7,Constituency_208,MP_Name_208,Work_697,Electricity,10-07-2021,410538,Sanctioned
+698,Delhi,District_8,Constituency_209,MP_Name_209,Work_698,Education,18-04-2022,1792707,Sanctioned
+699,Gujarat,District_9,Constituency_210,MP_Name_210,Work_699,Sanitation,24-06-2022,1460134,Sanctioned
+700,Uttar Pradesh,District_0,Constituency_211,MP_Name_211,Work_700,Drinking Water,27-02-2021,1831225,Sanctioned
+701,Uttar Pradesh,District_1,Constituency_212,MP_Name_212,Work_701,Roads,11-07-2021,574009,Sanctioned
+702,Uttar Pradesh,District_2,Constituency_213,MP_Name_213,Work_702,Drinking Water,17-08-2022,1868030,Sanctioned
+703,Maharashtra,District_3,Constituency_214,MP_Name_214,Work_703,Electricity,27-06-2022,400278,Sanctioned
+704,Karnataka,District_4,Constituency_215,MP_Name_215,Work_704,Drinking Water,23-01-2021,1852252,Sanctioned
+705,Karnataka,District_5,Constituency_216,MP_Name_216,Work_705,Sanitation,07-03-2021,1121041,Sanctioned
+706,Gujarat,District_6,Constituency_217,MP_Name_217,Work_706,Education,05-06-2022,1461473,Sanctioned
+707,Uttar Pradesh,District_7,Constituency_218,MP_Name_218,Work_707,Roads,06-06-2021,688132,Sanctioned
+708,Gujarat,District_8,Constituency_219,MP_Name_219,Work_708,Education,24-08-2022,552377,Sanctioned
+709,Karnataka,District_9,Constituency_220,MP_Name_220,Work_709,Electricity,05-05-2023,1721451,Sanctioned
+710,Delhi,District_0,Constituency_221,MP_Name_221,Work_710,Sanitation,24-07-2021,1501435,Sanctioned
+711,Karnataka,District_1,Constituency_222,MP_Name_222,Work_711,Education,15-10-2022,670834,Sanctioned
+712,Maharashtra,District_2,Constituency_223,MP_Name_223,Work_712,Sanitation,10-11-2022,443333,Sanctioned
+713,Karnataka,District_3,Constituency_224,MP_Name_224,Work_713,Electricity,29-05-2022,1059578,Sanctioned
+714,Maharashtra,District_4,Constituency_225,MP_Name_225,Work_714,Roads,24-02-2022,1766529,Sanctioned
+715,Uttar Pradesh,District_5,Constituency_226,MP_Name_226,Work_715,Roads,09-02-2023,1600894,Sanctioned
+716,Uttar Pradesh,District_6,Constituency_227,MP_Name_227,Work_716,Education,17-08-2023,1746334,Sanctioned
+717,Gujarat,District_7,Constituency_228,MP_Name_228,Work_717,Roads,15-04-2021,1205219,Sanctioned
+718,Tamil Nadu,District_8,Constituency_229,MP_Name_229,Work_718,Roads,08-09-2022,1115962,Sanctioned
+719,Maharashtra,District_9,Constituency_230,MP_Name_230,Work_719,Education,14-11-2022,497058,Sanctioned
+720,Uttar Pradesh,District_0,Constituency_231,MP_Name_231,Work_720,Education,13-07-2021,1327006,Sanctioned
+721,Gujarat,District_1,Constituency_232,MP_Name_232,Work_721,Health,10-03-2023,1849274,Sanctioned
+722,Delhi,District_2,Constituency_233,MP_Name_233,Work_722,Education,14-11-2021,1558133,Sanctioned
+723,Delhi,District_3,Constituency_234,MP_Name_234,Work_723,Sanitation,14-05-2022,702276,Sanctioned
+724,Delhi,District_4,Constituency_235,MP_Name_235,Work_724,Drinking Water,14-12-2023,1111751,Sanctioned
+725,Maharashtra,District_5,Constituency_236,MP_Name_236,Work_725,Electricity,14-06-2023,1174752,Sanctioned
+726,Karnataka,District_6,Constituency_237,MP_Name_237,Work_726,Health,17-01-2022,504635,Sanctioned
+727,Maharashtra,District_7,Constituency_238,MP_Name_238,Work_727,Roads,14-10-2023,1333151,Sanctioned
+728,Gujarat,District_8,Constituency_239,MP_Name_239,Work_728,Electricity,06-12-2022,829210,Sanctioned
+729,Gujarat,District_9,Constituency_240,MP_Name_240,Work_729,Electricity,26-09-2021,1739054,Sanctioned
+730,Maharashtra,District_0,Constituency_241,MP_Name_241,Work_730,Drinking Water,16-05-2023,816463,Sanctioned
+731,Karnataka,District_1,Constituency_242,MP_Name_242,Work_731,Roads,21-11-2023,789489,Sanctioned
+732,Gujarat,District_2,Constituency_243,MP_Name_243,Work_732,Sanitation,22-04-2021,1257007,Sanctioned
+733,Maharashtra,District_3,Constituency_244,MP_Name_244,Work_733,Sanitation,06-11-2023,955970,Sanctioned
+734,Tamil Nadu,District_4,Constituency_245,MP_Name_245,Work_734,Sanitation,23-03-2023,993046,Sanctioned
+735,Gujarat,District_5,Constituency_1,MP_Name_1,Work_735,Health,09-01-2022,1683475,Sanctioned
+736,Karnataka,District_6,Constituency_2,MP_Name_2,Work_736,Health,14-06-2023,897299,Sanctioned
+737,Maharashtra,District_7,Constituency_3,MP_Name_3,Work_737,Education,10-09-2021,1606919,Sanctioned
+738,Uttar Pradesh,District_8,Constituency_4,MP_Name_4,Work_738,Education,16-12-2023,1749055,Sanctioned
+739,Uttar Pradesh,District_9,Constituency_5,MP_Name_5,Work_739,Health,17-05-2021,1522977,Sanctioned
+740,Karnataka,District_0,Constituency_6,MP_Name_6,Work_740,Roads,12-11-2022,1037746,Sanctioned
+741,Delhi,District_1,Constituency_7,MP_Name_7,Work_741,Roads,10-05-2023,1869155,Sanctioned
+742,Karnataka,District_2,Constituency_8,MP_Name_8,Work_742,Roads,17-09-2022,1214995,Sanctioned
+743,Uttar Pradesh,District_3,Constituency_9,MP_Name_9,Work_743,Roads,13-09-2023,1618928,Sanctioned
+744,Gujarat,District_4,Constituency_10,MP_Name_10,Work_744,Health,04-04-2021,912320,Sanctioned
+745,Karnataka,District_5,Constituency_11,MP_Name_11,Work_745,Roads,04-08-2023,1556783,Sanctioned
+746,Delhi,District_6,Constituency_12,MP_Name_12,Work_746,Electricity,29-11-2021,625034,Sanctioned
+747,Gujarat,District_7,Constituency_13,MP_Name_13,Work_747,Education,06-06-2022,683585,Sanctioned
+748,Uttar Pradesh,District_8,Constituency_14,MP_Name_14,Work_748,Roads,17-06-2021,1423738,Sanctioned
+749,Maharashtra,District_9,Constituency_15,MP_Name_15,Work_749,Sanitation,04-08-2021,1497206,Sanctioned
+750,Tamil Nadu,District_0,Constituency_16,MP_Name_16,Work_750,Drinking Water,01-05-2023,1875778,Sanctioned
+751,Karnataka,District_1,Constituency_17,MP_Name_17,Work_751,Drinking Water,25-06-2021,1717489,Sanctioned
+752,Gujarat,District_2,Constituency_18,MP_Name_18,Work_752,Education,18-08-2021,1310934,Sanctioned
+753,Uttar Pradesh,District_3,Constituency_19,MP_Name_19,Work_753,Health,02-07-2023,1315937,Sanctioned
+754,Uttar Pradesh,District_4,Constituency_20,MP_Name_20,Work_754,Electricity,22-07-2023,1684689,Sanctioned
+755,Uttar Pradesh,District_5,Constituency_21,MP_Name_21,Work_755,Drinking Water,16-10-2022,1171999,Sanctioned
+756,Uttar Pradesh,District_6,Constituency_22,MP_Name_22,Work_756,Sanitation,02-10-2023,880227,Sanctioned
+757,Maharashtra,District_7,Constituency_23,MP_Name_23,Work_757,Education,04-04-2023,1718807,Sanctioned
+758,Karnataka,District_8,Constituency_24,MP_Name_24,Work_758,Drinking Water,29-06-2023,415643,Sanctioned
+759,Tamil Nadu,District_9,Constituency_25,MP_Name_25,Work_759,Health,22-06-2021,1133883,Sanctioned
+760,Karnataka,District_0,Constituency_26,MP_Name_26,Work_760,Electricity,08-07-2021,1000488,Sanctioned
+761,Uttar Pradesh,District_1,Constituency_27,MP_Name_27,Work_761,Sanitation,12-12-2021,1808194,Sanctioned
+762,Tamil Nadu,District_2,Constituency_28,MP_Name_28,Work_762,Drinking Water,21-08-2022,1605049,Sanctioned
+763,Tamil Nadu,District_3,Constituency_29,MP_Name_29,Work_763,Drinking Water,11-11-2022,433927,Sanctioned
+764,Maharashtra,District_4,Constituency_30,MP_Name_30,Work_764,Drinking Water,28-06-2021,1849195,Sanctioned
+765,Maharashtra,District_5,Constituency_31,MP_Name_31,Work_765,Education,03-11-2023,1634036,Sanctioned
+766,Karnataka,District_6,Constituency_32,MP_Name_32,Work_766,Health,27-04-2021,1742606,Sanctioned
+767,Delhi,District_7,Constituency_33,MP_Name_33,Work_767,Roads,13-05-2022,437492,Sanctioned
+768,Delhi,District_8,Constituency_34,MP_Name_34,Work_768,Roads,21-04-2022,1879878,Sanctioned
+769,Gujarat,District_9,Constituency_35,MP_Name_35,Work_769,Electricity,25-04-2023,1606533,Sanctioned
+770,Gujarat,District_0,Constituency_36,MP_Name_36,Work_770,Education,10-02-2023,1168205,Sanctioned
+771,Tamil Nadu,District_1,Constituency_37,MP_Name_37,Work_771,Education,11-04-2022,707558,Sanctioned
+772,Gujarat,District_2,Constituency_38,MP_Name_38,Work_772,Electricity,02-02-2022,1651121,Sanctioned
+773,Karnataka,District_3,Constituency_39,MP_Name_39,Work_773,Education,21-11-2023,593573,Sanctioned
+774,Delhi,District_4,Constituency_40,MP_Name_40,Work_774,Electricity,04-01-2022,722242,Sanctioned
+775,Delhi,District_5,Constituency_41,MP_Name_41,Work_775,Electricity,17-12-2023,1641673,Sanctioned
+776,Tamil Nadu,District_6,Constituency_42,MP_Name_42,Work_776,Electricity,18-04-2023,881377,Sanctioned
+777,Uttar Pradesh,District_7,Constituency_43,MP_Name_43,Work_777,Drinking Water,01-08-2023,1231656,Sanctioned
+778,Tamil Nadu,District_8,Constituency_44,MP_Name_44,Work_778,Roads,08-02-2022,505487,Sanctioned
+779,Tamil Nadu,District_9,Constituency_45,MP_Name_45,Work_779,Roads,23-01-2021,1467877,Sanctioned
+780,Karnataka,District_0,Constituency_46,MP_Name_46,Work_780,Drinking Water,09-07-2021,1673326,Sanctioned
+781,Uttar Pradesh,District_1,Constituency_47,MP_Name_47,Work_781,Health,13-08-2022,1318005,Sanctioned
+782,Gujarat,District_2,Constituency_48,MP_Name_48,Work_782,Roads,08-10-2021,1084398,Sanctioned
+783,Delhi,District_3,Constituency_49,MP_Name_49,Work_783,Electricity,21-06-2021,946017,Sanctioned
+784,Maharashtra,District_4,Constituency_50,MP_Name_50,Work_784,Drinking Water,28-09-2023,919972,Sanctioned
+785,Karnataka,District_5,Constituency_51,MP_Name_51,Work_785,Sanitation,31-08-2021,1459748,Sanctioned
+786,Delhi,District_6,Constituency_52,MP_Name_52,Work_786,Electricity,16-03-2023,965474,Sanctioned
+787,Uttar Pradesh,District_7,Constituency_53,MP_Name_53,Work_787,Roads,10-08-2021,1082598,Sanctioned
+788,Uttar Pradesh,District_8,Constituency_54,MP_Name_54,Work_788,Education,02-02-2022,1227128,Sanctioned
+789,Karnataka,District_9,Constituency_55,MP_Name_55,Work_789,Health,04-10-2022,433129,Sanctioned
+790,Tamil Nadu,District_0,Constituency_56,MP_Name_56,Work_790,Drinking Water,24-01-2021,1523621,Sanctioned
+791,Karnataka,District_1,Constituency_57,MP_Name_57,Work_791,Drinking Water,12-08-2022,1697115,Sanctioned
+792,Gujarat,District_2,Constituency_58,MP_Name_58,Work_792,Drinking Water,22-06-2021,1065492,Sanctioned
+793,Delhi,District_3,Constituency_59,MP_Name_59,Work_793,Sanitation,05-04-2022,785320,Sanctioned
+794,Tamil Nadu,District_4,Constituency_60,MP_Name_60,Work_794,Drinking Water,28-12-2021,490911,Sanctioned
+795,Uttar Pradesh,District_5,Constituency_61,MP_Name_61,Work_795,Health,17-10-2021,548539,Sanctioned
+796,Uttar Pradesh,District_6,Constituency_62,MP_Name_62,Work_796,Electricity,28-05-2021,1753411,Sanctioned
+797,Delhi,District_7,Constituency_63,MP_Name_63,Work_797,Drinking Water,02-10-2022,820676,Sanctioned
+798,Gujarat,District_8,Constituency_64,MP_Name_64,Work_798,Electricity,18-08-2023,687056,Sanctioned
+799,Gujarat,District_9,Constituency_65,MP_Name_65,Work_799,Electricity,30-08-2021,1882371,Sanctioned
+800,Uttar Pradesh,District_0,Constituency_66,MP_Name_66,Work_800,Health,19-10-2022,841795,Sanctioned
+801,Maharashtra,District_1,Constituency_67,MP_Name_67,Work_801,Health,22-11-2022,1797169,Sanctioned
+802,Karnataka,District_2,Constituency_68,MP_Name_68,Work_802,Education,21-11-2021,1159960,Sanctioned
+803,Tamil Nadu,District_3,Constituency_69,MP_Name_69,Work_803,Drinking Water,23-06-2021,978193,Sanctioned
+804,Tamil Nadu,District_4,Constituency_70,MP_Name_70,Work_804,Drinking Water,28-10-2022,744596,Sanctioned
+805,Delhi,District_5,Constituency_71,MP_Name_71,Work_805,Sanitation,17-05-2022,1023211,Sanctioned
+806,Delhi,District_6,Constituency_72,MP_Name_72,Work_806,Electricity,29-03-2023,732319,Sanctioned
+807,Gujarat,District_7,Constituency_73,MP_Name_73,Work_807,Drinking Water,24-02-2022,781709,Sanctioned
+808,Maharashtra,District_8,Constituency_74,MP_Name_74,Work_808,Roads,25-01-2023,1732445,Sanctioned
+809,Karnataka,District_9,Constituency_75,MP_Name_75,Work_809,Health,08-11-2023,1277119,Sanctioned
+810,Maharashtra,District_0,Constituency_76,MP_Name_76,Work_810,Sanitation,16-09-2023,1021842,Sanctioned
+811,Maharashtra,District_1,Constituency_77,MP_Name_77,Work_811,Sanitation,27-11-2022,1495898,Sanctioned
+812,Tamil Nadu,District_2,Constituency_78,MP_Name_78,Work_812,Drinking Water,06-09-2022,1131265,Sanctioned
+813,Karnataka,District_3,Constituency_79,MP_Name_79,Work_813,Health,29-11-2021,1670803,Sanctioned
+814,Maharashtra,District_4,Constituency_80,MP_Name_80,Work_814,Sanitation,14-04-2023,437229,Sanctioned
+815,Gujarat,District_5,Constituency_81,MP_Name_81,Work_815,Roads,24-02-2022,728720,Sanctioned
+816,Maharashtra,District_6,Constituency_82,MP_Name_82,Work_816,Education,29-08-2021,1158878,Sanctioned
+817,Maharashtra,District_7,Constituency_83,MP_Name_83,Work_817,Health,17-01-2021,1216015,Sanctioned
+818,Karnataka,District_8,Constituency_84,MP_Name_84,Work_818,Health,10-03-2023,897278,Sanctioned
+819,Maharashtra,District_9,Constituency_85,MP_Name_85,Work_819,Sanitation,12-12-2021,1078062,Sanctioned
+820,Delhi,District_0,Constituency_86,MP_Name_86,Work_820,Roads,03-04-2021,474185,Sanctioned
+821,Maharashtra,District_1,Constituency_87,MP_Name_87,Work_821,Sanitation,20-02-2021,819409,Sanctioned
+822,Gujarat,District_2,Constituency_88,MP_Name_88,Work_822,Sanitation,23-08-2022,1036889,Sanctioned
+823,Delhi,District_3,Constituency_89,MP_Name_89,Work_823,Drinking Water,24-08-2023,716580,Sanctioned
+824,Karnataka,District_4,Constituency_90,MP_Name_90,Work_824,Electricity,10-05-2023,918460,Sanctioned
+825,Uttar Pradesh,District_5,Constituency_91,MP_Name_91,Work_825,Electricity,16-09-2023,974932,Sanctioned
+826,Uttar Pradesh,District_6,Constituency_92,MP_Name_92,Work_826,Sanitation,29-06-2021,723737,Sanctioned
+827,Maharashtra,District_7,Constituency_93,MP_Name_93,Work_827,Education,11-03-2022,1893171,Sanctioned
+828,Karnataka,District_8,Constituency_94,MP_Name_94,Work_828,Health,25-05-2021,893144,Sanctioned
+829,Gujarat,District_9,Constituency_95,MP_Name_95,Work_829,Health,03-07-2021,1876853,Sanctioned
+830,Maharashtra,District_0,Constituency_96,MP_Name_96,Work_830,Electricity,13-04-2023,1843607,Sanctioned
+831,Delhi,District_1,Constituency_97,MP_Name_97,Work_831,Education,27-07-2023,616502,Sanctioned
+832,Gujarat,District_2,Constituency_98,MP_Name_98,Work_832,Education,13-04-2023,1887398,Sanctioned
+833,Karnataka,District_3,Constituency_99,MP_Name_99,Work_833,Electricity,16-08-2021,1496476,Sanctioned
+834,Gujarat,District_4,Constituency_100,MP_Name_100,Work_834,Education,16-09-2023,1848762,Sanctioned
+835,Uttar Pradesh,District_5,Constituency_101,MP_Name_101,Work_835,Health,12-12-2021,695465,Sanctioned
+836,Gujarat,District_6,Constituency_102,MP_Name_102,Work_836,Sanitation,23-11-2021,1568934,Sanctioned
+837,Tamil Nadu,District_7,Constituency_103,MP_Name_103,Work_837,Education,19-12-2023,631740,Sanctioned
+838,Karnataka,District_8,Constituency_104,MP_Name_104,Work_838,Roads,26-08-2023,1387406,Sanctioned
+839,Uttar Pradesh,District_9,Constituency_105,MP_Name_105,Work_839,Sanitation,22-07-2021,840810,Sanctioned
+840,Maharashtra,District_0,Constituency_106,MP_Name_106,Work_840,Electricity,26-05-2022,604147,Sanctioned
+841,Karnataka,District_1,Constituency_107,MP_Name_107,Work_841,Electricity,21-04-2022,1451258,Sanctioned
+842,Tamil Nadu,District_2,Constituency_108,MP_Name_108,Work_842,Education,17-07-2021,1509789,Sanctioned
+843,Karnataka,District_3,Constituency_109,MP_Name_109,Work_843,Sanitation,30-01-2022,1536878,Sanctioned
+844,Gujarat,District_4,Constituency_110,MP_Name_110,Work_844,Drinking Water,07-11-2023,1864003,Sanctioned
+845,Gujarat,District_5,Constituency_111,MP_Name_111,Work_845,Health,10-09-2021,1004395,Sanctioned
+846,Maharashtra,District_6,Constituency_112,MP_Name_112,Work_846,Drinking Water,13-05-2022,1324024,Sanctioned
+847,Tamil Nadu,District_7,Constituency_113,MP_Name_113,Work_847,Electricity,22-04-2023,1766841,Sanctioned
+848,Karnataka,District_8,Constituency_114,MP_Name_114,Work_848,Health,16-09-2022,1870674,Sanctioned
+849,Tamil Nadu,District_9,Constituency_115,MP_Name_115,Work_849,Drinking Water,20-06-2023,1681133,Sanctioned
+850,Delhi,District_0,Constituency_116,MP_Name_116,Work_850,Drinking Water,20-11-2021,1200951,Sanctioned
+851,Gujarat,District_1,Constituency_117,MP_Name_117,Work_851,Drinking Water,18-08-2023,1761372,Sanctioned
+852,Uttar Pradesh,District_2,Constituency_118,MP_Name_118,Work_852,Roads,15-01-2023,746982,Sanctioned
+853,Gujarat,District_3,Constituency_119,MP_Name_119,Work_853,Roads,18-04-2022,1273638,Sanctioned
+854,Uttar Pradesh,District_4,Constituency_120,MP_Name_120,Work_854,Roads,31-05-2022,1621085,Sanctioned
+855,Uttar Pradesh,District_5,Constituency_121,MP_Name_121,Work_855,Sanitation,27-09-2023,833480,Sanctioned
+856,Gujarat,District_6,Constituency_122,MP_Name_122,Work_856,Sanitation,18-03-2022,991295,Sanctioned
+857,Uttar Pradesh,District_7,Constituency_123,MP_Name_123,Work_857,Electricity,25-12-2021,861803,Sanctioned
+858,Maharashtra,District_8,Constituency_124,MP_Name_124,Work_858,Education,27-11-2021,1202138,Sanctioned
+859,Delhi,District_9,Constituency_125,MP_Name_125,Work_859,Health,01-11-2022,1259175,Sanctioned
+860,Tamil Nadu,District_0,Constituency_126,MP_Name_126,Work_860,Drinking Water,23-12-2023,1497416,Sanctioned
+861,Gujarat,District_1,Constituency_127,MP_Name_127,Work_861,Electricity,16-08-2023,1660745,Sanctioned
+862,Delhi,District_2,Constituency_128,MP_Name_128,Work_862,Drinking Water,19-11-2021,1110210,Sanctioned
+863,Maharashtra,District_3,Constituency_129,MP_Name_129,Work_863,Education,05-11-2023,1482698,Sanctioned
+864,Karnataka,District_4,Constituency_130,MP_Name_130,Work_864,Health,19-08-2021,1864458,Sanctioned
+865,Delhi,District_5,Constituency_131,MP_Name_131,Work_865,Health,17-10-2021,1386022,Sanctioned
+866,Maharashtra,District_6,Constituency_132,MP_Name_132,Work_866,Drinking Water,09-04-2021,1454270,Sanctioned
+867,Uttar Pradesh,District_7,Constituency_133,MP_Name_133,Work_867,Education,04-05-2022,655628,Sanctioned
+868,Gujarat,District_8,Constituency_134,MP_Name_134,Work_868,Health,28-02-2022,1813734,Sanctioned
+869,Uttar Pradesh,District_9,Constituency_135,MP_Name_135,Work_869,Drinking Water,13-07-2021,1429878,Sanctioned
+870,Maharashtra,District_0,Constituency_136,MP_Name_136,Work_870,Electricity,05-12-2023,542495,Sanctioned
+871,Uttar Pradesh,District_1,Constituency_137,MP_Name_137,Work_871,Health,25-02-2021,1555761,Sanctioned
+872,Maharashtra,District_2,Constituency_138,MP_Name_138,Work_872,Health,15-12-2021,1213926,Sanctioned
+873,Tamil Nadu,District_3,Constituency_139,MP_Name_139,Work_873,Drinking Water,08-12-2022,1041321,Sanctioned
+874,Maharashtra,District_4,Constituency_140,MP_Name_140,Work_874,Education,25-10-2022,544619,Sanctioned
+875,Maharashtra,District_5,Constituency_141,MP_Name_141,Work_875,Health,28-07-2022,1854694,Sanctioned
+876,Karnataka,District_6,Constituency_142,MP_Name_142,Work_876,Education,20-11-2021,1680807,Sanctioned
+877,Tamil Nadu,District_7,Constituency_143,MP_Name_143,Work_877,Drinking Water,08-09-2023,612292,Sanctioned
+878,Maharashtra,District_8,Constituency_144,MP_Name_144,Work_878,Drinking Water,25-11-2021,1047752,Sanctioned
+879,Delhi,District_9,Constituency_145,MP_Name_145,Work_879,Education,17-07-2023,1898129,Sanctioned
+880,Delhi,District_0,Constituency_146,MP_Name_146,Work_880,Roads,09-07-2023,791039,Sanctioned
+881,Delhi,District_1,Constituency_147,MP_Name_147,Work_881,Drinking Water,31-01-2022,465151,Sanctioned
+882,Uttar Pradesh,District_2,Constituency_148,MP_Name_148,Work_882,Electricity,14-11-2023,1174198,Sanctioned
+883,Gujarat,District_3,Constituency_149,MP_Name_149,Work_883,Electricity,21-08-2023,1704866,Sanctioned
+884,Tamil Nadu,District_4,Constituency_150,MP_Name_150,Work_884,Electricity,26-03-2021,1091883,Sanctioned
+885,Karnataka,District_5,Constituency_151,MP_Name_151,Work_885,Electricity,29-05-2022,400087,Sanctioned
+886,Maharashtra,District_6,Constituency_152,MP_Name_152,Work_886,Education,28-01-2022,446364,Sanctioned
+887,Delhi,District_7,Constituency_153,MP_Name_153,Work_887,Drinking Water,02-05-2022,964756,Sanctioned
+888,Uttar Pradesh,District_8,Constituency_154,MP_Name_154,Work_888,Roads,12-03-2023,820326,Sanctioned
+889,Uttar Pradesh,District_9,Constituency_155,MP_Name_155,Work_889,Sanitation,21-10-2023,1699167,Sanctioned
+890,Uttar Pradesh,District_0,Constituency_156,MP_Name_156,Work_890,Health,19-08-2023,1284101,Sanctioned
+891,Gujarat,District_1,Constituency_157,MP_Name_157,Work_891,Electricity,27-05-2022,1759932,Sanctioned
+892,Delhi,District_2,Constituency_158,MP_Name_158,Work_892,Roads,17-12-2023,1641178,Sanctioned
+893,Maharashtra,District_3,Constituency_159,MP_Name_159,Work_893,Sanitation,18-12-2023,408929,Sanctioned
+894,Delhi,District_4,Constituency_160,MP_Name_160,Work_894,Drinking Water,13-12-2022,556714,Sanctioned
+895,Maharashtra,District_5,Constituency_161,MP_Name_161,Work_895,Drinking Water,02-02-2022,1606420,Sanctioned
+896,Karnataka,District_6,Constituency_162,MP_Name_162,Work_896,Sanitation,06-02-2022,1185932,Sanctioned
+897,Tamil Nadu,District_7,Constituency_163,MP_Name_163,Work_897,Drinking Water,13-09-2022,910382,Sanctioned
+898,Tamil Nadu,District_8,Constituency_164,MP_Name_164,Work_898,Electricity,30-09-2023,473859,Sanctioned
+899,Delhi,District_9,Constituency_165,MP_Name_165,Work_899,Drinking Water,15-02-2022,1574666,Sanctioned
+900,Gujarat,District_0,Constituency_166,MP_Name_166,Work_900,Health,16-07-2023,403091,Sanctioned
+901,Karnataka,District_1,Constituency_167,MP_Name_167,Work_901,Education,22-05-2023,865967,Sanctioned
+902,Tamil Nadu,District_2,Constituency_168,MP_Name_168,Work_902,Drinking Water,03-10-2021,551287,Sanctioned
+903,Tamil Nadu,District_3,Constituency_169,MP_Name_169,Work_903,Drinking Water,20-07-2023,930301,Sanctioned
+904,Tamil Nadu,District_4,Constituency_170,MP_Name_170,Work_904,Education,10-02-2023,1134771,Sanctioned
+905,Karnataka,District_5,Constituency_171,MP_Name_171,Work_905,Health,22-07-2021,1452558,Sanctioned
+906,Gujarat,District_6,Constituency_172,MP_Name_172,Work_906,Electricity,24-12-2021,1867684,Sanctioned
+907,Karnataka,District_7,Constituency_173,MP_Name_173,Work_907,Health,12-12-2023,1160538,Sanctioned
+908,Uttar Pradesh,District_8,Constituency_174,MP_Name_174,Work_908,Sanitation,06-03-2021,928348,Sanctioned
+909,Maharashtra,District_9,Constituency_175,MP_Name_175,Work_909,Education,01-07-2023,1191260,Sanctioned
+910,Delhi,District_0,Constituency_176,MP_Name_176,Work_910,Electricity,08-04-2023,1266189,Sanctioned
+911,Uttar Pradesh,District_1,Constituency_177,MP_Name_177,Work_911,Sanitation,16-01-2022,898387,Sanctioned
+912,Karnataka,District_2,Constituency_178,MP_Name_178,Work_912,Sanitation,01-08-2022,513239,Sanctioned
+913,Delhi,District_3,Constituency_179,MP_Name_179,Work_913,Drinking Water,18-09-2022,1746314,Sanctioned
+914,Uttar Pradesh,District_4,Constituency_180,MP_Name_180,Work_914,Electricity,15-06-2022,1821133,Sanctioned
+915,Karnataka,District_5,Constituency_181,MP_Name_181,Work_915,Health,27-09-2021,596802,Sanctioned
+916,Uttar Pradesh,District_6,Constituency_182,MP_Name_182,Work_916,Education,15-08-2022,564984,Sanctioned
+917,Delhi,District_7,Constituency_183,MP_Name_183,Work_917,Roads,08-04-2022,1679216,Sanctioned
+918,Delhi,District_8,Constituency_184,MP_Name_184,Work_918,Sanitation,07-01-2022,1187591,Sanctioned
+919,Tamil Nadu,District_9,Constituency_185,MP_Name_185,Work_919,Drinking Water,13-02-2021,967393,Sanctioned
+920,Uttar Pradesh,District_0,Constituency_186,MP_Name_186,Work_920,Roads,19-07-2023,976179,Sanctioned
+921,Delhi,District_1,Constituency_187,MP_Name_187,Work_921,Roads,28-05-2022,538999,Sanctioned
+922,Gujarat,District_2,Constituency_188,MP_Name_188,Work_922,Roads,24-03-2023,581968,Sanctioned
+923,Maharashtra,District_3,Constituency_189,MP_Name_189,Work_923,Education,14-06-2022,1054000,Sanctioned
+924,Uttar Pradesh,District_4,Constituency_190,MP_Name_190,Work_924,Roads,14-09-2022,498847,Sanctioned
+925,Delhi,District_5,Constituency_191,MP_Name_191,Work_925,Drinking Water,12-11-2023,727743,Sanctioned
+926,Maharashtra,District_6,Constituency_192,MP_Name_192,Work_926,Education,27-02-2022,944253,Sanctioned
+927,Delhi,District_7,Constituency_193,MP_Name_193,Work_927,Drinking Water,10-08-2021,1024359,Sanctioned
+928,Tamil Nadu,District_8,Constituency_194,MP_Name_194,Work_928,Roads,08-09-2022,737242,Sanctioned
+929,Maharashtra,District_9,Constituency_195,MP_Name_195,Work_929,Electricity,27-05-2022,1552328,Sanctioned
+930,Gujarat,District_0,Constituency_196,MP_Name_196,Work_930,Roads,07-08-2023,441180,Sanctioned
+931,Karnataka,District_1,Constituency_197,MP_Name_197,Work_931,Drinking Water,29-11-2021,1181384,Sanctioned
+932,Tamil Nadu,District_2,Constituency_198,MP_Name_198,Work_932,Health,06-01-2021,921823,Sanctioned
+933,Karnataka,District_3,Constituency_199,MP_Name_199,Work_933,Health,14-11-2022,1307346,Sanctioned
+934,Tamil Nadu,District_4,Constituency_200,MP_Name_200,Work_934,Sanitation,21-04-2021,1425623,Sanctioned
+935,Karnataka,District_5,Constituency_201,MP_Name_201,Work_935,Sanitation,29-10-2022,1177523,Sanctioned
+936,Karnataka,District_6,Constituency_202,MP_Name_202,Work_936,Drinking Water,09-01-2021,1342032,Sanctioned
+937,Uttar Pradesh,District_7,Constituency_203,MP_Name_203,Work_937,Electricity,23-05-2023,1794736,Sanctioned
+938,Delhi,District_8,Constituency_204,MP_Name_204,Work_938,Health,23-05-2021,1025721,Sanctioned
+939,Karnataka,District_9,Constituency_205,MP_Name_205,Work_939,Electricity,15-12-2021,1654935,Sanctioned
+940,Maharashtra,District_0,Constituency_206,MP_Name_206,Work_940,Roads,14-11-2022,1188867,Sanctioned
+941,Karnataka,District_1,Constituency_207,MP_Name_207,Work_941,Sanitation,01-06-2023,880260,Sanctioned
+942,Uttar Pradesh,District_2,Constituency_208,MP_Name_208,Work_942,Drinking Water,16-09-2021,586485,Sanctioned
+943,Tamil Nadu,District_3,Constituency_209,MP_Name_209,Work_943,Roads,28-04-2022,413182,Sanctioned
+944,Tamil Nadu,District_4,Constituency_210,MP_Name_210,Work_944,Sanitation,17-06-2023,1267480,Sanctioned
+945,Gujarat,District_5,Constituency_211,MP_Name_211,Work_945,Electricity,12-05-2022,1455083,Sanctioned
+946,Karnataka,District_6,Constituency_212,MP_Name_212,Work_946,Health,04-12-2022,721690,Sanctioned
+947,Gujarat,District_7,Constituency_213,MP_Name_213,Work_947,Education,28-05-2023,1130182,Sanctioned
+948,Uttar Pradesh,District_8,Constituency_214,MP_Name_214,Work_948,Sanitation,25-03-2022,719921,Sanctioned
+949,Tamil Nadu,District_9,Constituency_215,MP_Name_215,Work_949,Sanitation,30-04-2023,1333344,Sanctioned
+950,Maharashtra,District_0,Constituency_216,MP_Name_216,Work_950,Health,14-12-2022,1598633,Sanctioned
+951,Maharashtra,District_1,Constituency_217,MP_Name_217,Work_951,Education,27-08-2023,1138606,Sanctioned
+952,Gujarat,District_2,Constituency_218,MP_Name_218,Work_952,Electricity,22-03-2022,1440223,Sanctioned
+953,Gujarat,District_3,Constituency_219,MP_Name_219,Work_953,Health,18-12-2021,978565,Sanctioned
+954,Maharashtra,District_4,Constituency_220,MP_Name_220,Work_954,Drinking Water,17-03-2022,434127,Sanctioned
+955,Gujarat,District_5,Constituency_221,MP_Name_221,Work_955,Sanitation,26-09-2023,1116716,Sanctioned
+956,Karnataka,District_6,Constituency_222,MP_Name_222,Work_956,Sanitation,06-02-2021,965956,Sanctioned
+957,Gujarat,District_7,Constituency_223,MP_Name_223,Work_957,Electricity,30-05-2023,919454,Sanctioned
+958,Uttar Pradesh,District_8,Constituency_224,MP_Name_224,Work_958,Sanitation,07-04-2023,963705,Sanctioned
+959,Uttar Pradesh,District_9,Constituency_225,MP_Name_225,Work_959,Drinking Water,16-06-2021,1574396,Sanctioned
+960,Karnataka,District_0,Constituency_226,MP_Name_226,Work_960,Education,03-12-2021,1617778,Sanctioned
+961,Maharashtra,District_1,Constituency_227,MP_Name_227,Work_961,Education,05-05-2023,1568750,Sanctioned
+962,Delhi,District_2,Constituency_228,MP_Name_228,Work_962,Drinking Water,01-12-2023,1223756,Sanctioned
+963,Maharashtra,District_3,Constituency_229,MP_Name_229,Work_963,Roads,12-10-2023,1094299,Sanctioned
+964,Maharashtra,District_4,Constituency_230,MP_Name_230,Work_964,Electricity,28-06-2023,1764808,Sanctioned
+965,Tamil Nadu,District_5,Constituency_231,MP_Name_231,Work_965,Roads,29-05-2021,946477,Sanctioned
+966,Gujarat,District_6,Constituency_232,MP_Name_232,Work_966,Health,01-08-2023,609013,Sanctioned
+967,Karnataka,District_7,Constituency_233,MP_Name_233,Work_967,Roads,04-06-2021,1016602,Sanctioned
+968,Uttar Pradesh,District_8,Constituency_234,MP_Name_234,Work_968,Health,26-11-2021,545602,Sanctioned
+969,Maharashtra,District_9,Constituency_235,MP_Name_235,Work_969,Health,16-12-2022,1571517,Sanctioned
+970,Uttar Pradesh,District_0,Constituency_236,MP_Name_236,Work_970,Drinking Water,29-12-2023,734186,Sanctioned
+971,Karnataka,District_1,Constituency_237,MP_Name_237,Work_971,Roads,31-07-2022,1167938,Sanctioned
+972,Uttar Pradesh,District_2,Constituency_238,MP_Name_238,Work_972,Education,06-08-2021,818558,Sanctioned
+973,Gujarat,District_3,Constituency_239,MP_Name_239,Work_973,Drinking Water,18-06-2023,522948,Sanctioned
+974,Karnataka,District_4,Constituency_240,MP_Name_240,Work_974,Roads,27-07-2023,1656228,Sanctioned
+975,Delhi,District_5,Constituency_241,MP_Name_241,Work_975,Drinking Water,16-06-2021,1782262,Sanctioned
+976,Delhi,District_6,Constituency_242,MP_Name_242,Work_976,Electricity,27-10-2021,1138874,Sanctioned
+977,Uttar Pradesh,District_7,Constituency_243,MP_Name_243,Work_977,Sanitation,04-06-2021,429020,Sanctioned
+978,Karnataka,District_8,Constituency_244,MP_Name_244,Work_978,Health,02-09-2022,944219,Sanctioned
+979,Uttar Pradesh,District_9,Constituency_245,MP_Name_245,Work_979,Sanitation,22-11-2023,1443559,Sanctioned
