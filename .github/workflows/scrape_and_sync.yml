@@ -1,0 +1,41 @@
+name: Daily MOSPI Scrape & Sync
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # Runs at 2:00 AM UTC every day
+  workflow_dispatch: # Allows manual trigger from the GitHub UI
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas requests beautifulsoup4
+
+      - name: Run Scraper
+        run: python pipelines/scraper.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add LS_DATASET/* RS_DATASET/*
+          
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No new data to commit."
+          else
+            git commit -m "Automated nightly data sync from MOSPI dashboard [skip ci]"
+            git push
+          fi
