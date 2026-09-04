@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "DRISHTI-MPLADS | AI-Powered Fund Utilization & Anomaly Monitoring Platform",
+  title: "Nirikshak AI | AI-Powered Fund Utilization & Anomaly Monitoring Platform",
   description: "Detection & Risk Inspection via Semantic & Hierarchical Trend Intelligence for Members of Parliament Local Area Development Scheme",
 };
 

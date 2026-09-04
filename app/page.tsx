@@ -432,7 +432,7 @@ export default function AnomalyInvestigationPortal() {
                   : "text-slate-400 hover:text-white hover:bg-slate-800/60"
               }`}
             >
-              <Sparkles className="w-4 h-4 text-amber-400" /> DRISHTI
+              <Sparkles className="w-4 h-4 text-amber-400" /> Nirikshak AI
             </button>
           </nav>
         </div>
@@ -1277,7 +1277,7 @@ export default function AnomalyInvestigationPortal() {
           </div>
         )}
 
-        {/* TAB 6: DRISHTI - SENTENCE-BERT SEMANTIC DUPLICATE DETECTION */}
+        {/* TAB 6: Nirikshak AI - SENTENCE-BERT SEMANTIC DUPLICATE DETECTION */}
         {activeTab === "dedup" && (
           <div className="space-y-8">
             {/* Interactive Query Bench */}
@@ -1286,7 +1286,7 @@ export default function AnomalyInvestigationPortal() {
                 <div>
                   <h3 className="text-base font-semibold text-white flex items-center gap-2">
                     <Sparkles className="w-5 h-5 text-amber-400" />
-                    DRISHTI: Semantic Duplicate Work Detector
+                    Nirikshak AI: Semantic Duplicate Work Detector
                   </h3>
                   <p className="text-xs text-slate-400 mt-1">
                     Powered by Sentence-BERT (<code className="text-amber-300 font-mono">all-MiniLM-L6-v2</code>) embeddings across 12,000+ works. Detects paraphrased, re-sanctioned, or ghost projects using dense vector cosine similarity.
