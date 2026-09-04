@@ -51,7 +51,7 @@ Run the one-click startup script:
 start_portal.bat
 ```
 * **FastAPI Backend**: `http://127.0.0.1:8080` (Swagger UI: `http://127.0.0.1:8080/docs`)
-* **Next.js Web Portal**: `http://localhost:3001`
+* **Next.js Web Portal**: `http://localhost:3000`
 
 ### 2. Run Individual Models
 ```bash
