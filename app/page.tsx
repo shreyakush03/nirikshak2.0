@@ -307,15 +307,15 @@ export default function AnomalyInvestigationPortal() {
   const getRiskBadge = (risk: string) => {
     switch (risk?.toUpperCase()) {
       case "CRITICAL":
-        return <span className="px-2 py-0.5 rounded-full text-[10px] font-bold bg-rose-500/15 text-rose-400 border border-rose-500/30">CRITICAL</span>;
+        return <span className="px-2 py-0.5 rounded-full text-[10px] font-bold bg-[#FF4F00]/10 text-[#FF4F00] border border-[#FF4F00]/30">CRITICAL</span>;
       case "HIGH":
-        return <span className="px-2 py-0.5 rounded-full text-[10px] font-bold bg-amber-500/15 text-amber-400 border border-amber-500/30">HIGH</span>;
+        return <span className="px-2 py-0.5 rounded-full text-[10px] font-bold bg-amber-500/15 text-[#FACC15] border border-amber-500/30">HIGH</span>;
       case "MEDIUM":
-        return <span className="px-2 py-0.5 rounded-full text-[10px] font-bold bg-blue-500/15 text-blue-400 border border-blue-500/30">MEDIUM</span>;
+        return <span className="px-2 py-0.5 rounded-full text-[10px] font-bold bg-blue-500/15 text-blue-600 border border-blue-500">MEDIUM</span>;
       case "LOW":
-        return <span className="px-2 py-0.5 rounded-full text-[10px] font-bold bg-slate-500/15 text-slate-400 border border-slate-500/30">LOW</span>;
+        return <span className="px-2 py-0.5 rounded-full text-[10px] font-bold bg-slate-500/15 text-neutral-500 border border-slate-500">LOW</span>;
       default:
-        return <span className="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500/15 text-emerald-400 border border-emerald-500/30">NORMAL</span>;
+        return <span className="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-500/15 text-emerald-700 border border-emerald-500">NORMAL</span>;
     }
   };
 
@@ -331,46 +331,46 @@ export default function AnomalyInvestigationPortal() {
   ] : [];
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100 antialiased selection:bg-rose-500 selection:text-white">
+    <div className="min-h-screen bg-[#FAFAFA] text-neutral-900 antialiased selection:bg-[#FF4F00] selection:text-white">
       {/* Top Banner & Analytical Decision Support Notice */}
-      <div className="bg-slate-900 border-b border-slate-800 px-6 py-2 text-[11px] text-slate-400 flex items-center justify-between">
+      <div className="bg-white border-b border-[#E5E5E5] px-4 md:px-6 py-2 text-[11px] text-neutral-500 flex flex-col sm:flex-row items-center justify-between gap-2 sm:gap-0 text-center sm:text-left">
         <div className="flex items-center gap-2">
-          <Info className="w-3.5 h-3.5 text-amber-400 shrink-0" />
+          <Info className="w-3.5 h-3.5 text-[#FACC15] shrink-0" />
           <span>
             <b>Analytical Decision-Support System</b>: Flagged items represent statistical deviations from peer benchmarks, not automatic fraud or wrongdoing.
           </span>
         </div>
-        <div className="hidden sm:flex items-center gap-3 font-mono text-[10px]">
-          <span className="text-slate-500">ENGINE: Isolation Forest v1.9</span>
-          <span className="text-emerald-400 font-semibold">VALIDATED PRECISION: 84.33%</span>
+        <div className="hidden sm:flex items-center gap-3 font-space-mono text-[10px]">
+          <span className="text-neutral-400">ENGINE: Isolation Forest v1.9</span>
+          <span className="text-emerald-700 font-semibold">VALIDATED PRECISION: 84.33%</span>
         </div>
       </div>
 
       {/* Main Header */}
-      <header className="border-b border-slate-800 bg-slate-900/60 backdrop-blur-md sticky top-0 z-40">
-        <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
+      <header className="border-b border-[#E5E5E5] bg-white shadow-sm backdrop-blur-md sticky top-0 z-40">
+        <div className="max-w-7xl mx-auto px-4 md:px-6 py-3 md:h-16 flex flex-col md:flex-row items-start md:items-center justify-between gap-4 md:gap-0">
           <div className="flex items-center gap-3">
-            <div className="p-2 bg-gradient-to-tr from-rose-500 to-amber-500 rounded-xl shadow-lg shadow-rose-500/20">
-              <ShieldAlert className="w-5 h-5 text-white" />
+            <div className="p-2 bg-gradient-to-tr from-rose-500 to-amber-500 rounded-[12px] shadow-lg shadow-[#FF4F00]/20">
+              <ShieldAlert className="w-5 h-5 text-neutral-900" />
             </div>
             <div>
-              <span className="font-bold text-lg tracking-tight bg-gradient-to-r from-white via-slate-200 to-slate-400 bg-clip-text text-transparent">
+              <span className="font-bold text-lg tracking-tight bg-gradient-to-r from-neutral-900 via-neutral-700 to-neutral-500 bg-clip-text text-transparent">
                 MPLADS Anomaly Investigation Layer
               </span>
-              <span className="text-xs ml-2 px-2 py-0.5 rounded-full bg-rose-500/10 text-rose-400 border border-rose-500/20">
+              <span className="text-xs ml-2 px-2 py-0.5 rounded-full bg-[#FF4F00]/10 text-[#FF4F00] border border-rose-500/20">
                 State & UT Coverage
               </span>
             </div>
           </div>
 
           {/* Navigation */}
-          <nav className="flex gap-1 p-1 bg-slate-900 border border-slate-800 rounded-xl">
+          <nav className="flex gap-1 p-1 bg-white border border-[#E5E5E5] rounded-[12px] w-full overflow-x-auto scrollbar-hide">
             <button
               onClick={() => setActiveTab("overview")}
               className={`flex items-center gap-2 px-3 py-1.5 text-xs font-semibold rounded-lg transition-all ${
                 activeTab === "overview" 
-                  ? "bg-rose-500 text-white shadow-md shadow-rose-500/20" 
-                  : "text-slate-400 hover:text-white hover:bg-slate-800/60"
+                  ? "bg-[#FF4F00] text-white shadow-md shadow-[#FF4F00]/20" 
+                  : "text-neutral-500 hover:text-neutral-900 hover:bg-[#F5F5F5]"
               }`}
             >
               <Activity className="w-4 h-4" /> Overview
@@ -379,8 +379,8 @@ export default function AnomalyInvestigationPortal() {
               onClick={() => setActiveTab("investigate")}
               className={`flex items-center gap-2 px-3 py-1.5 text-xs font-semibold rounded-lg transition-all ${
                 activeTab === "investigate" 
-                  ? "bg-rose-500 text-white shadow-md shadow-rose-500/20" 
-                  : "text-slate-400 hover:text-white hover:bg-slate-800/60"
+                  ? "bg-[#FF4F00] text-white shadow-md shadow-[#FF4F00]/20" 
+                  : "text-neutral-500 hover:text-neutral-900 hover:bg-[#F5F5F5]"
               }`}
             >
               <Database className="w-4 h-4" /> Investigation Queue
@@ -389,8 +389,8 @@ export default function AnomalyInvestigationPortal() {
               onClick={() => setActiveTab("graphs")}
               className={`flex items-center gap-2 px-3 py-1.5 text-xs font-semibold rounded-lg transition-all ${
                 activeTab === "graphs" 
-                  ? "bg-rose-500 text-white shadow-md shadow-rose-500/20" 
-                  : "text-slate-400 hover:text-white hover:bg-slate-800/60"
+                  ? "bg-[#FF4F00] text-white shadow-md shadow-[#FF4F00]/20" 
+                  : "text-neutral-500 hover:text-neutral-900 hover:bg-[#F5F5F5]"
               }`}
             >
               <TrendingUp className="w-4 h-4" /> Visual Graphs
@@ -399,8 +399,8 @@ export default function AnomalyInvestigationPortal() {
               onClick={() => setActiveTab("evaluation")}
               className={`flex items-center gap-2 px-3 py-1.5 text-xs font-semibold rounded-lg transition-all ${
                 activeTab === "evaluation" 
-                  ? "bg-rose-500 text-white shadow-md shadow-rose-500/20" 
-                  : "text-slate-400 hover:text-white hover:bg-slate-800/60"
+                  ? "bg-[#FF4F00] text-white shadow-md shadow-[#FF4F00]/20" 
+                  : "text-neutral-500 hover:text-neutral-900 hover:bg-[#F5F5F5]"
               }`}
             >
               <BarChart3 className="w-4 h-4" /> Model Validation
@@ -414,8 +414,8 @@ export default function AnomalyInvestigationPortal() {
               }}
               className={`flex items-center gap-2 px-3 py-1.5 text-xs font-semibold rounded-lg transition-all ${
                 activeTab === "forecasting" 
-                  ? "bg-rose-500 text-white shadow-md shadow-rose-500/20" 
-                  : "text-slate-400 hover:text-white hover:bg-slate-800/60"
+                  ? "bg-[#FF4F00] text-white shadow-md shadow-[#FF4F00]/20" 
+                  : "text-neutral-500 hover:text-neutral-900 hover:bg-[#F5F5F5]"
               }`}
             >
               <Clock className="w-4 h-4" /> Expenditure Forecasts
@@ -428,58 +428,58 @@ export default function AnomalyInvestigationPortal() {
               }}
               className={`flex items-center gap-2 px-3 py-1.5 text-xs font-semibold rounded-lg transition-all ${
                 activeTab === "dedup" 
-                  ? "bg-rose-500 text-white shadow-md shadow-rose-500/20" 
-                  : "text-slate-400 hover:text-white hover:bg-slate-800/60"
+                  ? "bg-[#FF4F00] text-white shadow-md shadow-[#FF4F00]/20" 
+                  : "text-neutral-500 hover:text-neutral-900 hover:bg-[#F5F5F5]"
               }`}
             >
-              <Sparkles className="w-4 h-4 text-amber-400" /> Nirikshak AI
+              <Sparkles className="w-4 h-4 text-[#FACC15]" /> Nirikshak AI
             </button>
           </nav>
         </div>
       </header>
 
       {/* Main Content Area */}
-      <main className="max-w-7xl mx-auto px-6 py-8">
+      <main className="max-w-7xl mx-auto px-4 md:px-6 py-6 md:py-8 w-full max-w-[100vw] overflow-hidden">
         
         {/* TAB 1: OVERVIEW */}
         {activeTab === "overview" && (
           <div className="space-y-8">
             <div className="grid grid-cols-1 md:grid-cols-5 gap-4">
-              <div className="p-5 rounded-2xl bg-slate-900/60 border border-slate-800">
-                <div className="text-slate-400 text-xs font-medium uppercase tracking-wider">Total Projects Analyzed</div>
-                <div className="text-2xl font-bold mt-2 text-white">
+              <div className="p-5 rounded-[16px] bg-white shadow-sm border border-[#E5E5E5]">
+                <div className="text-neutral-500 text-xs font-medium uppercase tracking-wider">Total Projects Analyzed</div>
+                <div className="text-2xl font-bold font-poppins mt-2 text-neutral-900">
                   {summary ? summary.total_projects.toLocaleString() : "..."}
                 </div>
-                <div className="text-[11px] text-slate-500 mt-1">Unified Lok Sabha & Rajya Sabha</div>
+                <div className="text-[11px] text-neutral-400 mt-1">Unified Lok Sabha & Rajya Sabha</div>
               </div>
 
-              <div className="p-5 rounded-2xl bg-slate-900/60 border border-slate-800">
-                <div className="text-rose-400 text-xs font-medium uppercase tracking-wider">Flagged Anomalies</div>
-                <div className="text-2xl font-bold mt-2 text-rose-400">
+              <div className="p-5 rounded-[16px] bg-white shadow-sm border border-[#E5E5E5]">
+                <div className="text-[#FF4F00] text-xs font-medium uppercase tracking-wider">Flagged Anomalies</div>
+                <div className="text-2xl font-bold font-poppins mt-2 text-[#FF4F00]">
                   {summary ? summary.total_anomalies.toLocaleString() : "..."}
                 </div>
-                <div className="text-[11px] text-rose-500/80 mt-1">{summary ? `${summary.anomaly_percentage}% rate` : "..."}</div>
+                <div className="text-[11px] text-[#FF4F00]/80 mt-1">{summary ? `${summary.anomaly_percentage}% rate` : "..."}</div>
               </div>
 
-              <div className="p-5 rounded-2xl bg-slate-900/60 border border-slate-800">
-                <div className="text-amber-400 text-xs font-medium uppercase tracking-wider">Critical / High Risk</div>
-                <div className="text-2xl font-bold mt-2 text-amber-400">
+              <div className="p-5 rounded-[16px] bg-white shadow-sm border border-[#E5E5E5]">
+                <div className="text-[#FACC15] text-xs font-medium uppercase tracking-wider">Critical / High Risk</div>
+                <div className="text-2xl font-bold font-poppins mt-2 text-[#FACC15]">
                   {summary ? (summary.risk_distribution.critical + summary.risk_distribution.high).toLocaleString() : "..."}
                 </div>
                 <div className="text-[11px] text-amber-500/80 mt-1">Requires primary review</div>
               </div>
 
-              <div className="p-5 rounded-2xl bg-slate-900/60 border border-slate-800">
-                <div className="text-emerald-400 text-xs font-medium uppercase tracking-wider">Validated Precision</div>
-                <div className="text-2xl font-bold mt-2 text-emerald-400">
+              <div className="p-5 rounded-[16px] bg-white shadow-sm border border-[#E5E5E5]">
+                <div className="text-emerald-700 text-xs font-medium uppercase tracking-wider">Validated Precision</div>
+                <div className="text-2xl font-bold font-poppins mt-2 text-emerald-700">
                   {summary ? `${(summary.precision * 100).toFixed(2)}%` : "..."}
                 </div>
                 <div className="text-[11px] text-emerald-500/80 mt-1">On benchmark perturbations</div>
               </div>
 
-              <div className="p-5 rounded-2xl bg-slate-900/60 border border-slate-800">
-                <div className="text-blue-400 text-xs font-medium uppercase tracking-wider">Model ROC-AUC</div>
-                <div className="text-2xl font-bold mt-2 text-blue-400">
+              <div className="p-5 rounded-[16px] bg-white shadow-sm border border-[#E5E5E5]">
+                <div className="text-blue-600 text-xs font-medium uppercase tracking-wider">Model ROC-AUC</div>
+                <div className="text-2xl font-bold font-poppins mt-2 text-blue-600">
                   {summary ? summary.evaluation_metrics.roc_auc.toFixed(4) : "0.9981"}
                 </div>
                 <div className="text-[11px] text-blue-500/80 mt-1">Area under ROC curve</div>
@@ -488,12 +488,12 @@ export default function AnomalyInvestigationPortal() {
 
             {/* Visual Charts */}
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-              <div className="p-6 rounded-2xl bg-slate-900/60 border border-slate-800">
-                <h3 className="text-sm font-semibold text-slate-200 mb-2 flex items-center gap-2">
-                  <ShieldAlert className="w-4 h-4 text-rose-400" />
+              <div className="p-6 rounded-[16px] bg-white shadow-sm border border-[#E5E5E5]">
+                <h3 className="text-sm font-semibold text-neutral-800 mb-2 flex items-center gap-2">
+                  <ShieldAlert className="w-4 h-4 text-[#FF4F00]" />
                   Investigation Risk Breakdown
                 </h3>
-                <p className="text-xs text-slate-400 mb-4">Click slice to filter investigation table</p>
+                <p className="text-xs text-neutral-500 mb-4">Click slice to filter investigation table</p>
                 {summary && (
                   <div className="h-56">
                     <ResponsiveContainer width="100%" height="100%">
@@ -523,7 +523,7 @@ export default function AnomalyInvestigationPortal() {
                     </ResponsiveContainer>
                   </div>
                 )}
-                <div className="grid grid-cols-2 gap-2 mt-2">
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 mt-2">
                   {riskPieData.map(r => (
                     <button
                       key={r.name}
@@ -531,24 +531,24 @@ export default function AnomalyInvestigationPortal() {
                         setSelectedRisk(r.name.toUpperCase());
                         setActiveTab("investigate");
                       }}
-                      className="p-2 bg-slate-800/60 hover:bg-slate-800 rounded-lg text-left flex items-center justify-between text-xs transition-colors"
+                      className="p-2 bg-[#F5F5F5] hover:bg-[#F5F5F5] rounded-lg text-left flex items-center justify-between text-xs transition-colors"
                     >
                       <span className="flex items-center gap-1.5">
                         <span className="w-2 h-2 rounded-full" style={{ backgroundColor: r.color }} />
-                        <span className="text-slate-300 font-medium">{r.name}</span>
+                        <span className="text-neutral-700 font-medium">{r.name}</span>
                       </span>
-                      <span className="font-mono font-bold text-white">{r.value?.toLocaleString()}</span>
+                      <span className="font-space-mono font-bold text-neutral-900">{r.value?.toLocaleString()}</span>
                     </button>
                   ))}
                 </div>
               </div>
 
-              <div className="p-6 rounded-2xl bg-slate-900/60 border border-slate-800">
-                <h3 className="text-sm font-semibold text-slate-200 mb-2 flex items-center gap-2">
-                  <TrendingUp className="w-4 h-4 text-amber-400" />
+              <div className="p-6 rounded-[16px] bg-white shadow-sm border border-[#E5E5E5]">
+                <h3 className="text-sm font-semibold text-neutral-800 mb-2 flex items-center gap-2">
+                  <TrendingUp className="w-4 h-4 text-[#FACC15]" />
                   Top States by Flagged Projects
                 </h3>
-                <p className="text-xs text-slate-400 mb-4">Distribution of anomalous records</p>
+                <p className="text-xs text-neutral-500 mb-4">Distribution of anomalous records</p>
                 {summary && (
                   <div className="h-64">
                     <ResponsiveContainer width="100%" height="100%">
@@ -563,12 +563,12 @@ export default function AnomalyInvestigationPortal() {
                 )}
               </div>
 
-              <div className="p-6 rounded-2xl bg-slate-900/60 border border-slate-800">
-                <h3 className="text-sm font-semibold text-slate-200 mb-2 flex items-center gap-2">
-                  <Layers className="w-4 h-4 text-blue-400" />
+              <div className="p-6 rounded-[16px] bg-white shadow-sm border border-[#E5E5E5]">
+                <h3 className="text-sm font-semibold text-neutral-800 mb-2 flex items-center gap-2">
+                  <Layers className="w-4 h-4 text-blue-600" />
                   Top Work Categories
                 </h3>
-                <p className="text-xs text-slate-400 mb-4">Frequency of financial/delay anomalies</p>
+                <p className="text-xs text-neutral-500 mb-4">Frequency of financial/delay anomalies</p>
                 {summary && (
                   <div className="h-64">
                     <ResponsiveContainer width="100%" height="100%">
@@ -593,11 +593,11 @@ export default function AnomalyInvestigationPortal() {
             <div className="space-y-4">
               <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
                 <div>
-                  <h3 className="text-base font-bold text-white flex items-center gap-2">
-                    <MapPin className="w-5 h-5 text-rose-400" />
+                  <h3 className="text-base font-bold text-neutral-900 flex items-center gap-2">
+                    <MapPin className="w-5 h-5 text-[#FF4F00]" />
                     All States & Union Territories Anomaly Cards
                   </h3>
-                  <p className="text-xs text-slate-400">
+                  <p className="text-xs text-neutral-500">
                     Click any state or UT card below to instantly filter the investigation queue and load flagged projects for that region.
                   </p>
                 </div>
@@ -607,12 +607,12 @@ export default function AnomalyInvestigationPortal() {
                     placeholder="Search State or UT..."
                     value={stateSearchFilter}
                     onChange={(e) => setStateSearchFilter(e.target.value)}
-                    className="bg-slate-900 border border-slate-800 rounded-xl px-3 py-1.5 text-xs text-white placeholder-slate-500 focus:outline-none focus:border-rose-500 w-52"
+                    className="bg-white border border-[#E5E5E5] rounded-[12px] px-3 py-1.5 text-xs text-neutral-900 placeholder-slate-500 focus:outline-none focus:border-rose-500 w-52"
                   />
                   {selectedState !== "All" && (
                     <button
                       onClick={() => { setSelectedState("All"); setPage(1); }}
-                      className="px-2.5 py-1.5 bg-rose-500/10 hover:bg-rose-500/20 text-rose-400 rounded-xl text-xs font-semibold flex items-center gap-1 transition-all"
+                      className="px-2.5 py-1.5 bg-[#FF4F00] text-white/10 hover:bg-[#FF4F00]/20 text-[#FF4F00] rounded-[12px] text-xs font-semibold flex items-center gap-1 transition-all"
                     >
                       <X className="w-3.5 h-3.5" /> Clear ({selectedState})
                     </button>
@@ -630,53 +630,53 @@ export default function AnomalyInvestigationPortal() {
                       onClick={() => {
                         router.push(`/state/${encodeURIComponent(st.state)}`);
                       }}
-                      className={`p-4 rounded-2xl border cursor-pointer transition-all duration-200 relative overflow-hidden group ${
+                      className={`p-4 rounded-[16px] border cursor-pointer transition-all duration-200 relative overflow-hidden group ${
                         isSelected 
                           ? "bg-rose-950/30 border-rose-500 shadow-lg shadow-rose-500/10 ring-1 ring-rose-500/50" 
-                          : "bg-slate-900/60 border-slate-800 hover:border-rose-500/60 hover:bg-slate-900 hover:shadow-lg hover:shadow-rose-500/5"
+                          : "bg-white shadow-sm border-[#E5E5E5] hover:border-rose-500/60 hover:bg-white hover:shadow-lg hover:shadow-rose-500/5"
                       }`}
                     >
                       <div className="flex items-start justify-between">
                         <div>
-                          <h4 className="font-bold text-sm text-white group-hover:text-rose-400 transition-colors flex items-center gap-1.5">
+                          <h4 className="font-bold text-sm text-neutral-900 group-hover:text-[#FF4F00] transition-colors flex items-center gap-1.5">
                             <span>{st.state}</span>
-                            <ExternalLink className="w-3 h-3 opacity-0 group-hover:opacity-100 transition-opacity text-rose-400" />
+                            <ExternalLink className="w-3 h-3 opacity-0 group-hover:opacity-100 transition-opacity text-[#FF4F00]" />
                           </h4>
-                          <span className="text-[11px] text-slate-400">
+                          <span className="text-[11px] text-neutral-500">
                             {st.total_projects.toLocaleString()} total works
                           </span>
                         </div>
                         <span className={`text-[10px] font-bold px-2 py-0.5 rounded-full ${
                           st.anomaly_count > 100 
-                            ? "bg-rose-500/15 text-rose-400 border border-rose-500/30" 
+                            ? "bg-[#FF4F00]/10 text-[#FF4F00] border border-[#FF4F00]/30" 
                             : st.anomaly_count > 20
-                            ? "bg-amber-500/15 text-amber-400 border border-amber-500/30"
-                            : "bg-slate-800 text-slate-400"
+                            ? "bg-amber-500/15 text-[#FACC15] border border-amber-500/30"
+                            : "bg-[#F5F5F5] text-neutral-500"
                         }`}>
                           {st.anomaly_count} outliers ({st.anomaly_rate}%)
                         </span>
                       </div>
 
                       {/* Mini Risk Breakdown Pills */}
-                      <div className="grid grid-cols-3 gap-1.5 mt-3 pt-3 border-t border-slate-800/80 text-[10px]">
-                        <div className="bg-slate-950/60 p-1.5 rounded-lg text-center">
-                          <span className="text-slate-500 block text-[9px] uppercase">Critical</span>
-                          <span className="font-bold text-rose-400 font-mono">{st.critical_count}</span>
+                      <div className="grid grid-cols-3 gap-1.5 mt-3 pt-3 border-t border-[#E5E5E5]/80 text-[10px]">
+                        <div className="bg-[#FAFAFA]/60 p-1.5 rounded-lg text-center">
+                          <span className="text-neutral-400 block text-[9px] uppercase">Critical</span>
+                          <span className="font-bold text-[#FF4F00] font-space-mono">{st.critical_count}</span>
                         </div>
-                        <div className="bg-slate-950/60 p-1.5 rounded-lg text-center">
-                          <span className="text-slate-500 block text-[9px] uppercase">High</span>
-                          <span className="font-bold text-amber-400 font-mono">{st.high_count}</span>
+                        <div className="bg-[#FAFAFA]/60 p-1.5 rounded-lg text-center">
+                          <span className="text-neutral-400 block text-[9px] uppercase">High</span>
+                          <span className="font-bold text-[#FACC15] font-space-mono">{st.high_count}</span>
                         </div>
-                        <div className="bg-slate-950/60 p-1.5 rounded-lg text-center">
-                          <span className="text-slate-500 block text-[9px] uppercase">Max Pri</span>
-                          <span className="font-bold text-white font-mono">{st.max_priority_score}</span>
+                        <div className="bg-[#FAFAFA]/60 p-1.5 rounded-lg text-center">
+                          <span className="text-neutral-400 block text-[9px] uppercase">Max Pri</span>
+                          <span className="font-bold text-neutral-900 font-space-mono">{st.max_priority_score}</span>
                         </div>
                       </div>
 
                       {/* Sanctions Scale & Click Prompt */}
-                      <div className="flex justify-between items-center text-[10px] text-slate-400 mt-2 font-mono">
+                      <div className="flex justify-between items-center text-[10px] text-neutral-500 mt-2 font-space-mono">
                         <span>Alloc: ₹{st.total_sanction_cr} Cr</span>
-                        <span className="text-rose-400 group-hover:underline">Open State Page →</span>
+                        <span className="text-[#FF4F00] group-hover:underline">Open State Page →</span>
                       </div>
                     </div>
                   );
@@ -685,30 +685,30 @@ export default function AnomalyInvestigationPortal() {
             </div>
 
             {/* ---------------- FILTER BAR ---------------- */}
-            <div className="p-5 rounded-2xl bg-slate-900/60 border border-slate-800 space-y-4">
+            <div className="p-5 rounded-[16px] bg-white shadow-sm border border-[#E5E5E5] space-y-4">
               <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
                 <div className="flex items-center gap-2">
-                  <Filter className="w-4 h-4 text-rose-400" />
-                  <span className="text-sm font-semibold text-white">Investigation Queue Filters</span>
-                  <span className="text-xs text-slate-400">
+                  <Filter className="w-4 h-4 text-[#FF4F00]" />
+                  <span className="text-sm font-semibold text-neutral-900">Investigation Queue Filters</span>
+                  <span className="text-xs text-neutral-500">
                     ({anomaliesData.total_records.toLocaleString()} projects matching filters)
                   </span>
                 </div>
                 <button
                   onClick={handleExportCSV}
-                  className="flex items-center gap-2 px-3 py-1.5 bg-slate-800 hover:bg-slate-700 border border-slate-700 rounded-xl text-xs font-semibold text-white transition-all shadow-sm"
+                  className="flex items-center gap-2 px-3 py-1.5 bg-[#F5F5F5] hover:bg-[#E5E5E5] border border-[#E5E5E5] rounded-[12px] text-xs font-semibold text-neutral-900 transition-all shadow-sm"
                 >
-                  <Download className="w-3.5 h-3.5 text-emerald-400" /> Export Filtered CSV
+                  <Download className="w-3.5 h-3.5 text-emerald-700" /> Export Filtered CSV
                 </button>
               </div>
 
               <div className="grid grid-cols-2 md:grid-cols-6 gap-3">
                 <div>
-                  <label className="block text-[11px] text-slate-400 mb-1">Risk Level</label>
+                  <label className="block text-[11px] text-neutral-500 mb-1">Risk Level</label>
                   <select
                     value={selectedRisk}
                     onChange={(e) => { setSelectedRisk(e.target.value); setPage(1); }}
-                    className="w-full bg-slate-800 border border-slate-700 rounded-lg px-2.5 py-1.5 text-xs text-white"
+                    className="w-full bg-[#F5F5F5] border border-[#E5E5E5] rounded-lg px-2.5 py-1.5 text-xs text-neutral-900"
                   >
                     <option value="All">All Risks</option>
                     <option value="CRITICAL">Critical</option>
@@ -719,11 +719,11 @@ export default function AnomalyInvestigationPortal() {
                 </div>
 
                 <div>
-                  <label className="block text-[11px] text-slate-400 mb-1">State / UT</label>
+                  <label className="block text-[11px] text-neutral-500 mb-1">State / UT</label>
                   <select
                     value={selectedState}
                     onChange={(e) => { setSelectedState(e.target.value); setPage(1); }}
-                    className="w-full bg-slate-800 border border-slate-700 rounded-lg px-2.5 py-1.5 text-xs text-white"
+                    className="w-full bg-[#F5F5F5] border border-[#E5E5E5] rounded-lg px-2.5 py-1.5 text-xs text-neutral-900"
                   >
                     <option value="All">All States & UTs</option>
                     {meta.states.map(s => (
@@ -733,11 +733,11 @@ export default function AnomalyInvestigationPortal() {
                 </div>
 
                 <div>
-                  <label className="block text-[11px] text-slate-400 mb-1">Category</label>
+                  <label className="block text-[11px] text-neutral-500 mb-1">Category</label>
                   <select
                     value={selectedCategory}
                     onChange={(e) => { setSelectedCategory(e.target.value); setPage(1); }}
-                    className="w-full bg-slate-800 border border-slate-700 rounded-lg px-2.5 py-1.5 text-xs text-white"
+                    className="w-full bg-[#F5F5F5] border border-[#E5E5E5] rounded-lg px-2.5 py-1.5 text-xs text-neutral-900"
                   >
                     <option value="All">All Categories</option>
                     {meta.work_categories.map(c => (
@@ -747,11 +747,11 @@ export default function AnomalyInvestigationPortal() {
                 </div>
 
                 <div>
-                  <label className="block text-[11px] text-slate-400 mb-1">House</label>
+                  <label className="block text-[11px] text-neutral-500 mb-1">House</label>
                   <select
                     value={selectedHouse}
                     onChange={(e) => { setSelectedHouse(e.target.value); setPage(1); }}
-                    className="w-full bg-slate-800 border border-slate-700 rounded-lg px-2.5 py-1.5 text-xs text-white"
+                    className="w-full bg-[#F5F5F5] border border-[#E5E5E5] rounded-lg px-2.5 py-1.5 text-xs text-neutral-900"
                   >
                     <option value="All">All Houses</option>
                     <option value="Lok Sabha">Lok Sabha</option>
@@ -760,22 +760,22 @@ export default function AnomalyInvestigationPortal() {
                 </div>
 
                 <div>
-                  <label className="block text-[11px] text-slate-400 mb-1">District / IDA</label>
+                  <label className="block text-[11px] text-neutral-500 mb-1">District / IDA</label>
                   <input
                     type="text"
                     placeholder="Search district..."
                     value={searchDistrict}
                     onChange={(e) => { setSearchDistrict(e.target.value); setPage(1); }}
-                    className="w-full bg-slate-800 border border-slate-700 rounded-lg px-2.5 py-1.5 text-xs text-white"
+                    className="w-full bg-[#F5F5F5] border border-[#E5E5E5] rounded-lg px-2.5 py-1.5 text-xs text-neutral-900"
                   />
                 </div>
 
                 <div>
-                  <label className="block text-[11px] text-slate-400 mb-1">Sort Priority</label>
+                  <label className="block text-[11px] text-neutral-500 mb-1">Sort Priority</label>
                   <select
                     value={sortBy}
                     onChange={(e) => { setSortBy(e.target.value); setPage(1); }}
-                    className="w-full bg-slate-800 border border-slate-700 rounded-lg px-2.5 py-1.5 text-xs text-white font-medium"
+                    className="w-full bg-[#F5F5F5] border border-[#E5E5E5] rounded-lg px-2.5 py-1.5 text-xs text-neutral-900 font-medium"
                   >
                     <option value="priority_score_desc">Priority (High to Low)</option>
                     <option value="anomaly_score_asc">Anomaly Score (Most Outlier)</option>
@@ -787,10 +787,10 @@ export default function AnomalyInvestigationPortal() {
             </div>
 
             {/* ---------------- INVESTIGATION TABLE ---------------- */}
-            <div className="p-6 rounded-2xl bg-slate-900/60 border border-slate-800 overflow-hidden">
+            <div className="p-6 rounded-[16px] bg-white shadow-sm border border-[#E5E5E5] overflow-hidden">
               <div className="overflow-x-auto">
-                <table className="w-full text-left text-xs text-slate-300">
-                  <thead className="bg-slate-800/60 text-slate-400 uppercase font-semibold">
+                <table className="w-full text-left text-xs text-neutral-700">
+                  <thead className="bg-[#F5F5F5] text-neutral-500 uppercase font-semibold">
                     <tr>
                       <th className="py-3 px-3">Project ID</th>
                       <th className="py-3 px-3">State / District</th>
@@ -805,25 +805,25 @@ export default function AnomalyInvestigationPortal() {
                   </thead>
                   <tbody className="divide-y divide-slate-800">
                     {anomaliesData.records.map((item: any) => (
-                      <tr key={item.project_id} className="hover:bg-slate-800/40 transition-colors group">
-                        <td className="py-3 px-3 font-mono font-semibold text-white whitespace-nowrap">
+                      <tr key={item.project_id} className="hover:bg-[#F5F5F5]/40 transition-colors group">
+                        <td className="py-3 px-3 font-space-mono font-semibold text-neutral-900 whitespace-nowrap">
                           {item.project_id}
                         </td>
                         <td className="py-3 px-3">
-                          <div className="font-medium text-slate-200">{item.state}</div>
-                          <div className="text-[10px] text-slate-500 truncate max-w-[140px]">{item.district}</div>
+                          <div className="font-medium text-neutral-800">{item.state}</div>
+                          <div className="text-[10px] text-neutral-400 truncate max-w-[140px]">{item.district}</div>
                         </td>
                         <td className="py-3 px-3">
-                          <div className="text-slate-300 truncate max-w-[140px]">{item.mp_name || "N/A"}</div>
-                          <div className="text-[10px] text-slate-500">{item.house}</div>
+                          <div className="text-neutral-700 truncate max-w-[140px]">{item.mp_name || "N/A"}</div>
+                          <div className="text-[10px] text-neutral-400">{item.house}</div>
                         </td>
-                        <td className="py-3 px-3 font-mono font-semibold text-white">
+                        <td className="py-3 px-3 font-space-mono font-semibold text-neutral-900">
                           ₹{item.sanction_amount?.toLocaleString()}
                         </td>
-                        <td className="py-3 px-3 font-mono">
+                        <td className="py-3 px-3 font-space-mono">
                           <span className={`${
-                            item.utilisation_percentage === 0 ? "text-rose-400 font-bold" :
-                            item.utilisation_percentage > 100 ? "text-amber-400 font-bold" : "text-slate-300"
+                            item.utilisation_percentage === 0 ? "text-[#FF4F00] font-bold" :
+                            item.utilisation_percentage > 100 ? "text-[#FACC15] font-bold" : "text-neutral-700"
                           }`}>
                             {item.utilisation_percentage?.toFixed(1)}%
                           </span>
@@ -832,18 +832,18 @@ export default function AnomalyInvestigationPortal() {
                           {getRiskBadge(item.risk_level)}
                         </td>
                         <td className="py-3 px-3">
-                          <div className="flex items-center gap-1.5 font-mono font-bold text-white">
+                          <div className="flex items-center gap-1.5 font-space-mono font-bold text-neutral-900">
                             <span className="text-xs">{item.priority_score}</span>
-                            <span className="text-[10px] text-slate-500 font-normal">#{item.priority_rank}</span>
+                            <span className="text-[10px] text-neutral-400 font-normal">#{item.priority_rank}</span>
                           </div>
                         </td>
-                        <td className="py-3 px-4 text-slate-300 max-w-xs text-[11px] leading-relaxed">
+                        <td className="py-3 px-4 text-neutral-700 max-w-xs text-[11px] leading-relaxed">
                           {item.primary_reason}
                         </td>
                         <td className="py-3 px-3 text-right whitespace-nowrap">
                           <button
                             onClick={() => openInvestigation(item.project_id)}
-                            className="px-3 py-1 bg-rose-500/10 hover:bg-rose-500 text-rose-400 hover:text-white border border-rose-500/30 rounded-lg text-xs font-semibold transition-all flex items-center gap-1 ml-auto"
+                            className="px-3 py-1 bg-[#FF4F00] text-white/10 hover:bg-[#FF4F00] text-white text-[#FF4F00] hover:text-neutral-900 border border-[#FF4F00]/30 rounded-lg text-xs font-semibold transition-all flex items-center gap-1 ml-auto"
                           >
                             <span>Investigate</span>
                             <ExternalLink className="w-3 h-3" />
@@ -856,7 +856,7 @@ export default function AnomalyInvestigationPortal() {
               </div>
 
               {/* Pagination Controls */}
-              <div className="flex items-center justify-between pt-6 border-t border-slate-800 mt-4 text-xs text-slate-400">
+              <div className="flex items-center justify-between pt-6 border-t border-[#E5E5E5] mt-4 text-xs text-neutral-500">
                 <div>
                   Showing page <b>{anomaliesData.page}</b> of <b>{anomaliesData.total_pages}</b> ({anomaliesData.total_records.toLocaleString()} flagged records)
                 </div>
@@ -864,14 +864,14 @@ export default function AnomalyInvestigationPortal() {
                   <button
                     disabled={page <= 1}
                     onClick={() => setPage(p => p - 1)}
-                    className="px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 disabled:opacity-40 text-white flex items-center gap-1"
+                    className="px-3 py-1.5 rounded-lg bg-[#F5F5F5] hover:bg-[#E5E5E5] disabled:opacity-40 text-neutral-900 flex items-center gap-1"
                   >
                     <ChevronLeft className="w-4 h-4" /> Prev
                   </button>
                   <button
                     disabled={page >= anomaliesData.total_pages}
                     onClick={() => setPage(p => p + 1)}
-                    className="px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 disabled:opacity-40 text-white flex items-center gap-1"
+                    className="px-3 py-1.5 rounded-lg bg-[#F5F5F5] hover:bg-[#E5E5E5] disabled:opacity-40 text-neutral-900 flex items-center gap-1"
                   >
                     Next <ChevronRight className="w-4 h-4" />
                   </button>
@@ -884,23 +884,23 @@ export default function AnomalyInvestigationPortal() {
         {/* TAB 3: VISUAL GRAPHS */}
         {activeTab === "graphs" && (
           <div className="space-y-8">
-            <div className="p-6 rounded-2xl bg-slate-900/60 border border-slate-800">
+            <div className="p-6 rounded-[16px] bg-white shadow-sm border border-[#E5E5E5]">
               <div className="flex justify-between items-start mb-6">
                 <div>
-                  <h3 className="text-base font-semibold text-white flex items-center gap-2">
-                    <Activity className="w-5 h-5 text-rose-400" />
+                  <h3 className="text-base font-semibold font-poppins text-neutral-900 flex items-center gap-2">
+                    <Activity className="w-5 h-5 text-[#FF4F00]" />
                     Multi-Dimensional Isolation Tree Projection
                   </h3>
-                  <p className="text-xs text-slate-400 mt-1">
+                  <p className="text-xs text-neutral-500 mt-1">
                     Projects plotted across Approval Delay Days (X-axis) vs Log Sanction Scale (Y-axis).
                     Red & Amber nodes represent points with extreme tree isolation depths.
                   </p>
                 </div>
                 <div className="flex gap-4 text-xs font-semibold">
-                  <span className="flex items-center gap-1 text-rose-400">
-                    <span className="w-2.5 h-2.5 rounded-full bg-rose-500 inline-block"></span> Flagged Outliers
+                  <span className="flex items-center gap-1 text-[#FF4F00]">
+                    <span className="w-2.5 h-2.5 rounded-full bg-[#FF4F00] text-white inline-block"></span> Flagged Outliers
                   </span>
-                  <span className="flex items-center gap-1 text-slate-400">
+                  <span className="flex items-center gap-1 text-neutral-500">
                     <span className="w-2.5 h-2.5 rounded-full bg-slate-600 inline-block"></span> Peer Norms
                   </span>
                 </div>
@@ -932,16 +932,16 @@ export default function AnomalyInvestigationPortal() {
                         if (!payload || !payload.length) return null;
                         const data = payload[0].payload;
                         return (
-                          <div className="p-3 bg-slate-900 border border-slate-700 rounded-xl shadow-xl text-xs space-y-1">
-                            <div className="font-bold text-white flex items-center gap-1">
-                              <span className={`w-2 h-2 rounded-full ${data.isAnomaly ? "bg-rose-500" : "bg-slate-400"}`} />
+                          <div className="p-3 bg-white border border-[#E5E5E5] rounded-[12px] shadow-xl text-xs space-y-1">
+                            <div className="font-bold text-neutral-900 flex items-center gap-1">
+                              <span className={`w-2 h-2 rounded-full ${data.isAnomaly ? "bg-[#FF4F00] text-white" : "bg-slate-400"}`} />
                               {data.isAnomaly ? `ANOMALY (${data.riskLevel})` : "NORMAL RECORD"}
                             </div>
-                            <div className="text-slate-300">Project: <b className="text-white">{data.projectId}</b></div>
-                            <div className="text-slate-300">Sanction: <b className="text-emerald-400">₹{data.sanctionAmount?.toLocaleString()}</b></div>
-                            <div className="text-slate-300">Delay: <b className="text-amber-400">{data.delayDays} days</b></div>
-                            <div className="text-slate-300">Utilisation: <b>{data.utilisation}%</b></div>
-                            <div className="text-slate-400">{data.state} | {data.mpName}</div>
+                            <div className="text-neutral-700">Project: <b className="text-neutral-900">{data.projectId}</b></div>
+                            <div className="text-neutral-700">Sanction: <b className="text-emerald-700">₹{data.sanctionAmount?.toLocaleString()}</b></div>
+                            <div className="text-neutral-700">Delay: <b className="text-[#FACC15]">{data.delayDays} days</b></div>
+                            <div className="text-neutral-700">Utilisation: <b>{data.utilisation}%</b></div>
+                            <div className="text-neutral-500">{data.state} | {data.mpName}</div>
                           </div>
                         );
                       }}
@@ -969,47 +969,47 @@ export default function AnomalyInvestigationPortal() {
         {/* TAB 4: MODEL VALIDATION */}
         {activeTab === "evaluation" && (
           <div className="space-y-8">
-            <div className="p-6 rounded-2xl bg-slate-900/60 border border-slate-800">
-              <h3 className="text-base font-semibold text-white mb-2 flex items-center gap-2">
-                <BarChart3 className="w-5 h-5 text-emerald-400" />
+            <div className="p-6 rounded-[16px] bg-white shadow-sm border border-[#E5E5E5]">
+              <h3 className="text-base font-semibold font-poppins text-neutral-900 mb-2 flex items-center gap-2">
+                <BarChart3 className="w-5 h-5 text-emerald-700" />
                 Model Specifications & Validation Governance
               </h3>
-              <p className="text-xs text-slate-400 mb-6">
+              <p className="text-xs text-neutral-500 mb-6">
                 Verification metrics derived from benchmark perturbations, multi-factor stress tests, and statistical rank tests.
               </p>
 
               {summary && (
                 <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-8">
-                  <div className="p-4 bg-slate-800/40 rounded-xl border border-slate-700/60">
-                    <div className="text-xs text-slate-400">Validation Precision</div>
-                    <div className="text-2xl font-bold text-emerald-400 mt-1 font-mono">
+                  <div className="p-4 bg-[#F5F5F5]/40 rounded-[12px] border border-[#E5E5E5]/60">
+                    <div className="text-xs text-neutral-500">Validation Precision</div>
+                    <div className="text-2xl font-bold font-poppins text-emerald-700 mt-1 font-space-mono">
                       {(summary.precision * 100).toFixed(2)}%
                     </div>
-                    <div className="text-[10px] text-slate-500 mt-1">Confirmed benchmark outliers</div>
+                    <div className="text-[10px] text-neutral-400 mt-1">Confirmed benchmark outliers</div>
                   </div>
 
-                  <div className="p-4 bg-slate-800/40 rounded-xl border border-slate-700/60">
-                    <div className="text-xs text-slate-400">ROC-AUC Score</div>
-                    <div className="text-2xl font-bold text-blue-400 mt-1 font-mono">
+                  <div className="p-4 bg-[#F5F5F5]/40 rounded-[12px] border border-[#E5E5E5]/60">
+                    <div className="text-xs text-neutral-500">ROC-AUC Score</div>
+                    <div className="text-2xl font-bold font-poppins text-blue-600 mt-1 font-space-mono">
                       {summary.evaluation_metrics.roc_auc}
                     </div>
-                    <div className="text-[10px] text-slate-500 mt-1">Area under ROC curve</div>
+                    <div className="text-[10px] text-neutral-400 mt-1">Area under ROC curve</div>
                   </div>
 
-                  <div className="p-4 bg-slate-800/40 rounded-xl border border-slate-700/60">
-                    <div className="text-xs text-slate-400">PR-AUC (Average Precision)</div>
-                    <div className="text-2xl font-bold text-purple-400 mt-1 font-mono">
+                  <div className="p-4 bg-[#F5F5F5]/40 rounded-[12px] border border-[#E5E5E5]/60">
+                    <div className="text-xs text-neutral-500">PR-AUC (Average Precision)</div>
+                    <div className="text-2xl font-bold font-poppins text-purple-600 mt-1 font-space-mono">
                       {summary.evaluation_metrics.pr_auc}
                     </div>
-                    <div className="text-[10px] text-slate-500 mt-1">Precision-Recall curve</div>
+                    <div className="text-[10px] text-neutral-400 mt-1">Precision-Recall curve</div>
                   </div>
 
-                  <div className="p-4 bg-slate-800/40 rounded-xl border border-slate-700/60">
-                    <div className="text-xs text-slate-400">F1-Score</div>
-                    <div className="text-2xl font-bold text-amber-400 mt-1 font-mono">
+                  <div className="p-4 bg-[#F5F5F5]/40 rounded-[12px] border border-[#E5E5E5]/60">
+                    <div className="text-xs text-neutral-500">F1-Score</div>
+                    <div className="text-2xl font-bold font-poppins text-[#FACC15] mt-1 font-space-mono">
                       {summary.evaluation_metrics.f1_score}
                     </div>
-                    <div className="text-[10px] text-slate-500 mt-1">Harmonic mean precision/recall</div>
+                    <div className="text-[10px] text-neutral-400 mt-1">Harmonic mean precision/recall</div>
                   </div>
                 </div>
               )}
@@ -1020,21 +1020,21 @@ export default function AnomalyInvestigationPortal() {
         {/* TAB 5: EXPENDITURE FORECASTING & TREND ANOMALIES */}
         {activeTab === "forecasting" && (
           <div className="space-y-8">
-            <div className="p-6 rounded-2xl bg-slate-900/60 border border-slate-800">
+            <div className="p-6 rounded-[16px] bg-white shadow-sm border border-[#E5E5E5]">
               <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-6">
                 <div>
-                  <h3 className="text-base font-semibold text-white flex items-center gap-2">
-                    <TrendingUp className="w-5 h-5 text-rose-500" />
+                  <h3 className="text-base font-semibold font-poppins text-neutral-900 flex items-center gap-2">
+                    <TrendingUp className="w-5 h-5 text-[#FF4F00]" />
                     Prophet Expenditure Forecasting & Trend Anomaly Engine
                   </h3>
-                  <p className="text-xs text-slate-400 mt-1">
+                  <p className="text-xs text-neutral-500 mt-1">
                     Incorporates Indian calendar regressors (Feb-Mar "March Rush" surge & Lok Sabha election MCC lull) to project spending and flag statistically anomalous surges or fund stalls.
                   </p>
                 </div>
 
                 {/* MP Selector */}
                 <div className="flex items-center gap-3">
-                  <span className="text-xs font-medium text-slate-400">Select MP:</span>
+                  <span className="text-xs font-medium text-neutral-500">Select MP:</span>
                   <select
                     value={selectedMpForForecast}
                     onChange={(e) => {
@@ -1042,7 +1042,7 @@ export default function AnomalyInvestigationPortal() {
                       setSelectedMpForForecast(newMp);
                       runMpForecast(newMp);
                     }}
-                    className="bg-slate-800 border border-slate-700 rounded-xl px-3 py-2 text-xs text-white focus:outline-none focus:border-rose-500 max-w-xs truncate"
+                    className="bg-[#F5F5F5] border border-[#E5E5E5] rounded-[12px] px-3 py-2 text-xs text-neutral-900 focus:outline-none focus:border-rose-500 max-w-xs truncate"
                   >
                     {forecastMps.map((mp, idx) => (
                       <option key={idx} value={mp.mp_name}>
@@ -1054,69 +1054,69 @@ export default function AnomalyInvestigationPortal() {
               </div>
 
               {forecastLoading ? (
-                <div className="py-24 text-center text-slate-400 text-sm">
-                  <Activity className="w-8 h-8 animate-spin mx-auto text-rose-500 mb-3" />
+                <div className="py-24 text-center text-neutral-500 text-sm">
+                  <Activity className="w-8 h-8 animate-spin mx-auto text-[#FF4F00] mb-3" />
                   Training Prophet model with Indian governance calendar regressors...
                 </div>
               ) : forecastResult ? (
                 <div className="space-y-6">
                   {/* Summary Metric Badges */}
                   <div className="grid grid-cols-1 sm:grid-cols-4 gap-4">
-                    <div className="p-4 bg-slate-800/40 rounded-xl border border-slate-700/60">
-                      <div className="text-xs text-slate-400">Target Representative</div>
-                      <div className="text-sm font-bold text-white mt-1 truncate">
+                    <div className="p-4 bg-[#F5F5F5]/40 rounded-[12px] border border-[#E5E5E5]/60">
+                      <div className="text-xs text-neutral-500">Target Representative</div>
+                      <div className="text-sm font-bold text-neutral-900 mt-1 truncate">
                         {forecastResult.mp_name}
                       </div>
-                      <div className="text-[10px] text-slate-500 mt-1">
+                      <div className="text-[10px] text-neutral-400 mt-1">
                         {forecastResult.historical_months} active months in dataset
                       </div>
                     </div>
 
-                    <div className="p-4 bg-slate-800/40 rounded-xl border border-slate-700/60">
-                      <div className="text-xs text-slate-400">Trend Anomalies Detected</div>
-                      <div className={`text-2xl font-bold mt-1 font-mono ${forecastResult.total_anomalies_flagged > 0 ? "text-rose-400" : "text-emerald-400"}`}>
+                    <div className="p-4 bg-[#F5F5F5]/40 rounded-[12px] border border-[#E5E5E5]/60">
+                      <div className="text-xs text-neutral-500">Trend Anomalies Detected</div>
+                      <div className={`text-2xl font-bold font-poppins mt-1 font-space-mono ${forecastResult.total_anomalies_flagged > 0 ? "text-[#FF4F00]" : "text-emerald-700"}`}>
                         {forecastResult.total_anomalies_flagged} Month{forecastResult.total_anomalies_flagged !== 1 ? "s" : ""}
                       </div>
-                      <div className="text-[10px] text-slate-500 mt-1">Outside expected bounds</div>
+                      <div className="text-[10px] text-neutral-400 mt-1">Outside expected bounds</div>
                     </div>
 
-                    <div className="p-4 bg-slate-800/40 rounded-xl border border-slate-700/60">
-                      <div className="text-xs text-slate-400">Projections Generated</div>
-                      <div className="text-2xl font-bold text-blue-400 mt-1 font-mono">
+                    <div className="p-4 bg-[#F5F5F5]/40 rounded-[12px] border border-[#E5E5E5]/60">
+                      <div className="text-xs text-neutral-500">Projections Generated</div>
+                      <div className="text-2xl font-bold font-poppins text-blue-600 mt-1 font-space-mono">
                         +{forecastResult.periods_forecasted} Months
                       </div>
-                      <div className="text-[10px] text-slate-500 mt-1">Next quarter outlook</div>
+                      <div className="text-[10px] text-neutral-400 mt-1">Next quarter outlook</div>
                     </div>
 
-                    <div className="p-4 bg-slate-800/40 rounded-xl border border-slate-700/60">
-                      <div className="text-xs text-slate-400">Domain Regressors Applied</div>
-                      <div className="text-sm font-bold text-amber-400 mt-1">
+                    <div className="p-4 bg-[#F5F5F5]/40 rounded-[12px] border border-[#E5E5E5]/60">
+                      <div className="text-xs text-neutral-500">Domain Regressors Applied</div>
+                      <div className="text-sm font-bold text-[#FACC15] mt-1">
                         March Rush + MCC
                       </div>
-                      <div className="text-[10px] text-slate-500 mt-1">Prevent seasonal false alarms</div>
+                      <div className="text-[10px] text-neutral-400 mt-1">Prevent seasonal false alarms</div>
                     </div>
                   </div>
 
                   {/* Chart View */}
-                  <div className="p-5 bg-slate-950/60 rounded-2xl border border-slate-800">
+                  <div className="p-5 bg-[#FAFAFA]/60 rounded-[16px] border border-[#E5E5E5]">
                     <div className="flex items-center justify-between mb-4">
                       <div>
-                        <h4 className="text-sm font-semibold text-white">
+                        <h4 className="text-sm font-semibold text-neutral-900">
                           Monthly Expenditure Trajectory (₹ Actual vs Projected Bounds)
                         </h4>
-                        <p className="text-xs text-slate-400">
+                        <p className="text-xs text-neutral-500">
                           Shaded area represents the 90% confidence interval. Red markers flag unexpected pace spikes.
                         </p>
                       </div>
                       <div className="flex items-center gap-4 text-xs">
-                        <div className="flex items-center gap-1.5 text-emerald-400">
+                        <div className="flex items-center gap-1.5 text-emerald-700">
                           <span className="w-3 h-0.5 bg-emerald-400 rounded-full" /> Actual Spend
                         </div>
-                        <div className="flex items-center gap-1.5 text-blue-400">
+                        <div className="flex items-center gap-1.5 text-blue-600">
                           <span className="w-3 h-0.5 bg-blue-400 rounded-full border border-dashed" /> Expected Baseline
                         </div>
-                        <div className="flex items-center gap-1.5 text-rose-400">
-                          <span className="w-2 h-2 rounded-full bg-rose-500" /> Trend Outlier
+                        <div className="flex items-center gap-1.5 text-[#FF4F00]">
+                          <span className="w-2 h-2 rounded-full bg-[#FF4F00] text-white" /> Trend Outlier
                         </div>
                       </div>
                     </div>
@@ -1156,21 +1156,21 @@ export default function AnomalyInvestigationPortal() {
                               if (!payload || !payload.length) return null;
                               const d = payload[0].payload;
                               return (
-                                <div className="p-3 bg-slate-900 border border-slate-700 rounded-xl shadow-xl text-xs space-y-1">
-                                  <div className="font-bold text-white mb-1">{d.month}</div>
+                                <div className="p-3 bg-white border border-[#E5E5E5] rounded-[12px] shadow-xl text-xs space-y-1">
+                                  <div className="font-bold text-neutral-900 mb-1">{d.month}</div>
                                   {d.actual !== undefined && (
-                                    <div className="text-emerald-400">
+                                    <div className="text-emerald-700">
                                       Actual Spend: <b>₹{Number(d.actual).toLocaleString()}</b>
                                     </div>
                                   )}
                                   <div className="text-blue-300">
                                     Expected Spend: <b>₹{Number(d.baseline).toLocaleString()}</b>
                                   </div>
-                                  <div className="text-slate-400 text-[10px]">
+                                  <div className="text-neutral-500 text-[10px]">
                                     Bounds: ₹{Number(d.lower).toLocaleString()} – ₹{Number(d.upper).toLocaleString()}
                                   </div>
                                   {d.isAnomaly && (
-                                    <div className="pt-1 mt-1 border-t border-slate-700 text-rose-400 font-bold">
+                                    <div className="pt-1 mt-1 border-t border-[#E5E5E5] text-[#FF4F00] font-bold">
                                       ⚠ Anomaly Score: {d.anomalyScore} (Dev: {d.deviationPct}%)
                                     </div>
                                   )}
@@ -1225,8 +1225,8 @@ export default function AnomalyInvestigationPortal() {
 
                   {/* Flagged Timeline Table */}
                   <div className="overflow-x-auto">
-                    <table className="w-full text-left text-xs text-slate-300">
-                      <thead className="bg-slate-800/60 text-slate-400 uppercase font-semibold">
+                    <table className="w-full text-left text-xs text-neutral-700">
+                      <thead className="bg-[#F5F5F5] text-neutral-500 uppercase font-semibold">
                         <tr>
                           <th className="p-3">Month</th>
                           <th className="p-3">Actual Disbursed</th>
@@ -1240,27 +1240,27 @@ export default function AnomalyInvestigationPortal() {
                         {forecastResult.timeline.map((t: any, idx: number) => (
                           <tr 
                             key={idx} 
-                            className={t.is_anomaly ? "bg-rose-950/20 text-white font-medium" : "hover:bg-slate-800/30"}
+                            className={t.is_anomaly ? "bg-rose-950/20 text-neutral-900 font-medium" : "hover:bg-[#F5F5F5]/30"}
                           >
-                            <td className="p-3 font-mono">{t.month}</td>
-                            <td className="p-3 text-emerald-400 font-mono">₹{Number(t.actual_expenditure).toLocaleString()}</td>
-                            <td className="p-3 font-mono text-slate-300">₹{Number(t.forecast_expenditure).toLocaleString()}</td>
-                            <td className={`p-3 font-mono ${t.deviation_pct > 0 ? "text-amber-400" : "text-slate-400"}`}>
+                            <td className="p-3 font-space-mono">{t.month}</td>
+                            <td className="p-3 text-emerald-700 font-space-mono">₹{Number(t.actual_expenditure).toLocaleString()}</td>
+                            <td className="p-3 font-space-mono text-neutral-700">₹{Number(t.forecast_expenditure).toLocaleString()}</td>
+                            <td className={`p-3 font-space-mono ${t.deviation_pct > 0 ? "text-[#FACC15]" : "text-neutral-500"}`}>
                               {t.deviation_pct > 0 ? `+${t.deviation_pct}%` : `${t.deviation_pct}%`}
                             </td>
-                            <td className="p-3 font-mono font-bold">
-                              <span className={`px-2 py-0.5 rounded-md ${t.is_anomaly ? "bg-rose-500/20 text-rose-300 border border-rose-500/30" : "text-slate-400"}`}>
+                            <td className="p-3 font-space-mono font-bold">
+                              <span className={`px-2 py-0.5 rounded-md ${t.is_anomaly ? "bg-[#FF4F00]/20 text-rose-300 border border-[#FF4F00]/30" : "text-neutral-500"}`}>
                                 {t.trend_anomaly_score}
                               </span>
                             </td>
                             <td className="p-3">
                               {t.is_anomaly ? (
-                                <span className="text-rose-400 flex items-center gap-1">
+                                <span className="text-[#FF4F00] flex items-center gap-1">
                                   <AlertTriangle className="w-3.5 h-3.5" />
                                   {t.deviation_pct > 0 ? "Statistical Surge Spike" : "Disbursement Stall"}
                                 </span>
                               ) : (
-                                <span className="text-slate-500 flex items-center gap-1">
+                                <span className="text-neutral-400 flex items-center gap-1">
                                   <CheckCircle2 className="w-3.5 h-3.5 text-emerald-500" />
                                   Within Normative Bounds
                                 </span>
@@ -1281,24 +1281,24 @@ export default function AnomalyInvestigationPortal() {
         {activeTab === "dedup" && (
           <div className="space-y-8">
             {/* Interactive Query Bench */}
-            <div className="p-6 rounded-2xl bg-slate-900/60 border border-slate-800 space-y-6">
+            <div className="p-6 rounded-[16px] bg-white shadow-sm border border-[#E5E5E5] space-y-6">
               <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
                 <div>
-                  <h3 className="text-base font-semibold text-white flex items-center gap-2">
-                    <Sparkles className="w-5 h-5 text-amber-400" />
+                  <h3 className="text-base font-semibold font-poppins text-neutral-900 flex items-center gap-2">
+                    <Sparkles className="w-5 h-5 text-[#FACC15]" />
                     Nirikshak AI: Semantic Duplicate Work Detector
                   </h3>
-                  <p className="text-xs text-slate-400 mt-1">
-                    Powered by Sentence-BERT (<code className="text-amber-300 font-mono">all-MiniLM-L6-v2</code>) embeddings across 12,000+ works. Detects paraphrased, re-sanctioned, or ghost projects using dense vector cosine similarity.
+                  <p className="text-xs text-neutral-500 mt-1">
+                    Powered by Sentence-BERT (<code className="text-[#FACC15] font-space-mono">all-MiniLM-L6-v2</code>) embeddings across 12,000+ works. Detects paraphrased, re-sanctioned, or ghost projects using dense vector cosine similarity.
                   </p>
                 </div>
                 <div className="flex items-center gap-2">
-                  <span className="text-xs text-slate-400">Sample Queries:</span>
+                  <span className="text-xs text-neutral-500">Sample Queries:</span>
                   <button
                     onClick={() => {
                       setSbertQuery("Construction of CC Road from main road to temple");
                     }}
-                    className="px-2.5 py-1 text-[11px] bg-slate-800 hover:bg-slate-700 text-slate-300 rounded-lg"
+                    className="px-2.5 py-1 text-[11px] bg-[#F5F5F5] hover:bg-[#E5E5E5] text-neutral-700 rounded-lg"
                   >
                     CC Road / Temple
                   </button>
@@ -1306,7 +1306,7 @@ export default function AnomalyInvestigationPortal() {
                     onClick={() => {
                       setSbertQuery("Installation of high mast solar LED lights at bus stop");
                     }}
-                    className="px-2.5 py-1 text-[11px] bg-slate-800 hover:bg-slate-700 text-slate-300 rounded-lg"
+                    className="px-2.5 py-1 text-[11px] bg-[#F5F5F5] hover:bg-[#E5E5E5] text-neutral-700 rounded-lg"
                   >
                     Solar Mast Light
                   </button>
@@ -1314,7 +1314,7 @@ export default function AnomalyInvestigationPortal() {
                     onClick={() => {
                       setSbertQuery("Borewell with submersible pump and drinking water pipeline");
                     }}
-                    className="px-2.5 py-1 text-[11px] bg-slate-800 hover:bg-slate-700 text-slate-300 rounded-lg"
+                    className="px-2.5 py-1 text-[11px] bg-[#F5F5F5] hover:bg-[#E5E5E5] text-neutral-700 rounded-lg"
                   >
                     Borewell / Water
                   </button>
@@ -1324,7 +1324,7 @@ export default function AnomalyInvestigationPortal() {
               {/* Input Form Controls */}
               <div className="grid grid-cols-1 md:grid-cols-12 gap-4">
                 <div className="md:col-span-6">
-                  <label className="block text-xs font-semibold text-slate-300 mb-1.5">
+                  <label className="block text-xs font-semibold text-neutral-700 mb-1.5">
                     Proposed Work Title / Description
                   </label>
                   <input
@@ -1332,18 +1332,18 @@ export default function AnomalyInvestigationPortal() {
                     value={sbertQuery}
                     onChange={(e) => setSbertQuery(e.target.value)}
                     placeholder="Enter full work title to test for semantic duplicates..."
-                    className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-2.5 text-xs text-white placeholder-slate-500 focus:outline-none focus:border-amber-500"
+                    className="w-full bg-[#F5F5F5] border border-[#E5E5E5] rounded-[12px] px-4 py-2.5 text-xs text-neutral-900 placeholder-slate-500 focus:outline-none focus:border-amber-500"
                   />
                 </div>
 
                 <div className="md:col-span-2">
-                  <label className="block text-xs font-semibold text-slate-300 mb-1.5">
+                  <label className="block text-xs font-semibold text-neutral-700 mb-1.5">
                     State Filter
                   </label>
                   <select
                     value={sbertState}
                     onChange={(e) => setSbertState(e.target.value)}
-                    className="w-full bg-slate-800 border border-slate-700 rounded-xl px-3 py-2.5 text-xs text-white focus:outline-none focus:border-amber-500"
+                    className="w-full bg-[#F5F5F5] border border-[#E5E5E5] rounded-[12px] px-3 py-2.5 text-xs text-neutral-900 focus:outline-none focus:border-amber-500"
                   >
                     <option value="All">All States / UTs</option>
                     {meta.states.map((st, i) => (
@@ -1353,8 +1353,8 @@ export default function AnomalyInvestigationPortal() {
                 </div>
 
                 <div className="md:col-span-2">
-                  <label className="block text-xs font-semibold text-slate-300 mb-1.5">
-                    Threshold: <span className="font-mono text-amber-400">{(sbertThreshold * 100).toFixed(0)}%</span>
+                  <label className="block text-xs font-semibold text-neutral-700 mb-1.5">
+                    Threshold: <span className="font-space-mono text-[#FACC15]">{(sbertThreshold * 100).toFixed(0)}%</span>
                   </label>
                   <input
                     type="range"
@@ -1371,7 +1371,7 @@ export default function AnomalyInvestigationPortal() {
                   <button
                     onClick={runSbertSearch}
                     disabled={sbertLoading}
-                    className="w-full h-[38px] bg-gradient-to-r from-amber-500 to-rose-500 hover:from-amber-600 hover:to-rose-600 text-white text-xs font-bold rounded-xl flex items-center justify-center gap-2 shadow-lg shadow-amber-500/20 transition-all disabled:opacity-50"
+                    className="w-full h-[38px] bg-gradient-to-r from-amber-500 to-rose-500 hover:from-amber-600 hover:to-rose-600 text-neutral-900 text-xs font-bold rounded-[12px] flex items-center justify-center gap-2 shadow-lg shadow-amber-500/20 transition-all disabled:opacity-50"
                   >
                     {sbertLoading ? (
                       <Activity className="w-4 h-4 animate-spin" />
@@ -1386,21 +1386,21 @@ export default function AnomalyInvestigationPortal() {
 
               {/* Real-time Query Results */}
               {sbertResults && (
-                <div className="pt-4 border-t border-slate-800 space-y-4">
+                <div className="pt-4 border-t border-[#E5E5E5] space-y-4">
                   <div className="flex items-center justify-between">
-                    <div className="text-xs text-slate-300">
+                    <div className="text-xs text-neutral-700">
                       Query matches against vector store:{" "}
-                      <span className="font-bold text-white">
+                      <span className="font-bold text-neutral-900">
                         {sbertResults.matched_works?.length || 0} candidates
                       </span>
                     </div>
                     <div>
                       {sbertResults.is_duplicate_detected ? (
-                        <span className="px-3 py-1 rounded-full text-xs font-bold bg-rose-500/20 text-rose-300 border border-rose-500/30 flex items-center gap-1.5">
+                        <span className="px-3 py-1 rounded-full text-xs font-bold bg-[#FF4F00]/20 text-rose-300 border border-[#FF4F00]/30 flex items-center gap-1.5">
                           <AlertTriangle className="w-3.5 h-3.5" /> High Semantic Similarity Detected (Max: {(sbertResults.highest_similarity * 100).toFixed(1)}%)
                         </span>
                       ) : (
-                        <span className="px-3 py-1 rounded-full text-xs font-bold bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 flex items-center gap-1.5">
+                        <span className="px-3 py-1 rounded-full text-xs font-bold bg-emerald-500/20 text-emerald-300 border border-emerald-500 flex items-center gap-1.5">
                           <CheckCircle2 className="w-3.5 h-3.5" /> Novel Work Proposal (No Exact Duplicate Found)
                         </span>
                       )}
@@ -1414,42 +1414,42 @@ export default function AnomalyInvestigationPortal() {
                         <div
                           key={idx}
                           onClick={() => openInvestigation(work.project_id)}
-                          className={`p-4 rounded-xl border transition-all cursor-pointer ${
+                          className={`p-4 rounded-[12px] border transition-all cursor-pointer ${
                             isHigh 
                               ? "bg-rose-950/20 border-rose-500/40 hover:border-rose-500" 
-                              : "bg-slate-800/40 border-slate-700/60 hover:border-slate-600"
+                              : "bg-[#F5F5F5]/40 border-[#E5E5E5]/60 hover:border-[#D4D4D4]"
                           }`}
                         >
                           <div className="flex items-start justify-between gap-2 mb-2">
                             <div>
-                              <span className="font-mono text-[10px] text-slate-400">{work.project_id}</span>
+                              <span className="font-space-mono text-[10px] text-neutral-500">{work.project_id}</span>
                               <span className="text-[10px] text-slate-600 ml-1.5">•</span>
-                              <span className="text-[10px] text-slate-400 ml-1.5">{work.category}</span>
+                              <span className="text-[10px] text-neutral-500 ml-1.5">{work.category}</span>
                             </div>
                             <div className="flex items-center gap-1.5">
-                              <span className={`px-2 py-0.5 rounded text-[10px] font-bold font-mono ${
-                                isHigh ? "bg-rose-500 text-white" : "bg-slate-700 text-slate-300"
+                              <span className={`px-2 py-0.5 rounded text-[10px] font-bold font-space-mono ${
+                                isHigh ? "bg-[#FF4F00] text-white" : "bg-slate-700 text-neutral-700"
                               }`}>
                                 {(work.similarity_score * 100).toFixed(1)}% Match
                               </span>
                               <span className={`text-[10px] font-semibold px-1.5 py-0.5 rounded ${
-                                work.confidence_level === "VERY HIGH" ? "bg-rose-500/20 text-rose-400" :
-                                work.confidence_level === "HIGH" ? "bg-amber-500/20 text-amber-400" : "bg-slate-700 text-slate-400"
+                                work.confidence_level === "VERY HIGH" ? "bg-[#FF4F00]/20 text-[#FF4F00]" :
+                                work.confidence_level === "HIGH" ? "bg-amber-500/20 text-[#FACC15]" : "bg-slate-700 text-neutral-500"
                               }`}>
                                 {work.confidence_level}
                               </span>
                             </div>
                           </div>
 
-                          <h5 className="text-xs font-semibold text-white line-clamp-2 leading-relaxed mb-2">
+                          <h5 className="text-xs font-semibold text-neutral-900 line-clamp-2 leading-relaxed mb-2">
                             {work.clean_text || work.work_title}
                           </h5>
 
-                          <div className="flex items-center justify-between text-[11px] text-slate-400 pt-2 border-t border-slate-800">
+                          <div className="flex items-center justify-between text-[11px] text-neutral-500 pt-2 border-t border-[#E5E5E5]">
                             <div>
                               {work.district}, {work.state}
                             </div>
-                            <div className="font-mono font-bold text-emerald-400">
+                            <div className="font-space-mono font-bold text-emerald-700">
                               ₹{Number(work.sanction_amount).toLocaleString()}
                             </div>
                           </div>
@@ -1462,21 +1462,21 @@ export default function AnomalyInvestigationPortal() {
             </div>
 
             {/* Pre-Computed Near-Identical Work Clusters in Same District */}
-            <div className="p-6 rounded-2xl bg-slate-900/60 border border-slate-800 space-y-4">
+            <div className="p-6 rounded-[16px] bg-white shadow-sm border border-[#E5E5E5] space-y-4">
               <div className="flex items-center justify-between">
                 <div>
-                  <h4 className="text-sm font-bold text-white flex items-center gap-2">
-                    <Copy className="w-4 h-4 text-rose-400" />
+                  <h4 className="text-sm font-bold text-neutral-900 flex items-center gap-2">
+                    <Copy className="w-4 h-4 text-[#FF4F00]" />
                     High-Risk Near-Identical Work Pairs Flagged in Same District
                   </h4>
-                  <p className="text-xs text-slate-400 mt-0.5">
+                  <p className="text-xs text-neutral-500 mt-0.5">
                     Works within the same administrative jurisdiction sharing ≥ 82% semantic similarity. Prime candidates for double-billing or phantom re-sanctioning audits.
                   </p>
                 </div>
                 <button
                   onClick={loadConstituencyPairs}
                   disabled={pairsLoading}
-                  className="px-3 py-1.5 bg-slate-800 hover:bg-slate-700 text-slate-300 rounded-lg text-xs font-medium flex items-center gap-1.5 transition-all"
+                  className="px-3 py-1.5 bg-[#F5F5F5] hover:bg-[#E5E5E5] text-neutral-700 rounded-lg text-xs font-medium flex items-center gap-1.5 transition-all"
                 >
                   {pairsLoading ? <Activity className="w-3.5 h-3.5 animate-spin" /> : <TrendingUp className="w-3.5 h-3.5" />}
                   Refresh Pairs
@@ -1484,19 +1484,19 @@ export default function AnomalyInvestigationPortal() {
               </div>
 
               {pairsLoading ? (
-                <div className="py-12 text-center text-slate-400 text-xs">
+                <div className="py-12 text-center text-neutral-500 text-xs">
                   <Activity className="w-6 h-6 animate-spin mx-auto text-amber-500 mb-2" />
                   Scanning vector index for multi-sanction pairwise collisions...
                 </div>
               ) : constituencyPairs.length > 0 ? (
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   {constituencyPairs.slice(0, 12).map((pair: any, idx: number) => (
-                    <div key={idx} className="p-4 rounded-xl bg-slate-800/40 border border-rose-500/30 space-y-3">
+                    <div key={idx} className="p-4 rounded-[12px] bg-[#F5F5F5]/40 border border-[#FF4F00]/30 space-y-3">
                       <div className="flex items-center justify-between text-xs">
-                        <span className="font-bold text-slate-300">
-                          {pair.district}, <span className="text-slate-400 font-normal">{pair.state}</span>
+                        <span className="font-bold text-neutral-700">
+                          {pair.district}, <span className="text-neutral-500 font-normal">{pair.state}</span>
                         </span>
-                        <span className="px-2 py-0.5 rounded bg-rose-500/20 text-rose-400 font-mono font-bold text-[11px] border border-rose-500/30">
+                        <span className="px-2 py-0.5 rounded bg-[#FF4F00]/20 text-[#FF4F00] font-space-mono font-bold text-[11px] border border-[#FF4F00]/30">
                           {(pair.similarity_score * 100).toFixed(1)}% Cosine Match
                         </span>
                       </div>
@@ -1505,34 +1505,34 @@ export default function AnomalyInvestigationPortal() {
                         {/* Project A */}
                         <div 
                           onClick={() => openInvestigation(pair.project_a.id)}
-                          className="p-2.5 rounded-lg bg-slate-900/60 border border-slate-700/60 hover:border-amber-500 cursor-pointer transition-colors"
+                          className="p-2.5 rounded-lg bg-white shadow-sm border border-[#E5E5E5]/60 hover:border-amber-500 cursor-pointer transition-colors"
                         >
-                          <div className="flex justify-between text-[10px] text-slate-400 mb-1">
-                            <span className="font-mono text-amber-400">Work #1: {pair.project_a.id}</span>
-                            <span className="text-emerald-400 font-bold">₹{Number(pair.project_a.amount).toLocaleString()}</span>
+                          <div className="flex justify-between text-[10px] text-neutral-500 mb-1">
+                            <span className="font-space-mono text-[#FACC15]">Work #1: {pair.project_a.id}</span>
+                            <span className="text-emerald-700 font-bold">₹{Number(pair.project_a.amount).toLocaleString()}</span>
                           </div>
-                          <div className="text-white font-medium line-clamp-1">{pair.project_a.title}</div>
-                          <div className="text-[10px] text-slate-400 mt-1">MP: {pair.project_a.mp}</div>
+                          <div className="text-neutral-900 font-medium line-clamp-1">{pair.project_a.title}</div>
+                          <div className="text-[10px] text-neutral-500 mt-1">MP: {pair.project_a.mp}</div>
                         </div>
 
                         {/* Project B */}
                         <div 
                           onClick={() => openInvestigation(pair.project_b.id)}
-                          className="p-2.5 rounded-lg bg-slate-900/60 border border-slate-700/60 hover:border-amber-500 cursor-pointer transition-colors"
+                          className="p-2.5 rounded-lg bg-white shadow-sm border border-[#E5E5E5]/60 hover:border-amber-500 cursor-pointer transition-colors"
                         >
-                          <div className="flex justify-between text-[10px] text-slate-400 mb-1">
-                            <span className="font-mono text-amber-400">Work #2: {pair.project_b.id}</span>
-                            <span className="text-emerald-400 font-bold">₹{Number(pair.project_b.amount).toLocaleString()}</span>
+                          <div className="flex justify-between text-[10px] text-neutral-500 mb-1">
+                            <span className="font-space-mono text-[#FACC15]">Work #2: {pair.project_b.id}</span>
+                            <span className="text-emerald-700 font-bold">₹{Number(pair.project_b.amount).toLocaleString()}</span>
                           </div>
-                          <div className="text-white font-medium line-clamp-1">{pair.project_b.title}</div>
-                          <div className="text-[10px] text-slate-400 mt-1">MP: {pair.project_b.mp}</div>
+                          <div className="text-neutral-900 font-medium line-clamp-1">{pair.project_b.title}</div>
+                          <div className="text-[10px] text-neutral-500 mt-1">MP: {pair.project_b.mp}</div>
                         </div>
                       </div>
                     </div>
                   ))}
                 </div>
               ) : (
-                <div className="py-8 text-center text-slate-500 text-xs">
+                <div className="py-8 text-center text-neutral-400 text-xs">
                   Click "Refresh Pairs" to inspect constituency duplicate collisions.
                 </div>
               )}
@@ -1544,92 +1544,92 @@ export default function AnomalyInvestigationPortal() {
       {/* MODAL: PROJECT INVESTIGATION DOSSIER */}
       {activeProjectId && (
         <div className="fixed inset-0 z-50 bg-black/80 backdrop-blur-sm flex items-center justify-center p-4 sm:p-6 overflow-y-auto">
-          <div className="bg-slate-900 border border-slate-800 rounded-3xl w-full max-w-4xl max-h-[90vh] overflow-y-auto shadow-2xl p-6 sm:p-8 space-y-6 relative">
+          <div className="bg-white border border-[#E5E5E5] rounded-3xl w-full max-w-4xl max-h-[90vh] overflow-y-auto shadow-2xl p-6 sm:p-8 space-y-6 relative">
             <button
               onClick={() => { setActiveProjectId(null); setProjectDetail(null); }}
-              className="absolute top-6 right-6 p-2 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-400 hover:text-white transition-colors"
+              className="absolute top-6 right-6 p-2 rounded-[12px] bg-[#F5F5F5] hover:bg-[#E5E5E5] text-neutral-500 hover:text-neutral-900 transition-colors"
             >
               <X className="w-5 h-5" />
             </button>
 
             {detailLoading || !projectDetail ? (
-              <div className="py-16 text-center text-slate-400 text-sm">
-                <Activity className="w-6 h-6 animate-spin mx-auto text-rose-500 mb-2" />
+              <div className="py-16 text-center text-neutral-500 text-sm">
+                <Activity className="w-6 h-6 animate-spin mx-auto text-[#FF4F00] mb-2" />
                 Loading Project Investigation Dossier...
               </div>
             ) : (
               <>
-                <div className="border-b border-slate-800 pb-4">
+                <div className="border-b border-[#E5E5E5] pb-4">
                   <div className="flex items-center gap-2">
-                    <span className="font-mono text-xs text-slate-400">{projectDetail.project.project_id}</span>
+                    <span className="font-space-mono text-xs text-neutral-500">{projectDetail.project.project_id}</span>
                     <span className="text-xs text-slate-600">•</span>
-                    <span className="text-xs text-slate-400">{projectDetail.project.house}</span>
+                    <span className="text-xs text-neutral-500">{projectDetail.project.house}</span>
                   </div>
-                  <h2 className="text-lg sm:text-xl font-bold text-white mt-1">
+                  <h2 className="text-lg sm:text-xl font-bold text-neutral-900 mt-1">
                     {projectDetail.project.project_name}
                   </h2>
-                  <div className="flex flex-wrap gap-2 text-xs text-slate-400 mt-2">
-                    <span>State: <b className="text-slate-200">{projectDetail.project.state}</b></span>
+                  <div className="flex flex-wrap gap-2 text-xs text-neutral-500 mt-2">
+                    <span>State: <b className="text-neutral-800">{projectDetail.project.state}</b></span>
                     <span>•</span>
-                    <span>District/IDA: <b className="text-slate-200">{projectDetail.project.district}</b></span>
+                    <span>District/IDA: <b className="text-neutral-800">{projectDetail.project.district}</b></span>
                     <span>•</span>
-                    <span>MP: <b className="text-slate-200">{projectDetail.project.mp_name || "N/A"}</b></span>
+                    <span>MP: <b className="text-neutral-800">{projectDetail.project.mp_name || "N/A"}</b></span>
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 sm:grid-cols-4 gap-3 p-4 rounded-2xl bg-slate-800/40 border border-slate-700/60 text-xs">
+                <div className="grid grid-cols-1 sm:grid-cols-4 gap-3 p-4 rounded-[16px] bg-[#F5F5F5]/40 border border-[#E5E5E5]/60 text-xs">
                   <div>
-                    <span className="text-slate-400">Risk Classification</span>
+                    <span className="text-neutral-500">Risk Classification</span>
                     <div className="mt-1">{getRiskBadge(projectDetail.anomaly.risk_level)}</div>
                   </div>
                   <div>
-                    <span className="text-slate-400">Investigation Priority</span>
-                    <div className="text-base font-bold text-white font-mono mt-0.5">
-                      Score: {projectDetail.anomaly.priority_score} <span className="text-xs text-rose-400 font-normal">(Rank #{projectDetail.anomaly.priority_rank})</span>
+                    <span className="text-neutral-500">Investigation Priority</span>
+                    <div className="text-base font-bold text-neutral-900 font-space-mono mt-0.5">
+                      Score: {projectDetail.anomaly.priority_score} <span className="text-xs text-[#FF4F00] font-normal">(Rank #{projectDetail.anomaly.priority_rank})</span>
                     </div>
                   </div>
                   <div>
-                    <span className="text-slate-400">Isolation Forest Score</span>
-                    <div className="text-base font-bold text-amber-400 font-mono mt-0.5">
+                    <span className="text-neutral-500">Isolation Forest Score</span>
+                    <div className="text-base font-bold text-[#FACC15] font-space-mono mt-0.5">
                       {projectDetail.anomaly.anomaly_score}
                     </div>
                   </div>
                   <div>
-                    <span className="text-slate-400">Work Status</span>
-                    <div className="text-xs font-semibold text-slate-200 mt-1">
+                    <span className="text-neutral-500">Work Status</span>
+                    <div className="text-xs font-semibold text-neutral-800 mt-1">
                       {projectDetail.project.work_status || "N/A"}
                     </div>
                   </div>
                 </div>
 
                 <div>
-                  <h3 className="text-sm font-bold text-slate-200 uppercase tracking-wider mb-3 flex items-center gap-2">
-                    <AlertTriangle className="w-4 h-4 text-rose-400" />
+                  <h3 className="text-sm font-bold text-neutral-800 uppercase tracking-wider mb-3 flex items-center gap-2">
+                    <AlertTriangle className="w-4 h-4 text-[#FF4F00]" />
                     Why Was This Project Flagged? (Investigation Findings)
                   </h3>
                   <div className="space-y-3">
                     {projectDetail.reasons.map((r: any, idx: number) => (
                       <div 
                         key={idx}
-                        className="p-4 rounded-xl bg-slate-800/50 border border-slate-700/60 space-y-1"
+                        className="p-4 rounded-[12px] bg-[#F5F5F5]/50 border border-[#E5E5E5]/60 space-y-1"
                       >
                         <div className="flex items-center justify-between">
-                          <span className="font-bold text-xs text-white flex items-center gap-1.5">
-                            <span className="w-2 h-2 rounded-full bg-rose-500" />
+                          <span className="font-bold text-xs text-neutral-900 flex items-center gap-1.5">
+                            <span className="w-2 h-2 rounded-full bg-[#FF4F00] text-white" />
                             {r.type.replace(/_/g, " ")}
                           </span>
                           <span className={`text-[10px] font-bold uppercase px-2 py-0.5 rounded ${
-                            r.severity === "CRITICAL" ? "bg-rose-500/20 text-rose-400" :
-                            r.severity === "HIGH" ? "bg-amber-500/20 text-amber-400" : "bg-blue-500/20 text-blue-400"
+                            r.severity === "CRITICAL" ? "bg-[#FF4F00]/20 text-[#FF4F00]" :
+                            r.severity === "HIGH" ? "bg-amber-500/20 text-[#FACC15]" : "bg-blue-500/20 text-blue-600"
                           }`}>
                             {r.severity}
                           </span>
                         </div>
-                        <p className="text-xs text-slate-200 leading-relaxed font-medium pt-1">
+                        <p className="text-xs text-neutral-800 leading-relaxed font-medium pt-1">
                           {r.message}
                         </p>
                         {r.evidence && (
-                          <div className="text-[11px] text-slate-400 font-mono pt-1">
+                          <div className="text-[11px] text-neutral-500 font-space-mono pt-1">
                             Evidence: {r.evidence}
                           </div>
                         )}
@@ -1639,57 +1639,57 @@ export default function AnomalyInvestigationPortal() {
                 </div>
 
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 pt-2">
-                  <div className="p-5 rounded-2xl bg-slate-800/30 border border-slate-800 space-y-2.5 text-xs">
-                    <h4 className="font-bold text-white text-xs uppercase tracking-wider mb-3 flex items-center gap-2">
-                      <CircleDollarSign className="w-4 h-4 text-emerald-400" /> Supporting Financial Metrics
+                  <div className="p-5 rounded-[16px] bg-[#F5F5F5]/30 border border-[#E5E5E5] space-y-2.5 text-xs">
+                    <h4 className="font-bold text-neutral-900 text-xs uppercase tracking-wider mb-3 flex items-center gap-2">
+                      <CircleDollarSign className="w-4 h-4 text-emerald-700" /> Supporting Financial Metrics
                     </h4>
-                    <div className="flex justify-between py-1 border-b border-slate-800">
-                      <span className="text-slate-400">Sanctioned Amount</span>
-                      <span className="font-mono font-bold text-white">₹{projectDetail.supporting_metrics.sanction_amount?.toLocaleString()}</span>
+                    <div className="flex justify-between py-1 border-b border-[#E5E5E5]">
+                      <span className="text-neutral-500">Sanctioned Amount</span>
+                      <span className="font-space-mono font-bold text-neutral-900">₹{projectDetail.supporting_metrics.sanction_amount?.toLocaleString()}</span>
                     </div>
-                    <div className="flex justify-between py-1 border-b border-slate-800">
-                      <span className="text-slate-400">Total Disbursed Expenditure</span>
-                      <span className="font-mono font-bold text-emerald-400">₹{projectDetail.supporting_metrics.total_expenditure?.toLocaleString()}</span>
+                    <div className="flex justify-between py-1 border-b border-[#E5E5E5]">
+                      <span className="text-neutral-500">Total Disbursed Expenditure</span>
+                      <span className="font-space-mono font-bold text-emerald-700">₹{projectDetail.supporting_metrics.total_expenditure?.toLocaleString()}</span>
                     </div>
-                    <div className="flex justify-between py-1 border-b border-slate-800">
-                      <span className="text-slate-400">Unspent Sanction Allocation</span>
-                      <span className="font-mono font-bold text-amber-400">₹{projectDetail.supporting_metrics.unspent_allocation?.toLocaleString()}</span>
+                    <div className="flex justify-between py-1 border-b border-[#E5E5E5]">
+                      <span className="text-neutral-500">Unspent Sanction Allocation</span>
+                      <span className="font-space-mono font-bold text-[#FACC15]">₹{projectDetail.supporting_metrics.unspent_allocation?.toLocaleString()}</span>
                     </div>
-                    <div className="flex justify-between py-1 border-b border-slate-800">
-                      <span className="text-slate-400">Fund Utilisation Rate</span>
-                      <span className="font-mono font-bold text-white">{projectDetail.supporting_metrics.utilisation_percentage}%</span>
+                    <div className="flex justify-between py-1 border-b border-[#E5E5E5]">
+                      <span className="text-neutral-500">Fund Utilisation Rate</span>
+                      <span className="font-space-mono font-bold text-neutral-900">{projectDetail.supporting_metrics.utilisation_percentage}%</span>
                     </div>
                     <div className="flex justify-between py-1">
-                      <span className="text-slate-400">Disbursement Transactions</span>
-                      <span className="font-mono font-bold text-white">{projectDetail.supporting_metrics.transaction_count} disbursements</span>
+                      <span className="text-neutral-500">Disbursement Transactions</span>
+                      <span className="font-space-mono font-bold text-neutral-900">{projectDetail.supporting_metrics.transaction_count} disbursements</span>
                     </div>
                   </div>
 
-                  <div className="p-5 rounded-2xl bg-slate-800/30 border border-slate-800 space-y-4 text-xs">
-                    <h4 className="font-bold text-white text-xs uppercase tracking-wider flex items-center gap-2">
-                      <TrendingUp className="w-4 h-4 text-blue-400" /> Peer Benchmark Comparison
+                  <div className="p-5 rounded-[16px] bg-[#F5F5F5]/30 border border-[#E5E5E5] space-y-4 text-xs">
+                    <h4 className="font-bold text-neutral-900 text-xs uppercase tracking-wider flex items-center gap-2">
+                      <TrendingUp className="w-4 h-4 text-blue-600" /> Peer Benchmark Comparison
                     </h4>
-                    <div className="text-[11px] text-slate-400">
+                    <div className="text-[11px] text-neutral-500">
                       Benchmarked against <b>{projectDetail.peer_comparison.peer_project_count.toLocaleString()}</b> projects in <b>{projectDetail.peer_comparison.peer_group}</b>.
                     </div>
 
                     <div className="space-y-2 pt-1">
                       <div>
                         <div className="flex justify-between text-[11px] mb-1">
-                          <span className="text-slate-300">This Project Sanction</span>
-                          <span className="font-mono font-bold text-rose-400">₹{projectDetail.peer_comparison.project_sanction?.toLocaleString()}</span>
+                          <span className="text-neutral-700">This Project Sanction</span>
+                          <span className="font-space-mono font-bold text-[#FF4F00]">₹{projectDetail.peer_comparison.project_sanction?.toLocaleString()}</span>
                         </div>
-                        <div className="w-full bg-slate-800 rounded-full h-2 overflow-hidden">
-                          <div className="bg-rose-500 h-2 rounded-full" style={{ width: "100%" }} />
+                        <div className="w-full bg-[#F5F5F5] rounded-full h-2 overflow-hidden">
+                          <div className="bg-[#FF4F00] text-white h-2 rounded-full" style={{ width: "100%" }} />
                         </div>
                       </div>
 
                       <div>
                         <div className="flex justify-between text-[11px] mb-1">
-                          <span className="text-slate-400">Peer Group Median Sanction</span>
-                          <span className="font-mono text-slate-300">₹{projectDetail.peer_comparison.peer_median_sanction?.toLocaleString()}</span>
+                          <span className="text-neutral-500">Peer Group Median Sanction</span>
+                          <span className="font-space-mono text-neutral-700">₹{projectDetail.peer_comparison.peer_median_sanction?.toLocaleString()}</span>
                         </div>
-                        <div className="w-full bg-slate-800 rounded-full h-2 overflow-hidden">
+                        <div className="w-full bg-[#F5F5F5] rounded-full h-2 overflow-hidden">
                           <div 
                             className="bg-slate-500 h-2 rounded-full" 
                             style={{ 
@@ -1700,7 +1700,7 @@ export default function AnomalyInvestigationPortal() {
                       </div>
                     </div>
 
-                    <div className="p-2.5 rounded-lg bg-slate-800/60 text-[11px] text-slate-300 space-y-1">
+                    <div className="p-2.5 rounded-lg bg-[#F5F5F5] text-[11px] text-neutral-700 space-y-1">
                       <div>• Peer Percentile Rank: <b>{projectDetail.peer_comparison.peer_sanction_percentile}th percentile</b></div>
                       <div>• Approval Latency: <b>{projectDetail.peer_comparison.project_delay_days} days</b> (Peer Median: {projectDetail.peer_comparison.peer_median_delay} days)</div>
                     </div>
@@ -1708,28 +1708,28 @@ export default function AnomalyInvestigationPortal() {
                 </div>
 
                 {/* S-BERT Live Semantic Duplicate Cross-Check inside Dossier */}
-                <div className="p-5 rounded-2xl bg-slate-800/30 border border-slate-800 space-y-3 text-xs">
+                <div className="p-5 rounded-[16px] bg-[#F5F5F5]/30 border border-[#E5E5E5] space-y-3 text-xs">
                   <div className="flex items-center justify-between">
-                    <h4 className="font-bold text-white text-xs uppercase tracking-wider flex items-center gap-2">
-                      <Sparkles className="w-4 h-4 text-amber-400" /> Sentence-BERT Semantic Duplicate Cross-Check
+                    <h4 className="font-bold text-neutral-900 text-xs uppercase tracking-wider flex items-center gap-2">
+                      <Sparkles className="w-4 h-4 text-[#FACC15]" /> Sentence-BERT Semantic Duplicate Cross-Check
                     </h4>
                     {dossierDedupLoading ? (
-                      <span className="text-amber-400 flex items-center gap-1 text-[11px]">
+                      <span className="text-[#FACC15] flex items-center gap-1 text-[11px]">
                         <Activity className="w-3.5 h-3.5 animate-spin" /> Vectorizing title...
                       </span>
                     ) : dossierDedupMatches.length > 0 ? (
-                      <span className="text-rose-400 font-bold text-[11px] flex items-center gap-1">
+                      <span className="text-[#FF4F00] font-bold text-[11px] flex items-center gap-1">
                         <AlertTriangle className="w-3.5 h-3.5" /> {dossierDedupMatches.length} Similar Work{dossierDedupMatches.length > 1 ? "s" : ""} Located
                       </span>
                     ) : (
-                      <span className="text-emerald-400 font-bold text-[11px] flex items-center gap-1">
+                      <span className="text-emerald-700 font-bold text-[11px] flex items-center gap-1">
                         <CheckCircle2 className="w-3.5 h-3.5" /> No Overlapping Duplicate Found
                       </span>
                     )}
                   </div>
 
-                  <p className="text-[11px] text-slate-400">
-                    Dense vector similarity search against 12,000+ works in the database using <code className="text-amber-300 font-mono">all-MiniLM-L6-v2</code> to detect identical or paraphrased titles.
+                  <p className="text-[11px] text-neutral-500">
+                    Dense vector similarity search against 12,000+ works in the database using <code className="text-[#FACC15] font-space-mono">all-MiniLM-L6-v2</code> to detect identical or paraphrased titles.
                   </p>
 
                   {dossierDedupMatches.length > 0 && (
@@ -1740,30 +1740,30 @@ export default function AnomalyInvestigationPortal() {
                           <div 
                             key={idx}
                             onClick={() => openInvestigation(m.project_id)}
-                            className={`p-3 rounded-xl border flex items-center justify-between gap-3 cursor-pointer transition-colors ${
+                            className={`p-3 rounded-[12px] border flex items-center justify-between gap-3 cursor-pointer transition-colors ${
                               isMatch 
                                 ? "bg-rose-950/20 border-rose-500/40 hover:border-rose-500" 
-                                : "bg-slate-900/60 border-slate-700/60 hover:border-slate-500"
+                                : "bg-white shadow-sm border-[#E5E5E5]/60 hover:border-slate-500"
                             }`}
                           >
                             <div className="space-y-0.5 max-w-xl">
-                              <div className="flex items-center gap-2 text-[10px] text-slate-400">
-                                <span className="font-mono text-amber-400">{m.project_id}</span>
+                              <div className="flex items-center gap-2 text-[10px] text-neutral-500">
+                                <span className="font-space-mono text-[#FACC15]">{m.project_id}</span>
                                 <span>•</span>
                                 <span>{m.district}, {m.state}</span>
                                 <span>•</span>
                                 <span>MP: {m.mp_name}</span>
                               </div>
-                              <div className="text-white font-medium line-clamp-1">
+                              <div className="text-neutral-900 font-medium line-clamp-1">
                                 {m.clean_text || m.work_title}
                               </div>
                             </div>
                             <div className="text-right whitespace-nowrap">
-                              <div className="font-mono font-bold text-emerald-400 text-xs">
+                              <div className="font-space-mono font-bold text-emerald-700 text-xs">
                                 ₹{Number(m.sanction_amount).toLocaleString()}
                               </div>
-                              <span className={`px-2 py-0.5 rounded text-[10px] font-bold font-mono ${
-                                isMatch ? "bg-rose-500 text-white" : "bg-slate-700 text-slate-300"
+                              <span className={`px-2 py-0.5 rounded text-[10px] font-bold font-space-mono ${
+                                isMatch ? "bg-[#FF4F00] text-white" : "bg-slate-700 text-neutral-700"
                               }`}>
                                 {(m.similarity_score * 100).toFixed(1)}% Match
                               </span>
@@ -1776,79 +1776,79 @@ export default function AnomalyInvestigationPortal() {
                 </div>
 
                 {/* Cox Proportional Hazards (CoxPHFitter) Survival Delay Risk Card */}
-                <div className="p-5 rounded-2xl bg-slate-800/30 border border-slate-800 space-y-4 text-xs">
+                <div className="p-5 rounded-[16px] bg-[#F5F5F5]/30 border border-[#E5E5E5] space-y-4 text-xs">
                   <div className="flex items-center justify-between">
-                    <h4 className="font-bold text-white text-xs uppercase tracking-wider flex items-center gap-2">
-                      <Clock className="w-4 h-4 text-indigo-400" /> Cox Proportional Hazards Delay Prediction (Survival Analysis)
+                    <h4 className="font-bold text-neutral-900 text-xs uppercase tracking-wider flex items-center gap-2">
+                      <Clock className="w-4 h-4 text-indigo-600" /> Cox Proportional Hazards Delay Prediction (Survival Analysis)
                     </h4>
                     {survivalRiskLoading ? (
-                      <span className="text-indigo-400 flex items-center gap-1 text-[11px]">
+                      <span className="text-indigo-600 flex items-center gap-1 text-[11px]">
                         <Activity className="w-3.5 h-3.5 animate-spin" /> Fitting baseline hazard...
                       </span>
                     ) : survivalRisk ? (
-                      <span className={`px-2.5 py-0.5 rounded-full text-[10px] font-bold font-mono ${
+                      <span className={`px-2.5 py-0.5 rounded-full text-[10px] font-bold font-space-mono ${
                         survivalRisk.risk_tier === "HIGH" 
-                          ? "bg-rose-500/20 text-rose-400 border border-rose-500/30" 
+                          ? "bg-[#FF4F00]/20 text-[#FF4F00] border border-[#FF4F00]/30" 
                           : survivalRisk.risk_tier === "MODERATE"
-                          ? "bg-amber-500/20 text-amber-400 border border-amber-500/30"
-                          : "bg-emerald-500/20 text-emerald-400 border border-emerald-500/30"
+                          ? "bg-amber-500/20 text-[#FACC15] border border-amber-500/30"
+                          : "bg-emerald-500/20 text-emerald-700 border border-emerald-500"
                       }`}>
                         {survivalRisk.risk_tier} OVERDUE RISK
                       </span>
                     ) : null}
                   </div>
 
-                  <p className="text-[11px] text-slate-400">
-                    Semi-parametric survival model (<code className="text-indigo-300 font-mono">lifelines.CoxPHFitter</code>) accounting for right-censoring in ongoing works. Evaluates relative completion hazard, projected median finish horizon, and probability of exceeding deadline.
+                  <p className="text-[11px] text-neutral-500">
+                    Semi-parametric survival model (<code className="text-indigo-300 font-space-mono">lifelines.CoxPHFitter</code>) accounting for right-censoring in ongoing works. Evaluates relative completion hazard, projected median finish horizon, and probability of exceeding deadline.
                   </p>
 
                   {survivalRisk && (
                     <div className="space-y-4 pt-1">
                       <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
-                        <div className="p-3 rounded-xl bg-slate-900/70 border border-slate-800">
-                          <div className="text-[10px] text-slate-400 uppercase tracking-wider">Overdue Risk (1-Year)</div>
-                          <div className="text-xl font-bold font-mono text-rose-400 mt-1">
+                        <div className="p-3 rounded-[12px] bg-white shadow-md border border-[#E5E5E5]">
+                          <div className="text-[10px] text-neutral-500 uppercase tracking-wider">Overdue Risk (1-Year)</div>
+                          <div className="text-xl font-bold font-space-mono text-[#FF4F00] mt-1">
                             {survivalRisk.overdue_percentage}%
                           </div>
-                          <div className="text-[10px] text-slate-500 mt-0.5">P(Duration &gt; 365 Days)</div>
+                          <div className="text-[10px] text-neutral-400 mt-0.5">P(Duration &gt; 365 Days)</div>
                         </div>
 
-                        <div className="p-3 rounded-xl bg-slate-900/70 border border-slate-800">
-                          <div className="text-[10px] text-slate-400 uppercase tracking-wider">Estimated Median Horizon</div>
-                          <div className="text-xl font-bold font-mono text-white mt-1">
-                            {survivalRisk.estimated_median_days} <span className="text-xs font-normal text-slate-400">days</span>
+                        <div className="p-3 rounded-[12px] bg-white shadow-md border border-[#E5E5E5]">
+                          <div className="text-[10px] text-neutral-500 uppercase tracking-wider">Estimated Median Horizon</div>
+                          <div className="text-xl font-bold font-space-mono text-neutral-900 mt-1">
+                            {survivalRisk.estimated_median_days} <span className="text-xs font-normal text-neutral-500">days</span>
                           </div>
-                          <div className="text-[10px] text-slate-500 mt-0.5">50% Completion Threshold</div>
+                          <div className="text-[10px] text-neutral-400 mt-0.5">50% Completion Threshold</div>
                         </div>
 
-                        <div className="p-3 rounded-xl bg-slate-900/70 border border-slate-800">
-                          <div className="text-[10px] text-slate-400 uppercase tracking-wider">Relative Hazard Ratio</div>
-                          <div className="text-xl font-bold font-mono text-indigo-400 mt-1">
+                        <div className="p-3 rounded-[12px] bg-white shadow-md border border-[#E5E5E5]">
+                          <div className="text-[10px] text-neutral-500 uppercase tracking-wider">Relative Hazard Ratio</div>
+                          <div className="text-xl font-bold font-space-mono text-indigo-600 mt-1">
                             {survivalRisk.relative_hazard_ratio}x
                           </div>
-                          <div className="text-[10px] text-slate-500 mt-0.5">&gt;1.0 = faster, &lt;1.0 = delayed</div>
+                          <div className="text-[10px] text-neutral-400 mt-0.5">&gt;1.0 = faster, &lt;1.0 = delayed</div>
                         </div>
                       </div>
 
                       {/* Recommendation note */}
-                      <div className="p-3 rounded-xl bg-indigo-950/20 border border-indigo-500/30 text-[11px] text-indigo-200">
+                      <div className="p-3 rounded-[12px] bg-indigo-950/20 border border-indigo-500/30 text-[11px] text-indigo-200">
                         <span className="font-semibold text-indigo-300">Decision Support: </span>
                         {survivalRisk.recommendation}
                       </div>
 
                       {/* Milestone timeline progression */}
                       <div>
-                        <div className="text-[10px] font-bold text-slate-400 uppercase tracking-wider mb-2">
+                        <div className="text-[10px] font-bold text-neutral-500 uppercase tracking-wider mb-2">
                           Survival Curve Trajectory (Completion Likelihood Milestones)
                         </div>
                         <div className="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-7 gap-2">
                           {(survivalRisk.survival_trajectory || []).map((pt: any, idx: number) => (
-                            <div key={idx} className="p-2 rounded-lg bg-slate-900/50 border border-slate-800 text-center">
-                              <div className="text-[10px] text-slate-400 font-mono">Day {pt.day}</div>
-                              <div className="text-xs font-bold font-mono text-emerald-400 mt-1">
+                            <div key={idx} className="p-2 rounded-lg bg-white/50 border border-[#E5E5E5] text-center">
+                              <div className="text-[10px] text-neutral-500 font-space-mono">Day {pt.day}</div>
+                              <div className="text-xs font-bold font-space-mono text-emerald-700 mt-1">
                                 {pt.completion_likelihood_pct}%
                               </div>
-                              <div className="text-[9px] text-slate-500 mt-0.5">
+                              <div className="text-[9px] text-neutral-400 mt-0.5">
                                 done
                               </div>
                             </div>
@@ -1860,25 +1860,25 @@ export default function AnomalyInvestigationPortal() {
                 </div>
 
                 {/* XGBoost Unified Risk Scoring & Audit Prioritization Card */}
-                <div className="p-5 rounded-2xl bg-slate-800/30 border border-slate-800 space-y-4 text-xs">
+                <div className="p-5 rounded-[16px] bg-[#F5F5F5]/30 border border-[#E5E5E5] space-y-4 text-xs">
                   <div className="flex items-center justify-between">
-                    <h4 className="font-bold text-white text-xs uppercase tracking-wider flex items-center gap-2">
-                      <ShieldAlert className="w-4 h-4 text-amber-400" /> XGBoost Supervised Risk Scoring (Audit Prioritization)
+                    <h4 className="font-bold text-neutral-900 text-xs uppercase tracking-wider flex items-center gap-2">
+                      <ShieldAlert className="w-4 h-4 text-[#FACC15]" /> XGBoost Supervised Risk Scoring (Audit Prioritization)
                     </h4>
                     {xgboostLoading ? (
-                      <span className="text-amber-400 flex items-center gap-1 text-[11px]">
+                      <span className="text-[#FACC15] flex items-center gap-1 text-[11px]">
                         <Activity className="w-3.5 h-3.5 animate-spin" /> Evaluating decision trees...
                       </span>
                     ) : xgboostRisk?.xgboost_assessment ? (
                       <div className="flex items-center gap-2">
-                        <span className={`px-2.5 py-0.5 rounded-full text-[10px] font-bold font-mono ${
+                        <span className={`px-2.5 py-0.5 rounded-full text-[10px] font-bold font-space-mono ${
                           xgboostRisk.xgboost_assessment.risk_band === "CRITICAL"
-                            ? "bg-rose-500/20 text-rose-400 border border-rose-500/30"
+                            ? "bg-[#FF4F00]/20 text-[#FF4F00] border border-[#FF4F00]/30"
                             : xgboostRisk.xgboost_assessment.risk_band === "HIGH"
                             ? "bg-orange-500/20 text-orange-400 border border-orange-500/30"
                             : xgboostRisk.xgboost_assessment.risk_band === "MEDIUM"
-                            ? "bg-amber-500/20 text-amber-400 border border-amber-500/30"
-                            : "bg-emerald-500/20 text-emerald-400 border border-emerald-500/30"
+                            ? "bg-amber-500/20 text-[#FACC15] border border-amber-500/30"
+                            : "bg-emerald-500/20 text-emerald-700 border border-emerald-500"
                         }`}>
                           {xgboostRisk.xgboost_assessment.risk_band} AUDIT PRIORITY
                         </span>
@@ -1886,66 +1886,66 @@ export default function AnomalyInvestigationPortal() {
                     ) : null}
                   </div>
 
-                  <p className="text-[11px] text-slate-400">
-                    Ensemble gradient boosted decision tree classifier (<code className="text-amber-300 font-mono">xgboost.XGBClassifier</code>) synthesizing Isolation Forest anomaly scores, sanction scale, approval latency, and peer percentiles into an audit prioritization probability.
+                  <p className="text-[11px] text-neutral-500">
+                    Ensemble gradient boosted decision tree classifier (<code className="text-[#FACC15] font-space-mono">xgboost.XGBClassifier</code>) synthesizing Isolation Forest anomaly scores, sanction scale, approval latency, and peer percentiles into an audit prioritization probability.
                   </p>
 
                   {xgboostRisk?.xgboost_assessment && (
                     <div className="space-y-4 pt-1">
                       <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
-                        <div className="p-3 rounded-xl bg-slate-900/70 border border-slate-800">
-                          <div className="text-[10px] text-slate-400 uppercase tracking-wider">Audit Risk Probability</div>
-                          <div className="text-xl font-bold font-mono text-amber-400 mt-1">
+                        <div className="p-3 rounded-[12px] bg-white shadow-md border border-[#E5E5E5]">
+                          <div className="text-[10px] text-neutral-500 uppercase tracking-wider">Audit Risk Probability</div>
+                          <div className="text-xl font-bold font-space-mono text-[#FACC15] mt-1">
                             {xgboostRisk.xgboost_assessment.risk_percentage}%
                           </div>
-                          <div className="text-[10px] text-slate-500 mt-0.5">XGBoost Class 1 Likelihood</div>
+                          <div className="text-[10px] text-neutral-400 mt-0.5">XGBoost Class 1 Likelihood</div>
                         </div>
 
-                        <div className="p-3 rounded-xl bg-slate-900/70 border border-slate-800">
-                          <div className="text-[10px] text-slate-400 uppercase tracking-wider">Computed Priority Score</div>
-                          <div className="text-xl font-bold font-mono text-white mt-1">
-                            {xgboostRisk.xgboost_assessment.priority_score} <span className="text-xs font-normal text-slate-400">/ 100</span>
+                        <div className="p-3 rounded-[12px] bg-white shadow-md border border-[#E5E5E5]">
+                          <div className="text-[10px] text-neutral-500 uppercase tracking-wider">Computed Priority Score</div>
+                          <div className="text-xl font-bold font-space-mono text-neutral-900 mt-1">
+                            {xgboostRisk.xgboost_assessment.priority_score} <span className="text-xs font-normal text-neutral-500">/ 100</span>
                           </div>
-                          <div className="text-[10px] text-slate-500 mt-0.5">Calibrated Ranking Metric</div>
+                          <div className="text-[10px] text-neutral-400 mt-0.5">Calibrated Ranking Metric</div>
                         </div>
 
-                        <div className="p-3 rounded-xl bg-slate-900/70 border border-slate-800">
-                          <div className="text-[10px] text-slate-400 uppercase tracking-wider">Model Status</div>
-                          <div className="text-xl font-bold font-mono text-emerald-400 mt-1">
+                        <div className="p-3 rounded-[12px] bg-white shadow-md border border-[#E5E5E5]">
+                          <div className="text-[10px] text-neutral-500 uppercase tracking-wider">Model Status</div>
+                          <div className="text-xl font-bold font-space-mono text-emerald-700 mt-1">
                             ROC-AUC 1.00
                           </div>
-                          <div className="text-[10px] text-slate-500 mt-0.5">Trained on 50k project records</div>
+                          <div className="text-[10px] text-neutral-400 mt-0.5">Trained on 50k project records</div>
                         </div>
                       </div>
 
                       {/* Top Risk Factor Explanations */}
                       <div className="space-y-2">
-                        <div className="text-[10px] font-bold text-slate-400 uppercase tracking-wider">
+                        <div className="text-[10px] font-bold text-neutral-500 uppercase tracking-wider">
                           Key Risk Factor Drivers (Attributed by Gradient Boosted Trees)
                         </div>
                         <div className="space-y-2">
                           {(xgboostRisk.xgboost_assessment.top_factors || []).map((factor: any, fIdx: number) => (
                             <div 
                               key={fIdx}
-                              className={`p-3 rounded-xl border flex items-start justify-between gap-3 ${
+                              className={`p-3 rounded-[12px] border flex items-start justify-between gap-3 ${
                                 factor.importance === "CRITICAL"
-                                  ? "bg-rose-950/20 border-rose-500/30"
+                                  ? "bg-rose-950/20 border-[#FF4F00]/30"
                                   : factor.importance === "HIGH"
                                   ? "bg-amber-950/20 border-amber-500/30"
-                                  : "bg-slate-900/60 border-slate-800"
+                                  : "bg-white shadow-sm border-[#E5E5E5]"
                               }`}
                             >
                               <div className="space-y-0.5">
                                 <div className="flex items-center gap-2">
-                                  <span className={`text-[10px] font-bold font-mono px-1.5 py-0.5 rounded ${
-                                    factor.importance === "CRITICAL" ? "bg-rose-500 text-white" :
-                                    factor.importance === "HIGH" ? "bg-amber-500 text-black" : "bg-slate-700 text-slate-300"
+                                  <span className={`text-[10px] font-bold font-space-mono px-1.5 py-0.5 rounded ${
+                                    factor.importance === "CRITICAL" ? "bg-[#FF4F00] text-white" :
+                                    factor.importance === "HIGH" ? "bg-amber-500 text-black" : "bg-slate-700 text-neutral-700"
                                   }`}>
                                     {factor.importance}
                                   </span>
-                                  <span className="font-semibold text-white text-xs">{factor.factor}</span>
+                                  <span className="font-semibold text-neutral-900 text-xs">{factor.factor}</span>
                                 </div>
-                                <div className="text-[11px] text-slate-300 pt-0.5">
+                                <div className="text-[11px] text-neutral-700 pt-0.5">
                                   {factor.description}
                                 </div>
                               </div>
@@ -1957,10 +1957,10 @@ export default function AnomalyInvestigationPortal() {
                   )}
                 </div>
 
-                <div className="flex justify-end gap-3 pt-4 border-t border-slate-800">
+                <div className="flex justify-end gap-3 pt-4 border-t border-[#E5E5E5]">
                   <button
                     onClick={() => { setActiveProjectId(null); setProjectDetail(null); }}
-                    className="px-5 py-2 bg-slate-800 hover:bg-slate-700 text-white rounded-xl text-xs font-semibold"
+                    className="px-5 py-2 bg-[#F5F5F5] hover:bg-[#E5E5E5] text-neutral-900 rounded-[12px] text-xs font-semibold"
                   >
                     Close Dossier
                   </button>
