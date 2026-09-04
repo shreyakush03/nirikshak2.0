@@ -57,15 +57,15 @@ export function IndiaMap({
   const [hoveredCity, setHoveredCity] = useState<CityMarker | null>(null);
 
   return (
-    <div className={`w-full relative select-none font-sans overflow-visible ${className}`}>
+    <div className={`w-full h-full relative select-none font-sans overflow-visible flex items-center justify-center ${className}`}>
       <ComposableMap
         projection="geoMercator"
         projectionConfig={{
-          scale: 980,
-          center: [82.5, 21.2]
+          scale: 1100,
+          center: [82.8, 22.0]
         }}
-        className="w-full h-full max-h-[850px]"
-        viewBox="0 -20 800 920"
+        className="w-full h-full max-h-[920px] drop-shadow-sm"
+        viewBox="80 30 650 720"
       >
         <defs>
           <filter id="map-glow" x="-20%" y="-20%" width="140%" height="140%">
