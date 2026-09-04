@@ -142,7 +142,7 @@ def get_state_detail(state_name: str):
     completed_res = con.execute("""
         SELECT 
             COUNT(*) as works_completed_count,
-            ROUND(SUM(disbursed_amount) / 10000000.0, 2) as completed_disbursed_cr
+            0.0 as completed_disbursed_cr
         FROM works_completed
         WHERE state = ?
     """, [state_name]).df().to_dict(orient="records")
@@ -552,17 +552,19 @@ def get_scatter_chart_data():
     combined = pd.concat([normal_sample, anomaly_sample])
     records = []
     for _, r in combined.iterrows():
+        delay = r["delay_days_filled"]
+        util = r["utilisation_percentage"]
         records.append({
-            "projectId": r["project_id"],
-            "delayDays": int(r["delay_days_filled"]),
-            "utilisation": float(r["utilisation_percentage"]),
-            "sanctionAmount": float(r["sanction_amount"]),
-            "logAmount": round(float(np.log10(r["sanction_amount"] + 1)), 2),
-            "anomalyScore": round(float(r["anomaly_score"]), 4),
-            "riskLevel": r["risk_level"],
+            "projectId": str(r["project_id"]),
+            "delayDays": int(delay) if pd.notna(delay) else 0,
+            "utilisation": round(float(util), 2) if pd.notna(util) else 0.0,
+            "sanctionAmount": float(r["sanction_amount"]) if pd.notna(r["sanction_amount"]) else 0.0,
+            "logAmount": round(float(np.log10(r["sanction_amount"] + 1)), 2) if pd.notna(r["sanction_amount"]) and r["sanction_amount"] > 0 else 0.0,
+            "anomalyScore": round(float(r["anomaly_score"]), 4) if pd.notna(r["anomaly_score"]) else 0.0,
+            "riskLevel": str(r["risk_level"]) if pd.notna(r["risk_level"]) else "LOW",
             "isAnomaly": bool(r["is_anomaly"]),
-            "state": str(r["state"]),
-            "mpName": str(r["mp_name"])
+            "state": str(r["state"]) if pd.notna(r["state"]) else "",
+            "mpName": str(r["mp_name"]) if pd.notna(r["mp_name"]) else ""
         })
     return records
 
