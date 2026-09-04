@@ -8,13 +8,30 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
 
   try {
     const res = await fetch(targetUrl, { cache: "no-store" });
-    const data = await res.arrayBuffer();
-    return new NextResponse(data, {
-      status: res.status,
-      headers: {
-        "Content-Type": res.headers.get("Content-Type") || "application/json",
-      },
-    });
+    const contentType = res.headers.get("Content-Type") || "";
+    
+    // For binary content like PDF
+    if (contentType.includes("application/pdf")) {
+      const data = await res.arrayBuffer();
+      return new NextResponse(data, {
+        status: res.status,
+        headers: {
+          "Content-Type": contentType,
+        },
+      });
+    }
+
+    // If backend returned an error or non-JSON text (e.g. "Internal Server Error")
+    const text = await res.text();
+    try {
+      const parsed = JSON.parse(text);
+      return NextResponse.json(parsed, { status: res.status });
+    } catch {
+      return NextResponse.json(
+        { error: text || res.statusText || "Backend error", status: res.status },
+        { status: res.status }
+      );
+    }
   } catch (error: any) {
     return NextResponse.json({ error: error.message }, { status: 502 });
   }
