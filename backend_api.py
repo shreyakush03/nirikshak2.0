@@ -16,6 +16,15 @@ ANOMALY_DIR = os.path.join(BASE_DIR, "data_processed", "anomalies")
 INVESTIGATION_DIR = os.path.join(BASE_DIR, "data_processed", "investigation")
 DB_PATH = os.path.join(BASE_DIR, "data_processed", "parliament_data.duckdb")
 
+if not os.path.exists(DB_PATH):
+    print(f"Warning: DuckDB not found at {DB_PATH}. Building from raw CSVs...")
+    from pipelines.etl_pipeline import run_etl
+    run_etl()
+    
+    from pipelines.build_investigation_master import build_investigation_master
+    build_investigation_master()
+    print("Database built successfully!")
+
 app = FastAPI(title="Parliament Anomaly Investigation API")
 
 app.add_middleware(
