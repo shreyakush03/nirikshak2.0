@@ -40,5 +40,6 @@ jobs:
             echo "No new data to commit."
           else
             git commit -m "Automated nightly data sync from MOSPI dashboard [skip ci]"
+            git pull --rebase origin main
             git push
           fi
