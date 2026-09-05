@@ -1,9 +1,8 @@
 "use client";
 
 import React from "react";
-import { IndiaMap, defaultCities } from "@/components/ui/india-map";
-import { useRouter } from "next/navigation";
 import { IndiaMap, defaultCities, CityMarker } from "@/components/ui/india-map";
+import { useRouter } from "next/navigation";
 import { Sparkles, MapPin, Layers, TrendingUp, ShieldCheck } from "lucide-react";
 
 export function Hero() {

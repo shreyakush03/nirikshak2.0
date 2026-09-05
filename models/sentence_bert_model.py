@@ -172,3 +172,135 @@ class SBERTDedupModel:
 
         return sorted(duplicate_pairs, key=lambda x: x['similarity_score'], reverse=True)
 
+    def detect_geographical_duplicates(
+        self,
+        query_text: str,
+        state: Optional[str] = None,
+        district: Optional[str] = None,
+        top_k: int = 10,
+        threshold: float = 0.65
+    ) -> List[Dict[str, Any]]:
+        """
+        Geographical Duplication Detector:
+        Searches across all districts and states to classify semantic duplicates:
+        - SAME_DISTRICT: Intra-district duplicate (highest risk of double funding).
+        - CROSS_DISTRICT_SAME_STATE: Inter-district duplicate within the same State/UT.
+        - CROSS_STATE: Inter-state duplicate across different States/UTs.
+        """
+        if self.embeddings is None or self.metadata is None:
+            self.load_index()
+
+        cleaned_query = clean_work_text(query_text)
+        query_embedding = self.model.encode([cleaned_query], convert_to_numpy=True, normalize_embeddings=True)[0]
+        scores = np.dot(self.embeddings, query_embedding)
+
+        top_indices = np.argsort(scores)[::-1][:top_k * 2]
+
+        results = []
+        for idx in top_indices:
+            sim_score = float(scores[idx])
+            if sim_score < threshold:
+                continue
+
+            row = self.metadata.iloc[idx]
+            r_state = str(row["state"])
+            r_district = str(row["district"])
+
+            # Determine Geographical Duplication Category
+            if district and r_district.lower() == district.lower():
+                geo_type = "SAME_DISTRICT"
+                geo_risk = "CRITICAL"
+            elif state and r_state.lower() == state.lower():
+                geo_type = "CROSS_DISTRICT_SAME_STATE"
+                geo_risk = "HIGH"
+            else:
+                geo_type = "CROSS_STATE"
+                geo_risk = "MEDIUM"
+
+            results.append({
+                "project_id": row["project_id"],
+                "work_title": row["work_title"],
+                "clean_text": row["clean_text"],
+                "state": r_state,
+                "district": r_district,
+                "constituency": row.get("constituency", ""),
+                "mp_name": row["mp_name"],
+                "category": row["work_category"],
+                "sanction_amount": float(row["sanction_amount"]),
+                "similarity_score": round(sim_score, 4),
+                "is_potential_duplicate": True,
+                "geo_duplication_type": geo_type,
+                "geo_risk_level": geo_risk,
+                "confidence_level": "VERY HIGH" if sim_score >= 0.88 else "HIGH" if sim_score >= 0.75 else "MODERATE"
+            })
+            if len(results) >= top_k:
+                break
+
+        return results
+
+    def batch_detect_cross_boundary_duplicates(self, threshold: float = 0.80, max_pairs: int = 50) -> List[Dict[str, Any]]:
+        """
+        Scans nationwide index to detect Cross-District and Cross-State duplicate work titles.
+        Useful for detecting multi-constituency double billing.
+        """
+        if self.embeddings is None or self.metadata is None:
+            self.load_index()
+
+        if self.metadata is None or self.embeddings is None:
+            return []
+
+        # Group by State to find Cross-District pairs efficiently
+        cross_pairs = []
+        state_groups = self.metadata.groupby('state')
+
+        for state_name, group in state_groups:
+            if len(group) < 2:
+                continue
+
+            indices = group.index.values
+            sub_embeddings = self.embeddings[indices]
+            sim_matrix = np.dot(sub_embeddings, sub_embeddings.T)
+
+            for i in range(len(indices)):
+                for j in range(i + 1, len(indices)):
+                    score = float(sim_matrix[i, j])
+                    if score >= threshold:
+                        idx_a = indices[i]
+                        idx_b = indices[j]
+                        r_a = self.metadata.iloc[idx_a]
+                        r_b = self.metadata.iloc[idx_b]
+
+                        if r_a['project_id'] == r_b['project_id']:
+                            continue
+
+                        dist_a = str(r_a['district'])
+                        dist_b = str(r_b['district'])
+                        geo_type = "SAME_DISTRICT" if dist_a.lower() == dist_b.lower() else "CROSS_DISTRICT_SAME_STATE"
+
+                        cross_pairs.append({
+                            "similarity_score": round(score, 4),
+                            "geo_type": geo_type,
+                            "state": state_name,
+                            "district_a": dist_a,
+                            "district_b": dist_b,
+                            "project_a": {
+                                "id": r_a['project_id'],
+                                "title": r_a['clean_text'],
+                                "amount": float(r_a['sanction_amount']),
+                                "mp": r_a['mp_name'],
+                                "district": dist_a
+                            },
+                            "project_b": {
+                                "id": r_b['project_id'],
+                                "title": r_b['clean_text'],
+                                "amount": float(r_b['sanction_amount']),
+                                "mp": r_b['mp_name'],
+                                "district": dist_b
+                            }
+                        })
+                        if len(cross_pairs) >= max_pairs:
+                            return sorted(cross_pairs, key=lambda x: x['similarity_score'], reverse=True)
+
+        return sorted(cross_pairs, key=lambda x: x['similarity_score'], reverse=True)
+
+

@@ -54,7 +54,7 @@ export default function StateDetailPage() {
       case "CRITICAL":
         return <span className="px-2 py-0.5 rounded-full text-[10px] font-bold bg-[#FF4F00]/10 text-[#FF4F00] border border-[#FF4F00]/30">CRITICAL</span>;
       case "HIGH":
-        return <span className="px-2 py-0.5 rounded-full text-[10px] font-bold bg-amber-500/15 text-[#FACC15] border border-amber-500/30">HIGH</span>;
+        return <span className="px-2 py-0.5 rounded-full text-[10px] font-bold bg-amber-50 text-amber-700 border border-amber-300">HIGH</span>;
       case "MEDIUM":
         return <span className="px-2 py-0.5 rounded-full text-[10px] font-bold bg-blue-500/15 text-blue-600 border border-blue-500">MEDIUM</span>;
       case "LOW":

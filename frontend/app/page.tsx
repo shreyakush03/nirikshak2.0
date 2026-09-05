@@ -463,205 +463,9 @@ export default function AnomalyInvestigationPortal() {
         </div>
       </div>
 
-      {/* Main Header */}
-      <header className="border-b border-[#E5E5E5] bg-white shadow-sm sticky top-0 z-40 transition-all">
+      {/* Portal Tab Navigation */}
+      <div className="border-b border-[#E5E5E5] bg-white shadow-sm sticky top-0 z-40">
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
-          {/* Top Bar: Brand, Title & RBAC Controls */}
-          <div className="h-16 flex items-center justify-between gap-4 border-b border-[#E5E5E5]">
-            {/* Brand Logo & Name */}
-            <div className="flex items-center gap-3 shrink-0">
-              <div className="w-10 h-10 rounded-xl bg-gradient-to-tr from-[#FF4F00] to-amber-500 flex items-center justify-center shadow-md shadow-[#FF4F00]/20 shrink-0">
-                <ShieldAlert className="w-5 h-5 text-white" />
-              </div>
-              <div className="flex flex-col">
-                <div className="flex items-center gap-2">
-                  <span className="font-bold text-base sm:text-lg tracking-tight font-poppins text-neutral-900">
-                    MPLADS Anomaly Investigation Layer
-                  </span>
-                  <span className="hidden md:inline-flex items-center text-[10px] font-semibold px-2 py-0.5 rounded-full bg-[#FF4F00]/10 text-[#FF4F00] border border-[#FF4F00]/20">
-                    State & UT Coverage
-                  </span>
-                </div>
-                <span className="text-[10px] text-neutral-500 font-mono tracking-wide">
-                  NIRIKSHAK 2.0 • AI-POWERED MONITORING
-                </span>
-              </div>
-            </div>
-
-            {/* STEP 4: RBAC ROLE SELECTOR & ENTITY SCOPER */}
-            <div className="flex items-center gap-2 relative">
-              {/* Role Dropdown */}
-              <div ref={roleDropdownRef} className="relative">
-                <button
-                  type="button"
-                  onClick={() => {
-                    setRoleDropdownOpen(!roleDropdownOpen);
-                    setEntityDropdownOpen(false);
-                  }}
-                  className="flex items-center gap-2 px-3 py-1.5 rounded-xl bg-white hover:bg-[#F5F5F5] border border-[#E5E5E5] text-xs font-medium text-neutral-800 shadow-sm transition-all focus:outline-none focus:ring-1 focus:ring-indigo-500"
-                >
-                  <UserCheck className="w-3.5 h-3.5 text-[#FF4F00] shrink-0" />
-                  <span className="text-neutral-500 font-normal hidden sm:inline">Role:</span>
-                  <span className="font-semibold text-neutral-900">
-                    {rbacRole === "ministry" && "Ministry (National)"}
-                    {rbacRole === "state" && "State Nodal"}
-                    {rbacRole === "district" && "District IDA"}
-                    {rbacRole === "mp" && "Hon'ble MP"}
-                  </span>
-                  <ChevronDown className={`w-3.5 h-3.5 text-neutral-500 transition-transform duration-200 ${roleDropdownOpen ? "rotate-180 text-[#FF4F00]" : ""}`} />
-                </button>
-
-                {roleDropdownOpen && (
-                  <div className="absolute right-0 sm:left-0 sm:right-auto mt-2 w-56 rounded-2xl bg-white border border-[#E5E5E5] shadow-xl py-1.5 z-50 animate-in fade-in slide-in-from-top-2 duration-150">
-                    <div className="px-3 py-1.5 text-[10px] font-bold text-neutral-500 uppercase tracking-wider border-b border-[#E5E5E5]">
-                      Select RBAC Jurisdiction
-                    </div>
-                    {[
-                      { id: "ministry", label: "Ministry (National View)", desc: "Full 36 States & UTs" },
-                      { id: "state", label: "State Nodal Agency", desc: "Filter by State / UT" },
-                      { id: "district", label: "District Authority (IDA)", desc: "Filter by District / Collector" },
-                      { id: "mp", label: "Member of Parliament", desc: "Filter by Hon'ble MP" }
-                    ].map((r) => (
-                      <button
-                        key={r.id}
-                        type="button"
-                        onClick={() => {
-                          const newRole = r.id as "ministry" | "state" | "district" | "mp";
-                          setRbacRole(newRole);
-                          setRoleDropdownOpen(false);
-                          if (newRole === "ministry") {
-                            setRbacEntity("National Portfolio");
-                          } else if (newRole === "state") {
-                            const defaultState = (meta?.states && meta.states.length > 0) ? meta.states[0] : "Uttar Pradesh";
-                            setRbacEntity(defaultState);
-                          } else if (newRole === "district") {
-                            const defaultDist = (meta?.districts && meta.districts.length > 0) ? meta.districts[0] : "Varanasi";
-                            setRbacEntity(defaultDist);
-                          } else if (newRole === "mp") {
-                            const defaultMp = (forecastMps && forecastMps.length > 0) ? forecastMps[0].mp_name : "Hon'ble MP";
-                            setRbacEntity(defaultMp);
-                          }
-                        }}
-                        className={`w-full text-left px-3 py-2 text-xs transition-colors flex flex-col gap-0.5 ${
-                          rbacRole === r.id 
-                            ? "bg-[#FF4F00]/10 text-[#FF4F00] font-semibold" 
-                            : "text-neutral-700 hover:bg-[#F5F5F5] hover:text-neutral-900"
-                        }`}
-                      >
-                        <div className="flex items-center justify-between">
-                          <span>{r.label}</span>
-                          {rbacRole === r.id && <span className="w-1.5 h-1.5 rounded-full bg-indigo-400"></span>}
-                        </div>
-                        <span className="text-[10px] text-neutral-400 font-normal">{r.desc}</span>
-                      </button>
-                    ))}
-                  </div>
-                )}
-              </div>
-
-              {/* Entity Picker Dropdown (when role is not national) */}
-              {rbacRole !== "ministry" && (
-                <div ref={entityDropdownRef} className="relative">
-                  <button
-                    type="button"
-                    onClick={() => {
-                      setEntityDropdownOpen(!entityDropdownOpen);
-                      setRoleDropdownOpen(false);
-                    }}
-                    className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-[#FF4F00]/10 hover:bg-[#FF4F00]/15 border border-[#FF4F00]/30 text-xs font-semibold text-[#FF4F00] shadow-sm transition-all focus:outline-none focus:ring-1 focus:ring-indigo-500 max-w-[180px] sm:max-w-[240px]"
-                  >
-                    <MapPin className="w-3.5 h-3.5 text-[#FF4F00] shrink-0" />
-                    <span className="truncate">{rbacEntity}</span>
-                    <ChevronDown className={`w-3.5 h-3.5 text-[#FF4F00] shrink-0 transition-transform duration-200 ${entityDropdownOpen ? "rotate-180" : ""}`} />
-                  </button>
-
-                  {entityDropdownOpen && (
-                    <div className="absolute right-0 mt-2 w-72 rounded-2xl bg-white border border-[#E5E5E5] shadow-xl p-2 z-50 animate-in fade-in slide-in-from-top-2 duration-150">
-                      <div className="p-1.5 mb-1.5 border-b border-[#E5E5E5]">
-                        <input
-                          type="text"
-                          placeholder={`Search ${rbacRole === "state" ? "state" : rbacRole === "district" ? "district" : "MP"}...`}
-                          value={entitySearchQuery}
-                          onChange={(e) => setEntitySearchQuery(e.target.value)}
-                          className="w-full px-2.5 py-1 text-xs bg-[#F5F5F5] border border-[#E5E5E5] rounded-lg text-neutral-900 placeholder-neutral-400 focus:outline-none focus:border-indigo-500"
-                          autoFocus
-                        />
-                      </div>
-                      <div className="max-h-60 overflow-y-auto space-y-0.5 pr-1">
-                        {rbacRole === "state" && (
-                          (meta?.states || [])
-                            .filter((s: string) => s.toLowerCase().includes(entitySearchQuery.toLowerCase()))
-                            .map((s: string) => (
-                              <button
-                                key={s}
-                                type="button"
-                                onClick={() => {
-                                  setRbacEntity(s);
-                                  setEntityDropdownOpen(false);
-                                  setEntitySearchQuery("");
-                                }}
-                                className={`w-full text-left px-2.5 py-1.5 rounded-lg text-xs transition-colors ${
-                                  rbacEntity === s ? "bg-[#FF4F00] text-white font-bold" : "text-neutral-700 hover:bg-[#F5F5F5] hover:text-neutral-900"
-                                }`}
-                              >
-                                {s}
-                              </button>
-                            ))
-                        )}
-
-                        {rbacRole === "district" && (
-                          (meta?.districts || [])
-                            .filter((d: string) => d.toLowerCase().includes(entitySearchQuery.toLowerCase()))
-                            .slice(0, 100)
-                            .map((d: string) => (
-                              <button
-                                key={d}
-                                type="button"
-                                onClick={() => {
-                                  setRbacEntity(d);
-                                  setEntityDropdownOpen(false);
-                                  setEntitySearchQuery("");
-                                }}
-                                className={`w-full text-left px-2.5 py-1.5 rounded-lg text-xs truncate transition-colors ${
-                                  rbacEntity === d ? "bg-[#FF4F00] text-white font-bold" : "text-neutral-700 hover:bg-[#F5F5F5] hover:text-neutral-900"
-                                }`}
-                                title={d}
-                              >
-                                {d}
-                              </button>
-                            ))
-                        )}
-
-                        {rbacRole === "mp" && (
-                          (forecastMps || [])
-                            .filter((m: any) => m.mp_name.toLowerCase().includes(entitySearchQuery.toLowerCase()))
-                            .map((m: any) => (
-                              <button
-                                key={m.mp_name}
-                                type="button"
-                                onClick={() => {
-                                  setRbacEntity(m.mp_name);
-                                  setEntityDropdownOpen(false);
-                                  setEntitySearchQuery("");
-                                }}
-                                className={`w-full text-left px-2.5 py-1.5 rounded-lg text-xs truncate transition-colors ${
-                                  rbacEntity === m.mp_name ? "bg-[#FF4F00] text-white font-bold" : "text-neutral-700 hover:bg-[#F5F5F5] hover:text-neutral-900"
-                                }`}
-                                title={m.mp_name}
-                              >
-                                {m.mp_name}
-                              </button>
-                            ))
-                        )}
-                      </div>
-                    </div>
-                  )}
-                </div>
-              )}
-            </div>
-          </div>
-
-          {/* Bottom Bar: Tab Navigation */}
           <div className="py-2.5 overflow-x-auto scrollbar-none flex items-center justify-start md:justify-center">
             <nav className="flex gap-1.5 p-1 bg-white border border-[#E5E5E5] rounded-2xl shrink-0 shadow-inner">
               {[
@@ -690,8 +494,8 @@ export default function AnomalyInvestigationPortal() {
                       }
                     }}
                     className={`flex items-center gap-2 px-3.5 py-1.5 text-xs font-semibold rounded-xl transition-all whitespace-nowrap cursor-pointer ${
-                      isActive 
-                        ? "bg-[#FF4F00] text-white shadow-md shadow-[#FF4F00]/20" 
+                      isActive
+                        ? "bg-[#FF4F00] text-white shadow-md shadow-[#FF4F00]/20"
                         : "text-neutral-600 hover:text-neutral-900 hover:bg-[#F5F5F5]"
                     }`}
                   >
@@ -703,7 +507,7 @@ export default function AnomalyInvestigationPortal() {
             </nav>
           </div>
         </div>
-      </header>
+      </div>
 
       {/* Main Content Area */}
       <main className="max-w-7xl mx-auto px-6 py-8">
